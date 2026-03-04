@@ -1,3 +1,9988 @@
-z="
-";jBBz='o $B';hcz='afte';uICz='-ver';BNBz='4) P';AtDz='yptw';gXBz='ORT}';UIEz='网络"';ZlEz='越(hi';mSEz='的系统主';BJCz=''\'')"';kfDz='s${F';vtz=' apt';MDEz='！${F';XFCz='LS="';QoBz='TH${';HwCz='s/.*';CTBz='cc \';AsDz='tico';PTz='EY-e';MZEz='et u';AcCz='_3 -';iTEz='ux26';NPEz='$rel';FYCz='v6=$';NvCz=' -ou';hEEz='"配置已';GDz=' 25 ';SnBz='查看端口';buDz='er z';IBDz='-cli';qOBz='base';qgBz='inkC';csDz='menc';qxBz='${v4';WVBz='s \$';jJz='x}[信';DpCz=' bre';qRz='{bit';XfCz='~ ^[';DNCz='了80或';awCz='更换端口';WADz='veWi';CsBz='ink}';SVDz='ensu';ZBEz='s解密 ';UJCz=' 检查V';PaBz='orci';JXz='buse';HnDz='d_s_';ZuCz='到Git';fjEz='"✪ g';UCEz='启设置成';Puz='{PLA';LsBz='UE}密';FiEz='请放心使';IPBz='s/ng';EYCz='L_IP';eEBz='查DNS';lZCz='：$li';nuBz='0)#$';GiBz='LE <';KSBz='h ec';rKDz=': $O';HpBz='\":\';MVEz='| re';hDDz='作："';bkDz='-a /';WeCz='t=CA';aZDz='文件或配';ZDCz='.${P';gBEz='DN"';VcEz='HApr';AREz='e cm';DdEz='o li';pICz='D}未安';ljEz='"✪ 开';YMz='mage';TyCz='saka';SQBz='-c "';eBEz='"ws隧';Tqz='cut ';hfz='10)';EUz='tbbr';VKCz='N}.k';TRBz='sl';cBEz='" ht';OMEz='rc-s';TMz='b';pgz='odep';GVDz='如有配置';FSz=' -F ';KUBz=' {}"';LFCz='"\n未';aHCz='i.qq';RjBz='_ID"';Ngz='; in';ABCz='ink"';sDBz='域名DN';RWCz='}.ta';RXCz='保持默认';hXz='akef';iHCz='c/v2';THEz='e() ';Itz='EUID';NoBz='ws" ';lCBz='" 伪装';WMEz='$(di';oHCz='m/v2';NMCz='m/uu';qnz='ure.';UQCz='ay $';jDz='tf "';wCEz='firm';bXz=':= t';pez='s} =';njEz='登陆+替';EWz='= "u';WSEz='是 \:';UEDz='配置文件';SyDz='p.tx';DtCz='le /';KpDz='生效"';ZYz='etc/';iNBz='正确的选';MBBz='"lea';DRz='载内核.';Hqz='--us';cCEz='c/cr';CgBz='le",';VYDz='tal}';jYz='c=\"';kmCz='ANG=';RjEz='"✪ X';OEDz='t#g"';QkEz='蛋中转机';xpBz='ase6';jDBz='请确认如';ecz='_slo';LfCz='nity';GeDz='ERM ';YUz='tc/s';FiBz='12 |';rvz='${PL';ryz='64'\'' ';nfEz='文件校验';kz='作者获取';BYz='" >>';JtCz='.crt';QuBz='ngs.';ZJEz='显示："';xbDz='$LOG';lbCz='： $s';QgDz=' "你的';jcBz='/tmp';TtDz=' cdn';HEz='" $(';gTBz='er-A';UuCz='3. 脚';uhDz='s/,/';QTEz='LKL_';kZCz='"端口号';kiCz='h="a';KWEz='chit';lMEz=' "ex';BXDz=' $pr';OGBz='esol';xz='days';jnCz='-get';AKCz='一键脚本';CtBz='64 -';qaEz='应该是脚';oyDz='ip.t';HfEz='rt-r';thBz='"non';GABz=' 1 ;';SPEz='://m';oz='exit';CLBz='类型:"';ivDz=' $HO';XwCz='口已经被';dUEz='l us';Hbz='stal';TPBz='nx.r';puCz='：" k';pjz='系统 $';AGBz='plic';rLCz='YPE=';Fuz='l 2>';XhCz='tag=';qoDz='"$pe';Cwz='ED}N';lgCz='二维码（';wQEz='cc-c';MGDz=' 关闭、';IMDz='${ta';mEBz='DOMA';LsCz='et/?';OaBz='=enf';pnDz='20_P';BwBz='tls"';ncBz='{DOW';DYBz='Sv1.';SYEz='//'\'')';sLCz='"utp';KeBz='itSt';SGDz='" 5.';iHEz=' "/e';xrz='true';Ogz='tege';MXEz='t-re';HRDz='ng_p';PCBz='EALI';EFCz='20]（';auBz='跳越"';lkBz='[ $R';GJBz=' | f';OLCz='的一个数';ouz='-f /';aWDz='" --';UBEz='" 不加';ylCz='x内核版';uVEz=' 版本失';ZEDz='d=$(';HZz='tl.c';kSDz='=$1';QoCz='行脚本"';tkBz='== 3';CDEz='yY])';DREz='ip u';udz='内核';AhBz='100,';kQBz=') $p';GcDz='l ne';NTz='PM-G';MKEz='penS';MDz='2';SdBz='[Uni';RdDz=' sho';FBz='d "$';NeEz=' "输入';PXBz='> ${';nXBz=' ssl';emCz='选择正确';Ntz='orEc';uGCz='t|st';wdDz=' 5分钟';VpBz='t}\"';Bwz='IN},';uWz='l=ts';cXCz='x/na';wJz=']${F';KRCz='" v2';agBz='ss",';RTBz='nx f';HjBz='licK';LUDz='(默认:';KYz='ool';foCz='"$(g';HkBz='smis';MPz='}${F';AiCz='-alp';NtBz='ncry';WmCz='启sin';jXEz='ian)';QBCz='jour';urz='f::1';GCEz='点重启"';SSEz='成功\！';MaBz=''\''SEL';HVCz='OM %';ANCz=' '\'')';lrDz=' "{';DlCz='目标网址';cjEz='一键管理';CnCz='ry)';BRDz='安装并启';oaCz='ite)';Qgz='}; i';dcCz='中随机挑';JGCz='x3 ;';LyDz='ort\';DuBz='cks"';rZCz='535的';yfDz='2.11';HCz='BLUE';hKEz=' "等待';hwz='CUR_';mIDz='-192';cxCz='="en';fbBz='ptab';Fmz='l" /';klEz='ges"';WGBz='结果：$';YlCz='新xra';JTz='}/lo';grz=' -6 ';afDz='止服务';FtDz=' 不加密';ECDz='nRec';slCz='络跳越（';Adz='le  ';Goz='09k.';huz=' yes';Koz='.php';ttz=' upd';DWCz='-lin';lLCz='型："';BeCz='"blo';kMCz='0-$l';KqDz='ert}';lOEz='=1.0';ujCz=':" n';RPCz='p/v2';LeEz='ut}"';vsBz='essW';qZCz='5-65';VXBz='en 8';xgDz='"amd';igEz='字!"';miz=' cat';pLEz='d-ba';MZBz='ific';wGCz='howI';EADz='ceiv';iZEz='|pho';AQEz='ecac';oSCz='ingb';tdEz='l in';qJz='Erro';oUBz='or.l';SxBz='6hos';NYBz=':TLS';kqDz=' fif';hZBz='7.0.';MjBz='y",';eOEz='ploa';RyDz='$d_i';qHz='$(un';kcEz='in/$';fQBz='dBG}';NcCz='9)'\'' ';asCz='(dat';pQz=' hea';KHBz='S5 端';LTEz='sbin';kHBz='T=$(';NsBz='rd)：';hpz='ebKi';bjEz='"✪ i';fkCz='点ip（';ZtBz='id}@';XWCz='ame}';bLCz='个数字，';kuDz='ross';RRDz='333-';GPDz='uzz ';dvCz='d 77';EiBz='word';TcDz='ol" ';xnBz='netw';fTz='rpm';bEDz='.yam';QcEz='bin ';XCEz='点重启:';JqBz='${BL';wEEz='mdel';aMEz='!= *';mGBz='N}已解';SVEz='ion%';dhBz=': "1';iUDz='  : ';lwCz=' ${Y';bFz='/RHE';vpBz='raw}';WCBz='3) R';YqCz='tInp';BUBz='T_CO';jRCz='-u v';vcEz='#HAP';uPEz='s - ';XpCz='}" &';pcCz='_id"';nfDz=' 已退出';XEEz='定时重启';gsBz='}$YE';Kxz='L}" ';VbCz=' -l)';ZPDz='置${P';vlDz='t加密中';nKBz='/" ]';bgz='ch" ';vqDz='g_d?';XBEz='s隧道均';cACz='ELEC';lyDz='rtls';ehEz='T}';pqBz='UE}v';CKCz='前请确认';QBDz='sni:';KbBz=' | n';rOBz='://n';XfEz=' md5';bNz='[ -z';TpBz=':\"$';tiBz='Y_DE';RLEz='e-co';lFCz=' XTL';luCz='ert_';pvBz='网路跳越';uJEz='berI';fvDz='OME/';peEz='e 命令';OLBz='说站(随';AUBz='ROBO';Hmz=' "="';dJEz='务器已设';FlEz='(i +';wODz='S卸载成';sdDz='新完成:';JwBz='P}${';JmBz='y未安装';rrz=':4f8';sJCz=' '\''s3';hRDz='cho';seEz='请先手动';GgDz='raw_';NuCz='2. 请';GlDz='种功能:';tbBz='}/tc';jWBz='y_ss';fjCz='on)';KdEz='vnet';svBz=' 无法读';IQBz='op x';mDBz='OW} ';WhCz='ent_';vqBz='UE}二';qwz=' 1 |';ebBz='ch i';jYCz='pv6）';CSBz='senc';cNz=' "${';iECz='ray日';dsBz='UE}T';NdBz='败"';ZxDz='解密传输';yRz=''\''amd';xlCz=' <Si';UeEz='le_u';QpBz='P\",';vRDz='变化"';ciBz=' [{"';Iz='ENT_';Nez='6.${';Gyz='2'\'' ;';UwCz=') ]]';kdz='ix}';Kiz='nf 找';iaDz='转发规则';OoDz='er"*';vEEz='${nu';QbCz='(X25';RCDz='"hop';ffEz='后重新下';dLDz='ile=';NgEz='" -g';VTCz=' "安装';PNDz='tus=';MkDz='IKIG';wmCz='Coun';hUBz='o;';ikz='0-4"';RHEz='w_po';tREz='ap /';qSEz='ostn';sKz='sion';HtDz='配置的传';rdCz=': $s';PxBz='s%26';bxBz='D${w';dNDz='${st';QnCz='nux'\''';NZBz='$CER';qrDz='\"Se';GGCz='22) ';WHDz='号： $';STDz='IP(注';HyBz='n}%2';QIEz='6 优先';Wmz='lsmo';mmBz='e xr';ZSz='安装AR';PhCz='ch_s';jLCz='V2PO';uqDz=':" f';MgBz='w": ';kdEz='* 网络';IHz='dd-s';Vaz='ries';bcEz='c 版本';pfDz='-8]"';VMz='/lin';beBz='s": ';vFBz=' -sH';CbBz='${PO';PcCz='u | ';NcEz='xy_b';QyCz='-per';jqBz='o${P';WYCz='W "本';VFBz='y/${';pmz='暴力BB';tqBz='/url';xiEz=' tee';QAEz=' [ $';uXEz='="je';dGz='-dev';tSEz='e $h';YZCz='expr';APBz='ch/';PSz='"$im';FVDz='键继续，';gJEz='先访问 ';YrBz='}${t';LWDz='ngle';MFDz='t.js';UUBz='w-da';HIz='！ ==';MbBz=' FOR';nTBz='ots.';moBz='tlsS';Tnz='33[3';aiBz='.0.0';xJEz='umbe';Bxz='s/XT';uUDz='类型\t';JPDz='ww.x';KqBz='UE}I';vBEz='时重启任';BJBz='dom ';vSBz='://h';BvBz='ser}';mHDz='8-gc';JWDz='p+ud';oqCz='ert.';yrCz='法执行操';lqDz='o - ';IvCz='-gen';eqDz='负载策略';viEz='mese';wBBz='S[@]';ELDz='whic';MUCz='.amd';yYCz='"$LO';lBCz='nat ';PVCz='版...';sGz=' 防火墙';QTCz='EN}正';wjz='curl';IYz='er()';gFDz=' 修改端';ORz='-y k';eADz='masq';OoCz=': 请在';GrDz='g_c"';hGEz='.*|P';jNz=' [Yy';ThEz='或者，你';HEDz='口[1-';TwDz='loba';nPBz='art ';JFz='_FIL';taCz='stdb';yjEz='pv4/';NtCz='ron/';kaDz='y/N]';hBBz='.ama';kyz='le'\'' ';fHEz=' pre';JPEz='tee ';HGCz='x2 ;';SICz='oot身';BMDz='S...';aFEz='（两次输';uYCz='4';myDz='//:?';wKDz='{BAS';pjDz='henz';JaBz='ux()';IsBz='ress';dfEz='校验失败';ZOz=' "[\';UZEz='ip; ';kHDz='3)ae';ekCz='要更换节';PBBz='soft';STBz='orce';pfEz='通常是网';mECz=' 重启n';cMEz='EW_S';sTDz='网IP)';AnBz='rf $';ZRBz='.acm';nWDz='o" -';ABBz='D=${';CWBz='send';BxCz='uth_';EEBz='EN}x';LyCz=' qre';bTCz='L uf';vjBz=' wge';CfBz='n": ';BHz='fire';SGBz='res}';laCz='(ran';GfEz='c/po';uGDz='IP=`';aJCz='*arm';rsCz='$ip ';cWCz='${pa';cfCz='ink=';MSBz='re-h';aOCz='-c /';MLCz='00-6';tsCz='--is';iMEz='H_DI';VQBz='{OK}';wRz=''\''hea';QEDz='已成功修';aYCz='v4""';qBEz='"gos';mPEz='- Ex';ibDz='F"';lXz='qinl';OYDz='配置规则';LqDz='[Yy]';ADBz='成"';pkEz='u_pa';oyCz='ia/c';KRBz=' "PI';ysBz='ath}';PgCz='W "S';ZDz='x="2';CABz='ed "';CHDz='s-se';MdCz='fo",';xVDz='d '\''s';iuz='need';UqCz='入选项 ';xHCz='sb -';caCz='ww.a';pxz='$RET';rQDz='Set_';otBz='(cat';BBCz='y/ur';lADz='/$pr';WfCz='p" =';yZEz='ll w';uTEz='_RED';lCCz='用IPv';bqCz='_pat';IgBz='anXT';ITBz='--fu';dxz='v1.7';goDz='p与端口';FDDz='并保存到';tNDz='方式(m';Prz='.me ';whBz='OW",';aWEz='编译安装';GyCz=' cur';nGDz='adow';DjEz='/nam';qEz='ute_';MLz='ml-d';kSEz='22()';lWz='4.9';mBDz='wd",';mmDz='nump';jlEz='总页数$';kWz='gcc-';MeEz=''\''#" ';IEEz='x} 更';BfBz='"alp';xAEz='utes';jdz='r}]$';gnz='et/a';gvDz='lcer';MtCz='/--c';dXEz='"$di';jXDz='xt} ';HPEz='<< '\''';hdDz='"$fo';cVz='=`pw';OdCz='esta';HKDz='um*';soz='://x';RmCz='.  $';oTBz='txt';LbDz='chkc';aGEz='h/ss';CVDz='")${';lRCz='ger';eSBz='s st';hRz='8.rp';HnBz='/acm';cnBz='ws="';MICz='esul';owBz='tls)';nWBz='y_pa';rQBz='下为")';BPBz='gpgc';SKBz='8 -n';AUDz='ng_t';rz='}';Foz='o.co';oWCz='me}"';ggEz='1~65';wsDz=' is_';NuBz='ort'\''';vtDz='提高安全';hoz='ww.w';jHDz='2-gc';VHz='get)';mODz='e/do';ILDz=' SS安';PWz='ll s';ZbBz=' 443';tyz='v64)';yXCz='> /r';FFz=' "初始';ieCz='entC';Pgz='r <=';NFDz='证书类型';TeCz='tyBo';lXDz='端口转发';gGCz='owLo';lOz=' "$g';niEz='asen';OrDz=' eac';yXBz='ssl_';URz='外的系统';pZCz='为102';Uhz='el}';iVCz='tag#';xlBz='d 60';qEBz='误，请重';tKDz='bev ';nKz='bbr/';ZRz='n} =';SiEz='ce" ';DtBz='w 0)';hgEz='之间的数';GEEz='发';foz='.sfa';oeCz='T_BI';VADz='ecei';VPDz='看配置二';GjEz='an_v';oXz='et/i';FMBz='r" ]';JeEz='FACE';hnz='ff.p';USEz='m 您的';idCz='"use';aMz='eb';SHBz='口[默认';EuCz='小云朵为';YKz='thub';DYEz='tpro';uPBz='stop';aGDz=' $me';pjEz='陆"';lGCz=' " 用';eaEz='tunc';FFDz='ld_k';OtCz='tab ';sXz='ng.k';RNCz='|:44';luz='WS" ';yfEz='rd'\'' ';cFBz='pt: ';RVBz='al] ';sKCz='4}${';dIEz='认配置"';iHz=' -y';CZBz='sess';btDz='型: "';DUz='star';dTEz='r'\''';wiDz='y] ]';Qez='版加速(';LgEz=' 1 >';XwDz='cfke';LQBz='80 4';ovCz='口 [1';TVz=' -C ';xTz='suff';pXz='pv4';Nkz='ll n';ZTCz='D_IN';dEz='& pr';nyBz='id):';wEDz='i | ';kpz=' (KH';fdBz='rget';cWDz='" -j';Az='EXPI';AIz=' "错误';Viz='cfg"';dNz='yn}"';iFz='y';wLDz='$MAI';pkDz='动"';RsDz='隧道"';XhBz='sWSC';NOBz='比较单一';GLz='y ke';TYz='-i '\''';vez='未安装$';xJCz='c64'\''';RlCz='功开启"';iCz='e [[';AeBz='y/co';ZWDz='G -p';kTEz='4"';JuBz=' '\''.i';OKDz='ewVe';JLz='ml-h';PSBz='temc';Cxz='LS/X';JJCz='late';LMDz=')")"';kOEz='?ver';vTEz='HAT_';ihCz='et/s';Qlz='0" ]';VYCz=']+)$';PIz='bin:';BBz='ng=$';ycBz='务器网络';ngDz='4"; ';yjBz='zip ';XjEz='"✪ s';XSBz='t ng';QJEz='试, 命';uHEz='2002';eOBz='_INS';UfEz='s md';KZEz='3; a';mPCz=' '\''/e';ccDz='p tc';ZeBz='"inb';JWCz='rNet';lcEz='{SER';HXDz=' --q';kLCz='择伪装类';ywCz='跳过为随';LuCz='站设置同';gqz='null';Ncz='7216';yjz='/dev';WqBz='id)：';UOCz='k "n';kxDz='m代理)';rHBz='ow "';vDDz='2 ) ';wlEz='16)';KBBz='IONS';xkBz='hAff';Kuz='最新版本';BCBz='i+1)';lcDz='te_c';SXCz='：" n';Lmz='\t]+';OfEz='lkl-';UjBz='g": ';dTDz='=$(w';xsCz='256 ';wVCz='mv7"';PLDz='> $S';QiCz=' 1. ';bnz='SITE';IRz='m "$';NPDz='装SS"';jMBz='tp:/';KbCz=')|(^';PqBz='口(po';aVCz='t(.p';pPDz='og]"';TKBz='1`';rqBz='$RED';oyBz='${uu';nmBz='emd/';YYEz='mat ';xADz='$end';mZDz='((co';Evz=' -d ';vUEz=' 架构，';YmBz='doma';YTz='/${v';Jrz='o/ip';wvBz='UE}协';Zhz='继续..';SdCz=': ":';FFCz='30秒内';TiCz='你的选择';NMEz='SION';vHz='en s';eACz='路跳越-';Jgz='开始卸载';VZDz='态:"';bhz='余内核头';oJz='uffi';xuz='FILE';ltCz='证书cr';FNDz='SS未安';MPEz='=Cen';KMz='fica';dCCz='6 = ';JEDz='车则随机';CkEz='"✪ 自';LdEz='=$?';qABz='ssl ';UYBz='256:';vKz='/ker';aIDz='择（默认';vbBz='allX';RdCz='s-in';JKz='on="';Coz='n/';uaCz='uf -';DdDz='{fdo';SFBz='KEY_';Xqz='-d '\''';fRDz='t}${';XqDz='_d';Mrz='alip';CkDz='m/KA';VkEz='用于 O';aaBz='NUX=';PYz='er/I';dbDz='d/ip';NECz='明文传输';tvBz='取配置文';HACz='t): ';WfEz='lib_';kQCz='} 已经';fZCz='025 ';kCDz='w ac';ijCz='fy_s';spDz='当前机器';plEz='小写) ';PuDz='om 注';fPBz='了宝塔，';stDz='安全问题';aPBz='//hi';PuCz='S解析设';TSBz='-pos';YBz='本将在 ';ofz='p 5s';eJz='nt_c';ILEz='ib1g';XJBz='-dir';YFEz='m 确认';KuBz='nbou';xmCz='try=';fBz='C}"';MmDz='器上"';PZDz='ip})';FkEz='os-7';wUCz='mozi';iIz='er="';TpCz='& SY';RBDz=' $hy';NmCz='ox）"';agCz='id"';Ayz='e -m';eJBz='x-or';xZCz='md)"';jiEz='{act';SlBz='ic_k';NpDz='载落地配';wNz='$(cu';bDDz='a(){';mFBz='m/dn';uEBz='{DOM';SXz='mast';ASz='64.d';tlEz='yy';NvDz='if "';HYz='tlot';eNCz='仍被占用';bYCz='v6 地';XHBz='-655';tCEz=']?"';xQEz='++ n';mvz='EN}已';GNz='R魔改版';sHDz='6)ae';nXDz=' 配置文';GBCz='维码位置';QXz='etSp';WpCz='int]';inCz='TE=(';sUDz='发 IP';boDz='h $f';KIEz=' IPv';lEDz='ge_c';BpBz='raw=';gNDz='D}$C';jOCz='ten-';qKCz='析结果：';aaCz='连通性（';vXz='es/$';vFz=' pci';QECz='—"';fWDz='to-d';diCz='$lat';atDz='发传输类';DmCz='新sin';VVz='/mod';QGCz=' $RE';jZDz='{cou';Xvz=' 3';jZEz='ton)';ZkEz='"✪ 其';bRz='" ]]';Ugz='do';iiDz='ende';mZBz='on 1';KTBz=' $CE';soCz=' '\''/^';QfCz='，正在启';kiDz='k_fi';MwDz='书"';gDBz='ray一';TLBz='.jp9';Zkz='t} !';dEDz='：" p';FhBz='ue,';vQCz='ray？';qREz='d 06';lTz=' <(w';FTz='] :"';vFEz='/ssh';HWCz='/git';lJBz='answ';BeBz='.jso';VgEz='RATE';PVBz=' - \';RaEz='& ip';XFDz='/Cad';liDz='"若为国';juBz='"$au';ynDz='4" ]';JXDz=' 启动动';hgCz='_lin';TjDz='_new';hbDz='<"EO';xNCz=' --i';xHEz='/gai';kez=' ech';UNDz='hod ';utDz='定义证书';WxBz='sni%';hZDz='rule';ItDz='输类型相';dqz='L -4';bICz='y/v2';TRDz=', 被转';olEz=' 不分大';ghBz='ws",';Yyz='8 | ';KQDz='安装ip';Ipz='stem';TZDz='})"';KlEz='"按 E';lQDz='s 安装';CVz='gcc';nREz='=${s';ydz='版)';eNEz='if(v';pYCz='= 1 ';Ddz='c/se';mVz=' ./t';auDz='a --';NtDz='负载"';JQCz='-con';GKDz='sodi';OsCz='[ $d';wbCz='}:44';RbCz='519)';YCCz='t.di';Dtz='me';DPDz='ww.m';GpDz='件修改落';UVDz='ce_r';VOEz='y 5 ';rrDz='rveN';FmCz='ED} ';RBz='ning';nDDz=' swi';xMCz='E '\'':';ndDz='-> $';yUBz='/*.c';XVCz='-r '\''';BqDz='"具体I';bCDz='n#${';QlCz='端口已成';dRCz='态：${';FvCz='ria/';aKCz='"$pv';IxDz='"证书与';dez='10.$';etz='持的Li';qRBz='sh/a';EDCz='者${P';hABz='l ra';IyDz='ip?h';qCBz='ortI';Wpz='lla/';lKCz='DNS同';JxBz='A${p';Liz='不到，请';Gdz='imit';hOz=' | a';Wz='" > ';SwBz='low$';niDz='议使用大';PQEz='ipro';WwCz='N} 端';NhDz='或没有R';EBBz='未安装，';sCEz='[Y/N';SfBz='"sec';ByBz='&pat';OpCz=':low';UVEz='dd_v';FhEz='g "$';WEz='r%?}';mTz='get ';Ejz='ubun';yhz='er}`';usBz='}${R';MACz='-vis';moCz='/red';YaEz='l-ta';fhBz='.0.1';dYz='/d'\'' ';TQBz='list';vAEz='  ],';YYBz='13-A';ZUEz='>&2 ';UQEz='pyth';cTCz='ch c';qCz='let ';AABz='0x'\'' ';ATBz=' $DO';GYz='f';oOEz='-i';hxz='$NEW';EHEz='h re';fhz=' 内核头';hACz='&enc';EXDz=' sys';MKBz='" WS';NlEz='****';tlCz='hijk';sQCz='ray安';GsBz='P/域名';pJBz='FLOW';uUBz='incl';AjCz='卸载si';jpBz=':\"n';RSBz='top ';oTCz='q 2>';iLBz='ing.';cRBz='h -s';vmBz='OVE ';hmz='i" |';joz='ww.z';VXz='s/tc';JyCz='udo ';mCBz='目标: ';YhDz=' 命令获';CYBz='s TL';NBEz='地端口"';ZABz='enss';eMCz='| fo';HtBz='th}$';gxz='] ||';QBBz=':443';XYBz='A256';VqDz='务的端口';OrCz='-cgi';qLEz='se z';WTEz='ll-s';FMCz='类型：$';RMDz='`ss-';mwz='ion ';UeDz='t=/b';nDBz='"  1';NxBz='ity%';ydDz='trap';hTCz='L op';LiEz='作完成\';XTz='erve';ONDz='}已停止';QQBz='of -';bgEz='[1~6';WBCz='ts()';YEz='{tim';mgCz='可直接扫';rCz='out+';ZCDz='rt/?';ZWCz='.gz"';KiEz='32m操';dADz=': $a';tVEz='获取 g';pfBz='"key';YeCz='T_AD';nTCz='ch j';cSDz='解析IP';JTCz='rt} ';dODz='at s';bEEz='LS证书';FCBz=']}"';DBBz='nssl';iWEz='nfo(';CSEz='设成为有';NcBz='/dow';xFz='s ep';bbEz='注意: ';geDz='4 /v';Dz='ATE=';toDz='g_c.';fVDz='g_po';HHCz='jsxs';rREz='wap';mZEz='22" ';xIDz='305"';aFCz='& in';RmBz='ay？[';QUBz='ak';tJDz='v li';lcCz='t_id';fKBz='-n 1';KLDz='请到 h';iLCz='nx端口';gkBz='ert';Gxz='NEW_';FYz='.con';NdCz='"tim';onz='t/';uUCz='ler.';TJDz='asci';qtz='y "';uaz='[ -e';DSz='e'\'' |';BoBz='k $C';cnz='S=(';yPEz=' mak';LTz='ver/';crz='.org';PsCz='nIP ';TUDz='"tcp';HSEz='p de';ubCz='1.3与';iEBz='S的IP';vsz='einf';pJDz='res-';sCDz='运行 s';ptCz='私钥ke';RJEz='令: c';NlDz=' 一般设';Toz='.fal';ksCz='.sh/';QlBz='2}'\'')';YOz='8}'\'' ';Yfz='er';MOz='ases';XdBz='Docu';GXEz='e-re';ftz='nux系';XFEz='连接\0';eYEz='s/Se';HCCz='isab';PlEz=' ✪  ';rNz='brpl';ulCz='）   ';UWEz='64 位';uwBz='st=$';HZEz='t_up';erCz='s =~';iFEz='成功！！';KYEz=''\''s/\';YcEz='常运行';QHz='x "$';XDBz=' " 端';eHBz='Echo';nxDz='1 ];';NmBz='新版Xr';xUDz='x}$(';ZHDz='号为10';jWCz='mv "';hwBz='st)/';oQDz=' 开始配';KSCz='jan-';QhBz='Inse';YZz='maxc';BABz='*) r';gWDz='esti';TiBz='ord}';mnCz='t-ge';xwz='/api';twBz='p&ho';DGEz='Auth';lPCz='-c"';hWz='s /u';dyBz='置信息：';NMz='bunt';iPEz='KEY-';BKBz='ect"';FjBz='priv';NLCz='5535';nbEz='XY_L';efDz='注意：初';bLDz='s=ne';CCEz='启任务类';nVBz='rded';Moz='=524';CGCz='20) ';vOz='s新版内';Soz='0.cc';myBz='D(uu';nWCz='r "/';cZEz='ap; ';plz='ep "';WJCz='x(){';lXBz='en  ';gGDz='shad';xIEz='erIP';HZDz=' 个 i';EWDz='r_ex';GFCz='没有输入';IMBz='[@]}';wHBz=' 2) ';AGEz='ntic';KnBz='h --';iRBz='nmai';jGz='l sc';GZCz='。"';TiEz='em/$';upCz='ip()';UPCz='down';lpBz='\"ho';RKCz='/v2r';PqCz='N}3.';Bez='装 Lo';HxCz='wd=$';FXz='inla';SGz='ake ';JhEz='ME" ';Chz='pkg ';bXEz='dena';psDz='，稍后落';OlBz='teKe';OmBz='ay安装';PHEz='已修改为';vMDz='8.8.';TWDz='l pr';CuBz=' "so';yWCz='最新稳定';GFDz='ey!$';IiEz='的快感吧';MSCz='}tro';hUz='n_co';KkBz='im c';pdz='————';HlEz='[i]}';GSEz='wap ';CGDz='N}/$';KyDz='$d_p';acCz='与 h2';VFCz='CP="';YMEz='$PAT';MuCz='理"';gcBz='o-ca';bvDz='的ECC';RJz='grou';xqDz=' wri';lTBz='html';LEEz='x} 启';OPEz='- Ba';ZlCz='y端口可';oMDz='RD}"';xkCz='入）:"';JMDz='g_ur';gfDz='请请务必';hrDz='is_e';FTBz=' $KE';Jcz=' 819';ilz='BR"';iwDz='--dn';gMEz='"$NE';RoDz='自定义但';QNz='需要重启';iBBz='zon.';ZMDz='er !';WRz='&& e';iyBz='ty${';BsDz='nfst';pDDz=' $sw';EaBz='roxy';ClCz='LUE"';ZPz='rplu';QuDz='册即可)';DbDz='fig/';ddz='管理脚本';ApDz='"已在r';gSz='4/aa';UFCz='2) K';asz='TROJ';pEDz='ey |';rMEz='> ~/';QRDz=' 如 2';GFEz='hcp_';egBz='el":';EcDz='d_ip';cMCz='A-Z0';FwBz='S';PcBz='d/${';ZCBz='3]}"';WFz='v yu';yvDz='ix}g';FADz='eWin';bADz=': pa';Wnz='fo m';xcz='hard';EQBz='ert(';Sdz='生效系统';yVz='od t';KVEz='p '\''l';INCz='如下："';FOBz='s流量充';yNDz='}： $';iKCz='请添加域';UPz='馈"';WYEz='}-re';DxBz='ess%';WJEz='rx.c';WrDz='d_po';YlEz='：网络跳';xWz='bbrm';ZHBz='的数字]';kZz='t/d'\''';HdCz='d" -';uSDz='{3}[';MrCz='lare';wHEz='\/16';DVBz='er_c';HbCz='oi '\''';oNDz='t)：$';dAEz=' $ra';CkCz='UUID';ltz='ALL=';uhBz='sXTL';drBz='ed}$';pDEz='生效';DaDz=' $ru';XRCz=' "xt';rUDz='\t: ';pbBz='tp/t';aSCz='择操作[';JHDz='" 密码';OaDz='le"';CuCz='确保Cl';QMz='_ver';LABz='ITY"';iuDz='il}"';XmEz=' -lt';toz='s.56';CqBz='ess:';OfDz='es (';Jvz='lp| ';dFDz='2 配置';QeCz='=/ro';JQBz='ray';OqCz='自动申请';xvBz='议: $';mjCz='e=$(';fgDz='t go';ZlDz='设置在国';bCCz='.dis';ZgEz='需要加速';tRDz='自动监控';RHCz='89.c';plCz='x --';CpDz='_c.t';NTDz='"	本地';QZz='file';sRz='p '\''h';omz='ng" ';vaDz='已取消.';XsBz='UE}底';Sz='tion';JODz='{NAM';EWCz='ux-$';wiz=' /pr';AaBz='IP \';nIDz='12)';xlDz=', 通过';NeBz='Want';uyBz=' Key';nAEz='nf=$';cBz='ing ';htz='PMT=';HUDz='DP';DGz='ap-n';jyDz='ws:/';DXz='mod_';ciEz='-c 2';xfDz='ct_n';wZEz=' "ph';kwBz='名称：$';WSDz='} 域名';tJEz='uNum';rIz='t.co';OkEz='变主机名';Vz='[ "$';sEBz='ata';yOCz='INX_';HDz=']]; ';ZKBz='c '\''a';TZz='em_d';lZEz='ge "';cfDz='务状态';UMCz=' PAS';rNEz='8.5到';tbz='4 26';gQDz='，开始安';JEBz='ay.k';GaDz='p}|$';SoBz='-n1 ';sNBz='搜索引擎';LiBz='d",';AYBz='prot';JYCz='OCAL';buCz='、论坛或';exDz='代理类型';xyBz=' ID:';cYEz='\/.*';dkCz='持不变!';NDEz='  go';LRBz='D" |';VDDz='ia /';VLDz='ng66';qUEz='d /p';gtz='统"';jqCz='# 让 ';QlDz='"[2]';pdEz='下面的信';FZz='isc/';IhBz='"typ';mtDz=' 仅用于';hIz='sh_v';rFBz='N}&t';EmDz='或转发给';RlBz='publ';VhEz='们的群里';lQEz='bsd ';HWDz='rt}"';bpz='10.0';LGCz='ts ;';eCBz='*) R';PICz='d=0(';SRCz='n1| ';NiBz='ount';Upz='rows';vJCz='c64l';GlCz=':（0：';eMz='x-he';ZvDz='默认申请';qZEz='& ! ';kvz='-e $';baCz='例如：w';itz='"apt';yvz='IN} ';bfBz='ame"';vYz='art';yOz='网络连接';ioz='zzww';poz='ww.s';LQCz='>$SE';VIEz='2 优先';xeEz='本。';wpCz=') ||';lwDz='"${d';RZCz='&& l';ucz='   1';bCEz='t/d"';YXBz='::]:';GVCz='RAND';JqCz='}（默认';dBDz='t:';TxBz='t%3D';SYBz='1305';ZUCz='"mxj';DeEz='put"';KBDz='yaml';EqDz='取决于接';iNz='n ==';pGBz='P${Y';FgDz='t/co';mnDz=' AEA';gPz='"x86';acEz='glib';MWBz='65;';VrDz='f#*#';SODz=' "Y"';heEz=' "没有';HnCz='|ker';rKBz='开头！"';HKBz='入伪装路';TQCz='ple';pQBz='"), ';dlEz='B: 上';RXDz='les-';HCEz='ront';UsCz='ocat';GjBz='"pub';VlEz='工具版本';aXEz='tu)';LNDz='ver'\''';ZnBz='eInf';dFCz='S="t';blCz='t_si';iPBz='x后再运';cdCz='dest';LpCz=':upp';LaEz='暂时不支';aVBz='ent ';vKBz=' 不能使';nKDz='./co';XUDz='= "2';RJBz='ue" ';smz='} !=';CMBz='选择一个';VUEz='b'\''';ukz='" '\''{';gdDz='ain ';rDDz='Inpu';iVEz='最低版本';vhz='c -l';NrDz='eraw';FVCz='=$((';MJCz=' '\''\n';OSBz='"sys';wuDz='DNS ';irCz=' dow';hgDz='ck_s';ciDz='_ct(';Wcz='00';HPz='pref';LPBz='key';XSEz=' -h';RyBz='p '\''"';KoBz='th=`';CQDz='es()';cSCz='5) V';PNz='-p "';FQz='}" |';bfCz='er_l';fICz='EEN}';mWz='cc-4';BDBz='入Rea';HKEz=' !"';feCz='_NET';URDz='发服务器';XBBz='gle.';PAEz='or"';AdBz='设置"';JhBz='e": ';Luz='o() ';INz='fix}';uLz='open';MIDz='hach';FLEz='esse';OSCz='jan+';DPBz='enab';NWBz='type';vPz='pos/';HcDz='w_ip';Pqz='$v4?';weCz=' run';iDCz='EN}3';yODz='u ${';YDEz='---';YVz='name';MpCz='er:]';kNDz='):${';CcDz='l lo';vxz='rn 1';VDBz='1}" ';giz='c/re';djEz='脚本增强';tDCz='EN}8';TGDz=' 显示 ';jKz='-y h';jlBz='y" >';gmDz='"[6]';YoBz='-d: ';BaBz=' X-F';vcz='0000';SuBz='unts';XwBz='}传输协';JpDz='st即可';BMCz='s"';gFBz='dns-';DPz='lus新';kgCz='ty节点';XLCz='ay端口';ZSEz='sh h';FcBz='K="$';TSDz=' "$f';VFEz='ot密码';oNz=' 重启中';yyDz='ert=';hSEz='h in';JnCz='orac';lCDz='tive';ljBz='S" =';PECz='协议——';xkDz='econ';IkDz='t.se';qBCz=' -X';nFEz='tRoo';qMCz='/?ip';bPCz='OWNL';THBz='100-';HoCz='-y a';GkDz='Easy';hBDz='val:';HpCz=' ${#';hmDz='转发CD';qvBz=' "$u';VOz=']" '\''';gFz='."';mfDz='0-8]';oXBz='p2;';PIBz='2) H';RvDz='one ';SLCz=' -i1';oJBz='=1';CdEz='s ip';yIBz='WORD';QLBz='美女站1';CKz='}[注意';UKCz='tc/v';CUBz='NFIG';mjz='br';VACz='me&p';GgEz='p /e';lCEz='n=" ';QJDz='l au';ibCz='"选中的';bUEz='exis';OlCz='> /d';AGDz='2 一键';PUCz='pple';ZmBz='in=`';JRDz='请输入 ';gz='"${R';EKBz='{WS}';bnBz='tls=';uJBz='ct"';rfDz='p_go';ipDz=' cus';FkDz='lti-';lgBz='ig()';ADDz='==="';YLDz='k-on';MUEz='MD5=';SZEz='t ca';qHCz='OS=$';ESDz='取消..';WDDz='y /r';bjz=' . -';cFEz='示）..';JYz='etht';lLBz=' 7) ';HQCz='/v2c';sBEz='启任务:';pcEz='-i -';ojCz='"是否需';wyDz='y+tl';cmEz='3)"';oeDz='pf';xNBz=' y)允';lbEz='"${H';jFEz='！ \0';Sbz='e-ma';JPCz='buff';aEDz='a/co';oECz='x 状态';doCz='d 2>';YVCz='[.[]';jkCz='[ $C';VIBz='srtp';bLBz='imai';wcDz='e_id';mwCz='W}（默';pFBz='=${D';YPEz='$bas';bZDz='置文件为';pTEz='/sta';tjBz='[[ "';Buz='ove ';aTEz='aste';WBEz='载 "';hODz='-tun';Flz='us"';obDz='log(';jTCz='renc';nVCz=' -m)';Lcz='m_ma';PQDz='nslo';nYz='\"1\';XWBz='defa';kBDz='t_po';wBDz='216,';MWEz='re i';BxDz='书文件 ';WOBz='引擎：$';IaEz='3; y';gmEz=' "完成';YZDz='| [[';FlCz='rtID';VXEz='ist"';rSDz=' '\''([';YgBz='uid'\''';pIEz='t:-1';crCz='$WAR';GqBz='t/xr';jgBz='sKCP';CXz='成功！"';tFBz='A" &';uNDz='etho';iez='x} 退';uQCz='卸载V2';Xez='er(锐';JeBz='ntEx';GTBz='Y_FI';kgBz='Conf';rfCz='_ip"';LiDz='t 目前';vhCz='urre';ufBz=' [{';Muz='"${1';SIDz='5"';lrBz='#${v';wmBz='x-co';Ahz='deb_';oRDz='务器)"';ayCz='er.s';Uvz='nx` ';eiBz='dom"';sqDz='_d="';gLz='secu';EJDz='OD"';EdDz='ftyp';inz='hp?a';yoz='r/lo';Rtz='root';sHz='-r) ';Cez='ver(';UdEz='动输入一';Iez='用BBR';gNCz='关闭占用';ZmEz=' "屏幕';TOBz='IDER';WtDz='"此功能';epDz='80"';CnBz='NX_C';JtDz='同"';yqBz='置是/r';DGCz='Log ';qgEz='c "<';rtDz='可能带来';kbDz='="/v';XZBz='$ROB';eRDz='rwar';iXCz='nera';eABz='T_ID';FIBz='dtls';UnDz='ag_b';ejz='`una';DiEz='动加入开';Ymz=' "bb';OeCz='irec';sEz=' ! -';ssDz='落地机是';FaBz='_add';sWBz=' Acc';gXDz='+3)';exz='.5';DCCz='6() ';eYBz='DH+C';RCz='WHIT';BtCz='d ${';jIEz='2/3]';kVz='chmo';VNDz='od}:';OBCz='"Xra';Mlz='0" |';AIDz='9)ae';EZDz='und_';Ooz='huku';BFz='.."';RQz='| he';rfz='rpm_';jJEz='rt_m';rrBz='qrli';vGBz='S5" ';rGCz='e|un';JlBz='ho "';Qbz=' "fs';ErCz='hy_d';UKDz='/v${';YcCz='不支持 ';Zgz='on}"';UDEz='on}]';mXBz=' ${P';JaEz='l-cm';TAEz='   \';haCz='EST';lKEz='DEBI';KdCz=''\''{';sgDz='v5/a';yNBz='许，会有';QTBz='vice';EfEz='> "$';IsCz='-sm8';HfDz='tysh';mNCz='1503';qpCz='E_UP';aOz='"]" ';rqCz='rt.c';qCCz='0" >';MPCz='ling';BEBz='/roo';qgDz='/386';TWEz='仅支持 ';OOBz='，但能节';osDz='证安全性';tJz='_fon';DcDz='l ol';APCz='_PAT';dHCz='ayue';rRCz='EN}导';NNCz='at -';Aaz='em/d';akEz='他在开发';buBz='ot/s';bjCz='ls.r';cKz='ase}';BSz='eb'\'' ';POBz='省vps';SxCz=' 的伪装';JFCz='" an';IbEz='所以不支';GTCz='2}'\''`';tiEz='" dn';fcCz='生成sh';dOCz='f/ng';bsCz='e +%';ymCz='/ipi';NUCz='"mus';rKEz='ure ';UJBz='1) x';HeDz='SIGI';aeCz='CAP_';EEz='"$ti';Nxz='t-ti';kKEz='fix_';rVDz='保存到配';KtBz='@${I';FPEz='se.r';EeDz=' 0'\'' ';LmDz='的国外机';SkDz='on &';miDz='内机器建';HBBz='ITY_';oCEz='= "$';vjCz='ew_u';GIBz=' 6) ';qFz='nano';Vhz='${de';TRz='_64以';Tjz='[0-9';egEz='t $i';miCz='#v}-';Wvz='yes"';NIEz=' 请为服';geBz='"pro';MWz='-ess';wRCz='#"';nNz=' VPS';HlBz='2551';DmEz='VZ';ihEz='R}/e';npDz='域名?"';Gfz='{run';wABz='CTED';FyBz='ni%3';egz='"开始卸';MTCz='xt_s';tOz='获取BB';Faz='g/d'\''';LGBz='e=AA';mSz='内核安装';aYDz='ext}';OOCz='lone';kgDz='"$bi';ZXBz='80;';xbCz='3" -';VTBz='|| {';geCz='_RAW';dOBz='$CMD';qXz='br/t';GZEz='t_ge';JbDz='已保存"';KMCz='sys/';deDz='h /v';EVz='brmo';bMBz='=$(e';ByCz='${SY';WDBz='RED}';yCz='0 ]]';EUDz='转发类型';oUz='/sys';fyBz='ESS+';yNCz='ssue';FYBz='3;';WBDz='s5:';phEz='|sto';fHz='full';mvCz='"设置 ';mpBz='st\"';Qfz='in';rJDz='libe';wEz=' "首次';YLEz='pel-';PEz='lor"';JECz='推荐)$';LmBz='装！"';fxCz='kr"';ReBz='ser.';oNBz=' -f3';SkCz='成密钥（';sHBz='请选择伪';uvz='3) e';sZDz='" ru';CSz='imag';LcCz='+h2$';VlCz='墙规则。';YECz='ray"';raBz='ll 2';NOCz='anda';kRDz='发至的 ';Zvz='-i n';AkBz='tar ';qZz='al_p';wQz='获取内核';ldz='-- h';UtBz='v4l}';SbBz='T -p';Dlz='s="B';xMz='重启VP';BaEz='tes ';bWz='olch';rPz='://a';uQBz='(get';Lpz='virt';EXBz='T\" ';YQCz='$V2P';EFz='h "$';ecBz='e-Co';BgDz='gost';bXDz='t na';olz='tus ';MoBz='h $C';XeBz='> $C';Ccz=' 167';lKBz='SPAT';AGCz='  ;;';Ulz='o ${';eoDz='输入你要';aHz='ntu ';GGEz='sh/s';iaEz='t lk';WuCz='不上时代';JREz='++ s';EXCz='生成UU';hfBz=' "h2';XuCz=', 建议';NRCz='ray停';gOCz='dalo';fHCz='23xs';qjz='} ${';srz=':c2c';CACz='Dest';GCCz='ll.d';Enz='m"  ';prDz=' 0,';EdCz='g uu';QtBz='ne&s';biz='n/up';tUBz='id;';CiCz='box_';cZBz='y_re';Qjz='`gre';qYCz='p=$L';ctBz='=non';oWz='ko /';KCDz='4432';hPz='_64"';uQDz='setu';AUz='启Lot';nZz='ive_';beEz='_url';fUCz='co.j';TKz='--im';VREz='Swap';hSCz='正确的操';sfEz='载不全。';ecDz=' "$o';dLCz=':0:1';dLBz='//ma';OlDz='置在国内';bbBz='ACCE';fUDz='误 !\';raCz=' QUI';lkCz='1 ]]';MNDz='&& s';mrCz='arp-';XBz='告: 脚';jBCz='OUTP';NRBz='gs k';ODz='x="3';ZRDz='o "取';bZz='ncoo';FgEz='d = ';taBz='];th';KODz='E}';JvDz='x}端口';QjEz='CP加速';pMDz='":60';YYz='pex/';YiDz='$(pw';AyBz='ni=$';DuDz='效，无需';hjz='"x64';mLz='an-s';AVEz='。';cXEz='me |';NiCz='：$la';jiDz='ncy';wSz=' BBR';ExCz='pwd ';TADz='maxC';Bkz='l; t';qPEz='/ext';AOCz='ylen';fwDz='"${c';aCz='out(';poDz='端口?"';ivBz='件: $';EvBz='UE}S';qcEz='r "s';ygz='检查 !';JMEz='cd o';eXBz='$ser';Xhz='"内核卸';Ekz='url';RDz=' [[ ';uIz='e/Li';vYDz='型: $';Khz='eb_t';DuCz='oudF';pkCz='；1：更';SECz='ion-';WgBz='$(ca';FEEz='密对接转';EGCz='21) ';BiDz='t_ne';bcBz=' -L ';AcDz='te_i';iVz='in/g';vgBz='"dow';QDDz='ib/s';Iuz='本过低，';JZCz='box的';WFDz='addy';pz=' 1';qPz='ttps';ChEz='g --';jPCz='ig="';Zz='TION';sYDz='ll}$';XSz='ARM6';nICz='行, N';gVDz='rt}|';rMz='dete';aUCz='.mya';SPBz='os.d';KIDz='256-';Ikz='"6" ';EVBz='onne';jFDz='码"';csz='TLS=';cmCz='0-10';sJz='{Red';vIz='NetS';AVBz='onf;';nZDz='unt+';iIEz='入[1/';EKz='br()';GGDz='}${k';HkDz='Gost';hVBz='_use';nBDz='$hy_';CaCz='t}/u';FQCz='VER"';PLCz='字]："';sGDz='m/${';UICz='脚本"';XLz='ian"';JHz='ervi';gjz='x86_';RAEz='i -g';WHz='" ];';lfEz='Linu';FBBz='无法生成';kaEz='已安装的';ctCz='的证书 ';JoBz='wspa';YhEz='恭喜！B';ZLCz='RT"';eoBz='an=`';DYCz='LOCA';VyDz='gy=$';GiDz='取失败，';uTDz='al_i';SBz=' -le';wsBz='S() ';fZz='se/d';ZQCz='ORT,';tvCz=' por';WmDz='量且易于';ROCz='n-v6';yJBz='项，使用';Gez='4.${';gqCz='ate.';kAEz='e; i';PvBz='1 "s';UKBz='ws=`';SDz='${ti';RNBz='点(以h';KwCz=' $(s';KjBz='ubli';qBDz='c": ';RZBz='key ';qMz='-rf ';UUDz='_typ';wrz='olv.';rwCz='[ $j';Unz='6m" ';xSEz='改成功。';Qdz='启VPS';oIz='ubus';CiBz=' -n1';UaCz='可用!"';bvz=' 4';QqDz='证书，务';ItBz='utVl';mgz='l} 内';SKDz='-lib';IdCz='ip "';KXz='rcon';gFCz='&& K';OvCz='t /e';TWBz='gzip';ApBz='ess(';MUDz=' TCP';PyDz='rt?i';ELz='remo';FaCz='&1';FQDz='s -V';VsBz='}non';diBz='free';FmBz='te()';sXCz='e_ke';ptBz='txt)';WuBz='IP}:';DUDz='选择 i';HIEz='VPS服';lBDz='rt",';UGz='e gz';IVDz='用 Ct';SxDz='再设置;';eZz='_reu';vNz='lus=';VfEz='MD5}';NyCz='e ps';ddDz='程启动"';roz='17k.';hPCz='络设置"';UWCz='/${p';aZz='p_sy';mbDz='pf.l';FBCz='k${P';JjDz='-cn-';VfDz='x} 添';SqBz='D}${';qFDz='[1-4';cez='载全部加';LDCz='UE}$';lYEz='-o -';mPBz='l st';Fgz='pm_t';vHDz='6-cf';Lz='ate ';PREz='件不存在';KsBz='in}$';dMz='linu';CrDz=' $fl';ygEz='E_NA';wYBz='84r1';hNCz='端口的进';waEz='tl';NKz='ease';JBBz='INAT';SyCz='m/Mi';qWBz='y_se';VLBz='m)"';jEEz='前配置如';NFz=' "==';Mvz='-i x';jSBz='nf |';ArBz='-${I';xFEz='ordA';ElBz='pair';nZBz='.1;';NYDz='} 暂无';vjDz='c/go';pxDz='onen';qNDz='(pas';KkEz='添加/删';VRCz='$sec';ucBz=' 下载X';CDDz='服务安装';tQEz=' lrz';sPz='pi.g';MeCz='Work';QjCz='].tl';FEDz=' 1p ';nTz='qO- ';eUBz='work';YSCz='退出"';kkz='4.9.';FUEz='64/l';lnz='www.';YcDz='-to-';gpCz='不支持你';wlDz='转的流量';bUCz='nime';wvCz=' 200';PFCz='er}.';wWz='i" >';ohz='!" &';pJCz='ps'\''';LfDz='动态域名';GCBz='"  请';XmCz='}  停';YiCz=' $US';aZEz=' ip_';BKDz='ls-d';wOz='核版本号';fHDz='s-25';sZz='rang';QkBz='roke';jVBz='ent"';tkCz='"端口保';NaBz='INUX';pADz='iteH';wNBz=']"';bBEz='" so';HIBz='wire';jRBz='l.sh';ceEz='ice;';rJCz='0x*)';Dnz='l() ';ZkCz='私钥和公';wyz='s390';okz='3.13';OXz='/Lin';sEEz='te |';IXCz='/uui';WPEz='m/ce';gkDz='st没有';TUBz='="ww';qqBz='链接:$';JNBz='oliu';FUDz='1. T';Qsz='"" ]';peDz=' 服务已';lgz='"卸载 ';ddCz='inat';kiEz='参数有误';tWz='el';YCz='lor';Gnz='ror ';HWz=' "14';MIEz='访问网络';JiEz='！';yWEz='TRIB';NmDz='"[4]';oMz='. &&';PuBz='0].s';TSz='= "a';KUz='} | ';vgEz='ce()';rEz='once';pwDz='录后使用';HXBz='er_o';cwDz='ey}"';lTEz='-lkl';qwBz='TLS$';wfCz='$ ]]';qsDz='地机务必';BmCz='${YE';EPDz='eng6';hTEz='.lin';jXz='g.ko';Yhz='载完毕，';pUBz='og;';HNEz='}*';WVDz='保存并立';XKBz=' | t';Rz='pira';ZuDz='lt-c';XICz='ch a';fTBz=' '\''Us';OeDz='e <<';FTDz='2333';EJEz='Pv4 ';ADz='; do';yez='先安装内';lmDz=': " ';uhz=' | w';SCDz='Inte';CCCz='eipv';BMEz='SSH/';lWDz='OUTI';hQz='-v '\''';ogCz='yN、s';BSBz=' let';igDz='ys()';brDz='${tr';EpCz='((in';pQDz='置 ip';WIEz='6 访问';WwBz='one$';JlEz='ps()';rdEz='ip a';AVz='){';xtz=' -y;';brz='eeip';Kkz='32-5';sBz='RED=';smBz='h';mtCz='t文件路';HfBz='},';cAEz='NR}'\''';doz='shub';IdBz='/geo';PPEz='se -';yDDz='chan';xJBz=' 无效选';IJz='font';XiBz='rue,';Ewz='5) e';yJz='r_su';hSDz='lve_';ilCz='"sin';NABz='ray ';xpCz=' ip=';wZBz='t \$';YNEz='n_ve';FgCz='ity&';oVEz='请先更新';ntz=' -y ';eRBz='il=h';Mqz='pi.c';WeDz='ash ';FYDz='me; ';rCCz='n "开';sOEz='/Cen';gcz='art_';UNCz=' -d'\''';iJDz='odiu';bfz='mod';HaEz='l )';TSCz='重启V2';YuDz='et-d';NODz='/n)"';alCz='用!"';kIBz='SEED';kCCz='n "禁';FcCz='LSv1';HYBz='TLS1';RoBz='in}.';maEz='持 tu';AXEz='='\''de';XFz='m)" ';pSDz='" 2>';yiBz='Y_SE';irBz='{dom';idEz='内部服务';faBz='sete';tNCz='o-up';euBz='ent}';jz='，请联系';oLDz='HUP ';fgBz=' 1,';QSEz='\！系统';agz='noar';gJDz='s-de';jbz='.ip_';GfCz='artS';GADz='dow:';FcDz='=$2';HDEz='版本为最';oNEz='H版本:';RaDz='ve_r';CeEz='"$in';KJCz='st"';oxBz='pe=n';gVCz='{lat';kqz='hazi';CMz='eb10';HKCz='如果/r';ibEz='oxy(';NsCz='}")';tQCz='装成功！';CDz='-';xyz='x) e';YiEz='off ';KsCz='et.n';Mz='+%Y-';xBCz='的所有网';XkEz='Z 服务';wUDz='更新\t';cVDz='d}|$';NDz='inde';xdEz='(例如:';jVEz='需求 2';ndz='| 网络';BcEz='onex';vtCz='使用的真';cKEz='/dpk';okEz='))';AxCz='机字符）';hRBz='roto';mUBz='og/n';ZEEz='11.$';qhBz='"dec';oyz='o '\''p';uWDz='te N';AFz='初始化.';Qiz='t=0/';scBz='!= 0';FuBz='LE)';UGEz='sshd';lnBz='E 2>';yREz=' #把刚';LSBz='-256';vREz='个分区变';tnCz='" "a';DUCz='"aca';vvDz='书及秘钥';MlDz='"说明:';DJBz=' '\''a-';ndEz='IP 的';Auz='orem';JCCz='pv6/';ymBz='ak ]';NHEz='hd';mpCz='-P c';SMEz='_pri';qVz='cp -';LLCz='端口[1';cICz='-i v';ySz='版本: ';tYz='.sh ';yfBz='},{';esCz='5sum';xrBz='r-co';Dfz='stat';CHz='wall';YIz='n:/u';nsDz='书校验保';EPEz='S-Ba';HgBz='}]';UUCz='"zor';IZDz='规则。"';icBz=' -o ';ZHCz='ngsh';MRz=' 正在安';gREz='f=/d';DTDz='支持端口';plBz='钥生成成';WRCz='y" =';DsDz='flas';ljCz='y'\'' /';BAEz='&key';PWDz='l "u';UuDz='机的域名';HCDz='5443';WsDz='转发，中';eJEz='置为 I';uHBz=' 1) ';gyz=' '\''mi';ZCz='time';bKBz='Z0-9';yZBz='eal-';Xjz='d . ';djCz='_id[';Hnz='mess';gUDz='本地监听';naEz='ntap';jkEz='GE_S';BeDz='g "守';FmDz='其他远程';LjCz=''\''.in';RVCz='on_t';YsDz='传输类型';fkEz='enu_';gEDz='d#g"';PUz='"5" ';ctz='ED "';AuDz='所有tl';yWBz='filt';BpCz='n $S';WGCz='&& a';OFBz='l/et';ReCz='Capa';djBz='ainS';maBz='ull`';sfBz='boun';gwCz='_jum';qkEz='ge()';dnBz='an="';SRBz='at o';sez='tall';BcDz='les_';HZCz='r_ip';MIz='PATH';WLDz='6.bu';hlz=' "5"';yvBz='kcp"';cz=']; t';eMBz='URL}';DLz='.rpm';PgBz='"xtl';jPz='_num';XaEz='v lk';ynBz='ork=';hnDz=' aes';wFBz=' "ac';Eoz='falo';pIz='erco';CBBz=' ope';LZBz='cert';HHz=' --a';hZEz='clel';dRz='8 支持';qfz='l(){';LKDz='L ne';IHEz='SH 端';AnCz='nfo.';TuBz='[0].';fPEz='tos/';UMBz=']}';RpCz='X[in';xcBz='请检查服';ZGCz='|upd';NxDz='也请勿更';hDBz='键脚本，';dXBz='://\';KfCz='infi';Ybz='fy.m';odz='跳越 -';DUBz='="  ';GrCz='WARP';fbz='.tcp';VFz='nd -';LBBz='=(';LxDz='上述一致';AIBz='视频通话';SWBz='2048';lnDz='-md5';scCz='arg ';dlz='n} |';rGDz='}/co';vcDz='$rul';niz='c/is';Yjz='-f 1';kiz='"cen';cUDz=' 端口转';FqCz='方式如下';EUBz='  lo';YHz='bian';DFBz='AIN"';fLDz='8';CXDz='oto ';FICz='pv4=';nwDz='-for';nmDz='col';ZfDz='x} 停';oPEz=' - 阿';SSDz='e_do';HhCz='ox >';YXEz='rpri';Bvz=' -d:';GWz='& "$';tfCz='-9a-';YQDz='te &';ibBz='fw 2';HFz=' $ST';eNBz='ttp"';nSCz='us_s';PpDz='n"* ';AWCz='="si';lkEz='- 1)';wTEz='t.re';YBDz='0.0.';OLDz=' 反馈"';Xwz='on()';FeCz='ot/r';tcEz='L_DI';AjEz=' "DN';RgDz='版本为:';PWEz='6_64';RUBz='`id ';iCBz='AME=';HMBz='ITES';MaCz='relo';VuBz='}@${';BHBz=' " 请';ixz='_VER';rBEz='t定时重';gaDz='清空 i';IPCz='m;';qeBz='"pas';gpDz='自定义端';LjBz='c_ke';hCBz='ER_N';aEBz='析网站设';WMCz='D';TfDz='x} 查';tjEz='认22的';wQCz='[y/n';lvBz='信息：$';NvBz='接   ';lRBz='ce ~';Mhz='g -l';eOz=')';CHBz='输入SO';ubDz='%M:%';EtDz='eer(';NJEz=' 或 I';EgDz='/gos';taz='dle/';glz='1}'\''`';erDz='s_po';FuDz='证书生成';TGz='cmak';mfCz='=$pu';FNEz='.';rTBz='ow: ';cSEz='in.n';liEz='，请使用';xcEz='}"'\''#';sNz='us()';CSCz='V 即可';EQDz='(ipt';aKBz='-zA-';xDz='0m \';GMEz='SH_V';RMEz='set_';EiEz='机启动，';fVz='es C';vkDz=' Res';Edz='curi';OmCz='}  查';FsBz='0${l';DNBz='iepa';OBz=' $da';dNBz='= "h';sWDz='p}"';iUz='ntro';kDz='${Wa';OKBz='TH}"';ZjDz='ost';jLBz='ioli';GrBz='后查看，';gqBz='密方式(';apCz='& br';cNDz='行状态$';mEDz='old_';bqz='=""';aJBz='D推荐$';HRz='7.rp';ekBz='$XTL';RDDz='m/hy';RkDz='er/c';lNBz='OST=';DIDz='amel';nHz='nux-';pcBz='D_LI';aOBz='BT" ';AZDz='发IP和';rNBz='是否允许';GEBz='pem$';oCBz='T"';ZbEz='检查服务';vPEz='阿里云镜';WrCz='[ $W';GREz='el-d';sLz='/mai';Wfz='s_Lo';EuBz=''\'' $C';nqDz='类型: ';oWEz='s ls';KmBz='，请先安';PSEz='\!恭喜';cBDz='spor';pDz='} %d';atz='rEch';AYEz='="or';lEBz='名：" ';PmEz=' {1.';Xpz='5.0 ';dmBz=''\'' '\''`';smDz='pt"';XTBz='y.pe';ybBz=' /tm';oRz='se} ';riBz='e,';yQDz=' 动态更';Tfz=';;';XMDz=']+'\''`';QMEz='shd ';MOCz='--st';Kfz='[0-1';dmCz='4)  ';KXDz='态更新服';AoCz=' "yu';kTBz='e/ng';nADz='ite';pvCz='35]（';XNCz='kill';rDz=' ${F';OJCz='me'\'' ';XEz='[[ $';kbEz='c \';oOz='r_pl';SpBz='rt\"';xZEz='3; t';ZADz='5544';nsBz='\",';mKz='ub}/';mlBz='lic.';qQCz='安装！"';pFDz='择操作 ';RNDz='meth';YtDz='转机设置';pBDz='"ins';jwDz='s dn';IBz=') - ';ucEz='R=.*';UZCz='{lis';rcEz='#^HA';vaEz='e 和 ';nvz='安装${';dVDz='|${l';eGBz='N}${';HdEz='enet';Vxz='[ $N';HYDz=':${f';YUDz='+udp';oZz='4.ip';CHCz='0" /';yRCz='———"';XREz='需要添加';YiBz='"ip"';amCz='出"';Cdz='>/et';oTz='"htt';AJz='Gree';MMEz='NSSH';nGBz='析到当前';xnDz='2" ]';UgEz='CELE';qrBz='e}"';EbCz='2 2>';FdDz='{cti';KFEz='码\03';rgCz='ket等';uwDz='"已在用';YFDz='dyfi';uoBz='ord ';qECz='S的所有';CiEz='服务已自';GQz='p '\''r';VeDz='in/b';Mdz='/pro';dABz='SHOR';HCBz='选择[默';dWEz='l Li';Ucz='ets ';xRCz='：${B';vFCz='16) ';ZkBz='ip安装';GKz='kern';DWEz='( se';knCz='ate"';ClDz=' rea';dqCz='/cer';Jxz='G_UR';Utz='$(wh';RqBz='${RE';GZBz=':SSL';gcEz='本作者，';VUBz='ta"';ykEz='ZE -';kpDz='$cus';Apz='cal/';JuCz='名解析或';LaCz='/udp';bmBz='LE |';BTz='新版，是';Jwz='N} ;';sfCz='^([0';fxDz='ks5(';AYDz='_ip ';AlCz='ew_s';pREz='ize}';ZgBz='"vme';woCz='CMD[';wDBz='（${I';hDEz='够在不借';ZuBz='ent=';PMDz='.3.5';kBEz='" $i';tfBz='ds":';uuBz='  ${';ywDz='} 目录';BnDz='cdn';ZNCz='$pid';aVz='/bui';FSDz='." &';NNEz='n() ';mVCz='的 '\''v';WWDz=' 清理旧';weDz='u(){';ZZBz='G';scEz='Y_LK';oZEz='nf -';YjEz='ks/s';XoDz='s1、i';FQEz='no s';oYDz='p" |';PgEz='" -a';viz='at";';hfDz='执行 $';nkCz='要更换端';bGDz='nuIn';GnDz=' aga';cjz='f 1`';PRDz='持端口段';GwBz='}IP(';leBz=',';tZBz='"upg';sVEz='脚本。';ArCz='域名：$';PoCz='用户下运';BRz='ew';dGDz='ch ;';nPEz='tras';hxBz='ED}T';UXEz='sb_d';dKEz='g/lo';dWCz='ckag';VUDz='e_nu';uYBz='ve s';LKEz='is_O';CDBz='监听端口';QPEz=' 阿里云';Guz='l)';dKz='/RPM';QSCz='2.  ';ssBz='I/pe';rgDz='/arm';Ctz='alti';JDBz='[[ -';jOz='F "[';Xuz='sSet';twCz='使用单端';vrCz='z $d';DMCz='egua';vhEz=' 服务';FbDz='e > ';TaEz='); t';cVEz='t "2';GiEz='用。';daDz='oto"';ugDz='v7/a';Zez='杂项管理';HpDz='地信息，';uDz='3[%d';YwCz='其他程序';qfBz='}],';gaz='x_sy';EGDz='核${P';oFBz='ery?';gDDz='需要的操';IvDz='80${';sTCz='ins=';GLEz='ntia';iYCz='；1：i';WTCz='必要软件';jPBz='行本脚本';vOEz='o ];';alz='9 ]]';WNBz='L';ERBz='rt"';GpCz='nt <';KDEz='检查与g';BOBz='请求网站';Fqz='`cur';GBDz='ot/h';cOz='int ';coBz='s=`g';Mez='速';MpBz='跳越\"';VWz='add-';QsCz='== $';pPz='s '\''h';Rlz='s="L';MjDz='.ali';CSDz='t}" ';IFCz='择1）：';xSBz='-ins';HdDz='ile"';kYBz='+AES';ooDz='}的哪个';lUCz='.tv"';OHBz=')" =';TcEz='-Pro';fnDz='常用的几';LOEz='在8.5';gnDz='种): ';GxDz='传到该目';iXEz='aspb';WBz='ED}警';kPEz='[ext';LFEz=' ---';Gbz='unin';sBDz='tStr';lUBz='ar/l';WQDz='dnsu';raDz='s 已清';nGCz=' $0`';mbz='ange';Ebz='Inst';EDDz='接如下，';NGDz='开启、重';FVBz='ctio';njBz='fig';MwBz='rt}$';VcDz='-D P';Avz=' cut';KIBz='伪装类型';Gjz='cent';poCz='\\ -';YBCz='.ser';RXBz='}.co';qBz='inin';vbCz='h2"';hKDz='wsoc';UnCz='RELE';oDz='enBG';ATEz=' $ho';Nz='%m-%';OcCz='| so';Ixz='${TA';GYEz='at "';WeBz='anCo';uLDz='s TE';rZz='ort_';UGCz='！" &';iTDz='io/i';DsCz='名：$d';kUz='r" >';nNCz='1573';oBz='ays_';dUz='v4.t';TNz='启BBR';SrBz='g -s';bABz=' /de';sCz='+';SCz='E='\''\';Tmz=''\''`';kRz='} BB';hCEz='h() ';lGBz='IN}!';hjBz='seIP';QvBz='{aut';xNz='rl -';wADz='ort-';hIBz='：$HE';pyBz='id}$';ekDz=' "go';HbEz='，';haBz='ce 0';TJEz='3ter';CdCz='_id ';ZVz=' -r)';UHCz='ben.';aLBz='世嘉ma';eyCz='.sh';Rnz='# Wa';jPDz='owQR';tJBz='dire';ocCz='D：$s';XSCz='重启ng';gYBz='EECD';xEz='运行，执';TRCz=' "tl';YWBz='ult_';MUz='t $1';avCz='"/CN';VyCz='g/hy';VkDz='st &';wIz='peed';yJCz=' " V';ysz='hang';etBz='ty=n';FTEz='b.xy';KcEz='in/h';nIEz='isPr';KMBz='n--)';drDz='%%#*';Ciz='6" ]';vgz='到 内核';gAEz='((i ';VNEz='v ve';nBBz='alit';Duz='"dnf';hpDz='口: "';dcEz='者文件不';onCz='" "y';SFz=' -x ';fqCz='="/r';UADz='onnR';NWDz='l "t';VMEz='DIR=';eKCz='-q h';oACz='}&fp';Sjz='E  "';sUz='tl -';IrBz='打开"';waDz='.." ';QPDz='载SS$';FsDz='}" >';aiEz='.d/$';DWz='te';baBz='perm';bACz='=${S';TKCz='pem"';DZEz='spbi';Bqz=' tes';nEz='cute';CeCz='ck",';QIz='/usr';wqBz='维码图片';tMCz='$(ne';qTEz='rtup';dwBz='D}no';fBCz='T AC';JUCz='co.c';sLBz='代站点(';eVBz='rer"';crDz='ans_';LGz='n3 g';BjCz='f /e';GQCz='2.1"';ImDz='般设置在';aPEz='h/';LcBz='ay-c';fGEz='rdAu';YWEz='你可以尝';siCz='ar.g';EnBz='}${d';pRz='n} $';ZWBz='octe';SmBz='y/n]';Zqz='V6_P';uxz='$CUR';IcBz='//gi';qlBz='功: $';BVz='-y m';wTDz='"	本服';JsDz='nt_l';WoDz='例如ip';UXDz='} 动态';UWz='ommo';wLz='libs';anz='0m'\''';OXBz='TH}';tlDz=' 对于经';ogBz='"kcp';pWEz='="$(';cIDz='gcm）';RYCz='v6" ';NVCz=' "正在';vMBz='3) P';xHDz='8)ae';faz='ax/d';GICz='s4m8';OtDz='mpee';xIz='/mas';JSz='-1)';lDDz=' 重启 ';dYCz='"请确定';MaDz='>> "';mJDz='l c-';YGCz='n" i';ZBCz='e fi';KSDz='ng_d';PaDz=' 删除规';BgCz='&flo';KWDz='y_si';vTDz='p}" ';DUEz='l.sy';ZLz='"ubu';uyCz=': $c';vKCz='P("$';rtz='UPGR';wwCz=' 2 密';MYz='s://';qtBz='$PLA';ohBz='sTCP';RmEz=' 第 $';sIDz='xcha';FUCz='.nvi';dpBz='\"ne';WhBz='se';pBBz='目标:"';MyBz='untr';qiz='q -E';OlEz='*"';TbBz=' tcp';keDz='"  服';NjBz='rtId';xNDz='接${P';qNBz='L"';CyDz='nf_p';RlEz='：（Li';qhCz='lse)';UEBz='are小';dDCz='EN}2';pJEz='优先访问';rWEz='"$ls';mHz='l li';QaBz='ng'\'' ';jcCz='/sid';RHBz='y监听端';piz='ep -';feDz='d 64';kNEz='t 0;';MaEz='统：${';WaCz='est ';XODz='n &&';kWBz='l_se';wdCz='rt_i';kWEz='dist';raz='_aft';Igz='余内核，';aaEz='st m';aBz='s_re';YLCz='：$PO';fmEz='一次..';Pjz='ion=';VrBz='CP()';yYEz=' ip ';HqCz=' 必应自';QSz='gurl';wJBz='in"';hTDz=' ipi';HOBz='推荐使用';GcCz='.3)|';feEz='kl_s';weEz='再运行脚';AbBz='dd-p';KdBz='re/x';HbDz='.rul';xQBz='占用信息';Agz='wc -';srCz='-go ';CfEz='E_PO';ABz='aini';REz='" \';PRCz='E | ';hkCz='择）:"';OVz='.o" ';StCz=' --c';Uiz='rub.';mNBz='L} |';CrCz='证书，正';RvBz='h}#$';ErDz='g_b"';hOEz='/cck';ekEz='${#m';xVz='insm';CLEz='pt i';Kez='5.${';HGEz='shd_';DkCz='...:';VmEz='")!"';hXDz=' ${f';jnBz='p id';DhDz='ency';AfEz='CCEL';OjDz='m/go';mWBz='e on';otCz='crt"';vuBz='}地址:';xUEz='接更换内';TDBz='n1)';RbDz='e ip';WHCz='om/ ';ppDz='IP既可';twz='")"';gfBz='.1",';WKBz='ndom';Cgz='l}" ';QcBz='VER}';FRDz='0 $C';HoDz='LY13';YdBz='ment';pDCz='LESS';BHEz=';ser';jxz=' 检查X';FXDz='tl i';wSBz='反馈"';Nfz='case';dGBz='域名${';XnBz='art(';AgCz='?enc';wfz='p ke';Nbz='ng_s';IjDz='.oss';ImBz='lt 2';UbCz='| wc';DfDz='}[v$';PgDz='>&1 ';GFBz='&& -';VEBz='云朵为关';mdz='ijk ';GHDz='机生成）';ifCz='i=$s';HUBz=' /ro';JbBz=' -nL';ViCz='USER';TgBz='fig(';dPz=' exi';oICz='正在运行';udCz='43';VZBz='$act';DDBz='[默认1';tyDz='rwss';dVBz='refe';lIDz='11)';DoDz='AEAD';kGz='reen';aDCz=' 安装X';EVCz='om_i';TjBz='ffin';OwCz='dp |';AICz='pv6=';kGEz='$ssh';AlBz='" 生成';BOEz='e" i';kREz='Dir/';hNz='[ $y';VwCz='t ${';LYEz='/.*/';ZxCz='xysi';nhBz='vles';wLEz='ssh(';GECz='D}(推';DYDz='eate';PmCz='看rea';YsCz='ie';ecEz='适用于你';EbBz='tcp';TDDz='r@.s';Wdz='? [Y';VgDz='\(y/';BcCz='alpn';roCz=' sed';CTCz=': [0';KRDz=' 欲转发';GEz='dex"';fCCz='.d/9';kfEz=' 1`';cHEz=';37m';QsDz=' tls';siz='red ';kjDz='em';nSz='完毕，请';sGCz='all|';Gtz='(id ';AwDz=' 目录"';CeDz='护进程停';piDz='速下载"';DIEz='0:0/';mABz='sl r';EMBz=' "$a';dVEz='器的 g';EdBz='p /t';cJDz='cre-';cKDz='zxf ';ARz='lusn';uCz='="#"';dIDz='METH';sSz='默认从排';Crz='bot.';yIEz='v4In';BjDz='-"$c';nWEz='xist';AVCz='l_do';wFCz='t ;;';XIBz='4) H';PfBz='"net';ftDz='cdn"';klDz='那台机器';qUDz='t: $';Syz='6l) ';sTEz='t.de';VmBz='wer,';oqDz='" nu';VjEz='ox -';SXDz='pf; ';DJDz='式： $';twDz='置证书"';vOBz='/$re';tkz='F "-';LUBz='x/ng';BJEz='[3] ';uKEz='nden';BECz='议———';pACz='=chr';RSz='${bi';VZCz='ten_';DNEz=' -V';gyBz='Visi';KGEz='d re';RSDz='solv';gKDz='cd s';sVCz='d64"';tZEz=' tun';QvCz='-new';WPz='rf b';ZSDz='正确 !';Ydz=':" y';Vpz='Mozi';dLz='r &&';vaz='lotS';OADz='iveW';xVCz='pack';RCBz='EST=';tpDz=']的公网';HGDz='ern}';pbDz=' "[$';LbEz='BBR，';VRBz='nie';UYz='/adv';FvBz='5 链接';grCz='wg-q';esBz='roja';AMDz='最新版S';XBCz='op f';JADz='mRec';TiDz=' 777';atBz='}:${';bJz='="\0';vEDz='p sn';WsCz='M ==';hWEz='os_i';LTDz='{loc';edDz='p)';Fdz='ty/l';fiz='[ -f';TlBz='ey=$';CdBz='ay &';Acz='8 52';WQCz='ay.s';NSBz='ook ';bREz='2倍！"';jXBz='t_ur';TCCz='99-s';IlBz='key=';MGEz='adde';fRCz='文件: ';tGz='..."';GPCz='d:SS';EBz='te -';ulEz='dns';LoDz='"$fl';WNz='是否现在';qFBz='OMAI';Iwz='运行${';WHBz='nx监听';KWCz='/sin';atCz='功! 脚';HcBz='Y}ht';VECz=' " -';UJEz='m "';vmCz='3[33';WKDz='ev-$';PfEz='hija';VJz='&& R';qVCz='64)';HmBz='es -';WAEz='coun';qIz='nten';ELEz='ild-';IQEz='ils ';QXCz='果留空将';wtz=' upg';bFDz='geco';nkDz='rt_c';QLCz=' POR';vCDz='馈，脚本';bYz='/max';LwBz='${po';CaBz='-For';WoBz='r -A';uIEz='2" >';xoz='"/us';mTBz='/rob';Mwz='}未安装';AkCz='== 1';dMCz='-9'\'' ';xyCz='th';csBz='S${P';WrBz='UE}伪';Pkz='ools';VTEz='/she';YODz='ss-l';guz='rn';aUDz='"———';PrCz='/tra';MfDz=' --';KBEz='口\t|';uZDz='um';uFDz='rt ;';Fbz='sh) ';idDz='ain"';WHEz='bold';KtDz='"此脚本';EcEz='ull';CMDz='tag_';UNBz='ps开头';ZrCz='=~ o';rUEz='vz ]';UOBz='="n"';siDz='n]:"';pMz=' rm ';DEBz='有  $';HwBz='ess)';KcCz='l:\s';yqCz='测到原有';WYz='c/d'\''';pDBz='伪装域名';EfDz='{sh_';SlCz='p > ';RHDz='RT +';flCz='bxo启';ccCz='认域名组';kQEz='q bc';leCz='ies=';EaEz='ll c';wZCz='ll-c';BLCz='}"ip';cyBz='ty 配';IGz='prou';CmDz='机的代理';yeBz='ks":';OZEz='did_';McEz='URL"';YSBz='inx"';fkDz='st安装';RHz='(com';GUDz='2. U';hjDz='&& m';NWCz='ownl';khDz='no-c';WsBz='e${P';WGEz='e="/';nABz='and ';DSDz='& ec';CfCz='ad=/';ubEz='d'\''; ';vBz='31m'\''';vmz='untu';elEz='Q: 退';WBBz='.goo';LoBz=' pat';MFEz='- "';XGz=' zip';kmBz='l di';XrCz='ARPv';UtDz='CDN传';fNz='& yn';EjCz='x 卸载';EjBz='Key"';byz='o '\''a';IoDz='s用户名';cCDz='try}';Kbz='p 1s';efz='7)';tACz='_key';xaEz=' "$?';Pvz='es" ';BqCz='n "H';cDEz='emd及';rbBz='tps/';uz='irat';mCCz='6结束，';jeEz='系统的服';cNCz='ID: ';xGBz='rue"';VQCz='ig /';AuBz='otoc';pUDz='发域名\';owz='"$VE';ZLBz=')"';ENz='x}BB';vqCz='/ca.';uKz='bit}';HFDz='!g" ';RfDz='空 ip';KpCz='SYS"';PFDz='gepr';ZwCz='占用，请';uNEz='修复。"';MVBz='$rem';LADz='Wind';Qyz='arm3';kdBz='et';bpBz='lter';xXBz='8;';tLDz='ll -';xPEz=' yum';gGz='ader';lKz='//${';ElDz='"请问您';qRDz='域名(D';BWCz='ng-b';Irz='fo.i';JfDz='-- 增';nDz='{Gre';mGCz='法: `';trz=':123';QSBz='tl s';xeDz='" ip';PkEz='"✪ 咸';lrz='.top';BEEz=' (2)';iGDz='ckss';aXDz='$(ip';HZBz=':10m';tz='_exp';bHBz='ORT';UhBz='on":';AkEz='6优先级';LyBz='${Co';kmDz='中转机设';wPz='UJX6';lpDz='转发向哪';DKBz='模式：$';TeDz='ppor';VhDz='en_b';sWEz='b_di';kCz='imeo';dQz='m'\'' |';enz='rovi';hpBz='\"ty';csCz='s%N ';QDz='elif';jNDz='E}IP';sBCz='ilte';HrBz='不能直接';hyCz='2 安装';TUz='lt_q';iOCz='-lis';bnDz='d_d_';JACz='hrom';IrCz='-s4m';IRDz='ort(';NEDz='ort#';YyDz='_ip.';dTBz='ml;';JwCz=' do';fcz='w_st';rLDz='Stop';BPDz='ks/S';iOBz=' '\''[n';ZfEz='-c';McDz='"更新i';FoCz='UNIN';xtBz='s=$(';dXDz='nL P';stCz='名解析的';PHBz='o" ]';dKCz='$res';qWEz='-si)';nQEz='oute';PPDz='}  卸';kXEz='/deb';NTEz='y-lk';xYCz=' 地址：';jEBz=' " "';UHDz='ORT ';osz='kSys';AaCz='t}/t';SCCz='l.d/';evBz='运行状态';GOCz='k "s';MGBz='AA")';NHBz='eedN';lfDz='数字 [';URBz=' cro';DcBz='LOAD';YTBz='m /u';xvz='在运行$';Omz='", "';iICz='V2ra';euDz='unt ';MECz='5${P';dsCz='| md';eXEz='_COD';AhEz='ME}"';oCDz=''\''/et';SGEz='码、RO';QHBz='入xra';YFCz='4) T';lYDz='ng_f';rlBz=' " 公';qLCz='ER_T';cpCz='z $S';JHBz=']：" ';WkBz='dev ';gDz='x="1';OGz=' net';FdBz='mp/x';tTBz='> /u';itBz='300x';QbEz='le=$';uXz='ib/m';ejCz='0]'\'' ';Arz='amaz';cGEz='g.ba';uRBz='ade';yxz=' "$(';DQCz='ay'\'' ';Rrz='ev/n';WTz='lots';ZYDz='er}p';bqBz='：${P';npBz=':\"\';ueEz='md 或';oxCz='om/c';dIz='bin';aKz='r/${';VBBz='43"';Hsz='c/ng';bMCz=''\''a-z';Nsz='t 2>';MQCz='RVIC';Hfz='tus}';aiz='t 0';hhBz='"wsS';rhBz=': "n';TQEz='hon ';UPEz='rs.a';bIDz='aes-';Tpz='UA_B';eDEz='t进行管';aCBz='5) R';KoCz='e" "';DJEz='删除 I';BaCz='cp >';KWBz='e_ti';IoCz='utor';gEEz='rawc';JeCz='ox.s';mGDz='="sh';Ghz='$2}'\''';pcDz='rt l';VLz=' == ';saz='er_i';hICz='行${P';jQCz='{CUR';kPDz='wLog';jwCz='使用模式';rpCz='[int';UOz=' "[/';knDz=' rc4';kqCz=' 主程序';hgz=' 内核.';vZBz=' Hos';hCCz='-sys';sREz='mksw';cHBz='" ] ';fRz=''\''el8';abEz='器网络。';hvz=' $re';MADz='Conn';xLBz='站类型[';tnz='m/';XQBz='BG} ';fWCz='me}.';pPCz='log/';Ilz='0.0"';QGDz=' 修改 ';JdBz='* /u';teDz=' 服务卸';MSz='b "$';bbDz='k/if';WkCz=' new';yQCz='ter.';EyBz='%3D$';aNDz='=';owCz='[1]:';hJDz='vel ';WcBz='.zip';WlDz='密等级较';kRBz='sour';MJEz=' 验证 ';psBz='装域名/';WcDz='j DN';HBz=' +%s';vnDz='$sse';ODEz='st 一';GDBz='数字]：';rWBz='t_he';VvCz='a/pr';ISCz='SS--';cXBz='01 h';uNBz='？[默认';UAEz='  		';WUEz='LERA';HHBz='535之';kyBz='址(ad';AsCz='作！" ';RTz='o.or';CNCz='进程占用';NJBz='ASSW';gHz='-upg';KTDz=' loc';pJz='x}"';PjBz='ED_S';Spz='=$(u';YHDz='误，端口';FJCz='fly/';jfDz='. 安装';OBBz='icro';koDz='转发向的';BEz='3[0m';TLDz='cks';wrDz='st_c';ppBz='th\"';Ijz='ed h';obBz='w ht';CUz='er，是';FDCz='}: 网';ZIBz='at-v';SfEz='_lib';dPCz='LINK';QWz='oftw';gjEz='配置脚本';cSBz='"ngi';QQz='4}'\'' ';Mxz='nnec';QdEz='接口不是';PHz=' [ -';LBDz='er: ';cNEz=' '\''BE';fiCz='le_v';bJBz='N]"';ewz='RETV';Kvz=' ${p';qqDz='umst';Vqz='-d",';Wgz='`rpm';fnCz='PACK';uJz='t_pr';Vkz='持当前系';BSDz='inpu';CEz=' \r"';TBDz='ain';qNEz='n  在';Egz='"检测到';KNCz='pids';uECz='禁用IP';wDz='%-s\';tADz='last';sNDz='E}加密';LRCz='ray启';gWEz='kl/l';Tsz='/pan';rfEz='成文件下';vBBz='TINA';yaDz='e 2>';dZBz='ct o';vNDz='od}$';NbCz='col:';LvDz=', 否则';ikCz=' CHA';awDz='y="$';GeEz='ACE=';BZDz='\n"';udEz='put=';FJDz='ULE ';RMCz='码（不输';GlBz='ay x';Isz='inx/';crBz='${se';JJBz='6 | ';HJz='Red_';FMEz='PENS';DRBz='"$po';RLCz='RT=`';ENDz='en":';KNEz='H高危漏';luBz='| ba';bVz='ld M';EpBz='":\"';lMz='age-';fsBz='n链接:';BlCz='ni =';PGCz='*) c';nnDz='D_CH';OODz='z ${';iHDz='s-19';SfDz='口转发';ObDz='n 2>';ibz='e = ';JbCz='v1.3';PXz='ux-N';Idz=' "ul';ZtCz='书申请成';OyCz='misc';ZUz='ysct';prBz='_tim';LQEz='map-';kECz=' " —';ObEz='l=$1';AnDz='enpe';rez='oins';ayBz=''\'')';wgDz=' bit';kKBz='"${W';RDEz='x}[$';DeBz='art=';uHCz='-i s';hUCz='"boo';ZeEz='tup_';IDBz='RT';uEz='ILE"';ILBz='r/sh';slDz='转发"';IWEz='itec';GCz='3m'\''';mIBz='at /';oVBz='"'\'';';AxBz='x400';uoz='dyc.';vpDz='也可是以';ATz='${Gr';FSCz='-"';ayDz='=$d_';fsz='WS="';isDz=' 选择 ';TVBz='eque';oEz='d"';JLBz='are/';leDz='务日志:';QGEz=' "SS';CXCz='all_';cHz='用 ap';XmBz='= "y';UECz='+Rea';LHz='sh';NMDz='| ne';ckEz='l_pa';EsDz='  ]';mnz='jjwx';mPz='l_he';ZdDz='_loo';bSDz='"	当前';alBz='sswo';ZZz='onn/';VMBz='1) P';TPz='出错请反';ZFCz=' WS=';DnBz='ONF_';oQBz='口被占用';Myz='armv';hdBz='-loo';HLz='-hea';sVz='/tcp';TEBz='udfl';Nuz='}${@';XcDz='AT -';GqCz='N}1.';dIBz='guar';ETDz='段 如 ';yPDz='="ip';OyBz='y() ';XbDz=' < /';POEz='k_wh';pNDz='E}密码';kNBz='TE_H';nez='el_s';PVz='> Ma';bODz='ger ';GNEz='rf o';Oyz=') ec';VSBz='ok "';CvCz='点证书"';AZCz='CAL_';eoCz='l)" ';NdDz='ime}';eHCz='ju.c';NRDz='[1-6';bdz='P加速 ';pnz='cult';Aqz='4m10';teEz='安装 s';VMCz='SWOR';GbEz='T 网络';ygBz='acit';KdDz='{fty';LvCz='ime2';RiDz='r /u';gCBz='SERV';tUEz='是 Op';EoDz='_CHA';lxBz='t=${';WOEz='try-';Biz=' = "';ijz='"x32';DgCz='visi';dBBz='"cha';DDDz='点分享链';xwBz='size';deCz='VICE';htDz=' ACM';bRDz='"	欲转';dpz='n64;';ouCz='ath ';wPCz='ay/;';qdz='内核管理';MEz='\';YyCz='ain/';UrDz='rans';ruCz='ath';XUCz='iv.c';akz='7" |';ogDz='入你的芯';LXEz='tc/r';uYEz='rt_t';LgDz='knew';srDz='odes';KECz='—Soc';eDCz='UE}V';pfCz='tcp&';mbCz='r_na';vZEz='_dis';jUz='l=bb';LlBz='_pai';StBz='e=tc';gLEz='l op';KgEz='rt +';mFCz='10) ';sKBz='H}" ';NVBz='ote_';vfBz='"fre';DqCz='2 协议';oPBz='x';kpCz=' $(t';PxDz='功后，用';gKCz=' 域名解';IZBz='out ';XZz='e.so';ipBz='pe\"';oSz='参考上面';qwDz='脚本重启';Lxz='--co';PpCz=''\'') =';PkCz='w_na';RIBz='R_TY';mJEz='置 VP';cCz='out=';MkBz='qren';Dsz='X_CO';elz=' -F'\''';JVDz='rl+C';QKz='ento';lZDz=' ${l';xKz='ml-$';LhCz='/pub';DSBz='rypt';SEBz='保Clo';xFBz='cept';rZEz='ts t';jSz='系统 !';XaCz='地址并确';uOBz='s/ce';SbEz='et -';QFEz='改Ubu';JTBz='llch';uyDz='_ip?';wVz='ipv4';DTCz='-9]*';AZz='/net';vyDz='rela';yKCz='ED}"';IVz='c';vaBz='ttp';qkz='9"';GPz='en_f';CgEz='rwor';ssCz=':") ';VDEz='--- ';ZDDz='成！"';KQCz='fig"';QqCz=' 自定义';SeCz='bili';kvDz='t.pe';hcCz=' --h';KgBz='RD",';dNEz='GIN{';jDCz='P+TL';cFz='L 系统';HREz='git-';xODz='功"';voDz='添加落地';YWCz='.tar';RPBz='.rep';HsBz='(add';ioDz='b}接收';kYDz=':" '\''';ZTBz='pem';wBCz='VPS中';TKEz='p1"';tIEz='6   ';cYz='mode';VZz=''\'' /e';fmz=' "ts';AQz='x_st';poBz='ue"';JEz='ext ';tuz='ep p';JGz='te p';OYEz='\..*';KBCz='$(st';fhCz='n=$(';mlCz=' "##';cIz='n:~/';IeCz='m/si';AeEz='0): ';HPCz='L:10';tjCz='新生成）';IjCz='k() ';RsCz='ip ]';pmDz='1" ]';SEDz='请手动更';fZEz='es )';lSCz='R';Rcz='2097';Osz='res"';jcDz='p ud';ogz='成，继续';rmDz='_a="';JOz='-6.x';TZEz='s )';inBz='uid=';Snz='g me';oIEz='efer';MxCz='pwd"';YTCz=' $CM';mVDz='H:%M';lIBz='=$(c';iMDz='e=":';GhBz='"hea';mnBz=': -f';cPz='w ||';Pyz='ho '\''';jkz=' "9"';STCz='装sin';fMz='s-${';QPCz='allV';Poz='.inf';xpz='36"';DiBz='pass';vLEz='OS"';dcBz='Cach';JdEz='has_';oQCz='ay未安';urBz='/v1/';NZDz='get_';tCBz='o $Y';EHz=' --p';CPEz='um.r';olDz='"[3]';PiDz='! -d';aTDz='IP):';foDz='的落地i';RLDz='<<-E';JNCz='p 5';cbBz='PT';ckBz='nx)"';dgBz='"lev';tHBz='装类型：';QVBz=' [\$';jrz='//gh';HTBz='LE \';rPCz='mp/v';bfDz='x} 服';TMEz='orit';VoDz='入后缀，';dyCz='f in';AyDz='ip:$';ZPBz='到 ht';VqCz='[1-3';yKDz='& rm';dwCz='2 节点';BLz='vers';RhCz='re()';dWDz=' DNA';NLBz='34个小';ElCz='成sho';pIDz='f"';WLCz=' v2r';EOBz='量，vp';fRBz='ijk.';CxCz='pwd';iYBz='S128';MqDz='"注意:';Usz='el/v';dFEz='. \0';jaDz=' ? [';qdEz='息中找到';mIEz='Pv4I';ulDz='由gos';QVEz='"$ld';mz='${NC';OmEz='[Qq]';Wyz='7l) ';khEz='要加速的';Ykz='on} ';DjCz=' "si';Vjz=' | c';SWz='prop';UWBz='nx/m';dwDz='F_Em';LcEz='xy"';QFz='安装 =';sOCz='ecc ';ShEz='取原因，';FkCz='id';JjEz='PAGE';dcDz='p -d';ggz='del}';qEEz='elet';meDz='g/ip';aTBz='y.ke';sFz='at f';Mpz='ual=';FlBz='=$(/';eeDz='og';JuDz='Zero';BrDz='f() ';Ojz='[ -s';aRDz='消...';OXEz='tc/p';aMDz='= $n';GhEz='E}" ';hsCz='gmai';lEz='wlty';AMCz='"dtl';bhCz='n'\'' |';JeDz='-pf-';AvBz='}${u';LIEz='4 优先';uAEz='2 ];';Dbz='ter/';IgCz='p&he';oLCz='认：无]';CFBz='$DOM';SnDz='密码: ';SmEz='i/3 ';CJz='nt_p';bCBz='4]}"';rVCz='="am';nlDz='进行对接';rmBz='me.s';YMCz='ev/u';pWDz=' SNA';CkBz=' jp';cYCz='v6""';jfz='*)';bwDz='{cfk';nmz=' "na';pABz=' 8)"';bNDz='}ss运';Kz='=$(d';IkBz='c su';GjDz='gotu';yVEz='--ve';kEBz='入伪装域';hXEz='an|r';EjEz='$dns';IqDz='IP"';VWBz='ime.';cjCz='ty.s';EHBz='端口[默';fKEz='end ';yMz='S后，请';hYBz='H+AE';RtDz='ws"';pvz='{RED';hqz=' -sL';QLEz='="--';jRDz='s 欲转';OvBz=' "';phz='& ex';SEEz='t转发配';ZvBz='i '\''"';LMBz='x=$(';KGBz='&typ';Gkz='} ==';oUEz='k_ov';dDDz='swit';nkBz='L ==';GMCz='YPE"';HFBz='f ~/';JMz='erti';Bbz='ub/l';eFCz='&& i';Bsz='e"';rbDz='%Y-%';wlBz='y_*.';Fpz='host';diz='-gru';NNDz='s="$';bVBz='"\$h';ffz='8)';Uz='if [';HWBz='lay ';ETCz=''\'' /r';OXCz='您的节点';kLDz=' /va';ZrBz='ype}';CIDz='10)c';eyz='mips';AfCz='y.js';Yoz='shuk';rWz='les/';KYDz='pe})';BZz='.cor';CiDz='r} ]';CcBz='DOWN';aABz='l &>';CGz='c nm';aKEz='e fu';cZCz='0 &>';LXCz='D：$u';REEz='增gos';KfBz='"str';NXEz='='\''re';lPEz='ras]';OZDz='n}($';JMCz='roc/';fMEz='* ]]';BZEz='ap >';FRBz='"尝试终';tWBz='ept-';uWCz='ox';GYCz='api6';VfCz='t si';OiDz='ile(';gZDz='unt=';XgEz='T" ]';YxCz=' pro';dvz='usTe';QOCz='iste';OLEz='g::O';ycCz='g pr';WEBz='闭状态(';wPEz='像';CKDz='ev l';ldDz=': $f';JCDz='3355';rkDz='p_ct';vkEz='(sta';hrz='[ -n';fpBz='\"tc';ChCz='lSin';BACz='装目标(';FpCz='0; i';fuz='retu';aSBz='tand';bcz='log ';ZkDz='rt g';MdEz='as_v';YVBz='_byt';NHCz='ww.q';puBz='omme';PiBz='er":';DaBz=' \$p';uCDz='状态并反';pCEz='"存在新';JIEz='功设置为';VgCz='r Na';mKDz='er}';hPDz='操作！$';DZCz='到有效的';xdDz='检查一次';roBz='ep f';LdBz=' Xra';EhEz='CE_N';sjCz='；1：重';BkEz='调整"';vaCz='oL o';hhCz='gerN';tGEz='otLo';fABz='S=("';fIDz='gcm"';vfCz=':]+)';UvCz='/hys';XQCz='ce';agEz='的端口 ';SNz='，才能开';AkDz='ad/v';BFDz='t_pa';DDCz='EN}作';XsDz='转与落地';mQCz='y ${';iSz='4以外的';WOz='{pri';TtBz='p#${';ghDz='ck_n';hEDz='3s#$';vJz='}[错误';utCz='前VPS';IFz='ATUS';loDz='名?"';HUEz='l-hi';kZDz='nt}.';RYDz='ng_l';GKCz=' 3. ';IMz='ck-c';NUEz=''\''b50';lsDz='自定义证';jSCz='ITYy';LSDz='n=""';mJCz='sle*';nVEz='正常使用';OWDz='cp"';Ryz='2-v5';LsDz='}," ';wPDz='/rul';PVDz='_rul';kxz='ray版';cEEz='1-9]';XkDz='t &&';XiDz='rf "';hTBz=': *'\''';IGCz='23) ';LLDz='://t';wtBz='N"';HlDz='"---';dPDz='QR';pYBz='SA+3';lrCz='op w';SBEz='"  w';UTz='mwar';dSz=''\''arm';ZwDz='F_Ke';RfCz='动sin';mSCz='n/r';YCDz='wd@$';Trz='|| \';xSDz='(dig';JkEz='PS一键';QdDz='=$(i';VCEz='功！"';hGBz='器IP$';lxDz='oxy"';krz='fast';Jhz=' ${d';SPz='半天还是';Jaz='ify.';edEz='确，';qxz='VAL ';xRDz='IP或域';eFBz='icat';pMBz='{hos';mcBz='ip $';laz='_max';iLEz='et n';WiEz='op 2';SIz=':/us';lRz='核不支持';pkz='.0-2';dxBz='h}%2';qLBz=' 8) ';Roz='txt8';wIEz='Pref';EkDz='G/Mu';ZyDz='txt&';kfBz='tifi';FIz='依赖安装';TxCz='网站地址';maz='_bac';shBz='one"';RXEz='='\''ph';gPBz='请在宝塔';cDDz='r >/';dgz='r}`';Lgz='(int';YnDz='接收到的';YpCz='$SYS';Svz='gNee';mHBz=' -i2';igz='deps';SSz='t} =';jgEz='加速端口';ReEz='cont';ePEz='/cen';pKz='leas';ajDz='n/go';Gqz='m10 ';yoBz='utVm';FGDz='}：${';xGDz='ver)';JOCz='hook';GnCz=' hat';EOz='/rep';IiDz='v${c';sYEz='ip_s';riz='tos|';OBDz=':$la';RuDz='：" z';uLCz='p"';XrBz='装类型(';NKEz='SH()';NMBz='-$le';TdCz=':",';Tyz='m32-';IyCz='et s';wrCz='"未输入';DYz='c/sy';mqCz='t 目录';oEBz=' " 域';aLz='ntu"';JLDz='装失败，';ugEz='le_s';pmBz='ice';idz='h_ve';cjDz='ce &';yiCz='Unin';JZz='.ipv';Giz='b/gr';wFEz='d_co';Qoz='o/';iPCz='y_st';UdBz='Desc';aqz='ROXY';rAEz='th)';hQCz='ray最';DZDz='kgro';hGCz='g)';syBz='UE}公';hZz='ycle';eeCz=' CAP';WhEz='反馈一下';ljDz='&& w';uez='状态: ';wxBz='=ws&';DxDz='文件 k';WACz='bk=$';gCDz=' hys';oCz=']; d';YMDz='[ $v';fwz='AL=$';iJz='="${';Wez='用Lot';dQCz='p 2>';NbDz='es o';NjCz='].li';eNDz='}ss配';QqBz='rt)：';hEz='US_F';HRBz='进程")';OsBz='UE}流';noCz='/iss';Quz='IN}"';ViDz='b/sy';OJz='& Gr';tEz='f "$';BGEz='n.*/';CbEz='由于某些';ooBz='="tr';qFCz='12) ';xrCz='域名，无';RQEz='ute2';EZEz='an)';OZCz=':" l';OiBz='{"us';ygDz='64"';DlEz='= en';bHEz='3[42';ewBz='ne$P';JcBz='/XTL';DPCz='ilti';PXEz='hoto';wgEz='te-r';dKBz=' -w ';CTDz='5] (';Efz='us}$';KXCz='"UUI';oMCz='://i';yXEz='lese';TIz='r/sb';UFEz='久化ro';TfEz='ib_f';VYBz='S-12';koz='ongh';yvCz='l [[';sbBz='w ${';gjDz='77 g';sxBz='越"';wWEz='se &';qYz='in/l';Olz='.13.';FWCz='{arc';dcz='240';vvz='EN}X';jvz='2) e';iIDz='llia';fgz='载 ${';PCz='CYAN';Vez='8.${';iQEz='iuti';yXz='r)/k';ywBz='=400';PKDz='r() ';JnBz='h/ac';UBBz='om:4';CEEz='中转机加';ciz='date';gDCz='+mKC';IiBz='"soc';KOz='_sta';bcCz='，将在默';tMDz='OD}"';SjEz='本}"';qez='= "n';XXDz='View';KADz='eive';Cpz='fig.';KXEz='='\''ce';BMBz='站(随机';SdDz='w sc';TYBz='-SHA';YoCz='" "$';KBz='%s))';PhDz='限)，无';WoCz='ase ';gTDz=' -T2';TCDz='rval';Eqz='v4l=';TIEz='4 访问';wdEz='你的网络';DBEz='   G';PUBz='nf.b';iIBz='ADER';jbBz='ll`';XeEz='ctl;';bxCz='&& p';EVEz='k_ld';kJEz='enu(';qGz='tOS/';MiBz='"acc';AyCz='pv6 ';vVDz='tted';llz='run_';lMDz='"loc';ckz='8" ]';gez='优化';hVDz='}|${';jNBz='项！"';NQDz='s_ut';QZEz='sts ';ZVBz='es_s';AiBz='s5Co';vdz='2.${';ijBz='v4v6';FbCz='&1 |';WLEz='ra)';ieBz='l": ';SLBz='/www';xNEz='Y/N)';FNBz='5) P';qjBz='$PMT';jjEz='oot账';eJCz='v8*|';BCDz='7772';bTz='l-fi';evDz='r $H';DVCz='ains';Iaz='inot';UIz='in:/';Jdz=' -SH';WqDz='?"';eZEz='liti';uZBz='";';XgCz='W "P';MJBz='码：$P';RKz='s" ]';KPBz='sign';YVDz='l ru';Yz='PIRA';ppCz='CKAG';GTEz='z/xi';sqBz='t /r';CWEz='使用。';Oxz='t 10';kSCz='n/R';IWz='-y i';ruDz='需要80';uFCz='15) ';yuCz='自签证书';cfz='6)';gbz='_tw_';cgz='${in';JjBz=' "$p';KFCz='er=1';scDz=' fdo';Haz='ward';lcz='forw';WbDz='tore';goCz='-i d';hYDz='en=$';AjDz='bit"';cTBz='igNg';qYEz='请联系脚';fODz='dir ';pbCz='"${D';nTEz='_DEB';pVDz='>> $';rgEz='/10.';wnCz='l" "';LuBz='nds[';pQEz='thon';xbBz='tmp/';QWCz='_tag';NIBz=' ans';UCz='NC='\''';hz='ED}脚';NuDz='eros';eIEz='访问? ';iKBz='brea';YhCz='$(/r';MWDz='_pro';iQDz='  ==';CFCz='请选择操';ikEz='+ PA';ZODz=' ss-';paCz='k_nu';qHBz='yell';cMBz='${PR';YjBz='rrid';jyBz='UE}地';qhDz='rzh/';abBz=' -j ';mBCz='-F';aCDz='=1&s';iiCz=' $ar';ruz='-f $';AHBz='5 -p';lODz='bsha';LnBz='ray卸';fcEz='的系统。';VKDz='ver}';yBz='033[';yQEz='omak';fWz='ll m';joBz='ESS"';dDz='n';qKBz='必须以/';tfEz='p_fo';pNBz='网站：$';xYBz='er_s';PnDz='ks" ';xYz='nu';MLEz='e -o';hFz='upda';GSCz='安装V2';ZZDz='找到配置';mcz='ard ';lEEz='_all';lvDz='m --';vIEz='${is';rCEz='否更新 ';XXBz='en [';tlBz='" 密钥';pvDz='--ec';ksBz='LS()';gxCz='点的伪装';NwBz='}id(';lwBz='n}${';tZCz='开启$l';uOCz='ay.p';irz='="ht';QgEz=' "65';SRDz='6666';ifBz='"],';TZCz='025-';IrDz=' >>$';llCz='Sing';oUDz='欲转发的';VwBz='ED}n';Pnz='[33m';lhBz='"Hos';bFBz='acce';MQBz='43; ';LlDz='密"';cdDz=' 守护进';EoCz='ve")';JSBz='engt';oGCz=' [me';Cz='ON_D';hHBz='x端口：';ylDz='此选项进';FWz='u" &';TPDz='止SS"';SiDz='d -R';BmBz='生成密钥';tBz=''\''\03';uSBz='字到 h';joDz='到的流量';RICz=' 请以r';aHDz='25-6';FfDz='| ww';ZOBz='x...';eIBz='d" ;';DBDz='$ip';qyBz='ow):';QODz='wer}';eGEz='\?Pa';oiDz='陆镜像加';VaCz='您的 d';QTDz='本服务器';BSCz='行输入 ';WdBz=' Ser';ouBz=' "$c';hECz='置"';cABz='ll; ';gSCz=' 请选择';ZoDz='t2: ';QRBz='"端口清';AqBz=' 0`';XuBz='RT}"';ooCz='ue 2';gbDz='sh <';XoCz=' \" ';kCEz='t 5 ';OFCz='择 ${';caDz='t 协议';SbCz='sort';qmCz='m\03';LiCz='"当前最';gqDz=' rou';Xrz='v/nu';YJz='roun';hlDz='收此加密';BNz='脚本开启';mmz='失败"';fWEz='om/l';reDz='f > ';oeBz='ents';PADz='indo';usz='/zon';BlBz='ity密';DqDz='填写, ';iMz='deb';RgCz='N}$s';GOEz=' "无效';Whz='b_de';YkBz='nzip';tSz='第一的高';yFDz='EN}H';yHBz=' 3) ';OBEz='"不加密';MfCz='x ch';JaDz='{cre';HICz='4m8 ';ojBz='se" ';IVCz=' tot';DFDz='" /e';tTEz='bain';IRBz='!"';ceCz='BIND';HNDz=' -nl';eDBz='" ||';yrDz=' mul';oZBz=' Upg';ENCz='443端';neBz='"cli';yaCz='in}:';Tuz='inx(';ZFDz='伪装网站';WABz='密钥对.';EACz='UE}指';iSCz='作！"';NSCz='jan$';MvBz='二维码链';kZEz='$dis';VAEz='teco';usDz='自定义t';ShBz='Encr';qeEz='，无法配';pSEz=']]';OQCz='y Se';VnBz='ay启动';uuCz='证书域名';mIz='ub="';mcEz='E}"';Mnz='s me';MTz='e}/R';jMCz='8-16';KxDz='名必须与';wtCz='实IP不';hqBz=')：${';KUCz='.sam';uXDz=''\'' re';cbEz='一些国内';KaCz=' 2>&';uRz='d64.';ddBz='twor';Zdz='nu()';RfEz='_lkl';jJBz='rect';GHz='nent';TlEz='本工具）';lGz=' sen';ajBz='"qui';kLz='org/';RaBz='/sel';eiDz='k_no';TLz='"${r';UjDz='".gz';DABz=' 不支持';CZEz='n|ra';bnCz='"Cen';Tkz='} Lo';KLBz='ngin';gwDz='fmai';rABz='rand';MTDz='rt="';vfEz='et.i';Xsz='VLES';wuz='FIG_';cGBz='AIN ';gHEz='ferI';GvCz='ecpa';GUEz='iblk';quCz='ey_p';IJEz='设置, ';rnCz='("ap';ARCz='zip';ipz='t/53';HqBz='ay/u';YgDz='if t';btz='o $R';tIz='iakg';Phz='{int';QmDz='s5/h';sSDz='{1,3';xXDz='p fo';YwBz='议(ne';gkz='32" ';mwBz='}底层安';FPBz='gpgk';AjBz='RVER';fDCz='MESS';pWCz='chow';SJCz='v4.3';UbDz='\n/s';ovz='N} $';Uqz='-f2 ';EtCz='/pri';LqCz='N}2.';pHEz='f\:0';mLCz='选择伪装';sZEz='unct';bmz='动成功"';GOBz='足情况下';bNEz='x="$';kOz='-]" ';fxz='[ $?';guCz='= 3 ';JRz='url"';ZeCz='MIN ';Oaz='es/d';kKz='ttp:';joCz='on /';bRBz=' | s';bBCz='lld.';sgEz='2/${';AYCz='ic.k';LCCz='/99-';BbEz=' 网络。';wWBz=' '\'''\'';';kWCz='t/${';RECz='+Vis';DxCz='z $a';AFBz='名(ho';DBCz='UE}R';kMz='x-im';MNBz='//wa';wAEz='\"Ro';HDCz='sldm';tFEz='ogin';ULCz='端口不能';CbDz='scon';vQEz='cc g';ZiEz='del ';pWz='lib/';vOCz='em /';nSDz='kup ';Ufz='2)';QiBz='}", ';jZBz='${XP';sMBz='p $h';OHDz='000 ';PZEz='te=1';CWz='a';ghEz='过修改文';CTEz='xd()';gwz='?';UmCz='}  启';jGDz='s() ';VeBz=' xra';FKEz='* )';jez='出脚本';ffBz='tp/1';vVEz='败，请手';oFDz='装网站"';XPDz='}  修';sJEz='数字:"';ZGz='ip k';sXDz='e IF';JmDz='用于接收';QCz=';36m';VhCz='curr';pjBz='e" &';xQDz='完毕 !';haz='n_ba';dUDz='发规则配';llBz='_pub';IUEz='jack';lsBz='\"${';qJCz='*s39';XCz='o Co';uADz='t="$';FOz='os/U';aODz='mana';Ywz='VER=';uEEz='-9]'\''';xDDz='* ) ';Pxz=''\''"ta';ihBz='"pat';SFEz='密码\0';rFDz='Answ';OUz='-ge ';OWCz='oad/';ubBz='}/ud';dyz='-v8a';fGCz='o|sh';Orz='nfig';INEz='k_op';oHz='head';CPCz='e bu';JhCz='em/s';nZEz='3; d';VvBz='th}#';VEEz='ost配';SgBz='sCon';UcEz='xy'\'' ';bIz='/sbi';OEEz='x} 重';FaEz='oreu';WXDz='服务状态';NWz='enti';iPz='on=$';Fnz='# Er';LoCz='e")';MlEz=' "**';QKEz='VERS';xiz='oc/v';jlCz='_sin';HVDz='错误请使';xaBz=' "44';IhEz='ME"';ZMEz='H:" ';NVDz='es';agDz='y"; ';kcBz='y/xr';LbBz='l | ';lDEz='n)的情';uFz='alld';TaBz='fig;';EIDz='lia-';XbCz='q 3 ';dCEz='onta';osCz='r le';gkCz='：重新选';bQBz='被占用"';ufz='pm -';oaDz='unyn';eZCz='ge 1';yGDz='r_po';unz='://w';vXEz='ssie';fiEz='ch';UhCz='核...';sjEz=' 端口默';QKCz='-f ~';Gsz='"/et';reEz='置服务。';cEDz='5p |';QEEz='x} 新';fjDz='-R 7';lFEz='#\?P';GoBz='&& n';faDz='"确定要';MiCz='新稳定版';UlEz='  ✪ ';FXEz='racl';UACz='chro';sdCz='me,';JmCz='SS-V';xJDz='re3-';Frz='ipad';qsCz=' $(e';PbEz='l fi';qGCz='pdat';txz='rn 2';TrDz='=${t';BvCz='2 的节';MMDz=']] |';FQBz=' ${C';yuBz='户: $';oSDz='"$do';lJDz='ium-';vGEz='yes|';hoDz='从${f';dXz='anqi';MFCz='输入选择';AFDz='ert!';KYBz='6-GC';yxBz='n}&s';pxBz='one#';pyCz='g.ya';AGz='elea';JJEz='还原为系';QCDz='rt":';USDz='g_do';tBBz='LITY';HvCz='ram ';JxDz='秘钥文件';cDBz='PORT';AwBz='CP';GlEz='. ${';NiEz='意键继续';fpDz='$cdn';sgCz='客户端.';EQCz=' V2r';GJDz='m ne';opBz='\"pa';Kgz='for(';xqz='lain';aiDz='em/g';myCz='OF >';aVDz='g="r';eDz='r=31';IDz='then';odEz='你可以从';yYz='ll()';pTz='}/De';tDDz='1 ) ';Kjz='edha';giEz='lib';lfz='入正确数';ALEz='ve a';MDCz='{OS}';ZHEz='$1\0';YoDz='plis';yOBz='sear';YbCz='="$d';NUDz='+UDP';yEz='行一次性';PpBz='\"$I';WUCz='.pix';AWDz='/g'\'')';NoCz=' "注意';WIBz='" ;;';nnCz='t up';cRCz='y运行状';LPEz='e]';LgCz='到有效i';ryDz='rws"';eUCz='ave.';hBz='"${G';ISz=' | h';Ibz=':清除加';ZaDz='es中移';lBz=' $EX';DWDz='/:/g';NADz='Rece';HJDz='t-to';QeEz='重新输入';DAEz='y+ws';wgz=' 数量不';ZpBz='\"ai';jBDz='_ip:';IxCz='使用在 ';ggBz='"alt';Inz='age';aLCz='35的一';KLEz='am0g';sqz='iden';JgDz='ckne';uTz='ver$';QbDz='nabl';suDz='端口未占';JkDz='e &&';fEDz='d#$p';SAEz='t 1 ';ovBz='IP}-';DCDz='tCon';XRz='xit ';QWDz='dp"';LBEz='目的地地';Nvz='ray`';kkCz='HAIP';cdEz='接口名称';YZBz='OT_C';TcBz='$(ar';kNCz='本"';tMBz='ost"';CCDz='16,';TCEz='"定时重';skCz='ort';mfz='字 [0';KrCz='w.cl';qDBz='"  2';bkCz='善保管好';rXCz='"$pr';CQBz=' sto';tlz='t $3';rYz='otSe';dxDz='xy()';KTz='tser';mEEz='你要删除';SYz='sed ';txDz='//:$';miBz='rx-v';oIDz='13)';eFEz='sudo';nlBz='o $G';nnz='c.ne';xaDz='ice ';Kmz='"^[ ';Ndz='read';LGDz='" 3.';QGz='ls a';pFz='vim ';kEEz='下"';FoBz='ork"';SYDz='ist_';BUz='serv';QBz='emai';QiEz='op "';ikBz='on';HKz='el_v';vxDz=':$d_';SjDz='"$ct';uNCz='Stat';lbz='rt_r';wCBz='公钥将在';qwCz='umpI';iaCz=' "$D';lVCz='版本号前';Bcz='4288';bTBz='y /u';TIDz='15)x';xCz='-gt ';JIz='clea';pOz='us" ';OYz='tSer';iDz='prin';hNEz='&& v';XWDz='规则..';wlCz='EN} ';Qz='k_ex';nRDz='被转发服';VZEz=' )';RIEz='访问: ';TvBz=' 6 "';VJEz='p3te';ojDz='cn-s';aRBz='e.sh';xBEz=' 删除g';NGCz='26) ';Npz='$(sy';NUBz='.bak';eEz='intf';NxCz='_sit';EIBz=' 5) ';xPBz='aux ';FODz='ss-s';Zyz='aarc';bpCz='eak';pUz='ctl.';KVz='j-m:';AtBz='-n $';mGz='dmai';iqCz='x /r';HxBz='0${d';FbBz='udp';yNz='s ht';hNBz='或htt';SPDz='启SS"';hnBz='-f "';MHEz='/" /';wnz='hzwy';xDEz='cp+u';DeDz='止"; ';BFEz='务已重启';yjCz='uid ';Tcz='buck';nhDz='3 ht';wSCz='cmd"';dNCz='p 3';dWBz='d/*.';eIDz='OD="';WZBz='ion';IPz='ix}$';FPCz='00 s';RcCz='eq 3';cVCz='e==f';KkDz=' mv ';JCEz='pe" ';qYDz='g_li';lSBz='one';LSz='0.de';yEEz='d" $';LZz='p_co';XjDz='mv g';hvDz='in}"';SFDz='s#$o';rLBz='自定义反';BNEz='ssh ';XmDz='管理"';edz=' ${R';kKCz='录或等待';PlDz='中转机上';SUz='efau';TCz='1;37';oRBz='~/.a';JOBz='允许，爬';DnCz='REGE';evCz='7 /e';SyBz='id":';LOCz='x"  ';FhDz=' ${g';hfCz='ne&f';TtCz='ron ';DvDz='" ce';XVBz='body';jNCz='行一键脚';fbEz='常访问 ';KlBz='$key';ZiCz='ER_C';iyz='le) ';ZdCz='ff_o';tIBz='an密码';rHEz='gai.';Ftz='lt=$';XlDz='低的流量';tYBz='_cur';KaEz='d; t';IFDz='6s/$';WFCz='3) T';KLz='eade';UBz='; th';ZvCz='ubj ';ECz='\033';juCz=' 的路径';XpBz='"${u';FkBz='enco';SHCz='txt9';gUBz='sses';qTBz='sall';pYEz='息。';PEEz='启 go';Xtz='?" !';gkEz='ons[';seCz='AP_N';DjBz='vate';pVz='mi.k';ZBz='$day';HgEz='nf 2';oDBz='. 一个';PdBz='y.se';RSEz='交换添加';jeDz='行中${';gHCz='ww.n';GBz='ATE"';mQBz='ttex';aNz='" yn';paz='ow_s';UXz='br/c';CTz='否现在重';oJEz='6 网络';adz='" TC';KCEz='"每？小';cJEz='址->则';AEEz='密转发,';chDz='提示输入';ONz='ead ';lHCz='ICE_';GDEz='x}当前';LVDz='" va';jmEz='重新选择';TTEz='/kuo';qiBz='"sho';wqDz='re=t';ufDz='shel';IKEz='p 2s';oBDz='in",';ScCz='W "目';vCEz=' $up';lRDz='远程IP';rZBz=' Con';knBz=' $CO';AdCz='y "$';IgDz=' che';cZDz='空!" ';tEBz='IN=$';QYEz='/Ser';DEz=' \';oaEz=') 或者';lqBz='输协议(';UgBz='l uu';RqCz='证书路径';pKCz='N} 解';tuCz='th "';PACz='&sec';rpBz='s\":';jUBz='r_lo';njDz='oss-';LIz='bbr(';Vdz='在重启 ';IsDz='$cou';PsBz='控(fl';WlBz='blic';uACz='}&si';rxDz='  \"';QWEz='1>&2';jsz='KCP=';NFCz='，自动选';hlEz='ge""';wPBz='`ps ';nwCz='认）${';NCz='LE='\''';nYCz='[ $U';JPz='{git';cnCz='tOS"';yVBz='oken';uIDz='0-ie';OVBz='addr';hjCz='Modi';uKDz='！ 请 ';xtCz='匹配"';ekz='.0-4';QkDz='ost/';hcEz='寻求支持';wLCz='hat-';gTEz='/hap';IbDz='s 规则';nEDz='F " ';rIDz='15)';geEz='up_f';tXDz='S='\''|';SNEz='8.5';yaEz='无法创建';WaBz='X=en';AmDz='行解密并';LkBz=' lib';Zrz='| \';ujDz='g.js';Ytz='= "0';PaCz='防火墙规';YPDz='改SS配';LUCz='sung';SHz='mand';lJCz='s64*';wjDz='om/g';npCz='url)';IdDz='${fd';NKDz='1:1}';JBEz='|本地端';hfEz='xpr ';ymDz='decr';SOz='| aw';oKEz='END=';mXDz='规则，请';gZBz='//12';vCz='done';HHEz='新的 S';NICz='t !=';LNCz='=$(n';JPBz='inx_';NbBz='WARD';iZBz='0.1:';JYDz='g_ty';kPz='}-bb';gNEz='min ';krDz='fsta';VkBz='ssl-';ZVCz='elec';OGDz='启 Hy';FACz='纹(Fi';mgEz='ELER';Fjz='tu";';cnDz='要设置的';ZFz='到 Ce';mjBz=' "fa';tAEz='riev';vPCz='n/v2';iTz='}.rp';Noz='ooks';RWDz='Save';vwDz='户目录建';IADz='trea';QhDz='法继续操';sIBz='troj';HkEz='um源"';bSBz='alon';ARBz='t}"';urDz='[" >';abz='ser_';rtBz='IN"';JGDz=' 2${';qlDz='传输而来';Ptz='RED ';StDz='wss"';nECz=' 检查 ';krBz=':${p';KNz=' era';PnCz='n li';OfCz='n; t';XdEz='我们会根';NSEz='动启动';BkBz='gcc ';jAEz='= $c';YyBz='-1 |';BFBz='st)：';KMDz='-d\"';ANz='重新运行';fSCz='N="t';lECz=' 启动n';PJz='een_';jaCz='EST"';whEz='ME} ';LDDz='e hy';cQz=' '\''rp';Vwz='1"';mRDz='或域名(';iEDz='密码已成';LKCz='y 证书';oeEz='者 se';mRCz='   $';tdz='装 BB';KmDz='中转流量';HYEz='%{VE';lWBz='_nam';Cnz='x_in';KHCz='kehu';mLEz='apk ';KEEz='载 go';aNBz='"${P';EYEz='s re';Eaz='obin';Hlz='"3.1';HoBz='etwo';eEDz='d ]]';amz=' $1}';jtDz='请证书"';usCz='-d $';RhBz='cure';upBz='=`ec';wVEz='动检查：';jBEz='CDN"';Rwz=' "$1';VVDz=' 规则已';eCCz='1" >';aIEz='问的设置';NgDz='ost ';LKBz='回车)：';lZz='p_ke';nUDz='}\n';HOEz='的选择，';VSDz='ved_';YfEz='sum ';jFz='inst';NLz='evel';TGEz='OT登录';NqCz='e 脚本';tdCz='": 4';Jpz='d: -';NfCz='eck ';YGEz='n $s';UiCz='（0-1';bXCz='ngbo';OuBz='E)';iNEz='er<=';ITEz='.sh'\''';jdCz='rs":';VNCz='/'\'' -';VpCz='ASE[';bwBz='型(ty';uVDz='rt_f';iTCz='ch q';GkBz='de p';VODz='ME}';kMEz='ATH"';NyBz='y}-$';sXEz='retc';VGBz='} 解析';GRCz='检查日志';oWBz='ss $';vlEz='S7t';fIBz='*) H';ZpDz='等）"';XtBz='ss:/';eZBz='ff;';dkEz='$(((';hiz='dhat';JcCz='+pro';sODz='s-*.';DCEz=' 每？小';eaDz='l_fo';phCz='==fa';dECz=' 停止X';jmDz=' 只需在';GvDz='"请确认';vUz='动成功！';Lsz='`whi';sCCz='启IPv';EbDz='-sav';HgDz='func';RrDz='ve()';iRz='l-c8';fEBz='解析设置';UcCz='}\" ';MlBz=' '\''/P';ZIEz=' 优先访';uCBz='ELLO';WtBz='=vle';YICz='pt 2';bsz='AN="';iADz='oxy';iSEz='tc/d';SWEz='当前脚本';Udz='，是否现';TTz='-fir';IIDz='192-';MsDz='>>$g';svDz='置成功，';bUBz='F';XjCz='ot/p';PGEz='d() ';ytDz='后对本机';VSCz='查看V2';PWBz='sh_m';ETBz='y-fi';Hiz='onf"';aeEz='="/l';BbBz='ort=';wREz='成swa';vHEz='\:\:';pqCz='crt ';Fez='加速管理';XvCz='ut /';PoBz='l $N';RFEz='ntu的';CvDz='Y）"';NqDz=' 落地机';qoCz='f1 |';Riz='g'\'' /';LBz=' / 8';CICz=' api';jWEz='lsb_';KEBz='ey${';DWBz='on;';nJz='or_s';VUCz='o.to';BfCz='Relo';bkBz='(nee';INBz='ng.i';XPCz='V2Ra';lkz=' "12';yMEz='H版本信';tez='" 当前';xZz='kets';woz='IG_F';WOCz='n '\'''\''';ldEz='接口是具';RkCz='称保持不';fbCz='ame=';ShDz='换ROO';UwDz='l AP';Hvz='`ss ';CvBz='码: $';nLDz='}.pi';TdBz='t]';WjBz='bled';ePBz=' 您安装';SoDz='不同配置';yZCz='${li';cYDz='-n "';cWBz='onf.';mWCz='ox" ';kwDz='s_cf';OeEz='信息不能';ioBz='="VL';Alz='ull}';ZdBz='n=ht';KQEz='bc n';iNCz='程后再运';LbCz='ALPN';gfz='9)';rFEz='mitR';eQCz='p安装失';XZCz='0开头$';RQDz=' 安装 ';ncEz='xy_l';UxDz='后用脚本';ZIz='sr/l';ZbDz='s'\'' >';cEBz='"  5';fPDz='D 请选';ojEz='T密钥登';ghz='核头卸载';QUDz='="3"';RkBz='ls f';gpBz='p\",';biBz='.0"';XMBz='ue; ';OcBz='nloa';AJEz='put}';JxCz=' 2 节';frz='L -6';hFBz='" "h';tCDz='查看服务';xoDz='= [N';uBCz='rsis';PdEz='你的公网';EdEz='nk s';mNDz='E}端口';VgBz='id="';GhCz='e si';POCz=' --l';XTCz='，请等待';OQz='-F '\''';CBEz='l_co';FrDz='"#""';nQz='t $4';LwDz='t内置证';dhCz='st_s';tvz=' ;;';tHz='git ';MQEz='ncat';Aiz='"内核头';gIz='ATH';EQz='p "$';uMCz='tsta';JZEz='; sl';ujEz='键修改D';xMDz='"mod';UDCz='VMES';mlz='us=`';sYBz='ecdh';XADz='ndow';jDEz='具(如s';JkCz='节点命名';hgBz='erId';BIEz=' ::f';dDEz='对gos';lBBz='" 请选';aQz='lus}';Bgz='l`';FTCz='ity.';MSDz='IP :';bWDz='dpor';soDz='eer_';gKEz='>&1;';Ruz='igNe';HBCz='N}/r';JHEz='s/Po';TDEz='ll_v';hlCz='请检查端';HMDz='epos';LFDz='5s/$';Cmz='未安装加';rOCz='rt -';qbz='_rme';jvBz='ILE}';IoBz='rk="';LnDz='ss密码';AqDz='0.1)';nKCz='再试。"';JiCz='n_ta';sABz=' -he';CXEz='a-re';ErBz='IN}必';dyDz='\"';bdEz='如果网络';GnBz='n}.c';LECz='ks5协';iqz=' -4 ';Vyz='7 | ';UoBz=' kcp';oABz='-hex';JMBz='((le';eHEz='7m"';oGDz='s-li';HUz='ll';ZJBz='[$RE';iUEz='权限错误';OxCz='e(){';SXEz='oton';WpBz='\"id';xxCz='4 =~';rECz='端口"';yCEz='[eE]';moz='heiy';ngCz='码导入到';JWEz='ture';CbCz=' -al';PJEz='优先级测';Njz='n(){';fKz='-KEY';jIDz='-128';gsDz='yptt';PxCz='入 Hy';hADz=': pr';LHDz='35]:';lbDz='og/i';OnDz='g_a"';jLDz='E -f';gRz='el8'\''';jHEz='ai.c';juDz='r ze';yBDz='dow"';soBz='low ';Atz='hai ';XnDz='哪个端口';NfBz='ngs"';nXz='el/n';boBz='eed ';ksDz='对落地的';voBz='ojan';NGBz='o -n';bPz='cd b';gACz='low=';aSDz='发域名 ';nQDz='ils';fDBz=' "$X';RdBz='e<<-';lvCz='G >/';BWDz='atte';tBEz=' 配置g';eWCz='e_na';hiEz='{1:-';WIz='loca';UKz='port';xUBz='re/n';TUEz='814e';nOBz='tabl';Rez='不支持部';Oez='用暴力B';OgDz='-V 2';RxCz='ia 2';GTDz='-666';paDz='} ]]';utBz='$qrl';QVCz='st_v';CVBz='ts {';jLz='ian.';BXEz='tc/f';uPDz='"$CO';vZCz='v fi';gPDz='择正确的';rCDz='服务启动';xdCz='[$sh';TMBz='ndex';MjEz='page';BVEz='当然，你';WqCz=']: "';jCEz='l -L';AUEz='}/st';etDz='cdnn';wbBz='ray(';MUBz='inx.';gwBz='名/主机';qyCz='ml';lhz='头 数量';cpDz='dnpo';Qwz=' -n ';MKDz='ols';mXCz='ir)';qmBz='/.ac';TTCz='gbox';gPEz='RPM-';gjCz='p=$(';CJEz='务器 已';FnDz=' try';UvBz='${au';ISEz='ts 0';AmCz='本>  ';cfEz=' "文件';YADz=': 33';bHCz='face';fgCz='ity订';MxDz='，目录名';aOEz='gge.';jFBz='loud';SLDz='OF';NIz='=/bi';RiBz='"${p';TMDz='h | ';qXBz=']:${';LSCz='--"';vZz='x_tw';aoDz='ag_c';DKz='allb';OACz='on=n';fiDz='r_fi';knz='79/';gbEz='om。';SDCz='}内核$';tZDz='le_n';LcDz='ol=$';iYEz='on")';WXEz=' "re';CmEz='19)';VbDz='-res';LJCz=' '\'','\''';VOCz='{ ec';UpDz='的哪个端';WjCz='--de';ZrDz='ver%';WhDz='}sud';tVDz='le()';BdCz='rg s';LACz='ow=x';Ylz=' ]] ';deBz='"por';mYDz='2}'\'' ';gtBz='跳越&s';IhDz='ck_r';xfBz='{}';NBCz='2 ]]';EOCz='-pre';AvDz='要输入A';orz='eser';fUEz=' -un';PwCz=' $5}';EuDz='再次设置';SMDz='er -';SABz='证书"';oaz='p_sl';XNDz='-w 0';neEz='tl 或';jEDz='功修改为';sbCz='否支持 ';HBDz='y/hy';wfDz='.1.1';PKz='= "c';UDDz='n/hy';fwBz='}伪装域';AKBz='默认的x';XGDz='[0-5';MFBz='CERT';MCBz='swer';VjCz='(bas';wvz='ray正';PvDz='E"/.';uYDz='x} 类';gLDz='t=$s';bhDz='后可能会';YdCz='ff":';DwDz='书文件名';EFBz=' ~/x';lSEz='入要更改';Bjz=' -E ';KZCz='端口号[';ESEz=' "/S';SUDz='"1" ';eJDz='edtl';ZFBz='lve=';Ygz='el |';fdCz='stra';QICz=')" ]';UZDz='新服务状';yDEz='dp不加';OTEz='l'\''';TWz='es-c';MtBz='t}?e';CNBz='w.1j';oYz='"">>';YlBz=':/ {';dSCz='9) T';vgDz='rmv8';cqDz='"您要设';rGEz='Perm';lgDz='t" !';ySEz='blu}';CJBz=' -dc';gYDz='n} ]';VaEz='ip t';WdCz='onum';cTEz='z-bb';JCBz=':" a';thEz='启|关闭';kcCz='shor';jyz='ps32';daEz='tap';GJCz='y-co';anBz='s="f';wXz='(una';mkEz=' / P';nRBz='shrc';pqz='ipif';kFDz=' 修改证';GQEz='ld p';cjBz='"dom';pgBz='"upl';Yrz='ll |';eQBz='or} ';xWBz='sub_';JABz='r -p';kZBz='y_ht';HDDz='unst';NBDz='t_ip';MCDz=':567';lICz='}Ngi';XkCz='ew_k';nnBz='2 | ';skz='e -r';ROBz='ALLO';trBz='qrse';Jmz='sub(';oOCz='TG群反';oDEz='规则同时';kBCz='UT A';hVCz='est_';NdEz='0 ];';LKz='.8"';mVEz='版本无法';ACBz=' $((';yLCz='o"';aEEz='自定义T';rwDz=', 即重';kuz='x() ';UsDz=' wss';bIEz=', 还原';kdDz='IP变化';ttDz='，使用自';JWz='nsta';QNDz='}正在运';ukCz='要更换目';ykDz=' "已重';YCEz='0 $c';hmCz='eria';UYDz='g_to';ODBz='(shu';ZACz='key}';UIDz='chac';Vuz='=`gr';KREz='ail ';rLz='ates';LHBz='口：$P';cbCz='est';sZBz='nect';eFDz='变更选择';PYDz='"${f';wHz='endm';OuCz='检查DN';PLz='l_ve';qdDz='pe"';FiDz='新版本获';LZDz='nfo=';uYz='rest';Bdz='000"';gADz='de:';Rxz='me":';iJCz='s64l';brBz='kcp ';eLDz='.pid';RqDz='必填写$';SVCz='ag=$';DsBz='&siz';Dyz=' | i';GCDz=' 335';qbBz='cp';afz='5)';tmz=' "de';aPDz='N} 查';vKDz='cd $';xgz='正确，请';KFz='E"';DpBz='\"v\';ABDz='_ip=';QHCz='bqg7';lJz='Font';SQCz='=sim';vcCz='-arg';bGBz='LOW}';DyDz='$is_';xRz='tps'\''';wcz='*   ';mkDz=' Sta';ZYCz='址："$';HLEz='l zl';vADz=',$fi';UfCz='x > ';ypDz='(即12';VxBz='}%26';vGz='emct';Vrz='om 2';lMCz='en -';taDz='规则 !';rcBz=' $? ';wDCz='EN}9';ccBz='-H "';YABz='v op';aYEz='ON}\';TFEz=' 2、持';vDEz='功能: ';VTz='e';LWEz='ectu';MqBz='s): ';kFCz='9) V';PQz='"'\'' '\''';YUCz='o.jp';lHEz='eced';XOBz='allN';wCCz='"#  ';xOz='，请检查';McCz=')|(X';lSz='t 1';GqDz='的服务正';jsCz='acme';IxBz='n}%3';YbDz='.up.';voz='CONF';nOz='b_ve';OIz='n:/s';BoCz='m -y';ScBz='y-li';yMBz='94.c';AKDz='bedt';olCz='} Si';POz='/tag';nIz='raw.';rhEz='t} $';HyDz='t\",';cUBz=' $us';OVDz='save';bTEz='r/ov';coz='s.la';ktBz='less';GHCz='V';vqz='ho.n';bez='x} 卸';mDCz='+WS+';QoDz='文件名"';oVCz=' ${a';UkBz='apt"';imz='ami"';sjz='it} ';qMDz='"met';DACz='AME}';gTCz='sl 2';cADz='rd';IdEz='0'\''';nkz='0-36';tUDz='"	转发';SlEz='nux脚';MBDz='$las';jgDz='-m)';eTCz='rl';skBz='装"';YOBz='" 安装';dgEz='& is';xEDz='s!$o';sJDz='v-de';MHz=' --r';UZz='lt/d';UmEz='清空屏幕';PBz='ys_r';wBz='GREE';ruBz='0)"';SaDz='from';mbEz='APRO';cQBz=') ${';jrCz='n wg';FtCz='ullc';AXz='魔改版B';lTCz='L qr';IDEz='脚本最新';iyCz='"Hys';SvBz='{com';pHCz='ice"';RREz=' (){';MrBz='1 $(';dnz='onep';RFz='=="';CDCz='"# $';kjBz='ay()';nCEz='n" !';Bfz='已安装$';qIEz='= [2';xgCz=' 1 $';IQDz='ist}';JSCz='-tro';uMz='grub';lbBz='ve`';nDEz='多条转发';DJz='refi';NGz='rzsz';nWz='.9';YEDz='sswd';HyCz='l wg';rYDz='st_a';RVDz='y_ru';SWCz='r.gz';ptz='VE="';IWBz='keep';BYEz='x"';SmDz=' 使用g';HTz='alll';NSDz='ip}$';uyz='o '\''r';Uyz='v6'\'' ';uhCz='[ $c';RrBz='越.pn';gdz='ix}[';fSz='arm6';PwBz='}流控(';HmEz=' + 1';cDCz='P"';OuDz='sl.c';mNEz='e ex';qAEz='$raw';sQz='eadu';MREz='源安装更';fNEz='er>=';yfz=' "no';mBBz='择 Re';RWBz='ize ';oqz='api.';qkDz=' Sto';nbCz='me"';kUDz='服务器 ';CLz='ion}';uODz='*';GYDz=' -> ';EmEz='ge -';oFz=' jq ';YXz='lang';Laz='user';uCEz='rm';TqCz=' "请输';jHBz='XPOR';BPz=' 获取的';TBEz='" ws';VYz='inac';UyCz='-blo';arBz='UE}m';beCz='NET_';GJEz='v6 优';CMCz='"wir';YKBz='r -d';wWDz='-dpo';MPBz='le_h';Znz='PLAI';iKEz='锁释放.';uFEz='/g'\'' ';pgCz='hado';wkz='on_f';Gvz=' '\''`';AFCz='30 -';Btz='/loc';QcCz='m} -';EvCz='tc/h';cREz='数值:"';ytz=' aut';shz='k '\''{';nUBz='/err';qrCz='wgcf';scz='ft  ';voCz=')")';OFDz='改"';DODz='reco';NlCz='tcp ';MkEz='p脚本"';DZBz='cach';yeCz='t/re';wGDz='v ss';axDz=' ws"';cPDz='} 退出';OHCz='ishu';pdCz='ke":';HSDz='rdin';Uuz='l ws';CqDz='P地址的';ebDz='-dae';EEEz='落地机解';GtDz='默认同一';MfEz='R}/l';VWDz='$2';aUz='l.co';PtDz='umpe';VPCz='/${N';MOEz='到9.7';jiBz='"war';tUCz='d-in';nVDz=':%S'\''';pHDz='r"';FfCz='PID';btBz='}?en';nbBz='allo';UyDz='rate';rDBz='. 伪装';QYBz='A20-';DkDz='NIKI';bz='E" ]';sjBz='an a';baDz=' 端口 ';XFBz='key"';uvCz='z $p';caz='x_or';elDz='味着你还';TjEz='"✪ v';WCEz='"每日？';LtDz='仅支持简';KLCz='35 -';BbDz='ve >';eRz='版内核.';fQCz='y...';NgBz='"$FL';uVCz='m64"';neDz='op i';NQz='awk ';xuBz='UE}用';oiBz='n"';oZDz='+))';ZPCz='NK}"';LNEz='洞修复工';cGCz='art|';tIDz='cha2';rBBz='i in';Pez='BR魔改';FZCz='P 地址';hhDz='er=$';EkCz='" uu';RuBz='acco';RfBz='tcp"';isBz='}TLS';OCDz='"tra';gOBz=' epe';gdBz=' nss';Swz='" in';tUz='p';iqBz='}aut';leEz='本文件。';eHz='apt ';NPz='如果下载';QXEz='n-re';OJDz='f li';Stz='身份执行';dGEz='s|^#';oKz='${re';dFBz='appl';OPBz='xes=';Sfz='s_bb';ASDz=' for';qDEz='(3)机';CRBz=' -i:';QZCz='rt';CVCz='#dom';adDz='p() ';tgEz='rn $';ONEz='h -V';niBz='isio';elCz='安装！$';TXCz='ode_';PJBz='" ==';VdBz='ript';DrBz='png$';rYBz='!MD5';YAEz='ne=$';wcCz='me" ';RBCz='nalc';gMBz='f3)';hEBz='否为VP';HBEz='"序号|';AoDz='5" ]';roDz='p:$p';aiCz='HOIC';fLz='bbr';WWz='repo';ckCz='"密钥保';lVBz='_x_f';YSDz='域名是否';dYEz='/\..';FCEz=' 每日？';SfCz='程序..';ZFEz='你的ro';iVDz='|$(d';cvBz='utRe';NEz='"$1"';ifEz='$ret';bdCz='ide_';Waz='n_re';PkBz='ix-b';SOBz='W_SP';UfBz='y": ';slEz='ps';wdz='核 (6';FpBz='2\",';EFEz='-9]"';AYz='l=na';LUz='-F'\''.';jCDz='ver';yTEz='EMD_';Dgz='> "1';exBz='3${C';HhEz='t_se';IEDz='5]（回';IcDz='=$3';wiBz='r": ';ORDz='] (支';DSEz='效状态';LhEz='ng; ';Zmz=' '\''{p';DvBz='}${p';trDz='\": ';bOz=''\''{pr';SKCz='ey ]';yKEz='ebia';BGCz='19) ';HiDz='正在下载';EgBz='"tag';mxBz='in}&';acDz=':$fo';XcCz=' h2"';WPDz='维码"';jSEz='n ];';gtCz='key)';QeDz='h dy';rSCz='in:$';jYEz='="ph';HwDz='录后用脚';KUDz='DP\n';rSz='装成功,';XXEz='ente';Paz='4.ro';DQz=' gre';rwBz='@${d';tJCz='90x'\''';wKz='nel-';pYDz='"to:';ZqBz='外id(';cmz='动失败"';PPCz='${V2';yTCz='eliv';NkDz='/Mul';xPCz=' cp ';YpDz='8080';IjBz='ey":';Cqz='w.cn';qMBz='t})';kvBz='ay配置';uUz='BBR启';TsBz='密(en';InBz='&& ~';KDDz='ce >';xVBz='er_t';ofEz='失败。';veCz='t=/r';JhDz='oot(';buz='G_FI';Wuz='ep w';HqDz='在监听的';CpBz='"{';TVDz='re_s';edBz='k.ta';coDz='c.tx';LdDz='pe}|';bKDz='败！"';xEBz='}  "';yAEz='mult';iTBz=' > /';WKCz='lve"';rkBz=' 已经安';tkEz=' - 1';oAEz='(sed';Vfz='3)';BSEz='ap分区';IwBz='}${I';dbCz='ox/s';oJCz='s*)';pHz='ers-';tSDz='}\.)';rRz='} !"';QfEz='ck.s';PnBz='p 2';NZCz='不输入则';IPDz='坛${P';qbCz='EST}';gDEz='(2)能';huCz='公钥文件';Anz='本不支持';MsBz='码(pa';VeCz='ngSe';bRCz='跳越-"';kUBz='g /v';EfBz='1",';AeDz=' '\''lo';orBz='${ex';YJEz='上面信息';GACz='nger';ccz='= 10';cxDz='umde';DBz='$(da';ZKCz='pv4"';Qhz='}`';paEz='ctl';TOCz='ure';OpBz='d\":';TxDz=' 删除 ';AZEz='tunt';KCCz='tl.d';RMBz='Y_UR';Zcz='.net';UpCz='STEM';LVBz='  '\''\';HABz='getD';OcDz='> $n';QCBz='TY_D';APz='！"';IlDz='"[1]';ySDz=' +sh';mWEz='nd_e';QNEz='p'\'' -';HIDz='11)c';prCz=' up ';KhEz='| ! ';RWEz=' <<-';MlCz='口...';vlCz='r 即可';YmCz='止sin';ODCz=':${B';yFEz='uthe';lwz='Vers';hPBz='后台安装';Cuz='-y"';cgBz='uuid';ESz=' awk';yhDz='v//g';jHCz='ig.j';UxCz=' （去除';OCBz='2) R';PjCz='n)';pEBz='名输入错';WTBz='cp ~';tkDz=' "已停';RcDz='rt (';UgDz='是否更新';AlEz=' 1))';uvBz='件或配置';CjDz='r".g';PYEz='//'\'' ';nfz='-11]';suz='ILE ';JbEz='持用此方';XHDz=' 输入错';xfCz='id@[';Zoz='eba.';YbBz='T';BDEz=' | [';QDCz='rtua';qyz=''\''ppc';hQEz='d pc';Lrz='tern';Fiz='/gru';YnCz='u" "';IOEz='Y 或 ';gCz='""';ORBz='ill ';dCDz=' $ur';XjBz='tOve';rkz='on=`';kuCz='：" c';ISDz='g_in';WFBz='IN}.';xICz='"$(/';bMz='dpkg';KoDz='用户名:';JNDz='p ${';vwz='URL=';OUBz='mv /';hez='0.${';Zjz='| cu';PwDz='re账户';IIBz='gard';SZBz='$KEY';ryCz='en: ';Xmz='d | ';wez='加速内核';TlDz='发"';RTDz='的 网卡';STEz='='\''ht';XUz='> /e';hJCz='*mip';MhEz='do_u';SDEz='{she';uiDz='yn="';rlz='r" |';iGCz='${ac';AbCz=' -tl';rXEz='="st';NPBz='otfi';OtBz='ptio';EDz='out}';nqBz='${ne';MGCz='25) ';ulz='us} ';yhEz='rt|s';cECz=' 重启X';EPCz='n:10';oVz='suna';FUBz='cati';qnCz='y up';SkBz=' ipt';OGCz='6 ;;';EJz='x="\';QIDz='-pol';wDDz='3 ) ';yPBz='i ng';VBEz='密均衡负';PrDz='hcon';vACz='d=${';pZBz=' \$h';lAEz='++))';pdDz='t" "';vbz=' 838';AwCz=' -z ';nwBz='全传输(';MmBz=' " 最';vuDz='are ';btCz='本申请到';mvDz='keyp';Brz='onaw';qQz='d -1';rTCz='ebsi';Ihz='-l`';nBEz=' |$s';udBz='Star';ybCz='tls1';mUDz='x}${';tXCz='y"';HeEz='.*#I';TqDz='要设置s';rXz='g.c';tZz='e/d'\''';vWEz='se ]';rVBz='/var';FPz='为: $';XWEz='rchi';JkBz='do v';Ysz='S="f';BtDz='"3" ';YTDz='回车自动';NTBz='load';liz='tos"';az='_DAT';ZRCz='n1 |';raEz='本自动安';TVCz=' "ht';iDDz=' 启动 ';fUBz='roce';MYCz='v4" ';AlDz='读配置并';qjCz='成UUI';oxDz='s_en';psCz='tsen';qWz='modu';tOEz='tOS-';ofCz='id&t';NiDz='ck_f';QQDz='okup';tqz='t.me';lLDz='r/ru';tRCz='}: h';hJEz='Pv6地';xhDz='g;s/';YtCz='n "证';xtDz='  配置';XRDz='ing_';YVEz=' ] |';XUBz='tc/n';UODz='ble ';BLDz=' sha';VCz='[0m'\''';yHDz='2-cf';oHBz='0 -n';gIBz='none';nhEz='请使用 ';WWEz='的系统为';DmBz='ux';thDz='//g;';FLBz='建议使用';WDEz='KANI';HQBz='+x} ';KlCz='开启$P';tVCz='="ar';pZEz='ap &';ubz='2144';VHBz='入Ngi';KhDz='} 当前';hHDz='2)ae';vhBz='SCon';wCz='5';MbEz='将会退出';alEz='jk) ';IbBz='bles';OKEz='OPEN';uSCz='sing';AWEz='版本可能';imEz='选项，请';rNCz='e  -';DyBz='%3Dw';TmCz='ty配置';tWCz='t/si';bLz='mkdi';IUDz='3. T';Vsz='/ngi';mQEz=' ipr';byDz='\"" ';fuBz='t/so';EwDz='请勿更改';eREz='psiz';dqBz='teri';JIDz='12)c';TFBz='="/u';XJz='ackg';rJBz='ls-r';PiEz='nfo';nFDz=' 修改伪';vSDz='l -1';CHEz='t;se';xMEz='ion(';UREz='ir';QVz='kefi';qbEz='64 \';ZyCz='hy2/';ZZCz=' $li';jtCz='t 文件';hVz='sr/b';NgCz='节点配置';lHDz='s-12';NDDz='r.se';yYBz='r_ci';rCBz='d: $';gUCz='.dmm';EZz='t_qd';GPEz='up';lgEz='{ACC';gaCz='：" D';bUDz='———';frDz='g_s_';VyBz='l po';SoCz='("$(';USBz='t-ho';CLDz='ev*';tDEz='转发不失';viBz='"xve';DFCz='作[0-';ZXz='.c';ixBz='LS${';xCDz='"===';IpDz='重启go';rPDz='IR="';EaCz='d > ';AbDz='s-sa';JgCz='e#$n';RPz='新，超过';qaCz='m=$(';kTDz='fcon';JKDz='L wg';IOBz=' n)不';nSEz='机名："';txCz='arp ';jgCz='W "r';uGEz='gin ';SjBz='"sni';UFz='omma';hMEz='W_SS';APDz='ED}S';HhDz='-y g';fbDz='mon.';fvz='`sta';tGBz='}。${';CXBz='MOTE';huBz='="so';ZREz='p，建议';lqCz='访问到 ';rcCz='n --';pxCz='dn-c';ePCz=' 下载V';GxBz='d}%4';FdCz='id "';CIEz='fff:';OkBz=' --f';EPz='版版本号';OiEz='1 -s';LREz='mail';YeDz='pf-d';fNCz='，请手动';VpDz='口?"';YJBz='ect ';RwCz='*://';bbz='ance';Qvz=' 2';Ziz='t-de';hhEz='件:';tWEz='tc/l';aHEz='ckgr';Shz='e -y';HMEz='ERSI';ocDz=' lpo';LhDz='非ROO';GbDz='s.up';uaDz=' "清空';wMEz='llat';AMBz='4个小说';eUEz='$(id';jHz='s bc';hHz='rade';UIBz='3) H';TMCz='成）:"';sFBz='ype=';aUBz='<-EO';MKz='{rel';Umz='== "';ugz='" 检测';AMEz='BSD/';eyDz='\"Ch';kwCz=' 单端口';lHBz='shuf';olBz=' " 私';NaEz='k_na';HbBz='ipta';CtCz='in} ';aNCz=' "终止';MABz=' " X';VCBz='1]}"';NlBz='riva';weBz='],';RIz='/bin';aZCz='sten';PCDz='nspo';ldCz='d,';aCEz='* ? ';xGCz='nfo|';XtCz='tab';hsDz='ls"';OxBz='3Dtl';qVEz='bc 之';WRDz='{for';MHDz='=`sh';INDz='tp |';jADz='y:';Voz='om/';svz='AIN}';Krz='myex';tKz='}/${';KRz='el-c';NYEz=' '\''s/';AQCz='eo* ';oHDz='6-ct';xKEz='tu|d';rbz='m = ';hrBz='d}@$';tsBz='er名称';RUCz='dom.';kDEz='cree';iOEz='ille';LjEz='E=10';sDCz='EN}7';lJEz='1. 设';Dkz='url.';pTCz='L jq';uGz='syst';obEz='KL_D';LUEz='0724';TeBz='emon';lkDz='成功删除';SeEz='l_st';oQEz='2 py';uiz='redh';Sez='分系统)';vZDz='{rul';ZnDz='流量进行';AHCz='v2ra';JDEz='版本获取';GaBz='1 ht';oGz=' "配置';daCz='mazo';vSz='启动"';DXCz='box(';CNz='${Re';qcDz='ip f';KbDz='=1" ';YuCz='截图发布';wgCz='8 -s';NaDz='$tem';HaBz='setS';rUBz='/run';snCz='t -y';NoDz=' "pe';eGDz='nf ;';XvBz='mmen';omCz='0m"';yRDz='名):"';fjBz='egy"';UdDz='glob';Hxz='-s "';KJz='fix=';aNEz='v ma';moDz='转发向$';PkDz='asyG';XYz=' /ap';ZQz='grep';puDz=' HTT';lyBz='rt):';QZBz='ate_';SBBz='.app';dUBz='er;';yqDz='tera';jIz='2.0.';LvBz='览器打开';QOBz='流量"';GHEz='h_22';YrDz='r#*#';Hgz='} 个其';vrBz='crea';enBz='="VM';CjBz='"pri';hBCz='FORW';MfBz='etti';Dxz='ray-';yhBz='sock';bkz='| ${';VbEz='下载失败';YgEz='! is';vxBz='${ws';CpCz='YS ]';afEz='etry';dLEz=' Too';JrCz='8 ht';NFBz='E="/';KZDz='et_i';BODz='1 ${';sECz='开启IP';KjEz='_SIZ';GtCz='hain';Suz='edNg';Tbz='x = ';GfBz='80';TmBz='：" a';LLBz='x/ht';bsDz='默认开启';YeEz='lkl_';Wxz='EW_V';ZbCz=' $DE';plDz=' 解密由';yQz='bbrp';RGBz='{IP}';wWCz='h /r';IGDz='}安装 ';FvDz='thod';SJDz='ke m';vdDz='0  #';nCDz=' -f ';COz='i.gi';ajCz='0].t';tNEz='间，需要';mJBz='er" ';vEBz='AIN,';Hcz='axco';TIBz='utp"';cdz='一键安装';nQCz=' ，架构';keCz='ilit';Cfz='${_f';fxBz='ry}-';HLBz='于/us';OhEz='很遗憾，';tPCz='d /t';Lyz=''\'' ;;';EWBz='nopu';kHCz='son"';KSz='s-d1';xuCz='使用必应';iXBz='ques';lREz=' bs=';Rsz='"/ww';xXCz='e64 ';Ypz='(Win';Wsz='nx/"';eqBz='d}${';Hez='x} 使';YYCz='v4 地';aez='9.${';qlEz=' $ch';vICz=' >/d';QDBz='2000';uNz='er_p';UYCz='A-F:';ZaEz='p-te';xmz='ntos';LTBz='RT_F';bXBz='};';dmDz='种加密方';dHDz=':"';MHCz='sia/';rJEz='出脚本"';PlCz='udp ';nVz='cp_t';CUEz='p/ha';GsDz='nfla';BPCz='H';amBz='t $C';fEEz='_ct';rDCz='EN}6';UBCz='-pag';whDz='/ //';VBCz='_por';Cjz='-i "';VNz='魔改版，';IkEz='"✪ V';FREz='nel ';slz='  '\''{';fFCz='6) V';DMBz=')]" ';OAEz=' err';CCBz=')) $';hdCz='_onl';CuDz='s解密生';QeBz='ti-u';MCEz=' " c';HWEz='k_ar';sTz='sh")';umBz='_REM';GTz=' yn';GxCz='th_p';fYDz='pt:"';PcDz='ew_i';tOCz='LE  ';OvDz='$HOM';mNz='nfo}';IZz='onf';QLz='rsio';ViBz='"udp';OLz='-${k';ApCz='"$i"';LVEz='dd'\'' ';TLEz='w"';HOz='/bbr';YKDz='.gz;';XOz='nt $';KYCz='_IPv';XxDz='内置证书';RIDz='y130';efBz='["ht';bYBz='CM-8';orCz='ip';BQBz='x -s';HeBz='artP';gBDz='nter';FVEz='l ld';ZxBz='26pa';ZqCz='ertI';GFz='化完成:';dOEz='nt/u';pbz='6553';Wtz='ull)';eWDz='T --';mCDz=') &&';gIDz='ctr"';FnBz='omai';sBBz='!REA';QdBz='rvic';OnCz=' "'\''a';jKCz='名解析记';nyz='4le)';jhEz='来配置需';MnDz='_b';NKBz='WSPA';LfEz='${HA';lACz='_SER';wkEz=' PAG';iWDz='on "';tNz='ub_v';fVBz=' '\''';FGBz='/clo';ajz='t -d';AvCz='作为 H';wVDz='"${l';Dhz='-l |';VGCz='z $1';KABz=' /us';fnBz='ess"';qKDz='IN}]';YHBz='35之间';XKEz='检测操作';KHDz='： $P';MEEz='动 go';NGEz='motn';vTz='{Fon';wcEz='='\''"$';SADz='432';huDz='roma';Wbz='fs.i';YDz='3';BEDz='rt()';oLz='ity/';CwDz='录名与证';Pmz='", $';RTEz='$SER';wXBz='utf-';nHCz='md/s';JcEz='}/sb';tgBz=': 10';ChBz='gest';FSEz='ir/s';fSBz='op |';WWBz='s;';kMBz='/ip-';xbz='_wme';MsCz='ip="';imDz='N自选节';rYEz='本作者。';XJCz='|i38';RWz='are-';qcBz='NK}';sDEz='oot后';ZdEz='口设置转';PlBz='y:/ ';HDBz='" PO';tGCz='t|re';hFCz='7) V';PIDz='14)c';nGEz='rmit';OABz='Real';ADCz='}   ';ohDz='os/g';hbCz='e`';gsz='XTLS';jKBz='k';YkDz='tl r';iHBz='$POR';ahDz='限（执行';bNCz='进程，P';UEz='slee';epz=' x64';pWBz='L;';tgDz='rmv6';TYCz='9a-f';aREz='为内存的';Maz='_ins';kfz='}:请输';FHCz='n/V';kFz='all ';xWDz='rt "';BCEz='umcr';rBCz='netf';rGBz=')${P';iODz='nel';blz='[[ `';LAEz='s5:/';quDz='P申请（';oEDz='ep k';qOCz='l-ce';hvCz='bing';qvDz='c --';IBEz='方法\t';whCz='nt_v';cCCz='_ipv';Jkz='2.6.';oNCz='9@qq';muBz='se64';bOEz='wp-c';lXCz='eypa';GKBz='ue';WREz='Dir';LVz='=tcp';hLEz='pam-';wwBz='derT';ATDz='s 本地';PCCz='o.di';IFBz='.key';aBDz='78';yKBz='径：$W';NsDz='ost_';ytCz='n "建';qACz='ome&';OMBz='n -n';bpDz='npor';jxDz='egra';eZDz='置的规则';cUz='t.ip';qqCz='t/ce';LJz='"\03';xUz='lus启';pnCz='um -';NKCz='，无需理';WnDz='要将本机';XlCz='置以确保';nMBz='ho -';RGEz='H开启密';TrBz=' 50 ';iBEz='隧道转发';kBBz='LUE ';jpz='7.36';paBz='ewal';fQEz=' nan';ilEz='页 / ';uZz='p_ma';ccEz='过低，或';jGEz='s|" ';tpBz='link';jvCz='RERO';ALBz='H"';Eiz='boot';ZECz=' 卸载X';MkCz='1：重新';Ecz='6';gABz='$(op';EZBz='e sh';YtBz='/${u';AqCz='t(){';RxBz='cp%2';ZfCz='+\.[';IVBz='log_';PNBz='cc" ';sMEz='.bas';ZMz='n}.d';ECCz='6.co';OhCz='Swit';jwBz='peer';hJBz='模式[默';FuCz='关闭状态';xnz='/';Ajz='p -q';IGBz='y?na';ycz='nofi';VlBz=''\''/Pu';xREz='p分区';YcBz='Xray';lQz='F '\''"';hHCz='et/';kxBz='&hos';DHDz='置SS的';Fz='6-11';nsCz='t-ca';OOz='rep ';jCBz='$(ec';GMDz='om/r';dfz='ng';sFDz=' $co';cWEz='ux K';aDEz='(1)本';ukDz='止"';dkBz='|| [';KfEz='le="';XuDz='ME"/';Kqz='er}"';PcEz='oxy_';pLBz='.cc)';iFBz='://c';Iqz='er-a';yUCz='net"';EODz='-nlt';sxDz='tcp:';EMCz='rd"';goz='cg.c';EtBz='UE}路';kuBz='th" ';mYEz='无法确定';cPBz='rt 反';jnDz=' cha';ecCz='选域名"';myz='ppc6';GQBz='ERT_';QjBz='HORT';EKEz='0 )';EsCz='n" &';gpz='pleW';PEDz='2s#$';SUEz='4506';oaBz=' fir';nBz='余 $d';PXCz='名称，如';fIz='rt P';Htz='}'\'')';kvCz='UTIN';IuCz=' 其他域';rQCz='新版V2';LCDz='ks5"';CZCz='未能获取';iVBz='r_ag';vkz='}'\''`';YQEz='lrzs';KGz='ytho';bZCz='t + ';ZYEz='"%{V';uQz='|| -';YkEz='器 一键';dRDz='${fo';HxDz='录"';COEz='ssh';oPCz='var/';BlDz='重启"';ctDz='umcd';ihz='续...';InCz='nel|';XDCz='"  $';OHz='d';KCBz='nswe';oXCz='"'\'')';PHCz='xx.c';KFBz='，将使用';sDz='ont}';xHBz='BT下载';mRz='当前系统';TfCz=' sin';mCEz='=|"'\''';dnCz=' "Fe';WjEz='"✪ H';vvBz='无效"';PMBz=' 1)';ngEz='ATE_';OsDz=' enc';IXDz='uiet';jfBz='"cer';EIz='= 系统';GsCz='eep ';ThDz='T账号或';kVDz='-%m-';cgCz='UID:';KUEz='2017';yEBz=' 伪装域';qaBz='ld >';KPEz='[bas';ZJDz='bev-';UTEz='ruan';uHDz='7)ae';dsDz='umen';tcBz=' ];t';SCBz='ESTI';FGCz='x ;;';euCz='$cer';duCz='问"';Tiz='b2/g';nKEz='RONT';iaBz='setF';Grz='dres';NkCz='命名）:';dCz='0';cHCz='rome';LMCz='el/r';BlEz='= st';Sxz='-d'\''"';KQz='ers'\''';bSEz='kaix';XHEz='3[1m';CAEz='ot/g';WQz='(cur';YrCz='4Sta';aaz='mest';KACz='}?fl';mDEz='况下实现';YQBz='$por';kPBz='tNgi';IKDz='ch w';PfCz=' "所有';loBz='ep x';GiCz='$sin';mdBz=']';GBEz='  "';Exz='s/la';ZSBz=' --s';fMBz='d/ -';QRz='s-c7';HlCz='w_si';YDCz='EN}1';IJCz='ses/';mOCz='书失败，';YNDz='="ss';PbDz='tl e';hsz='="fa';dHBz='&& c';XLBz='.1ji';lxz='本信息失';eKDz='ME}.';EGEz='on y';DLCz='D}"$';FdEz='how ';VVCz='ager';fdDz='(res';AfDz='口转发一';xQCz='e v2';Jsz='.d/"';kXBz='i;';sdBz='ges=';jgz='${rp';efCz='id@$';vfDz='n="1';IfDz='.cn ';MuDz='(至 z';VuDz='：" d';KaBz='x/co';LOBz='问网站，';TJCz='2.1';DvCz='hyst';YFz=' "检测';Kaz='max_';ueCz='AW';egDz='c/';gHBz='LUE}';EQEz='m na';AADz=':';XhEz='end_';gFEz='swd ';VOBz='允许搜索';Icz='nn =';yyBz='${SE';erz='P" ]';SaEz='tap ';auCz='Hub ';wUEz='你可以直';MMz='an-u';Hhz=' wc ';vSEz='" 完成';DjDz='z';JOEz='N。"';nlCz='####';YWz='ry p';pNz='rebo';CKEz='V4 "';OyDz='rno"';hXCz='x ge';JHCz='op/';KVDz=' 退出。';UGDz='置文件"';otDz='置，默认';iwBz='SNI/';mFz='url ';FwDz='; 删除';RYEz='ver*';ZOEz='zhan';NEEz='止 go';NhBz='ED"';UlDz=' 用于转';jVz='cc';mUz=' >> ';WPBz='nx';YuBz='comm';Axz='hub.';RwBz='ED$f';cqCz='h="/';rbCz='\" 是';qqz='y.or';PMCz='" 请设';ifDz='ix}1';ZjBz='p",';wOCz='ey /';rYCz='"节点i';GYBz='ciph';TwBz='}加密(';mhDz='2 -T';qcz='    ';grBz='{pas';cgDz='tc/g';Onz='OW="';LHEz='*/Po';SbDz='es 2';fFz='安装..';AFEz='删除，服';FSBz='ue -';saCz='T | ';MZCz='35]，';ToCz='pret';dfCz='/$uu';LGEz=' -i';GRBz='止占用的';rHCz='(hos';mYCz='IP';XVz='/$(u';tODz='n8/s';uPz='m/re';LXDz='务...';JwDz='即自动启';NPCz=' on;';ZQDz='& ap';rbEz=' '\''^h';xgEz='c.d ';MYDz='{Tip';VPBz=' ngi';XaDz='除完成!';cQCz='o jp';Aoz='ook.';RVEz='ldd_';nz='}"';urCz='证书的域';MAEz='@:$d';idBz='kup.';QVDz='e_to';qVDz='ILE';ybDz='E';YMBz='-${l';koCz='lsb-';QYCz='6" &';fLEz='lib-';EREz=' ker';XqBz='uid}';wRDz='(请输入';jwz='orma';kVBz=' "\$';BWz='od -';pKBz='伪装路径';YIEz='4 或 ';uxBz='path';bPDz='看SS日';gUz='stio';DOz='.com';saBz='>&1';oqBz='k}${';qSDz=' -Eo';UTCz='prei';wJCz='e'\''';Vgz='del=';wsz='o/As';Ynz='ge';CBz='(( (';acz='dev_';SlDz='道流量转';sXBz='l ht';OZBz='T_FI';Tez='7.${';Zwz='`/us';sYz='rver';eCEz='启任务删';CPz='BBRp';fpCz='"目前暂';lQBz='$(ge';QUz=' "ne';Qkz='3.10';TqBz='}${P';qSCz='al/b';xKBz=' ws路';BZBz='s on';Baz='p_wm';OVEz=' '\'' -';DoBz='l -n';kXDz='发现 i';Bz='RATI';gQBz=' $(g';CRCz='cat-';QLDz='CE_F';xJz='ont_';BQEz='he';JYBz='S-25';tECz='v6"';OYCz=']+\.';HADz='maxS';RYBz='POLY';mJz='_col';QACz='y=re';sUBz='nx.p';NrCz='/cdn';HVBz='024;';quBz='nt" ';okDz=' "已启';jcEz='l_bi';wjBz='t vi';eYDz='F "d';PBDz='st_p';DTEz=' '\''sh';ucDz='pe c';DaCz='dp >';eNz=' ] &';xVEz='ldd ';FNCz='口，5秒';IjEz='系统"';mICz='nx未运';kgEz=' = $';mjEz='启SSH';gvz='tus`';QnBz='y启动失';kMDz='":${';muCz='：$ce';XAEz='t_li';dpDz='g_c:';gLCz='能以0开';YRBz='/get';VwDz='I Ke';Qcz='t = ';ncz='= 1"';GWDz='ng_r';TvCz=' 365';KiDz=' gos';FEBz='ray.';yUz='mod(';XCBz='2]}"';aQDz='l -y';eaCz='n.co';laDz=' n):';jlDz='之后须在';sICz='.41.';qXDz='E ]]';Wqz='-f4 ';YjCz='c.ke';YGBz='olve';OUCz='ic.a';LPz='ver_';sVBz='/log';dpCz='YSTE';qKEz='ve d';viDz='= [Y';BBDz='"[$i';eKz='-GPG';fJz='olor';JlDz='流量转发';Daz='u_pr';RpDz='自选ip';KsDz='ine ';jGBz='(${I';FOEz='消"';ueDz='载完成!';EGBz='on" ';uZCz='rt端口';mYBz='S256';DVEz='续安装。';msDz='书开启证';ROEz=' -ko';uRCz='ltys';HdBz='cp /';PZCz='n_po';iZz='p_fi';dBCz='ble';MnBz='载成功"';XsCz=' "Ce';VQz='rl=$';SaBz='inux';XeDz='in/i';BhCz='rein';aQEz=' c++';wqz='et/p';mBz='E (剩';IwCz='rt")';ZNDz=' ===';arCz='n|pl';aoz='com/';UGBz='MAIN';UaBz='s/SE';GSBz='d $D';OEz='t_co';eUz='cp_c';DICz='64.i';LeBz='=23';pwz='R" |';tEDz='t.ya';dCBz='5]}"';luDz='"ACM';WODz='cd /';BIz='：不支持';eLz=' cd ';mZz='epal';Bpz='/con';yWz='od';KDCz='IN}：';ULBz='4.co';XZEz=' cor';PQBz='$(ls';nMCz='m8 h';YdDz=' -1)';Ivz='-nut';YqDz='代理服务';dtCz='(cer';hOCz='ne -';pSCz='ox()';blEz='N: 下';qkBz='版 ${';opDz='"注: ';BICz='s6m8';QDEz='置脚本"';bhEz='成功启动';AeCz='"dir';BwDz='"证书目';bHDz='的数字"';RJDz='toma';ykz='r`';vDz=';%dm';oODz='bev*';tSCz='v /r';JXEz='er'\''';Asz='fals';Loz='?aff';DhEz='"${S';qQBz='t "以';bDz=' ]];';dwz='1 | ';ReDz='c DN';coCz='e -s';IbCz='(TLS';jtz='CMD_';jTz='m';NDCz='}虚拟化';XIEz='3 删除';JUBz='.txt';VqBz='d(uu';NBz=' ))';HtCz='-fil';jyCz='a 2 ';puz='n/xr';Byz=')" i';NLDz='blog';uvDz='续签，证';KWz='ll b';mTDz='ll)';PDBz='f -i';HaCz='ort端';ZXCz='"节点名';bBBz='roso';TACz='&fp=';XDEz='KIG ';Huz=' 系统版';vWCz='box';PWCz='${la';MJz='3[31';nACz='NAME';SJz='nd_p';ULEz='hel|';nFBz='s-qu';WSBz='l re';cVBz='ttp_';Skz='27"';baz='amps';vWz='unam';exCz='.ac.';eYz='/app';TBz=' 7 ]';xBDz='"max';UdCz='": (';fXBz=':${P';RgEz='535"';UjCz='sers';Bmz='启动失败';QEBz='"  4';gaEz='d lk';quz='ay ]';gXz=' > M';etCz='t) 和';teBz='"$PA';tqDz='fifo';WKz='p://';PhBz='"dis';BCCz='clos';saEz='装失败了';TmDz='ost内';eWBz='EOF';aEz='} -e';dvDz='t_ce';fMDz='inte';xkz='ull=';BQCz=' '\''/u';FOCz='-hoo';bGz='l ke';dlCz='ox未安';lpCz='ype ';nGz='l';VHCz='ww.f';vhDz='/g;s';EmCz='.${R';oLEz='buil';WRBz='cron';bZBz='H} {';mVBz='orwa';sWCz='oot ';DbBz='RT}/';yPz='s-6.';piCz='g}/$';RXz='eed/';ToDz='应不重复';bsBz='}XTL';Plz='0"  ';QREz='swap';KVCz='ns))';FmEz='lt $';WVz='ules';UQz='imgu';yFz='el-r';ILCz='ay监听';xACz='-Rea';BxBz='&dat';wSEz='主机名修';gZEz='|ora';Zsz='alse';ugBz='0,';mxz='败，请检';dACz='TED_';EHDz='密码（不';JnDz='a" =';laEz='命令(支';KCz=';34m';cQDz='st} ';BcBz='ay';uiBz='ST",';cOBz='yum"';mmCz='S.UT';ktz='INST';OUDz='ype_';FLz='ve -';JgEz='is_p';ZqDz='的端口?';BTEz='stna';OWBz='s_ha';fGDz='5 ) ';VJCz='版本信息';ovDz='ert/';xiBz='ames';UcBz='chAf';XQEz='pip ';lYCz='SER_';aQCz='igV2';nvCz=' 2 端';VQDz='s &>';CcCz=' h2 ';ObCz='\s+h';TREz='wapD';QcDz='p:$f';bBz='main';mQz=''\'' '\''{';mgDz='86_6';QEz='t_bg';yoDz='n] ]';LpBz='}-网路';Csz='NGIN';OIDz='ietf';lXEz='ian_';SkEz='键脚本"';ufCz='fA-F';yMCz='80 |';UPDz='看SS配';VLCz='以0开头';suCz='：$ke';eODz='s-re';QMCz='置tro';gbCz='`cat';ETz='[Y/n';JKCz='录下有 ';rhDz='e" |';euz=' no';ycDz='${lp';SOCz='nsec';SwDz='re G';OiCz=' 0. ';ybEz=''\'' -d';rjCz='D（0：';VjBz='"ena';rqDz='ra" ';pXEz='.*//';VWEz='系统，你';JcDz='l fo';NHDz='i102';QADz='w: 3';tPz='b.co';CZDz='"当前有';jEz='"/ro';MBz='6400';YPCz='y: $';fNDz='置文件：';fXEz='ENAM';KgCz='没有获取';rTz='nel.';IZEz='apt_';sIEz='::/1';IvBz='}$PL';bCz=') {';IWCz='Sage';rnDz='方式: ';tmCz='3[32';pjCz='要重新生';gWz='ln -';DHCz='n/v';kmz='改版启动';pSBz='a.ce';VFDz='te#g';TbDz=''\''#!/';dtBz='e&se';FhCz='op s';vLBz='s开头)';IaCz='口已成功';KMEz='sh-$';PeBz='=mul';mhBz='"$DO';NpBz='\"ad';cMDz='已安装最';fTEz='ASE_';fTDz=' -t1';klCz='停止成功';oZCz='，端口号';xMBz='w.jp';nuCz='rt_p';gMDz='rfac';jMDz=':"$i';xQz='下载链接';NhEz='nins';IpBz='"${v';vnBz='d $C';IYEz='RSIO';TNDz=' met';PDEz='键安装配';reCz='CE C';xTCz='.lov';oiEz='$0) ';mkz='4.8.';caBz='issi';aRz='= "8';nyDz='ip=/';yQBz='") $';spCz='E_IN';IcEz='_LKL';vYBz='ecp3';uSz='版本内核';kEDz='：$pa';xDCz='+XTL';mxDz='hod(';fKDz='gz';CyBz='h=${';Wwz='getV';yeEz=' "$A';mEz='_exe';yCBz='ay后生';VmDz='协议，轻';HJEz='先访问的';xLCz='vide';gIEz='默认选1';uDDz='a ;;';QnDz='s密码:';Obz='yste';Urz='ip.c';adCz='verr';fQDz='未安装 ';axCz='site';WXCz='ity(';pmCz='red(';qvz='}未运行';TnDz='" fl';XDDz='2 已彻';wACz='D}#$';yrz='BT="';LNz='se '\''';FWDz='isti';DlBz='key_';sfz='tota';nNBz=' -d/';eSCz='ROJA';IuBz='q -r';VSz='64" ';Yaz='s/d'\''';kKDz='-${n';JRCz='占用！"';TdEz='需要你手';sSEz='-hos';RKEz='ION=';jLEz='tpda';cuz='LE`';JaCz='ufw)';TdDz='ope ';lhEz='端口或端';akCz='钥，请妥';yCDz='====';bKz='rele';EbEz=' 无法创';GyDz='t=$d';llEz='一个选项';TUCz='al.c';dHEz='41;3';tNBz='爬取网站';wfBz='edom';OaCz='无法配置';UXCz=' nod';ONBz='ven.';Nwz='norm';SUCz='"tid';XfDz='x} 删';MBCz='-lt ';lNDz='IP}$';BOz='//ap';uiEz='s_se';evz='xt()';lmBz='sabl';ELCz='{pv6';GcBz='{V6_';sRBz='uto-';kpBz='one\';bIBz='5) H';ZGDz='uInp';WfDz='加 ip';xDBz='P}）"';MdDz='${ct';Xkz=' ${v';BDDz='2 代理';Ffz=' , $';vbEz='-U -';nPz='ad';UFDz='ite#';wMBz='//ww';MrDz='_d_p';yUDz='n "$';Saz='ut/d';DSCz='调用本脚';ofDz='ing';KvBz='   浏';uWEz='sb-r';eqCz='t.cr';DHBz='CKS5';pKEz='noni';TPEz='irro';gECz='ray配';YNBz=' 请输入';nCCz='可能需要';vRCz='h.cn';kaBz='ch f';qoz='huha';pGCz='nu|u';nUCz='rcap';qGEz='n.*|';sbEz='apro';gVBz=''\''"\$';iiEz='do_$';xHz='ail';sEDz='lien';SiCz='稳定版';TXz='er/b';aJz='efix';kGCz='数错误"';pgDz='片架构，';kLBz='u.cn';AZBz='pher';MEDz='1s#$';hTz='vel-';sCBz='D"';RABz='需域名和';CoBz=' tai';TDz='meou';jbEz='DIR}';WWCz='ge_n';UaDz='((cu';Djz='an";';qz='fi';pGDz='bev"';eXCz='和公钥，';CoDz='md5"';QPz='前正在更';kHz=' nca';IaBz='elin';PCEz='$cro';tHCz='ectl';sQEz=' git';cgEz=' inp';mTCz='de';FMDz='OXY}';ChDz='pend';uMEz='veri';iXDz='g_te';wdBz='y ru';RFCz='1 ;;';eECz='---"';naCz='webs';YDDz='底卸载完';YeBz='LE<<';xECz=' 当前状';QxDz='会自动启';BgBz='ckho';rcDz=' fip';MHBz='ORT"';iFDz=' 修改密';ilDz='流量, ';piBz='"rea';DADz='amRe';JVz=' "ob';ZQEz='z up';VdDz='al |';KNDz=' '\''ss';XHz='到 De';SZz='e.rm';gYCz='认ipv';pVEz=' gli';boz='xiax';kFEz=''\''s/^';MgDz='=$(g';baEz='p ad';hbBz='ch u';MYBz='A384';mqz='m 2>';mADz='oxys';eGCz='wInf';xTBz='ts.t';ExDz='ey.p';KeCz='ce <';BUCz='jp"';dfBz='IN",';aICz='mctl';OTBz='cmd ';ftCz='私钥 (';vUDz='"	动态';sLEz=' "不支';LPDz='z   ';byBz='ay R';YPBz='失败，请';OMDz='r="3';heBz='toco';XGEz='ssh/';LZEz='pt-g';rvBz='id" ';HNBz='//bi';EhBz=': tr';jkDz='ll_c';tOBz='kage';niCz='x-${';TmEz='次清屏 ';oYBz='ES:R';vWBz='ding';OOEz='需修复。';DOBz='耗一些流';JfCz='tNOF';DdBz='unzi';iyDz='//$d';osBz='s\"';QmBz='卸载Xr';tgz='，继续.';mAEz='s_co';CWCz='ox-$';vXCz='y" |';Hz='CURR';xoBz='outp';iREz='ero ';OkCz='" ne';BuDz='s/ws';JFDz='/$hy';Ztz='dnf ';OMCz='id`';djDz='& ch';xKDz='E} &';qoBz='flow';PTBz='"ser';tKEz='depe';eBz='!${N';PtBz='n=no';pbEz='IR}"';bKCz='6"; ';VTDz='P，而不';CZz='e.de';HMCz='=`ca';IUBz='bots';dJDz='l mb';KwBz='}端口(';rJz='r="$';WCCz='ipv6';cZz='kies';YlDz=', 一般';wnBz='LE 2';WZCz='ED}端';TyBz='d'\''"'\''';ULz='se}"';JIBz='"请选择';yBEz='numc';tCCz='menu';ukBz='ER} ';rICz=' "v5';ZcEz='可能是 ';aMCz='-dc ';wpBz=' | b';ixDz='于Tel';NRz='装内核.';AUCz='e-an';wOBz='ever';QCEz='nhr ';HiEz='享受加速';UDz='t} -';ZHz='/Ubu';RdEz=' ven';VlDz='发原本加';hxCz='网站为：';IECz='ED}(';QYz='ll.s';yBCz='络端口已';kwz='lize';sPBz='onf/';nsz='ITY=';hJz='Info';hcDz='$for';RPDz='动SS"';BFCz='p " ';LeCz='<EOF';rLEz=' ntp';vkBz='，架构$';DlDz='ol()';lOCz=' 获取证';DVz='rmod';bGEz='hd_c';qDCz='+TCP';mpDz='个IP或';ZoCz='-d :';hbz='reus';PrBz='ay-$';QbBz=' -I ';wbDz=' $1"';dlBz='te_k';aFz='ntOS';acBz='K}"';hoCz='escr';qdCz='ver"';gnCz='AGE_';gcCz='D...';WiBz='": t';HNCz='试释放"';OkDz='ti-E';EUCz='demy';ewDz='ail=';nJCz='psle';qWDz='to-s';fuCz='ut =';FyCz='ATE';sMCz='联系作者';iFCz='&& T';RMz='}-al';RbBz='INPU';tcz='  no';sMz='le_k';bOBz='PMT"';Dpz='json';nXCz='y/ {';RuCz='是否为V';rtCz='"当前域';afBz='verN';OCCz='nf.l';flEz='出   ';XcEz='件无法正';nJEz='S服务器';PZz='/fs.';FUz='(){';jdDz='p" &';iXz='ile';jOBz='-sta';RtCz='* * ';iwz='"$(n';RUz='re.d';aTz='t}/k';qXCz=' '\''"'\''';ZcBz=': ${';JTDz='}):"';gnBz='kcp=';Kdz='n 10';oiCz='w_ve';qYBz='DES:';KEDz='分配端口';IkCz='要重新给';GBBz='密钥对"';Nrz='ifco';iGz='t-al';TGCz='确的操作';nvDz='E/go';nFCz=' TLS';MoCz=' red';cvCz='.bin';wgBz='nlin';cTDz='cal_';lsz='S5="';muz='= "f';oVDz='ig" ';eEEz='t_ct';Amz='启动成功';BsBz='=${l';RODz=' "y"';BoDz='rc4-';WyDz='?ip=';OqBz='UE}端';LPCz='stap';nqz='l ||';WdEz='口名称。';lxCz='clou';NVEz='v | ';tICz='if /';rmz='s" |';Oqz='son/';nlEz='N/Q/';CtDz='ss"';mOEz='.8 &';ESBz='-iss';cuBz='cks:';xlEz='17)';TsCz='do s';GHBz='0-65';VJDz=' xml';KqCz='）${P';URCz='"$se';xLz='sl1.';hvBz='y配置文';JWBz='aliv';kYz='1\"';SZCz='rt=`';tKCz='pv6}';cODz='ss-n';hDz='x="0';VIz='usr/';EGz='cat ';IKz='ersi';BjEz='"s/n';tnDz=' "1"';swz='-f2)';lYBz='128:';FrBz='须是下载';PaEz='if (';fGz='l-he';JvCz='-nam';VbBz=' 80 ';rRDz='DNS)';gBBz='"git';LfBz='eamS';hQDz='装...';rZDz='则编号:';kQz='el7'\''';xyDz='rt?c';laBz='all-';hUEz='"roo';Psz=' != ';hYz='onfi';IqCz='签证书 ';Owz='aliz';MDDz='ia-s';NZEz='e )';tmBz='e ng';qBBz='for ';yRBz='-ca ';OCz='5m'\''';feBz='T,';yWDz='j AC';ndCz='"han';YGz=' unz';nTDz='r} 无';gVEz=' $ld';rNDz='d)：$';WlEz='：v40';MoDz='ag_a';cGz='rnel';RSCz='D}  ';cBCz='disa';KxCz='点的密码';CGEz='Pass';yECz='态："';ZWEz='试从源码';RZz='-max';uJCz=' '\''pp';BRBz='lsof';ajEz='装脚本"';XvDz=' 证书生';oJDz=' c-a';BUDz='ype(';PdCz='mp":';ifz='0)';pNEz=' $cu';khz='毕，继续';TkCz='0：保持';wGz='l en';DOEz='[Nn]';xZDz='l te';Nhz='|gre';UcDz='tcp+';wz='info';FPDz='66.b';UCBz='ONS[';OYBz='13-C';gYz='tc/c';cqBz='${al';pEz='exec';qNz='ot';smCz='m$1\';nQBz='t "端';EiDz='st 最';WpDz=' 80"';lOBz='=ngi';SMBz='L=${';PXDz='-qui';xhBz='e",';gICz='D}未运';EqCz='证书申请';syz='risc';gQCz='" V2';SGCz='请选择正';ZMBz='en} ';UtCz='-f >';fkBz='all';rkEz='$((P';KKz='4.11';PKEz='SSH_';KuCz='CDN网';YTEz='ts/r';HJCz='re/r';CwCz=' -tu';yGEz='hd;s';qMEz='ATH\';mxCz='dfla';XbBz='CCEP';lSDz='l ip';AEz='d\03';eiz='s(){';fCDz='t/hy';cSz='m64.';Uxz='4)")';lyz='32'\'' ';Xyz='v7a'\''';gXEz='E")"';jaBz='all(';imBz='-d \';jCCz='gree';wbEz='s '\''/';rjDz='aliy';iWBz='prox';CoCz='VE=(';XxBz='3D${';hYCz='4（0：';TJz='42;3';IOCz='ost-';jDDz=' 2"';EqBz='$lin';IlCz='id =';lPDz='nu|i';mPDz='ll|u';haDz='所有端口';Glz='} = ';inDz='-gcm';uaBz='ce=h';nUEz='脚本!';DfBz='p/1.';dYBz=':EEC';qtDz='置的证书';aPz='snew';rsz='ltim';rqz='g 2>';QFCz='0) e';XHCz='​';iiBz='leve';UkDz=' con';RgBz='vmes';ffDz='次使用前';ysDz='"2" ';FjDz='eck-';phBz='"vle';sQDz='fig_';CwBz='ess';IiCz='rren';FBEz='配置  ';vYCz='机仅有 ';YfDz='除 ip';MbCz='\s+p';IFEz='改roo';jQBz='检测到"';ehDz='的密码）';TbCz=' -u ';IuDz='-y s';GgBz='ked"';YOCz=' "ng';pcz=' "* ';FlDz='要设置哪';VWCz='acka';TECz='uTLS';erBz='utTr';jWz='bin/';xqBz='想下载位';PFBz='c/xr';Zlz='&& [';LkCz='持不变；';jJCz='e*)';qmDz='flag';kOBz='ble]';alDz='内中转机';xPz='N/bb';rQEz='-pip';pCz='o';gfEz='y=`e';WxDz='重新启用';nEEz='的配置编';lKDz='ew_v';yuz='n 1|';dRBz=' ema';pwCz=' " j';Txz=''\'' -f';sOBz='/pac';KeDz='daem';KcBz='S/Xr';rRBz='sh -';ebCz='rnam';Drz='what';MNz='^H'\'' ';fhEz='你可以通';nmCz='F-8';Tgz=')); ';xmBz='mmon';iBCz='ARD ';IYDz='(${f';xwDz='t${F';kcDz='"$ne';HPBz='/key';RQBz='i:"$';jhCz='r '\''[';UEEz='看现有g';ZfBz='": {';DLDz='ssPa';qaz='tart';DJCz='R==1';LCEz='时重启:';VhBz=' fal';KnCz='le l';hIEz=', 请输';PvCz='req ';nZCz='输入错误';cUCz='"mor';elBz='ey" ';wUBz='/sha';wwz='ps:/';IKCz='oot目';UnBz='用！"';gNz='="y"';Ez='"202';icDz=' "ud';iGEz='n ye';NEBz='件，无需';FaDz='t}|$';odCz='dsha';xiDz='rf g';lVz='d +x';JdCz='ip" ';FFBz='pem ';NCEz='ronh';LZCz='1025';SsDz=' ws隧';ZDEz='特性: ';PGBz='ve} ';Xfz='tsev';ujBz='ate';ZsDz='必须对应';ScEz=' '\''HA';Jjz='at|r';yICz='NR==';KJDz='r qr';uwz='TAG_';mRBz='/.ba';oMEz='_SSH';tVz='.ko ';cJBz='xtls';PmBz='" 确定';xFCz='17) ';oLBz='aven';ULDz='w.me';kqBz='UE}传';sADz='rstp';Zxz='v$1';Vbz='000';JoDz='_c';ThCz='box内';hNDz='LE${';Nlz='= "3';vVz='net/';OhBz='sTLS';bBDz='tran';fqz='dev/';WZDz='ice_';xABz='_SHO';VGDz='" 0.';RFBz='.pem';JRBz='rt" ';UvDz='6 --';TXDz='启动!"';UoCz='ty_n';qPBz=' /ww';jACz='ty=r';okBz='" Xr';meEz='器未安装';yCCz='本${P';kBz='效期至:';FIEz='100"';shCz='.tag';xeCz=' -c ';lBEz='  |$';ALz='nel_';HrDz='g_d"';flz='.'\'' '\''';VdCz='$lis';LxCz='为：$a';FLDz='h ss';QyBz='(gre';sFEz='ootL';Jlz='6.0"';YSEz='6.0(';ejDz='mod ';LRDz='至的 远';BPEz='tc/y';KrBz='UTF8';naBz=' -eq';yDBz='   3';tcDz=' fty';yBBz=' "  ';ppz=' Chr';SiBz='assw';sQBz=' $po';ioCz='ipti';fhDz='。" &';oSBz='cc/c';Wkz='统 ${';ACEz='ron';jJDz='m li';xkEz='E_SI';iACz='p&se';dMEz='SH_D';hiCz='变"';mcDz='d=$1';ARDz='新服务已';qPDz='IG_D';jkBz='AL="';QaEz='ip &';wBEz='务"';fPz='"7" ';ERz=' -O ';tQz='rl" ';wHDz='b"';jxCz='te"';rnz='ifen';QgBz='s",';TpDz='g_c}';pIBz='uid)';pUCz='.sky';Wjz='ut -';IcCz='PN\s';MmCz='TY（s';xdz='.x稳定';HTDz='6)"';gTz='l-de';YXDz='ing(';ADEz='[sS]';epCz='M ]]';eBBz='t.op';IKBz='径，以/';tyCz='tls:';ywz='.git';xhEz='{sta';LEz=') " ';AcBz='p/xr';BnBz='{NGI';XdCz='ber)';cIEz='为系统默';FGz='bind';aSEz='w.bt';WVEz='.}" ';ieDz='ix}运';ZwBz='k)：$';BHCz='yy()';OVCz='安装稳定';nhz='请检查 ';mhCz='lect';pfz='esac';aACz='&sid';Rbz='.fil';dJz='& Fo';bKEz='ser ';xaCz='_cli';TvDz='c-25';uOz='Rplu';DNz='d_fo';nrCz='go >';HJBz='old ';fDEz='理';UQDz='ind-';RDBz='-650';eXDz='G 2>';FxCz='& au';rBDz='"ini';OJBz='ORD"';EMDz='6_PR';LODz='卸载SS';HVEz='(ldd';yADz='t=$p';GuCz='(仅限D';AKz='ffix';xOEz='的源为阿';PVEz=' rev';CxBz='a=vl';vgCz=' utf';QQEz='ute ';lWEz='='\'''\''';Slz='otse';CmCz='}  更';xqCz='n "检';ffCz='p:$l';RpBz='\"po';PEBz='2"';aQBz='"端口未';VrCz='-s6m';yZz='p_rm';ZQBz='t $(';Gz='-03"';VDCz='S协议—';lpz='TML,';JGEz=' ssh';klz='= "L';fOBz='TALL';Yez='速)加速';FjEz='v.co';JJDz='p ta';chCz=' $3}';qrz='2a01';iCDz='-ser';naDz='yn';gQz='vel'\''';woDz='？[Y/';UHz='apt-';WcCz='.3 与';KpBz='${IP';IYBz='3-AE';CECz='N}  ';DHz='-cmd';tQBz='rt $';gCCz='9-sy';bVDz='ule_';fOz='lus_';wpz='537.';EYBz='2 TL';mCz='-le ';pOEz='do_C';PZBz='LE;';jIBz='_TYP';HuBz='=$(j';ggDz='st';kOCz='v6 -';bVEz='" -l';DwBz='"$ws';eTEz='BIN_';vJEz=' "$m';wyCz=' $ke';XtDz='只需在中';yLEz='pub/';yEDz='ld_c';miEz=' $(b';KvDz='未被占用';LgBz='"flo';eYCz='你的节点';KPz='hub_';iPDz='|ins';mKBz='H:0:';oFEz='tLog';ktDz=' 手动上';TNBz='者htt';YYDz='"${i';LmCz='LS-R';rXDz='LE ]';QZDz='_inf';glEz='第$cu';fvCz='n="w';aADz='32';yDz='%dm%';CLCz='v6:"';Pdz='"需要重';rUCz='nes.';GoCz='L=("';IaDz='e}|$';jZCz='535 ';RoCz='CMD=';MCz='PURP';epBz='t\":';IXEz='acle';SqDz='}域名$';nYDz='ger}';LqBz='P(ad';tBCz='r-pe';dPEz='iyun';HaDz='in}|';PNCz='-E '\''';XgDz='wnum';sUEz='器好像不';NQBz='[ 0 ';duBz='}#${';hYEz='phot';HcCz='(^AL';PNEz='d_ -';vXDz='r ru';Juz='请升级到';PSDz='lved';NLEz=' Dpk';yyz=''\''s39';VvDz='e; t';WkDz='77 /';doDz='"请依次';EhCz='新安装.';tpCz='L[in';RQCz='Type';pgEz='2 ba';dgCz='}$uu';pLDz='\$MA';aIBz='ideo';pRBz='cme.';EoBz='1| c';avz='ginx';EgCz='on&s';xBz='N='\''\';KVBz='at  ';EEDz='aml ';hkBz='inx';WQBz=' ${G';YvCz='t -s';ktCz='夹下"';iNDz='ss配置';YaBz='ing/';xoCz='@]}"';yPCz='ay/g';Nmz='t]+$';rmCz='3[01';siEz='地址: ';CaEz='ll i';qIBz='AN" ';nNEz='}'\''; ';IAEz='t\""';aaDz='除规则:';JdDz='n}|$';kICz='}, $';DXBz='_HOS';FsCz='& sl';vz='ion_';JqDz='is_c';bZEz='supp';dQDz='装ipt';UCDz='30s"';DfEz='RT" ';cPEz='s.al';Ukz='er不支';mqDz='自上而下';AuCz='议如下：';CcEz='nt'\'' ';jeBz='"tro';EECz='{BLU';bgBz='"id"';snBz='rid=';Uaz='_ret';Ocz='.wme';fOCz='stan';YKEz='系统类型';hOBz='l-re';YqBz='UE}额';xOCz=' $NG';dz='hen';Ttz='该脚本"';fcBz='l: n';AEDz='gepo';XMz='ux-i';SCEz='ab';RcBz='/Xra';riEz='新的DN';NjEz='_opt';shDz='s/\"';LVCz='ins[';fBBz='enai';SmCz='}修改r';gYEz='"vmw';yMDz='e":"';wQBz=' "端口';MnCz='a|ro';cxBz='spat';mFDz='N}4.';ZJz='d_pr';WnBz='ay停止';fyDz='ainN';Fhz='e | ';neCz='N CA';KuDz='SSL的';WvCz='y -o';eLEz='-y z';UiDz='r/li';fXz='g.o"';isCz=' ~/.';Jfz='入数字 ';Iiz='} /b';yLDz='成功!"';aAEz=' '\''EN';wSDz='p" ]';WuDz='"$HO';nxBz='erTy';RFDz='-F "';LkDz='/KAN';KGCz='24) ';OdDz=' "$t';ydCz='id]';HiCz='：$cu';QwCz=''\''s/.';XVEz='"14"';gxBz=':  $';ixCz='$pro';Jnz='N="\';ZTDz='检测外网';Imz=' '\''{g';AdDz='ip}|';FnCz='|red';fyz='64le';DMz='u2_a';oYCz='IP =';hUDz='端口  ';XOEz='dela';gdCz='tegy';rUz='sysc';rkCz='ew_p';wjCz='uid';ugCz='- -t';GjCz='Show';pXDz='则:"';dkz='3.16';GLDz='$ssP';AgDz='.2"';nvBz='}-${';IODz='op $';aZBz=' ${W';WFEz='，可永久';nLz='ecur';uLBz='tp或者';jBz='}脚本有';WGz='zip2';ICBz='认:1]';AdEz='s_vn';TaDz='s "$';ZMCz='om |';jABz='8)" ';TZBz='E;';chz='，开始卸';LaBz='&& g';JEEz='新 go';pBz='rema';RJCz='$1';ocz='>>/e';YaDz=' 从ip';deEz='tc/i';JQEz='epel';jmz='BBR魔';LLz='rs-$';emBz='in" ';WECz='----';fQz=' '\''de';nUz='/etc';ayz='h64)';NaCz='ad >';rlDz='的流量并';WMBz='_URL';hWBz='acti';fJDz='s mb';IyBz='6pat';SpDz='{fla';EUEz='LIB_';sPDz='/ipt';aGCz='ate|';IIz='="';SvCz='09 -';wKBz='用根路径';eQz='p -v';mLDz='n/${';rFz=' soc';ElEz='d; i';EYDz='d_ti';VKBz='/ura';Fcz='core';QUEz='c70c';Pbz='m(){';giBz='ityC';ZpCz='TEM ';GMBz='${#S';oKDz='" [$';AAEz='t/go';fKCz='tml;';yTDz='_ip}';abCz='ST >';IBCz='png"';CBCz='l.tx';FMz=' -N ';gWCz='tar.';nuz='[ ! ';QNBz='入反代站';iwCz='2 端口';iaz='cklo';bUz='nf';dSDz=' : $';aDDz='thys';NcDz='les规';spBz='\"\"';WkEz='penV';klBz='/rea';BbCz='s1_3';Doz='wap.';nOEz='& sh';HQz='pm'\'' ';lPz='s';JBCz='Log(';ERDz='LE';YgCz='c Ke';cLDz='PIDF';AcEz=' '\''/n';aDz='gt 5';vuz='$CON';gRCz='{CON';SqCz=' -rp';kbBz='`ufw';QIBz='EADE';ylEz='22';MGz='it l';sWz='-r)/';bfEz='t "3';VYEz='s ${';owDz='ce; ';iZDz='_id}';LWz='uild';DhBz='ion"';dlDz='此协议意';wTz='lor_';bPEz='//mi';waz='r.sh';bwCz='重试！"';tXEz='h"';NYz='e/lo';bqDz='理服务的';Lbz='opti';noDz='{pee';Qtz='" 请以';PDDz='f /l';GVz='tsun';iWCz='-C /';OGEz='_ssh';CNDz='"fas';aECz='ray$';Lwz='*) e';GWEz='d --';xCEz='[yY]';MuBz='0].p';nrBz='期时间:';apBz='\"$a';SZDz='} ($';tyBz='钥(Pu';GoDz='0_PO';USz='arch';XMCz='t /d';tbDz=' %H:';WJz='ed_b';RADz='3554';EpDz='可以随时';RCEz='? * ';TkDz='& mv';SVz='make';ehCz='e_ve';njz='R内核不';mdDz=' $fo';XbEz='本需要能';LJEz='置 "';OfBz=': {';gCEz='te_s';bdBz='Afte';HLCz='入v2r';rdz='1.${';IQCz='tl'\'' ';glBz='y_pr';nCz='30 ]';enDz='(仅提供';kFBz='flar';Dwz='未运行$';tYDz='}.${';LNBz='7) P';rMDz='hod"';syDz='/:?i';Gmz='onf ';duDz='ter-';aYBz='28-C';UWDz='oto=';JZDz='ll}"';bQCz=' sud';RsBz='$flo';Jyz='64) ';clBz=' {pr';rPBz='nx/c';qCDz='2 服务';xCCz='键安装脚';gEz='STAT';hxDz='加隧道用';cLCz='默认随机';fUz='onge';bJCz='v7*)';qZDz='删除的规';wkBz='(arc';GLBz='这个(位';qtCz='y文件路';kCBz='f1)';HRCz='或查看端';SYCz='([0-';iLz='.deb';GGz='-uti';vpCz='b -k';Odz=' -p ';OjEz='ions';PmDz='装ss/';pLCz='HEAD';iLDz='h -c';qTz='_Ker';NwDz='成失败"';Fsz='ATH=';jhz='头卸载完';TGBz='${DO';AODz='{lin';JQz='ep '\''';kJBz=']" a';mQDz='完成 !';RYz='h) i';Wrz='>/de';cCBz='6) R';VuCz='本可能跟';WbCz='" -e';LxBz='n%3D';VQEz='on3 ';clDz='  选择';KlDz=', 不加';fHBz=' ${B';XaBz='forc';XdDz='-d'\''/';AbEz=' NAT';ACDz=': 16';dEBz='. 请检';gjBz=': "U';VfBz='"tls';xcDz='id}|';hCz='whil';xhCz='ag =';arDz='#*}';pRCz='安装脚本';jxBz='tls&';thCz='e'\'')';ITCz='p| g';fmCz='的操作！';CJDz='"加密方';SMz='l.de';MZDz=' tar';wrBz='te-q';NAEz=' "co';XrDz='{d_s';XNz='重启 ?';ZIDz='05"';pyDz='xt&s';glCz='动失败，';IUz='[ `e';vPDz='_DIR';ICz='='\''\0';fZDz='l co';dtz=' 不受支';IIEz='务器已成';fyCz=' "/u';cwCz='将在 H';RmDz='ttp代';ueBz='SSWO';yiz='on |';FKCz='："';sxz=';the';vHBz='无"';uJDz='bpcr';ggCz='阅链接$';MLDz='izi.';VeEz='rl=';XeCz='P_NE';dFz='，使用 ';eKEz='ck-f';Naz='tanc';aYz='ig';JUDz='CP+U';vTCz='-pie';KiCz='g"';WPCz='ER}/';Ubz='1000';XDz='r=33';XLEz='-y e';AgBz='"bla';DtDz=' enp';dbz='8192';tYEz='uppo';afCz='+$ ]';WyBz='rt=$';CWDz=''\''s/-';TnCz='a")';eHDz='1)ae';ZGBz='o "$';yABz='RT_I';fsCz='c 1-';WCDz='a2:/';ZDBz='0开头"';dmz='${ru';pSz='的信息检';UgCz='rt: ';BTDz=' [1-';anDz='转发?"';FWEz='; ld';PIEz='4 还是';PODz='er} ';EXEz='='\''fe';Vvz='!= "';EVDz='请按任意';yeDz='es 端';MXz='/chi';gmBz='f2 |';Sgz='er++';vABz='SELE';mdEz='有公网 ';nDCz='}(推荐';qRCz='  #"';Ofz=' "$n';FDz=' -gt';ieEz='适合当前';PDz='"';awz=' ver';YdEz='据网络接';eiEz='do_i';HYCz='org)';omBz='em/x';VGEz='_fil';VEDz='以使用节';EiCz='W "当';gHDz='6-gc';DZz='faul';lDBz='经具备：';jXCz='te r';bwz='|hea';rODz='n1/s';eIz='expo';oOBz='e re';FeEz='TERF';TYEz='ra|c';duz=' "$w';RNz='VPS后';yLz='1_1.';tRBz='upgr';mrDz='\"De';nuDz='请程序安';wqCz='a.lo';nhCz='(.pr';yTBz='xt';aeBz='ound';tuBz='"\n ';bQz='" | ';khBz='"$WS';AgEz='"$ip';oSEz=' hos';HHDz=':" P';NXz='akge';HiBz='RT},';dvBz='-e "';odBz='=roo';eeBz='t": ';XGCz='n=me';foBz='jan ';MBEz='址:目的';hhz='完成，继';FxBz='F%2F';KJEz='统默认配';IREz='en c';lLz='debi';VjDz='gunz';ZNEz='n" -';XPz='usne';FCDz='ow":';AOEz='hoic';bhBz='"lis';McBz='ore/';aKDz='装文件失';UOEz='retr';jTEz='28_x';cvz=' 5';QhEz='看上面的';CsDz='  {';RLBz='(htt';meCz='ADMI';Tdz='优化配置';bxz='"tru';EBDz='r /r';HcEz='{HAP';OQBz='-eq ';qJDz='libu';GXz='ng()';dhEz='${AC';UrCz='v6St';vNEz='"确定继';mZCz='t"';sGEz='itRo';GwDz='rt 目';NOz=' | g';nEBz='IN';WEEz='除一则g';kJCz='le'\''';GdEz='q '\''v';EkBz='y qr';BZCz='IPv6';GgCz='sni=';wJDz='ibpc';sSBz='复制上面';sMDz=':"${';Qnz='"   ';Abz='oeCl';rSBz='获取证书';dhz='载...';Ksz='res=';NXDz='if s';gLBz='高清壁纸';VoCz='/os-';EMz='md64';rFCz='13) ';ehBz='27.0';XIz='l/bi';CQz='s'\'' |';adEz='发规则，';slBz='ey"';EICz='pify';KyBz='}%23';ZaBz='SELI';wuBz='口: $';yVDz='/-/:';ZXDz='ext=';WgCz='me: ';IDCz=')   ';ITz='ot()';BBBz='S[0]';FECz='E}tr';pQCz='装，请先';NSz='d10.';teCz='ET_R';Tvz='dNgi';gaBz='nfor';ItCz='e /r';ttBz='N}$G';Ujz='.]+"';DECz=' 安装$';bSCz='0-19';Qpz='-vir';UpBz='{por';Srz='ull ';ZhCz=''\''sin';aJEz='如果是I';qGDz='c/${';WQEz='on3-';ObBz='wk '\''';mlDz='议[3]';XABz='if c';UZBz=' / {';vrDz='>$go';xGEz='t ss';OwDz='Clou';JICz='$?" ';bAEz='D{pr';emDz='式的简单';BCz='m'\''';AXBz='er \';sfDz='st()';yZDz='mp_f';PyCz='cps ';wRBz='-def';JfEz='b_fi';IlEz='r_ti';uKCz='域名未解';gsCz='16)@';jeCz='apab';LXBz='GINX';gKBz='TH="';wKCz='E}"i';RLz='n}.r';QXDz='et i';WnCz='("De';kQDz='} 安装';ebEz='能无法正';sbz='1638';jQEz='ls j';Ltz='] &&';FjCz='完成"';Qaz='ute.';uhEz='|重启}';uZEz='$lsb';vVCz='7l)';qhz='it 1';akBz='检查网络';QxCz='ster';TEz='r" \';TNEz='9.7';iCCz='tem';drCz='Pv6S';XQz='l -s';eXz='nlan';uQEz='sz g';PLBz='机)"';RDCz='l}${';unCz='pt -';QwDz='邮箱："';kcz=' 0';Ehz='p li';UCCz='v6.c';rMCz='=${h';QGBz='ep $';XECz=' 更新X';byCz='_ser';XCCz='f.de';pXCz='Key/';dWz='r/te';hDCz='P${P';orDz='\"Re';qTCz='om_w';bWCz=' "/r';lmCz='en_U';cpz='; Wi';kdCz='"uui';GZDz='al} ';OmDz=' 一键安';GdDz='"$te';FKDz='bc-a';BiEz='art}';ZLEz='ase';NeDz='f.se';Pz='chec';sDDz='t in';abDz='c/ne';OpDz=' "cd';MODz='吗？(y';kIz='0"';cLBz='站(ht';WUz='e" >';PJDz='btoo';sbDz='m-%d';yfCz='ip]:';OJEz='Pv6 ';IMEz='ON}.';USCz='停止V2';kkBz='$?"';kkEz='IZE ';nLEz='add ';CsCz='输入的域';UwBz='on)：';HQEz='ciut';GeCz='ty.j';ybz='3276';SLEz='nfne';xjz=' &> ';Xdz='/n] ';NkBz='code';AfBz=' [';DyCz='KAGE';KfDz='强版支持';DiCz='"稳定版';UVCz='os/S';HMz='-che';VCDz='"hys';MZz='nges';TXBz='-EOF';biEz='R}/s';tMEz='hrc';kDBz='下条件已';oDCz='EN}5';XpDz='端口（如';MEBz='书密钥文';uUEz='enVZ';GeBz='re';KwDz='用gos';aVEz='%.*}';XPEz='/os/';lLEz='ne)';KnDz='= "s';NfDz='装 ip';pGEz='Logi';fACz='t}?f';eAEz='w_co';rrCz='warp';YEEz='配置';Wlz='` ==';mjDz='otun';Bhz='l=`d';fYEz='1)"';qeDz='停止!"';cHDz='加密方式';RGCz='D " ';SgEz=' ]';tsDz='否开启了';GNBz='6) P';wXCz=' bas';uVz='nel/';wvDz='位于用户';MRBz=' xar';xjEz='"✪ I';jOEz='r/in';liCz='{new';BLEz='pt u';QjDz='-"$b';sIz='m/ch';VKEz='tc/o';xjBz='m un';gEBz='的IP是';NnDz='$fla';kODz='4/li';cPCz='OAD_';qlz='LotS';ATCz='en_p';vCCz='——#"';ahCz='x ve';Ovz=' "$r';eQEz=' vim';bvCz='=www';DNDz='t_op';fECz=' 查看X';EhDz='-V)';ZEBz='他域名解';yHEz=' $1 ';cKCz='if e';nrz='"nam';UNEz='if a';hMBz='ip=$';EJCz='s/v2';YLBz='epai';Knz='# Su';yDCz='—tro';BDz='out-';Pfz='um" ';thz='t $2';liBz='s-rp';YvDz='成成功，';ACCz='开启"';JLCz='认随机]';gZz='_rec';CQCz='in/v';Jqz='gent';wmDz='ypt';IRCz='口是否被';mGEz='\?Pe';RUEz='76f4';NWEz='amd6';HjCz='_Lin';Yxz='= ""';PjEz='"✪ T';asBz='s)：$';nbDz='og"';KKCz='m 和 ';rIEz=' "la';Afz='核${F';UuBz='auth';cEz=']] &';HVz='ami.';ZcDz='"$ol';vvCz='& po';Vnz='# In';JrBz='ANSI';AaDz='$(mk';QKBz='`shu';AQBz='inx`';mMBz='ost}';TABz=' " 生';NYCz='=~ ^';OjBz='LECT';pYz='ex/b';vUBz='ude ';TBCz='-u x';BUEz='artu';ZYBz='ES-1';bjDz='st.s';tmDz=' [ "';xXEz='eezy';uWBz='Enco';UoDz='，不用输';otz='REMO';iSDz='in()';YJDz='deve';DrDz='"/""';WxCz='认首尔大';bxDz='mdec';cRz='tOS ';sHEz='/^la';npz='e Ge';Gcz='.som';uxCz='= -f';flBz='y/re';SrDz='d_se';dSBz='nx -';bbCz='ox/d';WjDz='ip g';yGCz='Log]';qFEz='/Per';NJDz='ocon';qSBz='r ]]';hLCz='头"';ZUBz='onf<';wNCz='n" ]';rnBz='alte';dhDz='当前账号';YQz=' '\''ht';aoCz=')" "';fJBz='igin';GWCz='h}"';RkEz='面板 一';Xbz='noti';fiBz='real';ZsBz='输(tl';ikDz=' Uni';QXBz='ATH}';HODz='" SS';skEz=' * (';SHDz=' 0 &';Epz='OS=`';QQCz='fly.';Rvz='[ `c';hFEz='m 修改';PTDz='l_ip';qsz='rf /';aJDz='l pc';wbz='8608';esDz='t" =';fdEz='外部网络';mDDz='[0-3';DLEz='y bu';DGDz='EN}内';EfCz='P \$';OTCz='已安装s';ShCz=' "更新';vYEz='unta';rjEz='改SSH';IeBz='reve';LQz=''\''el7';yJDz='libm';bDBz='端口：$';OXDz=' is-';yIDz=' 无效的';pTDz='的公网I';XxCz='学]："';gVz='C=/u';TICz='份执行该';jPEz='OS-7';WXz='p_na';dtDz='n" =';vrz='/res';JvBz='} $G';fFDz='如下:"';pBCz=' -F';LlCz='ORT端';hoBz='s="t';UmDz='置的代理';lUDz='IP\t';EXz='nanq';WfBz='",';qaDz='NG';DQBz='getC';NrBz='xt)';SSBz='x" -';HvDz='本机${';ClEz='art;';IUCz='.cis';Cbz='/raw';RCCz='v6/d';VUz='=cak';itDz='E一键申';Lfz='1]:"';IZCz='x/ip';LFBz='其部署"';KiBz='"aut';FqDz='收该流量';qJBz='="xt';eaz='em_m';AJCz='1 {p';gMz='on}-';LEDz='）：" ';YSz='4架构，';mWDz='NG -';vSCz='-box';ZiBz=': "0';nlz=' sta';WgDz='n\)\';opCz='${PA';tEEz=' '\''[0';aFDz='ysit';wFz='util';lqz='p.co';YUBz='nx.c';xfz='-v "';umz=' "ub';njCz='me)';WEDz='点"';CJCz='k '\''N';wxDz='\"ud';QsBz='ow)：';lmz='成功"';jtBz='300"';Zaz='p_ti';pOBz='po';TgCz='n Po';IqBz='rl.t';Vmz='bbr"';FrCz='n=$d';beDz='alwa';MiDz='为 ${';UxBz='${do';Nqz='om/j';rXBz='} ss';DCBz='{REA';YJCz=' '\''32';pMEz=':\$P';hwCz='p(){';CIz='的包管理';tYCz='p""';bTDz='" lo';Dez='锐速)内';FCz='[0;3';BXBz='"$RE';seDz='f /u';jiCz=' arc';eWEz='brar';rWDz='ourc';IHBz='间的数字';VEz='p 0.';bQDz=' dns';WNEz='min=';vtBz='ink$';wIDz='oly1';EmBz='x2()';wMDz='8",';lfCz='&pbk';rHDz='2-ct';TbEz='O "$';SDDz='e /l';Bnz='xray';FJBz='0-9'\''';boCz='b_re';JlCz='tID.';LHCz='33.a';gBz='else';ZjCz='y.b6';rPEz='ras/';EeCz='}'\'' >';GVEz='d_ve';COCz='ec-2';GpBz='\"ps';cMz=' -i ';qkCz='换端口）';FfEz='}/et';RRBz='理完成"';onBz='tr -';unBz='terI';tsz='hare';ocBz='NLOA';yACz=' "$l';jUDz='${lo';dQEz='2> /';amEz='已清空 ';WKEz='ID';oIBz='om/u';hKBz='/$ws';oGEz='Root';BfDz='键脚本增';LMz='te h';Dmz='速模块"';MPDz='}  安';MRCz='op v';maDz='" un';LIBz='[默认：';RjCz='s.se';DIBz='通话"';uwCz='口模式"';LuDz='账户邮箱';bHz='系统，使';iKDz='ks-l';YRCz='ls" ';gxDz='强烈建议';LSEz='#增加新';mACz='VER_';xBBz='}"; ';FZEz='d_ap';mcCz='sid`';iAEz=' i <';KKDz='at 2';uTCz='"one';OSDz='n="$';AKEz='ut" ';sgz='卸载完毕';CqCz='ria ';cdBz='r=ne';fJEz='Pv4优';pHBz='KCP"';XQDz='tils';uHz='scre';lyCz='<< E';JUEz='.so-';ECBz='S[$i';HPDz='EN}论';WNCz='in $';RGz='utom';igCz='k}"';AOBz='更多ip';HsCz='inIP';Mkz='= "7';BVBz='even';qLDz='INPI';fVCz='me'\'')';SREz='r /S';nHEz=' \:\';GEDz='":" ';BQDz='k_ip';FbEz='建 NA';Cyz='i686';ZEz='eout';RRz='} 不支';NNz='&& r';grDz='#*/}';ZgDz='$che';SNCz='3 '\'' ';GtBz='th)：';GJz=' && ';DcCz='-Eoi';AXDz=' 已应用';fLBz='a.jp';ewCz='使用的端';Joz='/aff';fYCz='ip，默';pqDz='mstr';MQz=''\'' | ';qVBz='og  ';fXCz='请妥善保';SPCz='K="h';eqz=' 2>/';fDz='1';NnBz='t() ';JKBz='开头(不';jdEz='端口。';vyBz='ey}$';xgBz='kCap';hmEz='！退出。';CMEz='/ope';KIz='r';eRCz='}V2r';bYDz='$11}';pFEz='in.*';tpz='7.87';PFz='系统依赖';fZBz='ss h';YIDz='ly13';VaDz='le" ';UiBz='"}';ngz='核卸载完';Mgz='eger';uDCz='}(可过';WcEz='可执行文';hSz='rch6';SQz='ad -';DCz='OW='\''';YNCz=' -9 ';DQDz='_exi';hGDz='owso';gQEz='o so';MVz='_tsu';IXz='aw.g';nLCz='类型[默';ZhDz='取临时R';BKz='Tip=';eez='ix} ';sSCz='cmd=';JgBz='LSCo';aWCz='-xzf';PFEz=' 1、修';Rmz='rint';yiDz='x-"$';xYDz='端口: ';GNCz='后自动尝';rIBz='"请设置';ncDz='r id';vTBz='tml/';vECz='EN}0';icz='r_id';ndBz='User';dbEz='服务器可';cmDz=' 支持各';BmDz='转发给本';Nyz='5tel';gMCz='w 16';EIEz='96  ';AACz='_ID}';VVEz='on#*';qCEz='版本，是';iEz='ILE=';vBDz='6777';bDEz='脚本采用';llDz='上配置协';uoCz='$/d'\''';Niz='s/^d';uqBz=')$PL';tFDz='nfAn';GSz=''\''"'\'' ';HSBz='N --';MMBz=' -i0';Rfz='k_sy';pZz='_loc';hLDz='sPat';lWCz='}/si';VCCz='ble_';kSBz='ndal';THCz='9.or';guDz='${ze';mUCz='.lee';awBz='}伪装类';rHz='ame ';iMCz='密码：$';ldBz='[Ser';vFDz='ert ';JGBz='me=$';CQEz='源更换完';VGz='ip b';lQCz='安装"';FVz='tcp_';MOBz='访问ip';kJz='息]${';cfBz=': "$';XOCz='; }"';ySCz='o '\''"';Awz='4) e';EjDz='o-ch';tPEz='- Up';PqDz='义tls';BkDz='"/go';jmBz='",'\'' ';ONCz='ntlp';xLEz='bsd.';jhBz='h": ';QxBz='%3Dt';EnCz='X=("';qSz='查是否安';lGDz='d`';fuDz='-m "';XKDz='" -O';AECz='jan协';aMBz='-n1)';trCz='需要申请';gRDz='x}" ';HTEz='n/xd';Euz='"yum';wpDz='本机本地';dMDz='新版SS';flDz='有一台机';dBz='天后过期';PUDz='num';hAEz='= 1;';JZBz='10m;';IDDz='op h';vXBz='set ';nrDz='bug\';ghCz='s/Sa';kLEz='alpi';tuDz='用）"';iDEz='助其他工';UNz='/BBR';DKDz='ibc-';FRz='el-h';aBEz='ss  ';hMCz='" tr';GUCz='dia.';LaDz='e}" ';xOBz='/$ba';LBCz='res ';xSz='新版内核';woBz='encr';kUCz='.ivi';auz='ONFI';KPCz='1400';BXCz='t_ve';tfDz='&& F';Xnz='essa';uxDz='rt/$';gSEz='h &&';yFBz=': ap';taEz='请手动安';dBEz='tp "';diDz='k_ro';DaEz='te )';vGCz='op|s';dVz='d` m';cJCz='6*)';gJCz='v8a'\''';oBBz='y 伪装';CgDz='f_pa';KTEz='al/s';gWBz=' "" ';ZOCz='inx ';wQDz='s 配置';hLz='rity';wGBz='= "t';fPCz='文件失败';SeDz='S su';QrCz='ce -';Vlz=''\''.'\'' ';InDz='lag_';GDDz='/hy/';ssz='sr/s';sxCz=' -k ';VHEz='3[34';GmDz='机器"';bMEz='":$N';dSEz='ll/i';pTBz=' '\''Di';CNEz='-V';giCz='"保持不';KtCz=' $do';BKCz='，运行之';YmDz='"[5]';FNz='R/BB';aWBz='t-st';nHBz='6500';TQDz='-y b';KOCz=' "sy';nBCz='mang';GmBz='[ $r';Boz='ce.c';nwz='"$(e';OPz='地址出错';Ifz='" 请输';hWCz='gz" ';JDDz='ria-';wKEz=' $OS';BgEz='" -o';aDBz='} " ';PRBz='-9';wwDz='立 ${';EvDz='rtme';TFz='"$(c';LlEz=' 键继续';TkEz='"✪ b';eOCz='  --';mdCz='ame,';KEz='"秒后"';avDz='高安全性';Miz='检查."';VmCz='}  重';ODDz='e >/';THz=' -v ';eyBz='D}VL';fEz=' "\n';kiBz='.0",';GXDz='s-ac';WLBz='美女站2';cOEz='onte';qUBz='pid ';pEEz='numd';jZz='n_ti';KQBz=' in ';IgEz='setc';ySBz='-cer';ucCz='t" -';RaCz='动配置以';bEBz='置同理"';TnBz='是否被占';xlz='ng!"';tPDz='s-pf';GbBz='nl=`';Nnz='ssag';nODz='c/sh';rEDz='hy-c';RiCz='升级最新';PTEz='HAPR';fDDz='请选择你';LYz='http';VSEz='系统交换';HNz='${Fo';BTBz=' --e';KmEz='页了。"';wICz='2>&1';hXBz='\$re';qWCz='n ro';HUCz='com"';saDz='空 所有';uVBz='s.lo';ksz='SOCK';ehz='rs |';NUz='}'\''` ';suBz='0x30';SVBz='"\$r';vjz=' com';KyCz='ruby';KTCz='ing-';BADz='init';kVCz='# 移除';CYCz='64';lez='k_st';GbCz='p -E';JLEz='libp';ypBz='4 -w';fAEz='ath)';Siz=' "7"';OWz='al';NOEz='之间，无';TYDz='all=';rpz='80.0';noBz='ngs ';hZCz='t -l';XhDz='o su';NbEz='l ur';KhCz='box.';aXCz='称：$n';qfDz='u';ASBz='--se';QHEz=' $ne';jrDz='%/*}';UeCz='undi';fCz='str=';loz='eng.';iYDz=' $11';xKCz='pv4:';UyBz=' -f4';Qrz='2>/d';UQBz='en")';aWz='u-to';ZiDz='d)"/';hbEz='hapr';rWCz='ot:r';TuCz='实IP"';mbBz='ufw ';yqz='kip.';cbz='s = ';IfBz='"h2"';jjCz='s.re';WVCz='Net/';dfDz='载服务';yxDz='/$d_';MgCz='p！"';yaBz='3" ]';oBCz='le -';dXCz='生成私钥';HuDz='umce';iWz='cc /';Llz='.0" ';dYDz='r}p"';jjBz='igXr';apz=' NT ';jhDz='t --';faCz='m），如';YNz=' [Y/';Emz='"BBR';HECz='荐)${';bVCz='rere';WSz=' 检测到';LnCz='|alm';VPz='rm -';qyDz='egy=';eVEz='libc';wTCz='om"';Pwz='eVer';xjCz='[ $n';jfEz='ry +';iBDz=' 30s';umDz='$num';Ktz=' 0 ]';JtBz='="vl';wDEz='(1)t';skDz='op g';NqBz='ED}$';JBz='te +';vwBz='&hea';aIz='ocal';QUCz='.fan';QuCz='置的IP';Gaz='_for';hIDz='came';SEz='t_st';THDz='[ $P';IACz='ED}c';wuCz='n "将';lHz='t nm';tdDz=' $lo';EcBz='_LIN';PGz='-too';vRBz='-set';SIEz='1 优先';QHDz=' $PO';jCz=' ${t';JVBz='form';ZTEz='aw/m';LTCz='box`';iKz='org';GVBz='ns 1';fSEz='.0.s';UqBz='UE}i';qsBz='主机名(';JpCz='nt++';SgCz='W "L';bLEz='"Dev';IHDz='ORD';ByDz='$gos';xUCz='lla.';AhDz=' Ins';sgBz='ity"';UbBz=' --d';BhEz=' def';BsCz='n "已';cyDz='"enc';vdBz='t=/u';amDz='多落地均';odDz='ip"';pODz='e/ma';XiCz='ICE';ArDz='wcon';yz='_rem';Mjz='k_ve';Kyz=' '\''64';WJBz='rprx';lTDz='me 2';tqCz='& -s';vNBz='：不允许';rVz='rf .';mHEz='ence';wGEz='" $s';msBz='ork}';qQEz='hon3';jsDz='是 将针';RrCz=' war';xFDz='ite ';CGBz='n/dn';dnDz='ss加密';LmEz='[Bb]';IfCz='Limi';kDCz='S"';Lqz='ip-a';GSDz='[ $f';DPEz='.d/C';GNDz='`net';rhCz='][0]';pMCz='p.sb';Woz='shuq';FtBz='径(pa';WwDz='y：" ';lMBz='/${h';OWEz='4|x8';wkCz='：重新输';PSCz='更新V2';BkCz='重新生成';ofBz='LE",';FcEz='l ha';Zbz='ax_u';eFz='yum ';Ouz=':2}$';uKBz='   "';UTDz='绑定的I';cOCz='er/n';nPDz='QR|s';gvBz='}Xra';ZXEz='sese';kaz='tdev';oxz='rn 3';Xlz=' "4"';EKDz='2 li';kJDz='bsod';NCBz=' in';pwBz='ED}X';hSBz=''\'''\''; ';qEDz='hydo';DoCz='ve" ';VXCz='me="';jICz='y正在运';tABz='x 8)';STz='g';vxCz='[ $w';Twz='v*)';HXz='://r';mkBz='ETVA';Scz='152';Rdz='后，才能';UFBz='/xra';VBDz='Open';iUCz='th.p';KICz=' IP=';yhCz='= *"';xvCz='unti';EJBz='zA-Z';BhBz='"con';DhCz='"正在重';rEEz='dele';ljz=' "6"';DDz='[ ${';BBEz='w_al';nRCz='}v2r';NXBz='F_PA';TfBz='urit';HsDz=' $i ';ceDz='ys';WCz=' # N';MNEz='具"';gGEz='tica';vsDz='ls证书';NACz='ion&';LIDz='13)c';ABEz='icon';JjCz='$(jq';cJz='33[4';GUBz='on =';LFz='ut()';mDz='g} $';ClBz='钥对..';NwCz='-w u';Xcz='_syn';SRz='持x86';bFCz='l ;;';CBDz='p]"';sUCz='e.co';pCBz='" Sh';lvz='{GRE';DeCz='k"';xsBz='{wsp';GuBz='ocks';VaBz='LINU';tKBz='= "/';kEz='ot/.';ZAEz='(awk';ICCz='le_i';NhCz='b64';EgEz='v4.i';hyDz='lay+';jUEz=', 请使';gSDz='ho';fYBz='A20:';BVDz='o "否';rgz=' "内核';CRz=' 正在下';wNEz='续吗？(';RjDz='it"-';dDBz='TLS"';eTz='l-${';clCz='ED}s';LDz='bg=4';sFCz='14) ';FgBz='bloc';VLEz='fedo';pBEz='_res';fREz='dd i';gOEz='iles';QrBz='-网路跳';YCBz='4) R';JXBz='off;';uXBz='char';NDBz='RT=$';mTEz='.sh"';ePDz='Log';NXCz='"请输入';enCz='dora';MXBz='_CON';rKz='{ver';JoCz='emov';DQEz='成。"';jbCz='符合条件';oADz='rewr';egCz='"${B';gyCz='a" ]';MgEz='&1 &';uSEz='ame';jpCz='统！" ';cWz='ain-';IYCz=' "$L';FWBz='sh  ';Tz='() {';OxDz='"上传成';DEEz=' (3)';KeEz='{inp';pCCz=' = 0';keBz='jan"';ujz='if !';eSDz='}${f';vUCz='cdn.';IHCz='6.sh';UhEz='可以到我';HvBz='ED${';PQCz='w.v2';CFEz='字"';Pcz='m_de';gmCz='Hyst';OgBz='OW"';drz=' "$I';Tlz='`ech';RcEz='-v 2';DqBz='ot/x';XRBz='nd';KXBz=' ${N';pPEz='里云镜像';seBz='d": ';hqDz=' 轮询"';BeEz='put';vyz='iscv';QWBz='ax_s';fvBz='" ${';MwCz='unlp';qXEz=' "$d';xhz='-${i';yKz='{ker';YEBz='S)，其';JVEz='on 2';mhEz='口范围。';QmCz='链接"';TrCz='-d= ';Kpz='f2`';lFz='-y c';ENEz='n_up';ynz='://b';dTCz='L cu';isz='lse"';Qqz='=zh-';AIEz=' "pr';fOEz='ds/f';utz='ate;';TTDz='意是网卡';ebz='net.';Smz=' $2}';XPBz='nx安装';lIz='gith';uBEz='ost定';GDCz='络跳越(';QOz='/ | ';glDz='器用于接';gZCz='& [[';kTz='bash';ejBz='trat';sZCz='数字"';qNCz='grad';KFDz='g" /';AtCz='-v6 ';Rgz='nteg';dTz='re-$';iMBz='L ht';rOz='rror';phDz='inue';cIBz='6) H';TKDz='ev/r';qiCz='{pac';ZsCz='il=$';qTDz='P，请手';qxDz='t" ]';XyCz='ll/m';qcCz='jq -';AMz='1.1d';pNCz='--up';oBEz='t\t|';UbEz='一些文件';QtCz='0 * ';OQEz='d-ut';waCz='sl s';mREz='1M c';fVEz=' 版本为';YBEz='衡负载 ';LICz='sb )';VtCz='&1" ';QYDz='xt}"';aBBz='.mic';bgDz='r /e';RnCz='" "f';Xaz='trie';MVDz='Add_';OhDz='OOT权';eLCz=' "0"';yyCz='quic';Rqz='CN -';aBCz='rewa';KjCz=' -r ';kXz='_nan';iCEz='ol_v';FpDz='编辑该文';TXEz='ID")';Dqz=' -k)';imCz='2() ';qfCz='$nod';yYDz='x} 转';PMEz='ce s';VABz='lity';krCz='cf >';VnCz='ASE=';cGDz='put ';sVDz='置文件:';OEBz='理会条件';dxCz='.snu';rxBz='l}-$';esz='se"';WLz='"deb';GPBz='ey=h';QwBz='N}$R';jVDz=''\''+%Y';gXCz='管好..';Thz='eb_d';FKBz='e tr';ZmCz='}  退';xZBz=' X-R';VcBz='fix)';GODz=' SS启';YBBz='com:';Ssz='w/se';eaBz='ux/c';kPCz='run ';Hyz='64 |';RRCz='il -';naz='klog';rVEz='后再运行';FiCz='前已安装';OMz='u/li';FHEz='"\n\';rOEz='S7t(';TyDz='t&st';SvDz='-k e';CYEz='-wha';Ggz='otal';dMBz='OXY_';PGDz='" 4.';muDz='E证书申';wLBz='择伪装网';vMCz='t -n';HLDz='ath"';gJz='_suf';iOz='wk -';lFBz='e-dn';yrBz='de/?';VXDz='更新服务';tXBz='tp2;';Caz='p_mt';YRz='${ve';xSCz='n ]]';sKDz='S Sh';Fkz='|| $';AVDz='o "是';BGBz='atio';rvDz=' 证书配';sACz='${pu';jjDz='ce /';aoBz='ep s';QkCz='ew_n';Xoz='i.co';sPCz='ip -';NCCz='lt.d';pGz=' Cen';VcCz='支持 T';xWEz='$DIS';DMEz='nssh';jrBz='ain}';bOCz='www/';eGz='el k';JyDz='ost=';bmDz='衡负载"';RbEz='; wg';VMDz=''\''[0-';xmDz=' "3"';rMBz=' "$i';wYz='t_me';XXz='nqin';hyz='ps64';IJBz='-w 1';EOEz=' "已取';OKz='}" =';TkBz='s uf';WiCz='_CHO';bmEz='($i/';nIBz='proc';ITDz='(默认端';NVz='nami';uREz=' #把这';Esz='NF_P';cXDz='t -v';ohCz='erel';hqCz='d a+';RvCz=' -x5';Hkz='us';HOCz='p ng';mXEz='/\/.';waBz='" !=';vQDz='p_se';jjz='r(){';BRCz='/lol';GZz='d'\'' /';xdBz='n -c';mhz='不正确，';RKDz='t "$';PiCz='保持不变';LWCz='g-bo';PyBz='id=$';AQDz='es-p';KPDz='y.bu';ivz='s in';TuDz='解析到本';PeCz='tory';kbCz='的网站是';FxDz='em 上';blDz='上"';rGz='RHEL';cwz='d -n';uqz='ipec';jECz='志"';VsDz=' 同一则';blBz='rd:/';BrCz='in 的';daBz='ve/g';FEz='t_in';lFDz='书类型"';BuCz='1. 请';ntCz='径如下:';SNBz='ttp或';xCBz='安装Xr';toCz='[ ]*';dUCz='.j-w';wcBz='件失败，';Jez='加速';hPEz='GPG-';bECz=' 启动X';JTEz='VZ()';fkz='= "x';iBz='REEN';lUEz='ot 用';aXz='j-m ';omDz='umpr';SuCz='PS的真';frCz=' on|';bjBz='c"';FXBz='\"$D';wiCz='ion：';vsCz='e -k';ftBz='one&';WmEz='[ $i';rACz='pbk=';yHCz='k)';jMz='on}.';WaDz=' 规则删';YACz='lic_';dKDz='${NA';EDEz='"更新完';PeDz=' wit';DRDz='dir(';jQDz='les';qiEz='_dns';ISBz='keyl';jTDz='-s i';txBz='}路径(';PbBz='nl" ';aXBz='er_n';dsz='"fal';ZCCz='v6 =';GkCz='d保持不';KAEz='rt@:';CnDz=' "ty';IQz='| gr';LrCz='oudf';AHDz='ILE|';PbCz='2$)|';tFz='irew';Mtz=' col';JfBz='81';DEDz='ig.y';CCz='YELL';aGBz='{YEL';IfEz='lib(';EYz='sctl';VDz='gt 1';uMBz=' >>/';BGDz='/${G';lPBz='nx()';XlEz=' by ';yGBz=' -t ';BJz='n_fo';yoCz='SYS=';CxDz=' 与秘钥';pOCz='--in';psz='tem(';DmDz='服务端口';wnDz='pt" ';mrz='/"';ylz='us="';mKEz='AN_F';WIDz='-iet';aSz='M64版';VPEz='liyu';oPz='url=';jMEz='R:$P';ToBz='p -i';GUz='ve_a';vdEz='e :';xXz='me -';vDBz='务器ip';IICz='b)';jQz='ce'\'' ';ciCz='new_';dEEz='l_ct';lUz='=fq"';ogEz='is_r';XYEz='yfor';Oiz='lt=.';iQBz='xt "';DwCz='nlp ';pVCz='rch}';rADz=' $fi';kfCz='p=ch';srBz='nk="';BjBz='_NAM';mqBz='ork)';JKEz='nu "';ePz='t';KxBz='%3Fe';fADz='uera';bNBz=':0:4';fBDz='hopI';kACz='ty&s';AiDz=' ${c';jaz='e.ne';kbz='l_po';GhDz='zip_';koBz=' "$s';Jiz='oot/';KkCz='（0：保';ZlBz=''\''/Pa';eBDz='udp:';KHEz='rt [';ahz='ad()';fcDz='ld_i';BhDz='n_de';OaEz='t_cr';PtCz=' "0 ';VxCz='） [默';JAEz='"ss"';mBEz='str ';vMz='"${T';tjz=' "8"';vPBz='op n';TgEz='"$AC';BiCz='ha"*';ZKEz='wait';tnBz='p al';RwDz=' cfm';tSBz='的红色文';ynCz='all"';mOz='ithu';GcEz='y_bi';vJBz='orig';BwCz='$(ss';FYEz='uery';MXCz='uid"';lNEz=' els';KKEz='firs';VNBz=')：" ';BIBz=' 4) ';kjEz='户密码"';AJDz='选择，使';hiDz='_dep';RBBz='"www';fYz='ex/e';cDz=' the';hkz='3.2.';gfCz='rt?e';xLDz='NPID';UUEz='7e18';JpBz='4l}-';upDz='IP, ';yLBz='默认:3';FHDz='输入则随';tjDz='mv c';BYBz='ocol';bdDz='"ipt';oez='tatu';HkCz='变!"';IEBz='N}xr';fFBz='ion/';QhCz='oxco';tfz='l=`r';apDz='" cd';YREz='的swa';BJDz='用默认的';uEDz='ml |';KJBz=' tro';xvDz='目录下的';UjEz='"✪ S';bWBz='ream';Iyz=' amd';DbEz='服务商的';dmEz=' "1秒';sz='show';lABz='pens';vwCz='_pwd';XUEz='TE_P';oTEz='IAN_';Sqz='k | ';OTz='PG-K';GaEz='ll t';ykCz='_sni';XIDz='f-po';yTz='ix}"';MtDz='单型均衡';mrBz='跳越-到';cRDz='发端口 ';ZPEz='earc';CmBz='对"';tXz='o /l';BXz='BR启动';EMEz='-${O';uABz='")';stz='ADE=';Erz='ismy';RGDz=' 2 配';BdEz='et=0';Jz='DATE';MSEz='p开机自';PhEz='你可以查';WMz='ux-h';IwDz='本重启,';ILz='ders';pFCz='&& X';lIEz='sPre';bDCz='S+TC';YWDz='-A P';Wiz='2/gr';CADz='Stre';OECz='—Rea';ViEz='" st';opz='cko)';jiz='ase=';UmBz='{ans';hjEz='"✪ 一';XyDz='t/$d';UiEz='ce"';mtz=' ins';tLBz='需以ht';NNBz='llha';aLEz='pins';JYEz='N}\n';pKDz='}错误$';TTBz='oad"';sLDz='n/ki';OICz=' "ui';VJBz='tls-';hwDz='l}"';BHDz='-f2|';qIDz='14)';KmCz='n-uT';lCz='ut} ';BREz=' bzi';oCCz='重启！"';CgCz='w=xt';QFBz='ay/$';MvCz='56v1';ZBDz='1:56';TSEz='[0m"';mtBz='$YEL';vdCz='key,';UMz='u/${';GuDz='mcer';jnz='ff=1';JyBz='h%3D';tGDz='}.se';hkEz='@]} ';ERCz='卸载成功';FFEz='addd';cvDz='HOME';vIBz='随机生成';CjCz='f /r';vNCz='= "o';ZNBz='反代网站';pXBz=' [::';BnCz='io/c';cmBz=' \",';OUEz='fc6a';Xz='"$EX';wYEz='ts i';fdz='ed_f';fgEz='有误, ';YbEz='om，请';BvDz='PIKE';EBCz='ty链接';itCz='保存到 ';ScDz='l)"';ipCz='的操作系';ltBz='链接: ';DgBz='{},';wMCz='tlp ';XSDz='解析失败';KNBz='.cn"';DIz='器"';qHEz='\:0/';TlCz=' "无法';nMEz='H=\"';nYBz='H+3D';XnCz='" "U';emz='n_st';tvDz='且会自动';kGBz='P})$';vyCz='key:';SsCz='t su';YaCz='保该域名';eQDz='s，继续';cpBz='id\"';mMCz='n 1)';WJDz='to';TEEz='置';tbEz='xy:'\''';VdEz='下网络接';JFEz='t账户密';ZSCz='状态："';fCBz='0]}"';MTEz='='\''ha';uBz='3[0;';qZBz='ade;';GRz='rs-c';YRDz='}" ]';MMCz='ando';kGDz='BASE';peCz='ND_S';yaz='om/M';qJEz='0. 退';JsBz='): $';vJDz='e3 l';RhEz='日志来获';yHz=' ""';VxDz='重启,即';dGCz='|sho';fSDz='g_ip';fz=' -e ';umCz='ow()';gBCz='CEPT';GOz='JX6N';jdBz='targ';SKz='rpm ';mfBz='[';WeEz='s sy';Fvz='\",'\''';WdDz=' $4}';eLBz='.seg';lfBz='cate';noz='an.c';ymz='} 本脚';NJz='m" &';wmz=' "ce';qjDz='hen.';XyBz='":'\'' ';rfBz='"out';rpDz='程机器/';UDBz='T:0:';GLCz='no" ';Taz='nack';nfCz='=$sh';EHCz='v';yXDz='t fo';UUz='disc';pCDz='ml'\'' ';CeBz='Rest';UHEz='blue';iRCz='点备注:';jWDz='":"$';CIBz='微信视频';EAEz='://:';syCz=':$po';ECEz='时重启"';NJCz=' '\''ta';AaEz='ca-c';kxCz='6m8 ';kXCz='ty-k';TWCz='o "/';Rjz='p -o';OQDz='ils(';xxDz=':$s_';uOEz='Base';qgz='s -e';hyBz='on+R';XNBz=' "$P';BDCz='   #';KcDz='t=$4';oTDz='法检测到';rdBz='vile';PBCz='装！" ';Klz='"3.2';tBDz='eamR';dkDz='tl/g';vWDz='EW -';veEz='e 之后';hkDz='安装成功';qfEz='络原因造';WaEz='l de';SjCz='e'\'' /';kIDz='-cfb';GIEz='n " ';mKCz='步，稍后';oWDz='ip}"';TOz='k -F';CEDz='oldp';OdEz='检测发现';mvBz='{v4l';msz='REAL';GKEz='正确数字';EwBz='LS';Rpz='t)';qQDz='es !';HuCz='NS),';KSEz='c/fs';DbCz='pn h';MxBz='%26s';DKEz='redo';wyBz='hort';MbDz='g ip';haEz='st >';ijEz='键修改r';ivCz='-F P';LhBz='"see';ELBz='：小白不';Clz='"bbr';IhCz='rm /';VBz='en';qpDz='以是[远';toBz='="无"';ddEz='设置不正';tiCz='z"';BMz='-0+d';BYCz='ey.b';EeEz='#^IN';tiz='hat|';anCz='OS" ';heDz='-pf ';JrDz=' raw';kADz='url:';bWEz=' Lin';mOBz='nx s';fNBz=' 反代网';gyDz='\"re';GAEz='ort/';unDz='_c="';vLz='ssl/';vmDz=' "2"';wYDz='} 监听';maCz='dom_';COBz='，但会消';RZEz='y -q';cNBz='}" !';QaCz='则。请手';ojz='支持当前';LeDz='on.s';NCDz='8"';eCz='out_';bcDz='t" 2';AoBz='p ne';vfz='qa |';MeBz='[Ins';ygCz='{ser';AiEz='top|';pUEz='z() ';LJDz=' get';hKCz='析失败，';KaDz='ated';HEBz='和 ${';Akz='/nul';OrBz='~/xr';tLEz='持的操作';ZNz='n] :';tHDz='8-ct';ENBz='m" ;';aHBz='：" P';qlCz=' Rea';CyCz='$PAC';QTz='lrep';jUCz='m"';XYDz='_tex';REDz='改为：$';mkCz='p保持不';nLBz='allh';Gwz=' Ngi';uGBz='N}"';ASEz='建的sw';TOEz='0 --';LWBz='t   ';LrDz='_d_i';fBEz='道转发C';AsBz='data';SsBz='w${P';rTDz='动输入"';OgEz='e "1';biCz='E in';kjz=' -ge';WXBz='0;';HFCz='则自动选';JUz='cho ';HSCz='-VLE';CPDz='S 一键';Qxz='g_na';LtCz='log';ZtDz='CDN转';oKBz='  " ';fLCz=' 端口不';XNEz='"$mi';SdEz='et0，';aqBz='rid)';LdCz=' "in';tTz='x}Lo';rhz='ers ';WNDz='rd}@';cyz='rm64';mHCz='="/e';nbz=' = 1';dqDz='置的均衡';eTDz='-qO-';eMDz='igSS';ZZEz='ls )';jSDz='l do';bEz='q 0 ';sYCz='p："$';MdBz='y安装失';iQz='Sour';QNCz=':80 ';OIEz='务器设置';YKCz='e "$';pLz='pool';fIEz='直接回车';Hwz='nx正在';sGBz='LAIN';TVEz='.*}"';RBEz='s隧道 ';OjCz='t'\'' /';yIz='ter"';TNCz='t $7';fXDz='tail';rTEz='.ini';xYEz='p &&';LOz='ble/';vIDz='tf-p';fGBz='未解析到';vLCz='"wec';vLDz='RM \';PBEz='中转"';lGEz='d_fi';LDBz='T}" ';PJCz='\" -';ASCz='"再次运';ytBz=''\''"pr';uMDz=':"8.';QMDz='r $n';CUDz='数字 来';GWBz='node';JNEz='h_te';Fwz='在运行,';SIBz='PE="';MjCz='ds[0';IOz='plus';RTCz='IN}';hLBz='站1(h';BqBz='="vm';DFEz='字 [1';arz='ip.s';msCz='auto';gdEz='将无法正';ejEz='版"';BNCz=' "其他';GIz='配置完成';XTDz='网IP，';oMBz='n ${';mlEz=' (P/';swBz='n}:$';BfEz='ERAT';XBDz='127.';vuCz='：$do';MYEz='/'\'' |';eVDz='|${f';WyCz='ia-i';tTCz='(';TwCz='p -w';vMEz='fy_i';dJCz='v6a'\''';FHBz='认100';SACz='i=${';mFEz='ermi';HEEz='装 go';peBz='": [';SuDz='erom';EcCz=' '\''(T';LpDz='"继续添';wsCz=' ec-';tcCz='"$li';TgDz='new"';wCDz='退出" ';hsBz='LLOW';qLz='/upd';DXEz='e ];';JNz='stty';DXDz='协议规则';PYCz=']+$ ';aeDz='n.sh';iJBz='认:di';QpCz='~ ${';pZDz='请输入要';OSEz='m 完成';SMCz='则随机生';EyCz='_UPD';GQDz='{ipt';ROz=' -1 ';eWz='st -';oiz='sue ';wUz='s" >';ijDz='v go';PUEz='7ccf';SJEz='ip.p';bvBz='ty" ';dPBz='ch n';htBz='ize=';CFz='ut';BWEz='无法正常';GdCz='$uui';IVEz=' --v';WbEz='！安装脚';OgCz='信息如下';LYBz='M-SH';KKBz='懂请直接';lYz='maxm';mwDz='n}" ';htCz=' 文件已';nJBz='& an';Mmz='|[ \';HAEz='p:$d';uDEz='效';qjEz='"✪ 修';frBz='://$';UKEz='. /e';gNBz='站必须以';KHz='ce=s';HTCz='-ntl';NeCz='ingD';snDz='" ss';uDBz='向当前服';EFDz='aml';BKEz='1 )';TaCz='ox端口';aFBz='sH "';RyCz='sist';DpDz='xt，您';wxCz='arpv';dREz=' swa';rgBz='apac';TjCz='0].u';VtBz='路跳越"';xez='ix}请';kHEz='/^pr';ngBz='mkcp';MTBz='--re';nxCz='re.c';fWBz='L" =';lz='新版本！';xfEz='ip_f';dJBz='-rpr';hHEz='PV4(';TCBz='NATI';QSDz='$(re';DDEz='er/g';rwz='" " ';eSEz='ll_6';veBz='RD"';rdDz='"规则更';ANEz='息："';vQBz='text';gJBz='选择流控';nOCz='请截图到';CFDz='th!g';YxDz=' dec';whz='`';qvCz='回车则随';PLEz='ns::';fjz='m`';jGCz=' " 参';rlEz='oice';XXCz='by网络';OHEz='H 端口';ThBz='ypti';akDz=' "--';irDz='pt=$';qhEz='p|re';sNCz='-aut';XKz='${gi';DMDz='"${V';kaCz='in=$';iiz='-rel';veDz='_men';DTz='启 ? ';NmEz='了。"';uqCz='te.k';TJBz='式:"';EsBz='e=30';Hpz='i sy';bmCz='box状';rjz=' ${b';dbBz=' udp';WtCz='>> /';oGBz='服务器I';sjDz='uncs';hdEz='常访问到';AmEz='18)';CVEz='也可以继';WSCz='启动ng';TODz='& sy';aLDz='get';LtBz='P}:$';FXCz='ID..';sdEz='ddr ';OREz='源配置文';axBz='th%3';EKCz='已经具备';XKCz='-q -';Raz='gc_t';oXDz='件中的规';gtDz='cdnw';kABz='"$(o';HjDz='nnel';viCz='更新到$';CfDz='强版 $';HeCz='son';LkEz='除swa';xrDz='onf_';HmDz='   一';DRCz='ATH$';uIBz='（不输则';vRz='deb'\''';Ckz=' 安装c';Hrz='ipin';KOBz='虫不会访';LDEz='b的连接';nPCz=''\'' '\''/';PDCz='${vi';xRBz='ault';qGBz='W}($';vkCz='标网站（';sHCz='tnam';ImCz='建VLE';MiEz=' "按任';ntBz='LOW$';asDz='！本脚本';iuCz=' crt';xwCz='码（回车';cFCz='5)  ';IEz='gett';Eyz='386)';gcDz='p" -';HGz='ls i';uFBz='& \';eVCz='].ta';ZLDz='line';xxz='Affi';vjEz='NS1和';UYEz='s|re';YwDz='rt C';dHz='t 安装';UkEz='br加速';GXCz='ox g';IGEz='ig;';prz='ver ';SDBz='00 -';kDDz=' 关闭 ';ckDz=' -a ';dZEz=' uml';qUz='conf';OnBz='t xr';VkCz='：重新生';RPEz='镜像';ydBz='g /u';aqCz='nput';qODz='n/ma';hMDz='e="0';FJEz='或 IP';ulBz='已保存到';uXCz='"$pu';xTDz='务器IP';MNCz='etst';fsDz='= "1';djz='bit=';yNEz='choi';Eez='核';jKDz='ibev';KbEz='法开启 ';SgDz='""$c';SBDz='_dom';Ohz='d -$';doBz='s" =';YmEz=' 3 ]';FCCz='nf.a';jqz='ican';BuBz='ol":';gvCz='in="';qpz='ome/';WZz='e.wm';ZGEz='c/ss';YnBz='gFil';KGDz='}卸载 ';CdDz='|${n';JFBz='自有证书';sTBz='/'\'' >';MmEz='是第一页';OIBz='wer';YFBz='reso';jODz='lib6';clEz='一页  ';MXDz='-pf';qnDz='OLY1';mez='atus';ZhEz='BR 安';XCDz='/$au';FeBz='ailu';mUEz='户运行此';rlCz='脚本${';snz='g.co';PKCz=' ~/v';dgDz='ct';yiEz='f >/';tTDz='_ip';Kwz=';';GIDz='cfb"';lVDz='%d %';YPz='w';hlBz='ivat';Yvz='lp|g';OoBz='i ss';VVBz=''\''\$s';fTCz='ch o';qUCz='"itu';AWBz='s of';BpDz='录创建$';CEBz='t目录下';sdz='x} 安';RVz='le';ExBz='3A%2';meBz='"set';oRCz='ay一键';eSz='_64及';BYDz='n fo';qnBz=','\'' '\''';mMDz=':108';PMz='${ke';wECz=' 退出"';jfCz='me&f';RhDz='作，请更';vQz='z "$';BLBz='择伪装站';jbDz='LOG_';CjEz='r .*';YDBz='口不能以';Mfz=' num';GGBz='dns.';Opz='d-de';RNEz='min_';EaDz='um ]';nkEz='SIZE';DOCz='56 -';DfCz=' -HU';cFDz='nf()';xaz='ub.c';jcz='le =';hpCz='的VPS';UVz='/lib';fqBz='UE}加';rcz='  so';fpz=') Ap';yuDz='申请（需';DiDz='} go';Kcz='.rme';SWDz='_ipt';oEEz='号：" ';qmz='lus"';Rhz='purg';qdBz='wPri';qADz='ost:';PYBz='HACH';WbBz='-j A';efEz='！3 秒';EyDz='"cdn';OqDz='开启自定';tLz='n/o/';mpz=' lik';vpz='ari/';bGCz='l|st';xpDz='回环IP';fez='系统配置';LLEz='t nt';okCz='口（0：';ZTz='on}/';YLz=' || ';MvDz='会申请失';XkBz='g++';qKz='e}/$';Diz='f "/';wjEz='DNS2';GkEz='.x-y';XfBz='Sett';Ljz='t"; ';NnCz='cky"';UfDz='看 ip';CRDz='动!"';ypz='v4=$';dQBz='{Err';EWEz='t -x';cyCz='ver.';TLCz='n1`';cTz='rmwa';Dvz='| tr';ptDz='使用的g';ZCEz='r * ';wkDz='writ';iQCz='新版 $';GdBz='ray/';DgDz='th="';JQDz='} 没有';tbCz='TLSv';LQDz='es，请';iuBz='//$(';JCz='33[0';eUDz='置是否有';cbDz='-up.';cuDz='egis';PPz='，可能当';LXz='tent';fFEz=' pas';GXBz='N\";';vbDz='S'\'')]';vCBz='W " ';SQEz=' pyt';kjCz='y.pr';BTCz='ort"';LMEz='{OPE';RxDz='用，无需';ICEz='onty';Mcz='1677';stBz='维码链接';WICz='um 2';oPDz='howL';eBCz=' -P ';SNDz='od=`';DLBz='静态网站';HmCz='}  搭';ntDz='落地机配';MeDz='m/ip';uRDz='域名解析';vDCz='cdn)';VKz=' htt';xIBz='PASS';VoBz='ep h';ykBz='ix)"';oHEz=':fff';QmEz='.3};';HfCz='ec=1';aRCz='E`';UTBz='f $C';ooz='jsw.';ouDz='装成功"';YUEz='ORT=';RACz='y&sn';wZDz='m}" ';NQCz='E_FI';VsCz='[ $S';EPBz='led=';QfBz='": "';ESCz='S---';giDz='alla';MQDz='k_dn';yGz=' --n';hREz='ev/z';CrBz='路跳越.';SFCz='1) i';qOEz='entO';UrBz='essK';xeBz='lbac';xxBz='=${d';PKBz='len=';NTCz='tus_';gPCz='服务器网';BWBz='f;';KvCz='e pr';rxCz='race';ZKz='}/bb';cxz='e" ]';qDDz='itch';SaCz='确保新s';FKz='{';eICz='${GR';UeBz='oad';kYCz=':" U';wYCz='IPv4';ZoBz='seed';DKCz='如下条件';YHEz='[01m';vGDz='b`';uCCz=' "#—';bPBz='jk.a';SOEz='t 30';JSDz='p="$';ukEz=')))';ZICz='ch s';lZBz='tp_v';OeBz='edBy';eDDz='ch()';Gpz='ctl ';xiCz='$new';pECz='放开VP';uaEz='rout';Etz='resu';rjBz=' cle';cLz='r bb';MqCz=' Acm';yJEz='rInp';SpCz='t]} ';lhDz=' -qO';sOz='} 无法';iGBz='IN}$';AEBz='. 如果';cLEz='elop';cKBz='fold';JBDz='ent.';UXBz='er {';hBEz='"wss';wxz='rn 0';QMBz='PROX';Fxz='test';XWz='sito';siBz='ALIT';jNEz='max)';oQz='}'\'' |';qiDz='是否使用';BrBz='P}-网';TEDz='新客户端';YXCz='跳越)"';wfEz='pv4.';WDCz='——"';NyDz='"pee';caEz='d de';QJz='back';wIBz='）:" ';heCz='Ambi';jVCz='v}  ';bgCz='W "U';vBCz=' sav';QBEz='" tl';tVBz='nx/a';Xiz='fg 找';iUBz='erro';eTBz='"n" ';Piz='*/de';xsDz='ypt"';kVEz='.14，';IXBz='nce ';CYDz='e cr';khCz='.[] ';AJBz='uran';bJEz='Pv4地';oREz='waps';cBBz='ft.c';HjEz='on ]';sRCz='航${P';UJz='7m" ';TQz='1)';hQBz='ette';JsCz=' ipg';aqDz='要设置h';GwCz='ed '\''';WvDz='"SSL';uTBz='nx/h';RnDz=' " f';tCz='str+';Msz='ch b';ImEz=' "已经';Hdz='s.co';TeEz='le=';SSCz='启动V2';Rkz='.0-3';XoBz=' 3 $';jTBz='shar';HgCz='ey&s';guBz='cks5';sNEz='9.7之';FAEz='$s_p';TBBz='le.c';YZEz='euti';BQz='/rel';xnCz='ll" ';jsBz='essT';Ldz='0">>';BOCz='gth ';BVCz='s=${';DVDz='———\';CaDz='l cu';keEz='务启动脚';lDz='rnin';UVBz='st" ';uPCz='r/bi';DTBz='--ke';qDz='%s%s';oXEz='s/\.';goBz='an" ';ZVDz='le_c';sRDz='，系统会';IpCz='X[@]';uuz='ort ';eoz='book';pVBz='ss_l';nRz=' ${r';XJDz='el u';sAEz='each';ylBz='0 /u';NIDz='a20-';BGz='se b';QrDz='f_re';gmz='i" ]';DnDz='pe e';HQDz='s_ex';lNCz='il=1';wJEz='enuN';APEz='o /e';FRCz='t v2';FABz='架构！"';pRDz='支持动态';sqCz='rt &';dZDz=' 当前配';qxCz='gi/t';wZz='_buc';WDz='5 ]]';jYDz='dpts';wVBz='ain;';BIDz='8-cf';ORCz='止成功"';mLBz='站2(h';HhBz='der"';LjDz='zhen';xEEz='ete}';rEBz='新输入！';iJEz='Pv6优';eeEz='nit.';UBDz='inse';ZKDz=' 下载安';FyDz='?hos';swDz='新启用g';wtDz='性"';OPCz='ify ';QiDz='m/";';rKCz='${pv';gSBz='| { ';PPBz=''\'' > ';BtBz='{raw';tMz='BBR_';FIDz='128-';OdBz='d/sy';nXEz='*//'\''';CKBz='" 流控';JXCz='box/';lDCz='EN}4';adBz='/xtl';ysCz='--li';gGBz='当前服务';UaEz='-x';Hoz='iacl';ZaCz='在国内的';wXEz='="wh';ZyBz='d '\'',';faEz='tl; ';JVCz='al_d';xGz='able';UlBz='(ech';ZnCz='Cent';tHEz='bel ';TPCz='://g';nYEz='服务器系';jRz='s-c8';Jbz='速完成。';WUDz='m} =';Ycz='0240';ZmDz=' 进阶：';UMDz='-oE ';PoDz='落地列表';ez='echo';iDBz='运行之前';QgCz='r IP';MFz=' {';MhDz='T账号(';dVCz=')][0';LRz='rl"';eVz='odul';Yqz='"'\''`';wHCz=' ip.';qHDz='5)ae';JDz='colo';LYDz=' < "';SnCz='edor';FqBz='k > ';OZz='trol';lsCz='e --';dOz='$1}'\''';rBz='g 天)';tWDz='T -m';aUEz='<<-'\''';Lvz='ort}';gUEz='ser"';QABz='配置，无';WvBz='${co';XTEz='crip';juz='Ngin';GRDz='ardi';tgCz='..）：';bMDz='er ]';Yuz='ting';YhBz='g() ';ohEz='l {s';JiDz='r}版"';EABz='的CPU';KZBz='tick';obCz='检查 \';gbBz='les ';swCz='"将继续';LCBz=' $an';AWz='depm';FZBz='ared';qOz='"${E';yxCz='$war';OcEz=' ( $';qbDz='e '\''+';IPEz='EOF'\''';VRDz='):" ';NfEz='ib64';QOEz='ilcc';jKEz='p 1';LrBz=' -s ';TcCz='标网址：';XEDz='gepa';kgz='l}';bYEz='n" |';OFz='= 开始';yOEz='里云源.';ZJCz='64|a';chBz='ten"';PABz='ity ';hCDz='a-se';Hjz='os|r';VtDz='输类型:';fwCz='口是：$';xsz='ia/S';Otz='ho $';jqDz='- 随机';vEz=' ]; ';DkBz=' rub';fCEz='除完成！';CPBz='heck';xPDz='es.c';RZDz='o}:$';iZCz='e 65';QvDz='-d "';NjDz='yunc';uuDz=' Clo';diEz='R}"';KjDz='shen';UJDz='idoc';icEz='y_lk';vODz=' " S';upz=' Saf';MIBz='无]："';KDz='r=32';iEEz='生效，当';eiCz='stab';hWDz='nati';YjDz='r" g';SrCz='p | ';hGz='s gi';Uoz='oo.c';FDBz='5之间的';FZDz='_tot';lVEz='低于这个';xuDz='API ';FGEz='es/g';mSBz='/${D';NQEz=' bin';DkEz='动防御c';ZjEz='s一键安';mfEz='x 内核';Aez='3.${';ZBBz='443"';QJBz=' "tr';GmEz='ges ';Xxz='ER =';ltDz='传证书"';QlEz='工具名称';BdBz='e/xr';Blz=' =~ ';ufEz='n '\''n';fnz='de.n';ALDz=' -rf';MCCz='nf.d';Lez='魔改版加';YfBz='ings';XYCz='机 IP';mYz='ode=';kUEz='用 ro';MyCz='ncod';kSz='" &&';svCz='口）："';oDDz='tchI';wEBz=',}';Cvz=' -f2';HFEz='m一键修';MpDz='加均衡负';FBDz='hy';wTBz='robo';kyCz='安装失败';bJDz='re p';VIDz='ha20';MDBz='& PO';XVDz='即生效!';ocEz='kl_b';XqCz=' cer';xcCz='--ar';pPBz='x -c';RUDz='num}';vnCz='y in';onDz='ACHA';WTDz='仅仅是公';fMCz='ld -';IMCz='t /p';LYCz='4" &';YfCz='0-9]';UMEz='hich';gOz='num=';Ioz='ouds';clz=' ${k';ZhBz='$XPO';JDCz='}系统$';axz='" = ';oFCz='11) ';VnDz='"请问你';MWCz='x/re';TDCz=' ———';HGBz='quer';DdCz='"$sh';kYEz='ION_';kNz='] ]]';dICz='2ray';loCz='p . ';IABz='ata(';EnDz=', pl';JJz='_pre';nMDz='d":"';WMDz='9+\.';XEBz='仅限DN';EwCz='w ud';ydEz=' eth';ZcCz='1.3 ';ZgCz='}$sh';FfBz='"des';hdz='v${s';gODz='r ss';fJCz='m64-';LEBz='N} 证';tiDz=' add';hKz='epo.';rsBz=')/SN';icCz='ex 8';XACz='{pub';GaCz='W "$';OCEz='0 */';Jtz=' -ne';tRz=' '\''am';EZCz='公网 I';GyBz='D${d';PTCz='ox${';lhCz='| se';pnBz='d \"';rSEz=' set';dZCz='[ $l';KZz='4.tc';CUCz='.swi';EkEz='"✪ 换';eMEz='IR:"';brCz='us ]';qgCz='wroc';MhBz='"$SE';tPBz='x.co';PHDz='-n1`';QdCz=' tru';oKCz=' ${D';rvCz='机分配端';wNDz='}ss链';XiEz=' rem';hiBz='"log';aCCz='f.lo';SBCz='xen ';igBz='": 0';fqDz=': "';kWDz='OSTR';YxBz='in}%';pdBz='NoNe';tDBz='S解析指';sJBz='prx-';XMEz='[ ":';reBz='swor';XGBz='{res';riDz='？[y/';kyDz='wss:';cUEz='$@" ';PjDz='st-l';lnCz=' "ap';oUCz='itul';RtBz='ity=';rsDz='填写${';UHBz='口[10';Yiz='2-se';FeDz='SIGT';FoDz='CHA2';RlDz=' 加密隧';UqDz='s代理服';NZz='_con';iqDz=' ran';sKEz='-a';AOz='tps:';tDz=' \03';emEz='后开始下';hVEz='n。';jREz='of=/';Vcz='= 50';MJDz=' gcc';qPCz='y'\'' &';CREz='p2 z';mgBz='": $';XgBz='t '\''/';shEz='来 {开';bQEz='l ma';eKBz='$len';IeDz='NT';ilBz='e.ke';obz='024 ';FLCz='} )!';YvBz='$(gr';UhDz='使用 $';HSz='$4}'\''';nxz='查网络"';OSz='deb ';piEz=' 255';jpDz='tomp';riCz='e}.t';RKBz='12-1';ahEz='装完成并';GMz='--no';SJBz='择流控模';Zpz='dows';tQDz='dir';FwCz='$5}'\''';DrCz='在应用"';NFEz='- \0';YHCz='chua';eCDz='l > ';RiEz='E}.s';WYDz='r++)';hRCz='UE}节';UkCz='不变；1';iSBz='}" -';cXz='cp_n';PeEz='为空，请';vlBz=': /u';AhCz='配置错误';OFEz='3m功能';ACz='0;32';PfDz='包含动态';BdDz='${fp';nSBz='N}_e';Vtz='ich ';PdDz='emp_';iz='本已过期';edCz='ain_';KrDz='_s_p';BaDz='temp';lNz='"${I';vcBz='ray文';hMz='all.';FHz='erma';nNDz='(por';SQDz='ls..';Elz='BRpl';jvDz='ME/g';QRCz='| ta';uBBz='_DES';FDEz='*) ;';qpBz='\"tl';DFz='touc';OPDz='新SS"';Uwz=' "v$';aTCz='STAL';AxDz='，请将证';iABz='hex ';RnBz='查日志或';yFCz='18) ';AHz='ow f';OKCz='会条件2';nyCz='c/hy';tFCz='te ;';cuCz='TG群询';MVCz='allS';MLBz='ml)"';GfDz='w.wl';YIBz='wech';tLCz='"srt';ZeDz='aemo';xTEz='SYST';ncCz=' "sh';vnz='ww.b';aGz='erne';HXCz='ener';nJDz='ares';HXEz='='\''or';rxz='-ne ';oYEz='统版本信';sPEz='[upd';vVBz='g  m';spz='.398';LCz=''\''';udDz='p 30';BNDz='udp"';Uez='版加速';EeBz='on-f';WiDz='or_f';biDz='ost.';cqz='IP=$';wlz='unni';Mbz='mizi';GvBz='} $R';DcEz='oxy ';SLz='pm';nFz='wget';Dcz='7721';NBBz='rn.m';QPBz='/yum';OwBz='${ui';Xgz=' -qa';QFDz='ite(';DGBz='s-js';tdBz='Exec';IeEz='NTER';ETEz='.xdm';QJCz='f4)"';KhBz='"$HE';nqCz='ot/c';nHDz='4)ae';EDBz='000-';UlCz='配置防火';ypCz='_cer';YsBz='层安全传';XJEz='om';Ppz='tect';WZEz='out;';Oz='d)';XlBz=' key';LwCz='s -t';FJz='32m"';yUEz='核以启用';cYBz='8-CC';Zuz='s $C';chEz='已加速的';WgEz='_POR';AXCz='版 $l';cQEz='ilx ';ahBz='RT,';ANBz='om" ';gKz='-elr';MRDz='程端口 ';uBDz='": 1';XLDz='zz';MKCz='密钥文件';CODz='QR()';ALCz='4} /';xbEz='/nol';Lkz='04"';IWDz=' "tc';BmEz='xd';nCBz='$REA';Lhz='`dpk';QKDz='ver=';IJDz='ols ';xWCz='"已安装';VRz=' !" ';EBEz='OST ';KDBz='{POR';AHEz=' res';VICz='ch y';WYBz='8-GC';SwCz='g'\'' |';KOEz='n  不';PRz='l-c7';BiBz='=$(h';wiEz=' $dn';ZWz='pa:u';ZUDz='ype';fmBz=' ser';ycEz='"$ha';UPBz='epo';uoDz='是否继续';LJBz='jan密';NHz='eloa';ttCz='IP与当';REBz='. 请确';SXBz='nf<<';pAEz='}p" ';Zfz='4)';UsBz='cryp';UABz='成Rea';yVCz='age_';wOEz='更换Ce';QCCz='e_ip';avBz='eali';QpDz='"将本机';wFDz='4 ) ';bSz=' '\''ar';QyDz='p=/r';rQz=' "$h';cwBz='pe)：';DgEz='d" !';bFEz='入且无提';hrCz='uick';TsDz='道"';YGDz=' men';dZz='p_tw';mMz='}.de';iRDz='ng_i';rDEz='器reb';uLEz='系统：$';aPCz='ay/v';QfDz='x} 清';hnCz='UPDA';WmBz=',}" ';XcBz='" 下载';gRBz='pw@p';Qmz='2);p';Fyz='o '\''3';HrCz='v4St';MhCz='key.';PsDz='转发传输';kkDz='st已经';iYz='"adv';wXDz='d lo';pyz='pc64';qeCz='ERVI';vlz='= "r';daz='phan';nfBz='File';OTDz='}${l';VHDz='" 端口';hmBz=' tr ';IBBz='DEST';CYz=' /et';DHEz='e ss';TFCz='ll ;';SHEz='ter_';wMz='ip} ';ICDz='2,';YpBz='id}\';WlCz='请手动配';xjDz='s/do';mSDz='sloo';SKEz='"9.8';NkEz='"✪ 改';MyDz='"" >';QtDz='no"';jaEz='无法找到';Okz='et-t';JiBz='ks",';GmCz=' 卸载s';NpCz=''\'' '\''[';pkBz='ay最新';YOEz='y 3 ';kIEz=':" i';XZDz='Del_';uiCz='W "已';ceBz='[{';QaDz='则: $';KgDz='w() ';NREz='新完成。';jFCz='8) V';bkEz='....';jYBz=':RSA';jmCz='rt L';ANDz='and_';TFDz='ldpr';YkCz='ey =';fmDz='均衡负载';ZVEz='{ldd';lcBz='ay.z';yjDz='wnlo';hFDz='口"';hcBz='che"';WGDz=' 退出脚';AmBz='败，无法';vKEz='cies';JSEz=' 0">';qICz='装${P';SUBz='x 2>';ihDz='(wge';SeBz='l da';nMz='cd .';mXz='ang.';mMEz=' PAT';WUBz='="ng';Lnz='cces';vHCz='m | ';kTCz='ode ';ryBz='x-vi';jlz='s="n';JmEz='是最后一';kRCz='o-pa';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$z$Pz$Qz$Rz$Sz$Tz$z$Uz$Vz$Hz$Iz$Jz$Wz$Xz$Yz$Zz$az$bz$cz$dz$z$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$z$oz$pz$z$qz$z$rz$z$sz$tz$uz$vz$wz$Tz$z$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$Az$Bz$Cz$GBz$HBz$IBz$DBz$JBz$KBz$LBz$MBz$NBz$z$Uz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$z$ez$fz$gz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$z$gBz$z$ez$fz$hBz$iBz$jBz$kBz$lBz$Yz$Zz$az$mBz$nBz$oBz$pBz$qBz$rBz$mz$nz$z$qz$z$rz$z$sBz$tBz$uBz$vBz$z$wBz$xBz$yBz$ACz$BCz$z$CCz$DCz$ECz$FCz$GCz$z$HCz$ICz$JCz$KCz$LCz$z$MCz$NCz$ECz$FCz$OCz$z$PCz$ICz$JCz$QCz$LCz$z$RCz$SCz$yBz$TCz$BCz$z$UCz$ECz$VCz$WCz$XCz$YCz$z$ZCz$aCz$bCz$z$ZCz$cCz$dCz$z$ZCz$eCz$fCz$gCz$z$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$z$qCz$ZCz$rCz$sCz$z$ZCz$eCz$tCz$uCz$z$vCz$z$qCz$ZCz$cCz$ZCz$rCz$wCz$z$hCz$iCz$jCz$kCz$lCz$xCz$yCz$ADz$z$qCz$ZCz$BDz$CDz$z$Uz$DDz$ZCz$EDz$FDz$GDz$HDz$IDz$z$qCz$ZCz$eCz$JDz$KDz$z$qCz$ZCz$eCz$LDz$MDz$z$ZCz$eCz$NDz$ODz$PDz$z$QDz$RDz$SDz$TDz$UDz$VDz$WDz$UBz$VBz$z$qCz$ZCz$eCz$JDz$XDz$z$qCz$ZCz$eCz$LDz$YDz$z$ZCz$eCz$NDz$ZDz$PDz$z$QDz$RDz$SDz$TDz$UDz$aDz$bDz$cDz$dDz$z$qCz$ZCz$eCz$JDz$eDz$z$qCz$ZCz$eCz$LDz$fDz$z$ZCz$eCz$NDz$gDz$PDz$z$gBz$z$ZCz$eCz$NDz$hDz$PDz$z$qz$z$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$yBz$xDz$yBz$yDz$AEz$BEz$CEz$DEz$z$EEz$TDz$FEz$GEz$DEz$z$HEz$IEz$JEz$KEz$LEz$MEz$z$NEz$DEz$z$EEz$TDz$OEz$PEz$DEz$z$EEz$TDz$QEz$REz$z$EEz$TDz$SEz$TEz$z$EEz$TDz$OEz$PEz$DEz$z$EEz$TDz$FEz$GEz$z$UEz$VEz$fDz$z$ZCz$eCz$fCz$SDz$TDz$SEz$WEz$z$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$PDz$z$vCz$z$rz$z$gEz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$z$pEz$qEz$rEz$Tz$z$Uz$sEz$tEz$gEz$hEz$uEz$vEz$IDz$z$ez$wEz$xEz$yEz$AFz$BFz$z$pEz$CFz$z$DFz$EFz$gEz$hEz$uEz$z$ez$FFz$GFz$HFz$IFz$JFz$KFz$z$qz$z$rz$z$pEz$LFz$MFz$z$ez$NFz$OFz$PFz$QFz$RFz$z$Uz$SFz$TFz$UFz$VFz$WFz$XFz$cz$dz$z$ez$YFz$ZFz$aFz$bFz$cFz$dFz$eFz$fFz$gFz$z$eFz$hFz$EBz$iFz$z$eFz$jFz$kFz$lFz$mFz$nFz$oFz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$GGz$HGz$IGz$JGz$KGz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$SGz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$aGz$fGz$gGz$hGz$iGz$jGz$kGz$lGz$mGz$nGz$z$ez$oGz$pGz$qGz$rGz$sGz$tGz$z$uGz$vGz$wGz$xGz$yGz$AHz$tFz$uFz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$z$BHz$CHz$DHz$MHz$NHz$OHz$z$QDz$PHz$QHz$RHz$SHz$THz$UHz$VHz$WHz$cDz$dDz$z$ez$YFz$XHz$YHz$ZHz$aHz$bHz$cHz$dHz$tGz$z$eHz$hFz$EBz$iFz$z$eHz$fHz$gHz$hHz$iHz$z$eHz$jFz$kFz$lFz$mFz$nFz$oFz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$wFz$jHz$kHz$lHz$DGz$EGz$FGz$GGz$HGz$IGz$JGz$KGz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$SGz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$aGz$fGz$gGz$hGz$iGz$jGz$kGz$lGz$mGz$mHz$nHz$oHz$pHz$qHz$rHz$sHz$tHz$uHz$vHz$wHz$xHz$z$ez$yHz$z$gBz$z$ez$AIz$BIz$CIz$DIz$z$oz$pz$z$qz$z$ez$NFz$EIz$FIz$GIz$HIz$IIz$z$ez$yHz$z$ez$yHz$z$JIz$KIz$z$rz$z$LIz$bCz$z$MIz$NIz$OIz$PIz$QIz$RIz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$ZIz$aIz$bIz$cIz$dIz$z$eIz$fIz$gIz$z$hIz$iIz$jIz$kIz$z$lIz$mIz$nIz$lIz$oIz$pIz$qIz$rIz$sIz$tIz$uIz$nHz$vIz$wIz$xIz$yIz$z$AJz$BJz$CJz$DJz$EJz$yBz$FJz$GJz$HJz$IJz$JJz$KJz$LJz$MJz$NJz$OJz$PJz$QJz$RJz$SJz$DJz$EJz$yBz$TJz$UJz$VJz$WJz$XJz$YJz$ZJz$aJz$bJz$cJz$TCz$NJz$dJz$eJz$fJz$gJz$KJz$LJz$BEz$PDz$z$hJz$iJz$AJz$BJz$CJz$DJz$jJz$kJz$lJz$mJz$nJz$oJz$pJz$z$qJz$rJz$sJz$tJz$uJz$aJz$vJz$wJz$xJz$JDz$yJz$AKz$nz$z$BKz$hBz$kGz$tJz$uJz$aJz$CKz$wJz$xJz$JDz$yJz$AKz$nz$z$jFz$DKz$EKz$FKz$z$GKz$HKz$IKz$JKz$KKz$LKz$z$Uz$Vz$MKz$NKz$OKz$PKz$QKz$RKz$cz$dz$z$SKz$TKz$UKz$VKz$WKz$XKz$YKz$ZKz$aKz$bKz$cKz$dKz$eKz$fKz$gKz$hKz$iKz$z$eFz$jFz$kFz$jKz$kKz$lKz$lIz$mKz$nKz$oKz$pKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$yKz$ALz$BLz$CLz$DLz$z$eFz$ELz$FLz$GLz$cGz$HLz$ILz$z$eFz$jFz$kFz$jKz$kKz$lKz$lIz$mKz$nKz$oKz$pKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$JLz$KLz$LLz$yKz$ALz$BLz$CLz$DLz$z$eFz$jFz$kFz$jKz$kKz$lKz$lIz$mKz$nKz$oKz$pKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$MLz$NLz$OLz$aGz$PLz$QLz$RLz$SLz$z$QDz$RDz$TLz$AGz$ULz$VLz$WLz$XLz$YLz$TLz$AGz$ULz$VLz$ZLz$aLz$bDz$cDz$dDz$z$bLz$cLz$dLz$eLz$fLz$z$nFz$VKz$WKz$gLz$hLz$iLz$jLz$kLz$lLz$mLz$nLz$oLz$pLz$qLz$rLz$sLz$tLz$uLz$vLz$wLz$xLz$yLz$AMz$BMz$CMz$DMz$EMz$iLz$z$nFz$FMz$GMz$HMz$IMz$JMz$KMz$LMz$kKz$lKz$lIz$mKz$nKz$lLz$MMz$NMz$OMz$nHz$oHz$pHz$PMz$cGz$QMz$sKz$RMz$SMz$TMz$z$nFz$FMz$GMz$HMz$IMz$JMz$KMz$LMz$kKz$lKz$lIz$mKz$nKz$lLz$MMz$NMz$UMz$uKz$VMz$WMz$KLz$LLz$yKz$ALz$BLz$CLz$iLz$z$nFz$FMz$GMz$HMz$IMz$JMz$KMz$LMz$kKz$lKz$lIz$mKz$nKz$lLz$MMz$NMz$UMz$uKz$VMz$XMz$YMz$OLz$aGz$PLz$QLz$ZMz$aMz$z$bMz$cMz$wLz$xLz$yLz$AMz$BMz$CMz$DMz$EMz$iLz$z$bMz$cMz$dMz$eMz$gGz$fMz$GKz$HKz$IKz$gMz$hMz$iMz$z$bMz$cMz$dMz$eMz$gGz$fMz$GKz$HKz$IKz$jMz$iMz$z$bMz$cMz$dMz$kMz$lMz$PMz$cGz$QMz$sKz$mMz$TMz$z$nMz$oMz$pMz$qMz$fLz$z$qz$z$rMz$sMz$aGz$nGz$z$tMz$uMz$z$ez$fz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$DNz$CJz$DJz$ENz$FNz$GNz$HNz$eJz$fJz$gJz$INz$PDz$z$JNz$KNz$LNz$MNz$NNz$ONz$PNz$QNz$RNz$SNz$TNz$UNz$VNz$WNz$XNz$YNz$ZNz$aNz$z$bNz$cNz$dNz$eNz$fNz$gNz$z$Uz$hNz$iNz$jNz$kNz$UBz$VBz$z$ez$fz$lNz$mNz$nNz$oNz$tGz$z$pNz$qNz$z$qz$z$rz$z$jFz$DKz$rNz$sNz$FKz$z$lIz$tNz$uNz$vNz$wNz$xNz$yNz$AOz$BOz$COz$YKz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$KOz$LOz$bKz$MOz$NOz$OOz$HOz$IOz$JOz$KOz$LOz$bKz$MOz$POz$QOz$oHz$ROz$SOz$TOz$UOz$VOz$WOz$XOz$YOz$SOz$TOz$ZOz$aOz$bOz$cOz$dOz$eOz$z$lIz$tNz$uNz$fOz$gOz$wNz$xNz$yNz$AOz$BOz$COz$YKz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$KOz$LOz$bKz$MOz$NOz$OOz$HOz$IOz$JOz$KOz$LOz$bKz$MOz$POz$QOz$oHz$ROz$SOz$TOz$UOz$VOz$WOz$XOz$YOz$SOz$TOz$ZOz$aOz$bOz$cOz$dOz$hOz$iOz$jOz$kOz$bOz$cOz$dOz$eOz$z$Uz$bNz$lOz$mOz$nOz$oOz$pOz$HDz$IDz$z$ez$fz$qOz$rOz$sOz$tOz$uOz$vOz$wOz$xOz$yOz$APz$z$oz$pz$z$qz$z$ez$fz$lNz$mNz$BPz$CPz$DPz$EPz$FPz$nDz$GPz$xJz$HPz$IPz$JPz$KPz$LPz$IOz$MPz$xJz$JDz$yJz$AKz$nz$z$ez$fz$vMz$wMz$NPz$OPz$PPz$QPz$RPz$SPz$TPz$UPz$z$VPz$WPz$rNz$XPz$YPz$z$bLz$cLz$ZPz$aPz$GJz$bPz$rNz$XPz$cPz$dPz$ePz$z$Uz$Vz$MKz$NKz$OKz$PKz$QKz$RKz$cz$dz$z$Uz$DDz$BLz$CLz$VLz$fPz$HDz$IDz$z$Uz$DDz$uKz$VLz$gPz$hPz$bDz$cDz$dDz$z$GKz$HKz$IKz$iPz$JPz$KPz$LPz$IOz$jPz$kPz$ZPz$lPz$z$rMz$sMz$aGz$mPz$nPz$z$oHz$oPz$wNz$xNz$pPz$qPz$rPz$sPz$mOz$tPz$uPz$vPz$wPz$xPz$ZPz$yPz$AQz$xGz$BQz$NKz$CQz$DQz$EQz$JPz$KPz$LPz$IOz$FQz$DQz$GQz$HQz$IQz$JQz$oHz$KQz$NOz$OOz$LQz$MQz$NQz$OQz$PQz$WOz$XOz$QQz$RQz$SQz$TQz$z$UQz$VQz$WQz$XQz$YQz$AOz$BOz$COz$YKz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$KOz$LOz$bKz$MOz$MQz$ZQz$cNz$lIz$tNz$uNz$aQz$bQz$ZQz$cQz$dQz$DQz$eQz$fQz$gQz$NOz$OOz$hQz$oHz$KQz$NOz$OOz$hQz$iQz$jQz$IQz$JQz$kQz$hOz$iOz$lQz$mQz$iDz$nQz$oQz$pQz$qQz$eOz$z$Uz$bNz$rQz$sQz$tQz$uQz$vQz$UQz$tQz$HDz$IDz$z$ez$fz$qOz$rOz$sOz$wQz$xQz$APz$z$nMz$oMz$pMz$qMz$yQz$ARz$BRz$z$oz$pz$z$qz$z$ez$fz$lNz$mNz$CRz$DRz$BFz$z$nFz$ERz$GKz$FRz$KLz$GRz$HRz$IRz$oHz$JRz$z$nFz$ERz$GKz$KRz$HRz$IRz$UQz$LRz$z$ez$fz$lNz$mNz$MRz$NRz$BFz$z$eFz$jFz$kFz$ORz$aGz$PRz$DLz$z$eFz$jFz$kFz$ORz$aGz$fGz$gGz$QRz$DLz$z$gBz$z$ez$fz$qOz$rOz$RRz$SRz$TRz$URz$VRz$WRz$XRz$fDz$z$qz$z$QDz$RDz$YRz$QLz$ZRz$aRz$bRz$UBz$VBz$z$ez$fz$lNz$mNz$pGz$cRz$dRz$CPz$DPz$eRz$BFz$z$Uz$DDz$uKz$VLz$gPz$hPz$bDz$cDz$dDz$z$GKz$HKz$IKz$iPz$JPz$KPz$LPz$IOz$jPz$kPz$ZPz$lPz$z$rMz$sMz$aGz$mPz$nPz$z$oHz$oPz$wNz$xNz$pPz$qPz$rPz$sPz$mOz$tPz$uPz$vPz$wPz$xPz$ZPz$yPz$AQz$xGz$BQz$NKz$CQz$DQz$EQz$JPz$KPz$LPz$IOz$FQz$DQz$GQz$HQz$IQz$JQz$oHz$KQz$NOz$OOz$fRz$MQz$NQz$OQz$PQz$WOz$XOz$QQz$RQz$SQz$TQz$z$UQz$VQz$WQz$XQz$YQz$AOz$BOz$COz$YKz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$KOz$LOz$bKz$MOz$MQz$ZQz$cNz$lIz$tNz$uNz$aQz$bQz$ZQz$cQz$dQz$DQz$eQz$fQz$gQz$NOz$OOz$hQz$oHz$KQz$NOz$OOz$hQz$iQz$jQz$IQz$JQz$gRz$hOz$iOz$lQz$mQz$iDz$nQz$oQz$pQz$qQz$eOz$z$Uz$bNz$rQz$sQz$tQz$uQz$vQz$UQz$tQz$HDz$IDz$z$ez$fz$qOz$rOz$sOz$wQz$xQz$APz$z$nMz$oMz$pMz$qMz$yQz$ARz$BRz$z$oz$pz$z$qz$z$nFz$ERz$GKz$KRz$hRz$IRz$oHz$JRz$z$nFz$ERz$GKz$FRz$KLz$GRz$hRz$IRz$UQz$LRz$z$eFz$jFz$kFz$ORz$aGz$iRz$DLz$z$eFz$jFz$kFz$ORz$aGz$fGz$gGz$jRz$DLz$z$gBz$z$ez$fz$qOz$rOz$RRz$SRz$TRz$URz$VRz$WRz$XRz$fDz$z$qz$z$gBz$z$ez$fz$qOz$rOz$kRz$uOz$vOz$lRz$mRz$nRz$AGz$oRz$YRz$QLz$pRz$qRz$rRz$GJz$oz$pz$z$qz$z$QDz$RDz$TLz$AGz$ULz$VLz$WLz$XLz$YLz$TLz$AGz$ULz$VLz$ZLz$aLz$bDz$cDz$dDz$z$Uz$DDz$uKz$VLz$gPz$hPz$bDz$cDz$dDz$z$GKz$HKz$IKz$iPz$JPz$KPz$LPz$IOz$jPz$kPz$ZPz$lPz$z$rMz$sMz$aGz$mPz$nPz$z$oHz$oPz$wNz$xNz$pPz$qPz$rPz$sPz$mOz$tPz$uPz$vPz$wPz$xPz$ZPz$yPz$AQz$xGz$BQz$NKz$CQz$DQz$EQz$JPz$KPz$LPz$IOz$FQz$DQz$sRz$qPz$MQz$ZQz$tRz$uRz$vRz$NOz$OOz$wRz$ILz$MQz$NQz$OQz$PQz$WOz$XOz$QQz$RQz$SQz$TQz$z$UQz$VQz$WQz$XQz$YQz$AOz$BOz$COz$YKz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$KOz$LOz$bKz$MOz$MQz$ZQz$cNz$lIz$tNz$uNz$aQz$bQz$ZQz$YQz$xRz$NOz$OOz$yRz$ASz$BSz$IQz$JQz$CSz$DSz$ESz$FSz$GSz$bOz$cOz$HSz$ISz$ONz$JSz$z$Uz$bNz$rQz$sQz$tQz$uQz$vQz$UQz$tQz$HDz$IDz$z$ez$fz$qOz$rOz$sOz$wQz$xQz$APz$z$nMz$oMz$pMz$qMz$yQz$ARz$BRz$z$oz$pz$z$qz$z$nFz$ERz$dMz$eMz$gGz$KSz$LSz$MSz$oHz$JRz$z$nFz$ERz$dMz$kMz$lMz$NSz$OSz$PSz$QSz$PDz$z$bMz$cMz$dMz$kMz$lMz$NSz$iMz$z$bMz$cMz$dMz$eMz$gGz$KSz$LSz$TMz$z$QDz$RDz$RSz$SSz$TSz$USz$VSz$HDz$IDz$z$ez$fz$lNz$mNz$WSz$XSz$YSz$ZSz$aSz$CPz$DPz$eRz$BFz$z$GKz$HKz$IKz$iPz$JPz$KPz$LPz$IOz$jPz$kPz$ZPz$lPz$z$rMz$sMz$aGz$mPz$nPz$z$oHz$oPz$wNz$xNz$pPz$qPz$rPz$sPz$mOz$tPz$uPz$vPz$wPz$xPz$ZPz$yPz$AQz$xGz$BQz$NKz$CQz$DQz$EQz$JPz$KPz$LPz$IOz$FQz$DQz$sRz$qPz$MQz$ZQz$bSz$cSz$vRz$NOz$OOz$wRz$ILz$MQz$NQz$OQz$PQz$WOz$XOz$QQz$RQz$SQz$TQz$z$UQz$VQz$WQz$XQz$YQz$AOz$BOz$COz$YKz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$KOz$LOz$bKz$MOz$MQz$ZQz$cNz$lIz$tNz$uNz$aQz$bQz$ZQz$YQz$xRz$NOz$OOz$dSz$ASz$BSz$IQz$JQz$CSz$DSz$ESz$FSz$GSz$bOz$cOz$HSz$ISz$ONz$JSz$z$Uz$bNz$rQz$sQz$tQz$uQz$vQz$UQz$tQz$HDz$IDz$z$ez$fz$qOz$rOz$sOz$wQz$xQz$APz$z$nMz$oMz$pMz$qMz$yQz$ARz$BRz$z$oz$pz$z$qz$z$nFz$ERz$dMz$eMz$gGz$KSz$LSz$MSz$oHz$JRz$z$nFz$ERz$dMz$kMz$lMz$NSz$OSz$PSz$QSz$PDz$z$bMz$cMz$dMz$kMz$lMz$NSz$iMz$z$bMz$cMz$dMz$eMz$gGz$KSz$LSz$TMz$z$gBz$z$ez$fz$qOz$rOz$RRz$SRz$eSz$fSz$gSz$hSz$iSz$jSz$kSz$dPz$lSz$z$qz$z$qz$z$nMz$oMz$pMz$qMz$yQz$ARz$BRz$z$tMz$uMz$z$ez$fz$vMz$wMz$mSz$nSz$oSz$pSz$qSz$rSz$sSz$tSz$uSz$vSz$z$ez$fz$lNz$mNz$wSz$IOz$xSz$ySz$ATz$PJz$IJz$JJz$INz$PMz$cGz$QMz$sKz$MPz$xJz$JDz$yJz$AKz$nz$z$JNz$KNz$LNz$MNz$NNz$ONz$PNz$QNz$RNz$SNz$TNz$IOz$BTz$CTz$DTz$ETz$FTz$GTz$z$bNz$cNz$dNz$eNz$fNz$gNz$z$Uz$hNz$iNz$jNz$kNz$UBz$VBz$z$ez$fz$lNz$mNz$nNz$oNz$tGz$z$pNz$qNz$z$qz$z$rz$z$jFz$HTz$ITz$FKz$z$Uz$Vz$MKz$NKz$OKz$PKz$QKz$RKz$cz$dz$z$SKz$TKz$UKz$VKz$WKz$XKz$YKz$JTz$KTz$LTz$oKz$pKz$MTz$NTz$OTz$PTz$QTz$RTz$STz$z$eFz$ELz$FLz$GLz$cGz$TTz$UTz$VTz$z$eFz$jFz$kFz$jKz$kKz$lKz$lIz$mKz$WTz$XTz$aKz$bKz$cKz$YTz$IKz$ZTz$RSz$aTz$aGz$bTz$cTz$dTz$yKz$ALz$BLz$CLz$DLz$z$eFz$jFz$kFz$jKz$kKz$lKz$lIz$mKz$WTz$XTz$aKz$bKz$cKz$YTz$IKz$ZTz$RSz$aTz$aGz$eTz$GKz$HKz$IKz$jMz$fTz$z$eFz$ELz$FLz$GLz$cGz$HLz$ILz$z$eFz$jFz$kFz$jKz$kKz$lKz$lIz$mKz$WTz$XTz$aKz$bKz$cKz$YTz$IKz$ZTz$RSz$aTz$aGz$fGz$gGz$fMz$GKz$HKz$IKz$jMz$fTz$z$eFz$jFz$kFz$jKz$kKz$lKz$lIz$mKz$WTz$XTz$aKz$bKz$cKz$YTz$IKz$ZTz$RSz$aTz$aGz$gTz$hTz$PMz$cGz$QMz$sKz$iTz$jTz$z$QDz$RDz$TLz$AGz$ULz$VLz$ZLz$aLz$bDz$cDz$dDz$z$kTz$lTz$mTz$GMz$HMz$IMz$JMz$KMz$EBz$nTz$oTz$WKz$XKz$YKz$pTz$YHz$qTz$rTz$sTz$z$QDz$RDz$TLz$AGz$ULz$VLz$WLz$XLz$bDz$cDz$dDz$z$kTz$lTz$mTz$GMz$HMz$IMz$JMz$KMz$EBz$nTz$oTz$WKz$XKz$YKz$pTz$YHz$qTz$rTz$sTz$z$qz$z$rMz$sMz$aGz$nGz$z$tMz$uMz$z$ez$fz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$DNz$CJz$DJz$tTz$KTz$uTz$vTz$OEz$wTz$xTz$yTz$z$JNz$KNz$LNz$MNz$NNz$ONz$PNz$QNz$RNz$SNz$AUz$BUz$CUz$CTz$DTz$ETz$FTz$GTz$z$bNz$cNz$dNz$eNz$fNz$gNz$z$Uz$hNz$iNz$jNz$kNz$UBz$VBz$z$ez$fz$lNz$mNz$nNz$oNz$tGz$z$pNz$qNz$z$qz$z$rz$z$DUz$EUz$FUz$z$ELz$GUz$HUz$z$Uz$IUz$JUz$PMz$cGz$QMz$sKz$KUz$NQz$LUz$mQz$iDz$MUz$NUz$OUz$PUz$HDz$IDz$z$ez$QUz$rIz$RUz$SUz$TUz$UUz$VUz$WUz$XUz$YUz$ZUz$aUz$bUz$z$ez$QUz$cUz$dUz$eUz$fUz$gUz$hUz$iUz$jUz$kUz$XUz$YUz$ZUz$aUz$bUz$z$gBz$z$ez$QUz$rIz$RUz$SUz$TUz$UUz$lUz$mUz$nUz$oUz$pUz$qUz$z$ez$QUz$cUz$dUz$eUz$fUz$gUz$hUz$iUz$jUz$kUz$XUz$YUz$ZUz$aUz$bUz$z$qz$z$rUz$sUz$tUz$z$ez$fz$lNz$mNz$uUz$vUz$PDz$z$rz$z$DUz$EUz$IOz$FUz$z$ELz$GUz$HUz$z$ez$QUz$rIz$RUz$SUz$TUz$UUz$lUz$mUz$nUz$oUz$pUz$qUz$z$ez$QUz$cUz$dUz$eUz$fUz$gUz$hUz$iUz$jUz$ZPz$wUz$XUz$YUz$ZUz$aUz$bUz$z$rUz$sUz$tUz$z$ez$fz$lNz$mNz$CPz$xUz$vUz$PDz$z$rz$z$DUz$EUz$yUz$AVz$z$ELz$GUz$HUz$z$Uz$Vz$MKz$NKz$OKz$PKz$QKz$RKz$cz$dz$z$eFz$jFz$kFz$BVz$SGz$CVz$z$bLz$cLz$DVz$GJz$bPz$EVz$OHz$z$nFz$FMz$GMz$HMz$IMz$JMz$KMz$LMz$kKz$lKz$lIz$mKz$nKz$FVz$GVz$HVz$IVz$z$ez$JVz$KVz$LVz$MVz$NVz$OVz$PVz$QVz$RVz$z$SVz$TVz$UVz$VVz$WVz$XVz$YVz$ZVz$aVz$bVz$cVz$dVz$eVz$fVz$gVz$hVz$iVz$jVz$z$kVz$lVz$mVz$nVz$oVz$pVz$pCz$z$qVz$rVz$sVz$MVz$NVz$tVz$UVz$VVz$WVz$XVz$YVz$ZVz$vKz$uVz$vVz$wVz$z$xVz$yVz$nVz$oVz$pVz$pCz$z$AWz$BWz$CWz$z$gBz$z$UHz$mTz$hFz$DWz$z$Uz$Vz$MKz$NKz$OKz$EWz$NMz$FWz$GWz$rKz$sKz$OKz$HWz$bRz$UBz$VBz$z$UHz$mTz$IWz$JWz$KWz$LWz$MWz$NWz$OWz$z$UHz$mTz$IWz$JWz$PWz$QWz$RWz$SWz$JMz$TWz$UWz$dDz$z$VWz$UHz$WWz$XWz$YWz$ZWz$NMz$aWz$bWz$cWz$dWz$eWz$iFz$z$UHz$mTz$hFz$DWz$z$qz$z$UHz$mTz$IWz$JWz$fWz$SGz$CVz$z$bLz$cLz$DVz$GJz$bPz$EVz$OHz$z$nFz$FMz$GMz$HMz$IMz$JMz$KMz$LMz$kKz$lKz$lIz$mKz$nKz$FVz$GVz$HVz$IVz$z$ez$JVz$KVz$LVz$MVz$NVz$OVz$PVz$QVz$RVz$z$gWz$hWz$hVz$iVz$iWz$VIz$jWz$kWz$lWz$z$SVz$TVz$UVz$VVz$WVz$XVz$YVz$ZVz$aVz$bVz$cVz$dVz$eVz$fVz$gVz$hVz$iVz$mWz$nWz$z$jFz$kFz$FVz$GVz$HVz$oWz$pWz$qWz$rWz$qHz$rHz$sWz$GKz$tWz$z$qVz$rVz$sVz$MVz$NVz$tVz$UVz$VVz$WVz$XVz$YVz$ZVz$vKz$uVz$vVz$wVz$z$AWz$BWz$CWz$z$qz$z$ez$QUz$rIz$RUz$SUz$TUz$UUz$lUz$mUz$nUz$oUz$pUz$qUz$z$ez$QUz$cUz$dUz$eUz$fUz$gUz$hUz$iUz$uWz$vWz$wWz$XUz$YUz$ZUz$aUz$bUz$z$rUz$sUz$tUz$z$nMz$oMz$pMz$qMz$xWz$yWz$z$ez$fz$lNz$mNz$AXz$BXz$CXz$z$rz$z$DUz$EUz$DXz$EXz$FXz$GXz$FKz$z$ELz$GUz$HUz$z$Uz$Vz$MKz$NKz$OKz$PKz$QKz$RKz$cz$dz$z$eFz$jFz$kFz$BVz$SGz$CVz$z$bLz$cLz$DVz$GJz$bPz$EVz$OHz$z$nFz$FMz$GMz$HMz$IMz$JMz$KMz$LMz$qPz$HXz$IXz$mOz$JXz$KXz$LXz$DOz$MXz$NXz$OXz$PXz$QXz$RXz$SXz$TXz$UXz$QKz$VXz$WXz$XXz$YXz$ZXz$z$ez$JVz$aXz$bXz$cXz$dXz$eXz$fXz$gXz$hXz$iXz$z$SVz$TVz$UVz$VVz$WVz$XVz$YVz$ZVz$aVz$bVz$cVz$dVz$eVz$fVz$gVz$hVz$iVz$jVz$z$kVz$lVz$mVz$cXz$dXz$eXz$jXz$z$qVz$rVz$sVz$kXz$lXz$mXz$oWz$pWz$qWz$rWz$qHz$rHz$sWz$GKz$nXz$oXz$pXz$z$xVz$yVz$cXz$dXz$eXz$jXz$z$AWz$BWz$CWz$z$gBz$z$UHz$mTz$hFz$DWz$z$Uz$Vz$MKz$NKz$OKz$EWz$NMz$FWz$GWz$rKz$sKz$OKz$HWz$bRz$UBz$VBz$z$UHz$mTz$IWz$JWz$KWz$LWz$MWz$NWz$OWz$z$UHz$mTz$IWz$JWz$PWz$QWz$RWz$SWz$JMz$TWz$UWz$dDz$z$VWz$UHz$WWz$XWz$YWz$ZWz$NMz$aWz$bWz$cWz$dWz$eWz$iFz$z$UHz$mTz$hFz$DWz$z$qz$z$UHz$mTz$IWz$JWz$fWz$SGz$kWz$lWz$z$bLz$cLz$DVz$GJz$bPz$EVz$OHz$z$nFz$FMz$GMz$HMz$IMz$JMz$KMz$LMz$qPz$HXz$IXz$mOz$JXz$KXz$LXz$DOz$MXz$NXz$OXz$PXz$QXz$RXz$SXz$TXz$qXz$cXz$dXz$eXz$rXz$z$ez$JVz$aXz$bXz$cXz$dXz$eXz$fXz$gXz$hXz$iXz$z$SVz$TVz$UVz$VVz$WVz$XVz$YVz$ZVz$aVz$bVz$cVz$dVz$eVz$fVz$gVz$hVz$iVz$mWz$nWz$z$jFz$kFz$FVz$EXz$FXz$sXz$tXz$uXz$eVz$vXz$wXz$xXz$yXz$aGz$nGz$z$qVz$rVz$sVz$kXz$lXz$mXz$oWz$pWz$qWz$rWz$qHz$rHz$sWz$GKz$nXz$oXz$pXz$z$AWz$BWz$CWz$z$qz$z$ez$QUz$rIz$RUz$SUz$TUz$UUz$lUz$mUz$nUz$oUz$pUz$qUz$z$ez$QUz$cUz$dUz$eUz$fUz$gUz$hUz$iUz$AYz$XXz$YXz$BYz$CYz$DYz$EYz$FYz$GYz$z$rUz$sUz$tUz$z$ez$fz$lNz$mNz$AXz$BXz$CXz$z$rz$z$DUz$HYz$BUz$IYz$FKz$z$ELz$GUz$HUz$z$Uz$Vz$MKz$NKz$OKz$PKz$QKz$RKz$cz$dz$z$eFz$jFz$kFz$JYz$KYz$z$gBz$z$UHz$mTz$hFz$DWz$z$UHz$mTz$jFz$kFz$JYz$KYz$z$qz$z$kTz$lTz$mTz$GMz$HMz$IMz$JMz$KMz$EBz$nTz$LYz$MYz$nIz$lIz$oIz$pIz$qIz$rIz$sIz$tIz$NYz$OYz$LTz$SXz$PYz$JWz$QYz$RYz$JWz$HUz$z$SYz$TYz$UYz$VYz$WYz$XYz$YYz$ZYz$qUz$aYz$z$SYz$TYz$bYz$cYz$dYz$eYz$fYz$gYz$hYz$STz$z$ez$fz$iYz$VYz$jYz$kYz$z$lYz$mYz$nYz$oYz$eYz$fYz$gYz$hYz$STz$z$eYz$pYz$qYz$rYz$sYz$tYz$uYz$vYz$z$DUz$wYz$xYz$z$rz$z$ELz$GUz$yYz$FKz$z$VPz$WPz$EVz$OHz$z$SYz$TYz$AZz$BZz$CZz$DZz$EZz$FZz$GZz$ZYz$rUz$HZz$IZz$z$SYz$TYz$AZz$JZz$KZz$LZz$MZz$Sz$NZz$OZz$dYz$nUz$oUz$pUz$qUz$z$SYz$TYz$PZz$QZz$RZz$dYz$nUz$oUz$pUz$qUz$z$SYz$TYz$AZz$BZz$SZz$TZz$SUz$UZz$VZz$YUz$ZUz$aUz$bUz$z$SYz$TYz$AZz$BZz$WZz$TZz$SUz$UZz$VZz$YUz$ZUz$aUz$bUz$z$SYz$TYz$AZz$BZz$XZz$YZz$ZZz$GZz$ZYz$rUz$HZz$IZz$z$SYz$TYz$AZz$JZz$KZz$aZz$bZz$cZz$dYz$nUz$oUz$pUz$qUz$z$SYz$TYz$AZz$JZz$KZz$dZz$eZz$fZz$VZz$YUz$ZUz$aUz$bUz$z$SYz$TYz$AZz$JZz$KZz$dZz$gZz$hZz$dYz$nUz$oUz$pUz$qUz$z$SYz$TYz$AZz$JZz$KZz$iZz$jZz$TDz$kZz$CYz$DYz$EYz$FYz$GYz$z$SYz$TYz$AZz$JZz$KZz$lZz$mZz$nZz$ZCz$dYz$nUz$oUz$pUz$qUz$z$SYz$TYz$AZz$JZz$oZz$pZz$qZz$rZz$sZz$tZz$CYz$DYz$EYz$FYz$GYz$z$SYz$TYz$AZz$JZz$KZz$uZz$vZz$wZz$xZz$dYz$nUz$oUz$pUz$qUz$z$SYz$TYz$AZz$JZz$KZz$yZz$Aaz$VZz$YUz$ZUz$aUz$bUz$z$SYz$TYz$AZz$JZz$KZz$Baz$Aaz$VZz$YUz$ZUz$aUz$bUz$z$SYz$TYz$AZz$JZz$KZz$Caz$Daz$Eaz$Faz$CYz$DYz$EYz$FYz$GYz$z$SYz$TYz$AZz$JZz$oZz$Gaz$Haz$dYz$nUz$oUz$pUz$qUz$z$SYz$TYz$PZz$Iaz$Jaz$Kaz$Laz$Maz$Naz$Oaz$VZz$YUz$ZUz$aUz$bUz$z$SYz$TYz$AZz$JZz$KZz$aZz$bZz$cZz$dYz$nUz$oUz$pUz$qUz$z$SYz$TYz$AZz$JZz$KZz$iZz$jZz$TDz$kZz$CYz$DYz$EYz$FYz$GYz$z$SYz$TYz$AZz$JZz$Paz$Qaz$Raz$kCz$Saz$VZz$YUz$ZUz$aUz$bUz$z$SYz$TYz$AZz$JZz$KZz$aZz$Taz$Uaz$Vaz$dYz$nUz$oUz$pUz$qUz$z$SYz$TYz$AZz$JZz$KZz$aZz$Waz$Xaz$Yaz$CYz$DYz$EYz$FYz$GYz$z$SYz$TYz$AZz$JZz$KZz$Zaz$aaz$baz$dYz$nUz$oUz$pUz$qUz$z$SYz$TYz$AZz$JZz$KZz$uZz$caz$daz$Yaz$CYz$DYz$EYz$FYz$GYz$z$SYz$TYz$AZz$BZz$SZz$eaz$faz$VZz$YUz$ZUz$aUz$bUz$z$SYz$TYz$AZz$BZz$WZz$eaz$faz$VZz$YUz$ZUz$aUz$bUz$z$SYz$TYz$AZz$JZz$KZz$uZz$gaz$haz$iaz$Faz$CYz$DYz$EYz$FYz$GYz$z$SYz$TYz$AZz$BZz$jaz$kaz$laz$maz$naz$dYz$nUz$oUz$pUz$qUz$z$SYz$TYz$AZz$JZz$KZz$oaz$paz$qaz$raz$saz$taz$GZz$ZYz$rUz$HZz$IZz$z$SYz$TYz$AZz$JZz$oZz$Gaz$Haz$dYz$nUz$oUz$pUz$qUz$z$Uz$uaz$XYz$YYz$jWz$vaz$XTz$waz$bDz$cDz$dDz$z$kTz$lTz$mTz$GMz$HMz$IMz$JMz$KMz$EBz$nTz$LYz$MYz$lIz$xaz$yaz$Abz$Bbz$rYz$sYz$Cbz$xIz$Dbz$Ebz$hMz$Fbz$Gbz$Hbz$nGz$z$qz$z$JIz$KIz$z$ez$fz$lNz$mNz$Ibz$Jbz$PDz$z$UEz$Kbz$z$rz$z$Lbz$Mbz$Nbz$Obz$Pbz$z$SYz$TYz$PZz$QZz$RZz$dYz$nUz$oUz$pUz$qUz$z$SYz$TYz$PZz$Iaz$Jaz$Kaz$Laz$Maz$Naz$Oaz$VZz$YUz$ZUz$aUz$bUz$z$SYz$TYz$AZz$JZz$KZz$dZz$eZz$fZz$VZz$YUz$ZUz$aUz$bUz$z$SYz$TYz$AZz$JZz$oZz$pZz$qZz$rZz$sZz$tZz$CYz$DYz$EYz$FYz$GYz$z$SYz$TYz$AZz$JZz$KZz$yZz$Aaz$VZz$YUz$ZUz$aUz$bUz$z$SYz$TYz$AZz$JZz$KZz$Baz$Aaz$VZz$YUz$ZUz$aUz$bUz$z$SYz$TYz$AZz$BZz$XZz$YZz$ZZz$GZz$ZYz$rUz$HZz$IZz$z$SYz$TYz$AZz$BZz$SZz$eaz$faz$VZz$YUz$ZUz$aUz$bUz$z$SYz$TYz$AZz$BZz$WZz$eaz$faz$VZz$YUz$ZUz$aUz$bUz$z$SYz$TYz$AZz$BZz$WZz$TZz$SUz$UZz$VZz$YUz$ZUz$aUz$bUz$z$SYz$TYz$AZz$JZz$KZz$uZz$vZz$wZz$xZz$dYz$nUz$oUz$pUz$qUz$z$SYz$TYz$AZz$JZz$KZz$uZz$gaz$haz$iaz$Faz$CYz$DYz$EYz$FYz$GYz$z$SYz$TYz$AZz$BZz$jaz$kaz$laz$maz$naz$dYz$nUz$oUz$pUz$qUz$z$SYz$TYz$AZz$JZz$KZz$oaz$paz$qaz$raz$saz$taz$GZz$ZYz$rUz$HZz$IZz$z$SYz$TYz$AZz$JZz$oZz$Gaz$Haz$dYz$nUz$oUz$pUz$qUz$z$ez$Qbz$Rbz$Sbz$Tbz$Ubz$Vbz$z$Wbz$Xbz$Ybz$Zbz$abz$jFz$bbz$cbz$dbz$z$ebz$wVz$fbz$gbz$hbz$ibz$fDz$z$ebz$wVz$jbz$WIz$kbz$lbz$mbz$nbz$obz$pbz$wCz$z$ebz$wVz$fbz$qbz$rbz$sbz$tbz$ubz$vbz$wbz$z$ebz$wVz$fbz$xbz$rbz$ybz$Acz$Bcz$Ccz$Dcz$Ecz$z$ebz$Fcz$Gcz$Hcz$Icz$Jcz$MDz$z$ebz$Fcz$Kcz$Lcz$Tbz$Mcz$Ncz$z$ebz$Fcz$Ocz$Lcz$Tbz$Mcz$Ncz$z$ebz$Fcz$Ocz$Pcz$DZz$Qcz$Rcz$Scz$z$ebz$wVz$fbz$laz$gbz$Tcz$Ucz$Vcz$Wcz$z$ebz$wVz$fbz$laz$Xcz$maz$naz$nbz$Ycz$z$ebz$Fcz$Zcz$acz$Kaz$QJz$bcz$ccz$dcz$z$ebz$wVz$fbz$ecz$fcz$gcz$hcz$icz$jcz$kcz$z$ebz$wVz$jbz$lcz$mcz$ncz$ocz$YUz$ZUz$aUz$bUz$z$rUz$sUz$tUz$z$ez$pcz$qcz$qcz$qcz$rcz$scz$tcz$QZz$qcz$qcz$ucz$vcz$Wcz$z$wcz$qcz$qcz$qcz$xcz$qcz$ycz$Adz$qcz$qcz$Ubz$Bdz$Cdz$Ddz$Edz$Fdz$Gdz$Hdz$bUz$z$ez$Idz$Gdz$Jdz$Kdz$vcz$Ldz$nUz$Mdz$QZz$z$Ndz$Odz$Pdz$Qdz$Rdz$Sdz$Tdz$Udz$Vdz$Wdz$Xdz$Ydz$dDz$z$bNz$cNz$dNz$eNz$fNz$gNz$z$Uz$hNz$iNz$jNz$kNz$UBz$VBz$z$ez$fz$lNz$mNz$nNz$oNz$tGz$z$pNz$qNz$z$qz$z$rz$z$DUz$wYz$Zdz$FKz$z$JIz$KIz$z$ez$GJz$ez$fz$adz$bdz$cdz$ddz$edz$fdz$xJz$HPz$gdz$hdz$idz$jdz$vTz$OEz$wTz$xTz$kdz$z$ldz$mdz$ndz$odz$CDz$z$pdz$pdz$pdz$qdz$pdz$pdz$pdz$z$ATz$PJz$IJz$JJz$INz$rdz$lJz$mJz$nJz$oJz$sdz$tdz$FNz$GNz$udz$z$ATz$PJz$IJz$JJz$INz$vdz$lJz$mJz$nJz$oJz$sdz$tdz$uOz$vOz$wdz$xdz$ydz$z$ATz$PJz$IJz$JJz$INz$Aez$lJz$mJz$nJz$oJz$sdz$Bez$KTz$Cez$Dez$Eez$z$pdz$pdz$pdz$Fez$pdz$pdz$pdz$z$ATz$PJz$IJz$JJz$INz$Gez$lJz$mJz$nJz$oJz$Hez$Iez$Jez$z$ATz$PJz$IJz$JJz$INz$Kez$lJz$mJz$nJz$oJz$Hez$Iez$Lez$Mez$z$ATz$PJz$IJz$JJz$INz$Nez$lJz$mJz$nJz$oJz$Hez$Oez$Pez$Qez$Rez$Sez$z$ATz$PJz$IJz$JJz$INz$Tez$lJz$mJz$nJz$oJz$Hez$Iez$IOz$Uez$z$ATz$PJz$IJz$JJz$INz$Vez$lJz$mJz$nJz$oJz$Hez$Wez$BUz$Xez$Yez$z$pdz$pdz$pdz$Zez$pdz$pdz$pdz$z$ATz$PJz$IJz$JJz$INz$aez$lJz$mJz$nJz$oJz$bez$cez$Mez$z$ATz$PJz$IJz$JJz$INz$dez$vTz$OEz$wTz$xTz$eez$fez$gez$z$ATz$PJz$IJz$JJz$INz$hez$lJz$mJz$nJz$oJz$iez$jez$z$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$kSz$kez$pCz$z$Pz$lez$mez$z$Uz$DDz$GKz$nez$oez$pez$qez$rez$sez$bRz$UBz$VBz$z$ez$fz$tez$uez$ATz$PJz$IJz$JJz$INz$vez$vTz$OEz$wTz$xTz$eez$wez$edz$fdz$xJz$HPz$xez$yez$Afz$xJz$JDz$yJz$AKz$nz$z$gBz$z$ez$fz$tez$uez$ATz$PJz$IJz$JJz$INz$Bfz$vTz$OEz$wTz$xTz$eez$Cfz$xJz$HPz$IPz$yKz$ALz$Dfz$Efz$vTz$OEz$wTz$xTz$eez$wez$Ffz$nDz$GPz$xJz$HPz$IPz$Gfz$KOz$Hfz$HNz$eJz$fJz$gJz$INz$PDz$z$qz$z$ez$z$Ndz$Odz$Ifz$Jfz$Kfz$Lfz$Mfz$z$Nfz$Ofz$Pfz$Qfz$z$TQz$z$Pz$Rfz$Sfz$KIz$z$Tfz$z$Ufz$z$Pz$Rfz$Sfz$ZPz$lPz$z$Tfz$z$Vfz$z$Pz$Rfz$Wfz$Xfz$Yfz$z$Tfz$z$Zfz$z$DUz$EUz$z$Tfz$z$afz$z$DUz$EUz$bfz$z$Tfz$z$cfz$z$DUz$EUz$DXz$EXz$FXz$dfz$z$Tfz$z$efz$z$DUz$EUz$IOz$z$Tfz$z$ffz$z$DUz$HYz$BUz$Yfz$z$Tfz$z$gfz$z$ELz$GUz$HUz$z$Tfz$z$hfz$z$Lbz$Mbz$Nbz$Obz$jTz$z$Tfz$z$ifz$z$oz$pz$z$Tfz$z$jfz$z$JIz$KIz$z$ez$fz$qOz$rOz$kfz$lfz$mfz$nfz$PDz$z$UEz$ofz$z$DUz$wYz$xYz$z$Tfz$z$pfz$z$rz$z$rMz$sMz$aGz$qfz$z$Uz$Vz$MKz$NKz$OKz$PKz$QKz$RKz$cz$dz$z$rfz$sfz$tfz$ufz$vfz$DQz$wfz$cGz$NOz$OOz$xfz$PMz$cGz$QMz$sKz$FQz$DQz$eQz$yfz$USz$bQz$Agz$Bgz$z$Uz$cNz$rfz$sfz$Cgz$Dgz$WHz$cDz$dDz$z$ez$fz$Egz$nRz$Fgz$Ggz$Hgz$Igz$Jgz$tGz$z$Kgz$Lgz$Mgz$nbz$Ngz$Ogz$Pgz$nRz$Fgz$Ggz$Qgz$Rgz$Sgz$Tgz$Ugz$z$rfz$Vgz$Wgz$Xgz$NOz$OOz$GKz$Ygz$DQz$eQz$cNz$GKz$HKz$IKz$Zgz$NOz$OOz$xfz$agz$bgz$RQz$SQz$cgz$Ogz$dgz$z$ez$fz$egz$fgz$rfz$ggz$hgz$BFz$z$SKz$GMz$igz$fz$jgz$Pcz$kgz$z$ez$fz$lgz$jgz$Pcz$mgz$ngz$ogz$tGz$z$vCz$z$ez$yGz$pgz$qgz$rgz$sgz$tgz$BFz$z$gBz$z$ez$fz$ugz$vgz$wgz$xgz$ygz$kSz$dPz$lSz$z$qz$z$QDz$RDz$TLz$AGz$ULz$VLz$WLz$XLz$YLz$TLz$AGz$ULz$VLz$ZLz$aLz$bDz$cDz$dDz$z$Ahz$sfz$Bhz$Chz$Dhz$DQz$Ehz$nHz$CSz$Fhz$NQz$bOz$cOz$Ghz$NOz$OOz$xfz$PMz$cGz$QMz$sKz$FQz$Hhz$Ihz$z$Uz$cNz$Ahz$sfz$Cgz$Dgz$WHz$cDz$dDz$z$ez$fz$Egz$Jhz$Khz$Ggz$Hgz$Igz$Jgz$tGz$z$Kgz$Lgz$Mgz$nbz$Ngz$Ogz$Pgz$Jhz$Khz$Ggz$Qgz$Rgz$Sgz$Tgz$Ugz$z$Ahz$Vgz$Lhz$Mhz$Nhz$Ehz$nHz$CSz$Fhz$NQz$bOz$cOz$Ghz$NOz$OOz$xfz$PMz$cGz$QMz$sKz$FQz$pQz$Ohz$Phz$Mgz$Qhz$z$ez$fz$egz$fgz$Ahz$ggz$hgz$BFz$z$UHz$mTz$Rhz$Shz$Jhz$Thz$Uhz$z$ez$fz$lgz$Vhz$Whz$mgz$ngz$ogz$tGz$z$vCz$z$ez$fz$Xhz$Yhz$Zhz$gFz$z$gBz$z$ez$fz$ugz$vgz$wgz$xgz$ygz$kSz$dPz$lSz$z$qz$z$qz$z$rz$z$rMz$sMz$aGz$mPz$ahz$FKz$z$Uz$Vz$MKz$NKz$OKz$PKz$QKz$RKz$cz$dz$z$rfz$sfz$tfz$ufz$vfz$DQz$wfz$cGz$HLz$ILz$NOz$OOz$xfz$PMz$cGz$QMz$sKz$FQz$DQz$eQz$yfz$USz$bQz$Agz$Bgz$z$Uz$cNz$rfz$sfz$Cgz$Dgz$WHz$cDz$dDz$z$ez$fz$Egz$nRz$Fgz$Ggz$Hgz$bhz$chz$dhz$PDz$z$Kgz$Lgz$Mgz$nbz$Ngz$Ogz$Pgz$nRz$Fgz$Ggz$Qgz$Rgz$Sgz$Tgz$Ugz$z$rfz$Vgz$Wgz$Xgz$NOz$OOz$GKz$FRz$KLz$ehz$DQz$eQz$cNz$GKz$HKz$IKz$Zgz$NOz$OOz$xfz$agz$bgz$RQz$SQz$cgz$Ogz$dgz$z$ez$fz$egz$fgz$rfz$ggz$fhz$tGz$z$SKz$GMz$igz$fz$jgz$Pcz$kgz$z$ez$fz$lgz$jgz$Pcz$mgz$ghz$hhz$ihz$PDz$z$vCz$z$ez$yGz$pgz$qgz$rgz$jhz$khz$tGz$z$gBz$z$ez$fz$ugz$vgz$lhz$mhz$nhz$ohz$phz$qhz$z$qz$z$QDz$RDz$TLz$AGz$ULz$VLz$WLz$XLz$YLz$TLz$AGz$ULz$VLz$ZLz$aLz$bDz$cDz$dDz$z$Ahz$sfz$Bhz$Chz$Dhz$DQz$Ehz$nHz$oHz$rhz$SOz$shz$iDz$thz$oQz$DQz$eQz$cNz$GKz$HKz$IKz$Zgz$uhz$vhz$whz$z$Uz$cNz$Ahz$sfz$Cgz$Dgz$WHz$cDz$dDz$z$ez$fz$Egz$Jhz$Khz$Ggz$Hgz$bhz$chz$dhz$PDz$z$Kgz$Lgz$Mgz$nbz$Ngz$Ogz$Pgz$Jhz$Khz$Ggz$Qgz$Rgz$Sgz$Tgz$Ugz$z$Ahz$Vgz$Lhz$Mhz$Nhz$Ehz$nHz$oHz$rhz$SOz$shz$iDz$thz$oQz$DQz$eQz$cNz$GKz$HKz$IKz$Zgz$ISz$ONz$xhz$Rgz$yhz$z$ez$fz$egz$fgz$Ahz$ggz$fhz$tGz$z$UHz$mTz$Rhz$Shz$Jhz$Thz$Uhz$z$ez$fz$lgz$Vhz$Whz$mgz$ghz$hhz$ihz$PDz$z$vCz$z$ez$fz$Aiz$sgz$tgz$BFz$z$gBz$z$ez$fz$ugz$vgz$lhz$mhz$nhz$ohz$phz$qhz$z$qz$z$qz$z$rz$z$tMz$uMz$FUz$z$Uz$Vz$MKz$NKz$OKz$PKz$QKz$RKz$cz$dz$z$Uz$DDz$BLz$CLz$Biz$Ciz$cz$dz$z$Uz$sEz$Diz$Eiz$Fiz$Giz$xaz$Hiz$vEz$IDz$z$ez$fz$qOz$rOz$Iiz$Jiz$uMz$Fiz$tPz$Kiz$Liz$Miz$z$oz$pz$z$qz$z$SYz$TYz$Niz$SUz$Oiz$Piz$DZz$Qiz$Riz$Eiz$Fiz$Giz$xaz$IZz$z$QDz$RDz$YRz$QLz$ZRz$Siz$bDz$cDz$dDz$z$Uz$sEz$Diz$Eiz$Fiz$Tiz$Uiz$Viz$vEz$IDz$z$ez$fz$qOz$rOz$Iiz$Jiz$uMz$Wiz$xaz$Xiz$Liz$Miz$z$oz$pz$z$qz$z$uMz$Yiz$Ziz$DZz$aiz$z$qz$z$QDz$RDz$TLz$AGz$ULz$VLz$WLz$XLz$YLz$TLz$AGz$ULz$VLz$ZLz$aLz$bDz$cDz$dDz$z$QIz$bIz$biz$ciz$diz$TMz$z$qz$z$rz$z$Pz$Rfz$eiz$z$Uz$fiz$CYz$giz$hiz$iiz$NKz$bDz$cDz$dDz$z$bKz$jiz$kiz$liz$z$QDz$miz$CYz$niz$oiz$IQz$piz$qiz$cMz$WLz$XLz$UBz$VBz$z$bKz$jiz$WLz$XLz$z$QDz$miz$CYz$niz$oiz$IQz$piz$qiz$cMz$ZLz$aLz$UBz$VBz$z$bKz$jiz$ZLz$aLz$z$QDz$miz$CYz$niz$oiz$IQz$piz$qiz$cMz$kiz$riz$siz$tiz$uiz$viz$cDz$dDz$z$bKz$jiz$kiz$liz$z$QDz$miz$wiz$xiz$IKz$yiz$DQz$Ajz$Bjz$Cjz$lLz$Djz$cDz$dDz$z$bKz$jiz$WLz$XLz$z$QDz$miz$wiz$xiz$IKz$yiz$DQz$Ajz$Bjz$Cjz$Ejz$Fjz$cDz$dDz$z$bKz$jiz$ZLz$aLz$z$QDz$miz$wiz$xiz$IKz$yiz$DQz$Ajz$Bjz$Cjz$Gjz$Hjz$Ijz$Jjz$Kjz$Ljz$IDz$z$bKz$jiz$kiz$liz$z$qz$z$rz$z$Pz$Mjz$QLz$Njz$z$Uz$Ojz$CYz$giz$hiz$iiz$NKz$bDz$cDz$dDz$z$BLz$Pjz$Qjz$Rjz$Sjz$Tjz$Ujz$CYz$giz$hiz$iiz$NKz$Vjz$Wjz$Xjz$Yjz$whz$z$gBz$z$BLz$Pjz$Qjz$Rjz$Sjz$Tjz$Ujz$CYz$niz$oiz$Zjz$ajz$bjz$cjz$z$qz$z$djz$ejz$xXz$fjz$z$Uz$DDz$uKz$Biz$gjz$VSz$HDz$IDz$z$djz$hjz$PDz$z$gBz$z$djz$ijz$PDz$z$qz$z$rz$z$Pz$Rfz$Sfz$jjz$z$Pz$Mjz$QLz$dDz$z$Uz$Vz$MKz$NKz$OKz$PKz$QKz$RKz$cz$dz$z$Uz$DDz$BLz$CLz$kjz$ljz$bDz$cDz$dDz$z$jFz$DKz$mjz$z$gBz$z$ez$fz$qOz$rOz$kRz$njz$ojz$pjz$MKz$NKz$qjz$BLz$CLz$rjz$sjz$ohz$phz$qhz$z$qz$z$QDz$RDz$TLz$AGz$ULz$VLz$WLz$XLz$bDz$cDz$dDz$z$Uz$DDz$BLz$CLz$kjz$tjz$bDz$cDz$dDz$z$jFz$DKz$mjz$z$gBz$z$ez$fz$qOz$rOz$kRz$njz$ojz$pjz$MKz$NKz$qjz$BLz$CLz$rjz$sjz$ohz$phz$qhz$z$qz$z$QDz$RDz$TLz$AGz$ULz$VLz$ZLz$aLz$bDz$cDz$dDz$z$Uz$DDz$BLz$CLz$kjz$HWz$bRz$UBz$VBz$z$jFz$DKz$mjz$z$gBz$z$ez$fz$qOz$rOz$kRz$njz$ojz$pjz$MKz$NKz$qjz$BLz$CLz$rjz$sjz$ohz$phz$qhz$z$qz$z$gBz$z$ez$fz$qOz$rOz$kRz$njz$ojz$pjz$MKz$NKz$qjz$BLz$CLz$rjz$sjz$ohz$phz$qhz$z$qz$z$rz$z$Pz$Rfz$Sfz$ZPz$eiz$z$Pz$Mjz$QLz$dDz$z$ujz$vjz$SHz$THz$wjz$xjz$yjz$Akz$Bkz$dz$z$ez$fz$lNz$mNz$Ckz$Dkz$BFz$z$Uz$Vz$MKz$NKz$OKz$PKz$QKz$RKz$cz$dz$z$eFz$jFz$kFz$lFz$Ekz$z$QDz$RDz$TLz$AGz$ULz$VLz$WLz$XLz$YLz$TLz$AGz$ULz$VLz$ZLz$aLz$bDz$cDz$dDz$z$UHz$mTz$hFz$DWz$z$UHz$mTz$jFz$kFz$lFz$Ekz$z$qz$z$qz$z$Uz$Vz$MKz$NKz$OKz$PKz$QKz$RKz$cz$dz$z$Uz$DDz$BLz$CLz$VLz$fPz$Fkz$rKz$sKz$Gkz$tjz$bDz$cDz$dDz$z$jFz$DKz$rNz$Hkz$z$gBz$z$ez$fz$qOz$rOz$kRz$uOz$vOz$lRz$mRz$nRz$AGz$oRz$YRz$QLz$pRz$qRz$rRz$GJz$oz$pz$z$qz$z$QDz$RDz$TLz$AGz$ULz$VLz$WLz$XLz$bDz$cDz$dDz$z$Uz$DDz$BLz$CLz$kjz$tjz$bDz$cDz$dDz$z$jFz$DKz$rNz$Hkz$z$gBz$z$ez$fz$qOz$rOz$kRz$uOz$vOz$lRz$mRz$nRz$AGz$oRz$YRz$QLz$pRz$qRz$rRz$GJz$oz$pz$z$qz$z$QDz$RDz$TLz$AGz$ULz$VLz$ZLz$aLz$bDz$cDz$dDz$z$Uz$DDz$BLz$CLz$kjz$HWz$bRz$UBz$VBz$z$jFz$DKz$rNz$Hkz$z$gBz$z$ez$fz$qOz$rOz$kRz$uOz$vOz$lRz$mRz$nRz$AGz$oRz$YRz$QLz$pRz$qRz$rRz$GJz$oz$pz$z$qz$z$gBz$z$ez$fz$qOz$rOz$kRz$uOz$vOz$lRz$mRz$nRz$AGz$oRz$YRz$QLz$pRz$qRz$rRz$GJz$oz$pz$z$qz$z$rz$z$Pz$Rfz$Wfz$Xfz$IYz$FKz$z$Pz$Mjz$QLz$dDz$z$Uz$Vz$MKz$NKz$OKz$PKz$QKz$RKz$cz$dz$z$Uz$DDz$BLz$CLz$VLz$Ikz$HDz$IDz$z$GKz$HKz$IKz$JKz$Jkz$Kkz$Lkz$z$jFz$HTz$qNz$z$QDz$RDz$YRz$QLz$ZRz$Mkz$bRz$UBz$VBz$z$eFz$IWz$JWz$Nkz$Okz$Pkz$z$GKz$HKz$IKz$JKz$Qkz$Rkz$Skz$z$jFz$HTz$qNz$z$gBz$z$ez$fz$qOz$rOz$Tkz$Xfz$Ukz$Vkz$Wkz$bKz$cKz$Xkz$IKz$Ykz$RSz$Zkz$kSz$dPz$lSz$z$qz$z$QDz$RDz$TLz$AGz$ULz$VLz$WLz$XLz$bDz$cDz$dDz$z$Uz$DDz$BLz$CLz$Biz$akz$bkz$BLz$CLz$Biz$ckz$cz$dz$z$Uz$DDz$uKz$VLz$hjz$bRz$UBz$VBz$z$GKz$HKz$IKz$JKz$dkz$ekz$PDz$z$jFz$HTz$qNz$z$QDz$RDz$RSz$SSz$fkz$gkz$HDz$IDz$z$GKz$HKz$IKz$JKz$hkz$ikz$z$jFz$HTz$qNz$z$qz$z$QDz$RDz$YRz$QLz$ZRz$jkz$bDz$cDz$dDz$z$Uz$DDz$uKz$VLz$hjz$bRz$UBz$VBz$z$GKz$HKz$IKz$JKz$kkz$ikz$z$jFz$HTz$qNz$z$qz$z$gBz$z$ez$fz$qOz$rOz$Tkz$Xfz$Ukz$Vkz$Wkz$bKz$cKz$Xkz$IKz$Ykz$RSz$Zkz$kSz$dPz$lSz$z$qz$z$QDz$RDz$TLz$AGz$ULz$VLz$ZLz$aLz$bDz$cDz$dDz$z$Uz$DDz$BLz$CLz$kjz$lkz$bRz$UBz$VBz$z$Uz$DDz$uKz$VLz$hjz$bRz$UBz$VBz$z$GKz$HKz$IKz$JKz$mkz$nkz$PDz$z$jFz$HTz$qNz$z$QDz$RDz$RSz$SSz$fkz$gkz$HDz$IDz$z$GKz$HKz$IKz$JKz$okz$pkz$qkz$z$jFz$HTz$qNz$z$qz$z$gBz$z$ez$fz$qOz$rOz$Tkz$Xfz$Ukz$Vkz$Wkz$bKz$cKz$Xkz$IKz$Ykz$RSz$Zkz$kSz$dPz$lSz$z$qz$z$gBz$z$ez$fz$qOz$rOz$Tkz$Xfz$Ukz$Vkz$Wkz$bKz$cKz$Xkz$IKz$Ykz$RSz$Zkz$kSz$dPz$lSz$z$qz$z$rz$z$Pz$lez$mez$FUz$z$GKz$HKz$IKz$rkz$vWz$skz$hOz$iOz$tkz$ukz$iDz$MUz$vkz$z$GKz$HKz$IKz$wkz$xkz$ejz$xXz$ykz$z$Uz$DDz$GKz$HKz$IKz$wkz$Alz$Blz$Clz$IOz$bRz$UBz$VBz$z$GKz$nez$oez$Dlz$Elz$Flz$z$QDz$RDz$PMz$cGz$QMz$sKz$Glz$Hlz$Ilz$YLz$PMz$cGz$QMz$sKz$Glz$Hlz$Jlz$YLz$PMz$cGz$QMz$sKz$Glz$Klz$Llz$Fkz$yKz$ALz$BLz$CLz$Biz$mkz$Mlz$bkz$GKz$HKz$IKz$Ykz$Nlz$Olz$Plz$Fkz$yKz$ALz$BLz$CLz$Biz$Jkz$gkz$Fkz$yKz$ALz$BLz$CLz$Biz$kkz$Qlz$cz$dz$z$GKz$nez$oez$Rlz$Slz$sYz$PDz$z$QDz$RDz$Tlz$Ulz$GKz$HKz$IKz$Ykz$SOz$TOz$Vlz$bOz$cOz$dOz$Wlz$Xlz$Ylz$Zlz$IUz$JUz$PMz$cGz$QMz$sKz$KUz$NQz$LUz$mQz$iDz$thz$NUz$OUz$alz$YLz$blz$ez$clz$aGz$PLz$QLz$dlz$ESz$elz$flz$WOz$XOz$glz$kjz$hlz$bDz$cDz$dDz$z$GKz$nez$oez$Dlz$ilz$z$gBz$z$GKz$nez$oez$jlz$rez$sez$PDz$z$qz$z$Uz$DDz$GKz$nez$oez$pez$klz$Slz$sYz$bRz$UBz$VBz$z$Uz$uaz$XYz$YYz$jWz$vaz$XTz$waz$bDz$cDz$dDz$z$llz$Dfz$mlz$kTz$XYz$YYz$jWz$vaz$XTz$waz$nlz$olz$IQz$plz$qlz$XTz$rlz$ESz$slz$iDz$tlz$vkz$z$Uz$DDz$llz$Dfz$ulz$vlz$wlz$xlz$bDz$cDz$dDz$z$llz$Dfz$ylz$Amz$PDz$z$gBz$z$llz$Dfz$ylz$Bmz$PDz$z$qz$z$gBz$z$llz$Dfz$ylz$Cmz$Dmz$z$qz$z$QDz$RDz$PMz$cGz$KOz$Hfz$VLz$Emz$bRz$UBz$VBz$z$llz$Dfz$mlz$ZQz$QUz$cUz$dUz$eUz$fUz$gUz$hUz$iUz$Fmz$ZYz$rUz$HZz$Gmz$SOz$TOz$Hmz$Imz$Jmz$Kmz$Lmz$Mmz$Nmz$Omz$Pmz$Qmz$Rmz$Smz$Tmz$z$Uz$DDz$llz$Dfz$ulz$Umz$Vmz$bDz$cDz$dDz$z$llz$Dfz$mlz$Wmz$Xmz$ZQz$Ymz$rlz$ESz$Zmz$Rmz$amz$Tmz$z$Uz$DDz$llz$Dfz$ulz$Umz$FVz$Vmz$bDz$cDz$dDz$z$llz$Dfz$ylz$uUz$bmz$z$gBz$z$llz$Dfz$ylz$uUz$cmz$z$qz$z$QDz$RDz$dmz$emz$mez$Gkz$fmz$vWz$gmz$cz$dz$z$llz$Dfz$mlz$Wmz$Xmz$ZQz$fmz$vWz$hmz$ESz$Zmz$Rmz$amz$Tmz$z$Uz$DDz$llz$Dfz$ulz$Umz$FVz$GVz$imz$bDz$cDz$dDz$z$llz$Dfz$ylz$jmz$kmz$lmz$z$gBz$z$llz$Dfz$ylz$jmz$kmz$mmz$z$qz$z$QDz$RDz$dmz$emz$mez$Gkz$nmz$XXz$YXz$bRz$UBz$VBz$z$llz$Dfz$mlz$Wmz$Xmz$ZQz$nmz$XXz$YXz$bQz$NQz$bOz$cOz$dOz$whz$z$Uz$DDz$llz$Dfz$ulz$Umz$FVz$EXz$FXz$omz$HDz$IDz$z$llz$Dfz$ylz$pmz$GNz$Amz$PDz$z$gBz$z$llz$Dfz$ylz$pmz$GNz$Bmz$PDz$z$qz$z$gBz$z$llz$Dfz$ylz$Cmz$Dmz$z$qz$z$QDz$RDz$PMz$cGz$KOz$Hfz$VLz$Emz$IOz$bRz$UBz$VBz$z$llz$Dfz$mlz$ZQz$QUz$cUz$dUz$eUz$fUz$gUz$hUz$iUz$Fmz$ZYz$rUz$HZz$Gmz$SOz$TOz$Hmz$Imz$Jmz$Kmz$Lmz$Mmz$Nmz$Omz$Pmz$Qmz$Rmz$Smz$Tmz$z$Uz$DDz$llz$Dfz$ulz$Umz$yQz$qmz$bDz$cDz$dDz$z$llz$Dfz$mlz$Wmz$Xmz$ZQz$Ymz$ZPz$rmz$ESz$Zmz$Rmz$amz$Tmz$z$Uz$DDz$llz$Dfz$ulz$Umz$FVz$yQz$qmz$bDz$cDz$dDz$z$llz$Dfz$ylz$CPz$xUz$bmz$z$gBz$z$llz$Dfz$ylz$CPz$xUz$cmz$z$qz$z$gBz$z$llz$Dfz$ylz$Cmz$Dmz$z$qz$z$qz$z$rz$z$Pz$Rfz$lPz$z$Pz$Mjz$QLz$dDz$z$XEz$MKz$NKz$smz$tmz$YHz$bRz$GJz$XEz$MKz$NKz$smz$umz$vmz$bRz$GJz$XEz$MKz$NKz$smz$wmz$xmz$bRz$GJz$ez$fz$qOz$rOz$ymz$Anz$mRz$nRz$AGz$oRz$ohz$phz$qhz$z$DUz$wYz$xYz$z$rz$z$Bnz$Cnz$Hbz$Dnz$FKz$z$sBz$LJz$MJz$Enz$qcz$Fnz$Gnz$Hnz$Inz$z$wBz$Jnz$yBz$FJz$qcz$Knz$Lnz$Mnz$Nnz$VTz$z$CCz$Onz$ECz$Pnz$Qnz$Rnz$lDz$Snz$Nnz$VTz$z$HCz$bJz$Tnz$Unz$qcz$Vnz$Wnz$Xnz$Ynz$z$Znz$xBz$yBz$anz$z$bnz$cnz$z$LYz$MYz$dnz$enz$fnz$gnz$hnz$inz$jnz$knz$z$LYz$MYz$lnz$mnz$nnz$onz$z$LYz$MYz$pnz$qnz$rnz$snz$tnz$z$LYz$unz$vnz$wnz$DOz$xnz$z$LYz$ynz$Aoz$Boz$Coz$z$LYz$MYz$Doz$Eoz$Foz$tnz$z$LYz$MYz$lnz$Goz$vVz$z$LYz$MYz$Hoz$Ioz$DOz$Joz$Koz$Loz$Moz$xnz$z$LYz$unz$vnz$Noz$Ooz$Poz$Qoz$z$LYz$MYz$lnz$Roz$Soz$xnz$z$LYz$ynz$Toz$Uoz$Voz$z$LYz$MYz$Woz$Xoz$tnz$z$LYz$MYz$lnz$mnz$nnz$onz$z$LYz$MYz$lnz$Yoz$Zoz$aoz$z$LYz$MYz$lnz$boz$coz$xnz$z$LYz$MYz$lnz$doz$aUz$tnz$z$LYz$MYz$eoz$foz$goz$Voz$z$LYz$unz$hoz$ioz$DOz$xnz$z$LYz$unz$joz$koz$loz$aoz$z$LYz$MYz$lnz$moz$noz$Voz$z$LYz$unz$hoz$ooz$aoz$z$LYz$unz$poz$qoz$Xoz$tnz$z$LYz$MYz$lnz$roz$aoz$z$LYz$soz$toz$uoz$aoz$z$eOz$z$voz$woz$iEz$xoz$yoz$Apz$ZYz$Bnz$Bpz$Cpz$Dpz$PDz$z$Epz$Fpz$YVz$Gpz$IQz$piz$Hpz$Ipz$Vjz$Wjz$Jpz$Kpz$z$Lpz$Mpz$Npz$Ipz$Opz$Ppz$Qpz$Rpz$z$GKz$Spz$YVz$ZVz$z$Tpz$Upz$iIz$Vpz$Wpz$Xpz$Ypz$Zpz$apz$bpz$cpz$dpz$epz$fpz$gpz$hpz$ipz$jpz$kpz$lpz$mpz$npz$opz$ppz$qpz$rpz$spz$tpz$upz$vpz$wpz$xpz$z$ypz$WQz$XQz$Aqz$Bqz$cUz$Cqz$Dqz$z$Eqz$Fqz$XQz$Gqz$Hqz$Iqz$Jqz$cNz$Tpz$Upz$Kqz$VKz$WKz$Lqz$Mqz$Nqz$Oqz$Pqz$YXz$Qqz$Rqz$Sqz$Tqz$Uqz$Vqz$bQz$Tqz$Wqz$Xqz$Yqz$z$Zqz$aqz$bqz$z$cqz$WQz$XQz$dqz$Bqz$cUz$Cqz$eqz$fqz$gqz$YLz$MEz$z$wjz$hqz$iqz$jqz$kqz$lqz$mqz$yjz$Akz$nqz$DEz$z$wjz$hqz$iqz$oqz$pqz$qqz$rqz$yjz$Akz$nqz$DEz$z$wjz$hqz$iqz$sqz$tqz$eqz$fqz$gqz$YLz$MEz$z$wjz$hqz$iqz$uqz$vqz$wqz$xqz$eqz$fqz$gqz$YLz$MEz$z$wjz$hqz$iqz$Pz$yqz$Arz$Brz$Hdz$mqz$yjz$Akz$nqz$DEz$z$wjz$hqz$iqz$Crz$Drz$Erz$Frz$Grz$Hdz$mqz$yjz$Akz$nqz$DEz$z$wjz$hqz$iqz$Hrz$Irz$Jrz$eqz$fqz$gqz$YLz$MEz$z$wjz$hqz$iqz$Krz$Lrz$Mrz$DOz$Cbz$eqz$fqz$gqz$YLz$MEz$z$wjz$hqz$iqz$Nrz$Orz$Prz$Qrz$Rrz$Srz$Trz$z$wjz$hqz$iqz$nFz$Urz$Vrz$Wrz$Xrz$Yrz$Zrz$z$wjz$hqz$iqz$arz$brz$crz$eqz$fqz$gqz$eOz$z$Uz$bNz$drz$erz$cz$dz$z$cqz$WQz$XQz$frz$Bqz$cUz$Cqz$eqz$fqz$gqz$YLz$MEz$z$wjz$hqz$grz$jqz$kqz$lqz$mqz$yjz$Akz$nqz$DEz$z$wjz$hqz$grz$oqz$pqz$qqz$rqz$yjz$Akz$nqz$DEz$z$wjz$hqz$grz$sqz$tqz$eqz$fqz$gqz$YLz$MEz$z$wjz$hqz$grz$uqz$vqz$wqz$xqz$eqz$fqz$gqz$YLz$MEz$z$wjz$hqz$grz$Pz$yqz$Arz$Brz$Hdz$mqz$yjz$Akz$nqz$DEz$z$wjz$hqz$grz$Crz$Drz$Erz$Frz$Grz$Hdz$mqz$yjz$Akz$nqz$DEz$z$wjz$hqz$grz$Hrz$Irz$Jrz$eqz$fqz$gqz$YLz$MEz$z$wjz$hqz$grz$Krz$Lrz$Mrz$DOz$Cbz$eqz$fqz$gqz$YLz$MEz$z$wjz$hqz$grz$Nrz$Orz$Prz$Qrz$Rrz$Srz$Trz$z$wjz$hqz$grz$nFz$Urz$Vrz$Wrz$Xrz$Yrz$Zrz$z$wjz$hqz$grz$arz$brz$crz$eqz$fqz$gqz$eOz$z$Uz$hrz$drz$erz$cz$dz$z$Zqz$aqz$irz$AOz$jrz$krz$lrz$mrz$z$ez$fz$nrz$orz$prz$qrz$rrz$srz$trz$urz$Wz$nUz$vrz$wrz$qUz$eqz$fqz$gqz$YLz$xrz$z$qz$z$qz$z$yrz$Asz$Bsz$z$Csz$Dsz$Esz$Fsz$Gsz$Hsz$Isz$qUz$Jsz$z$Ksz$Lsz$Msz$Nsz$yjz$Akz$Bgz$z$Uz$Vz$Osz$Psz$Qsz$cz$dz$z$yrz$xrz$PDz$z$Csz$Dsz$Esz$Fsz$Rsz$Ssz$sYz$Tsz$Usz$Fpz$Vsz$Wsz$z$qz$z$Xsz$Ysz$Zsz$PDz$z$asz$bsz$Asz$Bsz$z$csz$dsz$esz$z$fsz$Asz$Bsz$z$gsz$hsz$isz$z$jsz$dsz$esz$z$ksz$lsz$Asz$Bsz$z$msz$nsz$dsz$esz$z$Pz$osz$psz$bCz$z$VPz$qsz$ZYz$WIz$rsz$VTz$z$gWz$hWz$ssz$tsz$usz$vsz$wsz$xsz$ysz$Atz$nUz$Btz$Ctz$Dtz$z$Etz$Ftz$Gtz$SOz$shz$iDz$MUz$Htz$z$XEz$Itz$Jtz$Ktz$Ltz$Mtz$Ntz$Otz$Ptz$Qtz$Rtz$Stz$Ttz$GJz$oz$pz$z$Ksz$Utz$Vtz$eFz$Qrz$Rrz$Wtz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$Ksz$Utz$Vtz$Ztz$Qrz$Rrz$Wtz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$Ksz$Utz$Vtz$eHz$Qrz$Rrz$Wtz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$dtz$etz$ftz$gtz$z$oz$pz$z$qz$z$htz$itz$PDz$z$jtz$ktz$ltz$itz$mtz$sez$ntz$PDz$z$jtz$otz$ptz$eHz$ELz$FLz$qtz$z$jtz$rtz$stz$itz$ttz$utz$vtz$wtz$hHz$xtz$vtz$ytz$Auz$Buz$Cuz$z$gBz$z$htz$Duz$PDz$z$jtz$ktz$ltz$Duz$mtz$sez$ntz$PDz$z$jtz$otz$ptz$Ztz$ELz$FLz$qtz$z$jtz$rtz$stz$Duz$ttz$Lz$Cuz$z$qz$z$gBz$z$htz$Euz$PDz$z$jtz$ktz$ltz$Euz$mtz$sez$ntz$PDz$z$jtz$otz$ptz$eFz$ELz$FLz$qtz$z$jtz$rtz$stz$Euz$ttz$Lz$Cuz$z$qz$z$Ksz$Utz$Vtz$uGz$vGz$Fuz$yjz$Akz$Guz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$Huz$Iuz$Juz$Kuz$PDz$z$oz$pz$z$qz$z$rz$z$JDz$atz$Luz$FKz$z$ez$fz$Muz$Nuz$Ouz$Puz$Quz$z$rz$z$qUz$Ruz$Suz$Tuz$bCz$z$WIz$Uuz$Vuz$Wuz$Xuz$Yuz$Zuz$auz$buz$cuz$z$Uz$bNz$duz$RKz$cz$dz$z$ez$euz$z$fuz$guz$z$qz$z$ez$huz$z$rz$z$iuz$juz$kuz$FKz$z$Uz$Vz$luz$muz$Zsz$bRz$UBz$VBz$z$ez$euz$z$fuz$guz$z$qz$z$ez$huz$z$rz$z$Dfz$sNz$MFz$z$Uz$nuz$ouz$VIz$WIz$XIz$puz$quz$cz$dz$z$ez$kcz$z$fuz$guz$z$qz$z$Uz$nuz$ruz$voz$woz$suz$HDz$IDz$z$ez$pz$z$fuz$guz$z$qz$z$UKz$Vuz$tuz$uuz$vuz$wuz$xuz$RQz$SQz$yuz$Avz$Bvz$Cvz$Dvz$Evz$Fvz$Gvz$z$Ksz$Hvz$Ivz$Jvz$ZQz$Kvz$Lvz$NOz$OOz$Mvz$Nvz$z$Uz$bNz$Ovz$Pvz$HDz$IDz$z$ez$Qvz$z$fuz$guz$z$qz$z$Uz$Rvz$hYz$Svz$Tvz$Uvz$Vvz$Wvz$bDz$cDz$dDz$z$ez$Xvz$z$gBz$z$Ksz$Hvz$Ivz$Yvz$OOz$Zvz$avz$whz$z$Uz$bNz$Ovz$Pvz$HDz$IDz$z$ez$bvz$z$gBz$z$ez$cvz$z$qz$z$qz$z$rz$z$Dfz$dvz$evz$MFz$z$Ksz$fvz$gvz$z$Nfz$hvz$ivz$z$jvz$JUz$kvz$lvz$mvz$nvz$Znz$ovz$pvz$qvz$rvz$svz$tvz$z$uvz$JUz$kvz$lvz$mvz$nvz$Znz$ovz$lvz$vvz$wvz$xvz$Puz$yvz$Tfz$z$Awz$JUz$kvz$lvz$mvz$nvz$Znz$ovz$lvz$vvz$wvz$xvz$Puz$Bwz$edz$Cwz$avz$Dwz$Puz$yvz$Tfz$z$Ewz$JUz$kvz$lvz$mvz$nvz$Znz$ovz$lvz$vvz$wvz$Fwz$Gwz$Hwz$Iwz$Znz$Jwz$Kwz$z$Lwz$JUz$kvz$pvz$Mwz$rvz$svz$tvz$z$pfz$z$rz$z$Nwz$Owz$Pwz$sKz$Tz$z$Uz$Qwz$NEz$vEz$IDz$z$Nfz$Rwz$Swz$z$Twz$z$ez$Rwz$PDz$z$Tfz$z$LYz$jfz$z$ez$Uwz$Vwz$z$Tfz$z$jfz$z$ez$Uwz$Vwz$z$Tfz$z$pfz$z$gBz$z$ez$yHz$z$qz$z$rz$z$Wwz$IKz$Xwz$MFz$z$Ywz$Zwz$yoz$Apz$jWz$Bnz$awz$sKz$bwz$cwz$dwz$NQz$bOz$cOz$Ghz$whz$z$ewz$fwz$gwz$z$hwz$Ywz$iwz$jwz$kwz$lwz$mwz$nwz$JUz$owz$pwz$pQz$cwz$qwz$Avz$Evz$rwz$swz$twz$z$uwz$vwz$oTz$wwz$xwz$ywz$Axz$aoz$WWz$Bxz$Cxz$Dxz$Fcz$BQz$NKz$Exz$Fxz$PDz$z$Gxz$Ywz$iwz$jwz$kwz$lwz$mwz$TFz$mFz$Hxz$Ixz$Jxz$Kxz$Lxz$Mxz$Nxz$TDz$Oxz$NOz$OOz$Pxz$Qxz$Rxz$MQz$Tqz$Sxz$Txz$Uxz$PDz$z$Uz$Vxz$Wxz$Xxz$Yxz$bDz$cDz$dDz$z$Gxz$Ywz$Zxz$z$qz$z$Uz$Vz$gsz$axz$bxz$cxz$cz$dz$z$Gxz$Ywz$dxz$exz$z$qz$z$Uz$fxz$Jtz$Ktz$gxz$RDz$hxz$ixz$VLz$Qsz$cz$dz$z$JDz$atz$btz$ctz$jxz$kxz$lxz$mxz$nxz$z$fuz$oxz$z$QDz$RDz$pxz$qxz$rxz$yCz$sxz$dDz$z$fuz$txz$z$QDz$RDz$hxz$ixz$Psz$uxz$ixz$bDz$IDz$z$fuz$vxz$z$qz$z$fuz$wxz$z$rz$z$USz$xxz$kuz$FKz$z$Nfz$yxz$vWz$Ayz$Byz$dDz$z$Cyz$Dyz$Eyz$kez$Fyz$Gyz$Kwz$z$gjz$Hyz$Iyz$Jyz$ez$Kyz$Lyz$z$Myz$Nyz$Oyz$Pyz$Qyz$Ryz$Lyz$z$Myz$Syz$ez$bSz$Tyz$Uyz$Tfz$z$Myz$Vyz$Myz$Wyz$ez$bSz$Tyz$Xyz$tvz$z$Myz$Yyz$Zyz$ayz$kez$byz$cyz$dyz$Lyz$z$eyz$fyz$Oyz$Pyz$eyz$fyz$Lyz$z$eyz$Jyz$ez$gyz$hyz$Lyz$z$eyz$iyz$ez$gyz$jyz$kyz$Tfz$z$eyz$Oyz$Pyz$eyz$lyz$Tfz$z$myz$nyz$kez$oyz$pyz$kyz$Tfz$z$myz$Awz$JUz$qyz$ryz$Tfz$z$myz$nyz$kez$oyz$pyz$kyz$Tfz$z$syz$tyz$kez$uyz$vyz$ryz$Tfz$z$wyz$xyz$JUz$yyz$AABz$Tfz$z$BABz$CABz$DABz$EABz$FABz$GJz$oz$GABz$Kwz$z$pfz$z$fuz$wxz$z$rz$z$HABz$IABz$bCz$z$bLz$JABz$KABz$yoz$Apz$ZYz$Bnz$z$Uz$Vz$msz$LABz$Biz$xrz$bRz$UBz$VBz$z$ez$yHz$z$ez$MABz$NABz$OABz$PABz$QABz$RABz$SABz$z$ez$TABz$UABz$VABz$WABz$BFz$z$XABz$UFz$VFz$YABz$ZABz$aABz$bABz$Xrz$cABz$IDz$z$dABz$eABz$fABz$gABz$ZABz$hABz$VFz$iABz$jABz$kABz$lABz$mABz$nABz$oABz$pABz$yxz$uLz$qABz$rABz$sABz$tABz$uABz$z$vABz$wABz$xABz$yABz$ABBz$dABz$eABz$BBBz$rz$z$gBz$z$JDz$atz$btz$ctz$CBBz$DBBz$EBBz$FBBz$GBBz$z$oz$pz$z$qz$z$msz$HBBz$IBBz$JBBz$KBBz$LBBz$z$MBBz$NBBz$OBBz$PBBz$DOz$QBBz$PDz$z$RBBz$SBBz$TBBz$UBBz$VBBz$z$RBBz$WBBz$XBBz$YBBz$ZBBz$z$RBBz$aBBz$bBBz$cBBz$UBBz$VBBz$z$dBBz$eBBz$fBBz$DOz$QBBz$PDz$z$gBBz$Axz$YBBz$ZBBz$z$RBBz$hBBz$iBBz$YBBz$ZBBz$z$eOz$z$ez$yHz$z$JDz$atz$jBBz$kBBz$lBBz$mBBz$nBBz$oBBz$pBBz$z$qBBz$rBBz$cNz$sBBz$tBBz$uBBz$vBBz$Zz$wBBz$xBBz$Ugz$z$ez$yBBz$ACBz$BCBz$CCBz$DCBz$tBBz$uBBz$vBBz$Zz$ECBz$FCBz$z$vCz$z$Ndz$Odz$GCBz$HCBz$ICBz$JCBz$KCBz$KIz$z$Nfz$LCBz$MCBz$NCBz$z$OCBz$PCBz$QCBz$RCBz$gz$PCBz$QCBz$SCBz$TCBz$UCBz$VCBz$tvz$z$WCBz$PCBz$QCBz$RCBz$gz$PCBz$QCBz$SCBz$TCBz$UCBz$XCBz$tvz$z$YCBz$PCBz$QCBz$RCBz$gz$PCBz$QCBz$SCBz$TCBz$UCBz$ZCBz$tvz$z$aCBz$PCBz$QCBz$RCBz$gz$PCBz$QCBz$SCBz$TCBz$UCBz$bCBz$tvz$z$cCBz$PCBz$QCBz$RCBz$gz$PCBz$QCBz$SCBz$TCBz$UCBz$dCBz$tvz$z$eCBz$PCBz$QCBz$RCBz$gz$PCBz$QCBz$SCBz$TCBz$UCBz$fCBz$tvz$z$pfz$z$msz$HBBz$gCBz$hCBz$iCBz$jCBz$Otz$msz$HBBz$IBBz$Vjz$Wjz$Jpz$kCBz$z$JDz$atz$jBBz$kBBz$lCBz$mCBz$nCBz$tBBz$uBBz$oCBz$z$JDz$atz$jBBz$kBBz$pCBz$qCBz$rCBz$vABz$wABz$xABz$yABz$sCBz$z$JDz$atz$tCBz$uCBz$vCBz$wCBz$xCBz$yCBz$ADBz$z$Ndz$Odz$Ifz$BDBz$VABz$CDBz$DDBz$EDBz$pbz$FDBz$GDBz$HDBz$IDBz$z$JDBz$vQz$KDBz$LDBz$cEz$MDBz$NDBz$ODBz$PDBz$QDBz$RDBz$SDBz$TDBz$z$Uz$Vz$KDBz$UDBz$VDBz$Ytz$bRz$UBz$VBz$z$JDz$atz$Ulz$WDBz$XDBz$YDBz$ZDBz$z$oz$pz$z$qz$z$JDz$atz$Ulz$HCz$aDBz$OABz$PABz$bDBz$cDBz$PDz$z$fuz$wxz$z$qz$z$Uz$Vz$dDBz$Biz$xrz$eDBz$fDBz$dDBz$Biz$xrz$bRz$UBz$VBz$z$ez$yHz$z$ez$MABz$gDBz$hDBz$iDBz$jDBz$kDBz$lDBz$PDz$z$JDz$atz$Ulz$CCz$mDBz$nDBz$oDBz$pDBz$PDz$z$JDz$atz$Ulz$CCz$mDBz$qDBz$rDBz$sDBz$tDBz$uDBz$vDBz$wDBz$xDBz$z$JDz$atz$Ulz$HCz$aDBz$yDBz$AEBz$BEBz$CEBz$DEBz$lvz$EEBz$FEBz$GEBz$Puz$yvz$HEBz$wBz$IEBz$JEBz$KEBz$Znz$LEBz$MEBz$NEBz$OEBz$PEBz$z$JDz$atz$Ulz$CCz$mDBz$QEBz$REBz$SEBz$TEBz$UEBz$VEBz$WEBz$XEBz$YEBz$ZEBz$aEBz$bEBz$z$JDz$atz$Ulz$CCz$mDBz$cEBz$dEBz$eEBz$fEBz$gEBz$hEBz$iEBz$PDz$z$ez$jEBz$z$Ndz$Odz$Ifz$kEBz$lEBz$mEBz$nEBz$z$Uz$bNz$cNz$mEBz$Quz$bDz$cDz$dDz$z$JDz$atz$Ulz$WDBz$oEBz$pEBz$qEBz$rEBz$PDz$z$HABz$sEBz$z$qz$z$mEBz$tEBz$uEBz$vEBz$wEBz$z$JDz$atz$Ulz$HCz$xEBz$yEBz$AFBz$BFBz$CFBz$DFBz$z$ez$yHz$z$Uz$fiz$EFBz$FEBz$FFBz$GFBz$HFBz$Bnz$IFBz$bDz$cDz$dDz$z$JDz$atz$Ulz$HCz$xEBz$WSz$JFBz$KFBz$LFBz$z$MFBz$JFz$NFBz$VIz$WIz$OFBz$PFBz$QFBz$uEBz$svz$RFBz$PDz$z$SFBz$xuz$TFBz$ZIz$aIz$nUz$UFBz$VFBz$mEBz$WFBz$XFBz$z$gBz$z$YFBz$ZFBz$wNz$xNz$aFBz$bFBz$cFBz$dFBz$eFBz$fFBz$gFBz$Dpz$hFBz$qPz$iFBz$jFBz$kFBz$lFBz$Hdz$mFBz$nFBz$oFBz$YVz$pFBz$qFBz$rFBz$sFBz$tFBz$uFBz$z$wjz$vFBz$wFBz$xFBz$yFBz$AGBz$BGBz$CGBz$DGBz$EGBz$oTz$wwz$FGBz$TEBz$RWz$GGBz$aoz$gFBz$HGBz$IGBz$JGBz$uEBz$svz$KGBz$LGBz$MGBz$z$Ksz$Tlz$NGBz$nRz$OGBz$PGBz$IQz$QGBz$RGBz$whz$z$Uz$bNz$cNz$SGBz$bRz$UBz$VBz$z$JDz$atz$Ulz$HCz$xEBz$TGBz$UGBz$VGBz$WGBz$XGBz$YGBz$nz$z$JDz$atz$ZGBz$aGBz$bGBz$CFBz$cGBz$rvz$svz$rvz$svz$dGBz$Znz$eGBz$WDBz$fGBz$gGBz$hGBz$Puz$iGBz$aGBz$bGBz$jGBz$kGBz$Puz$lGBz$PDz$z$oz$pz$z$gBz$z$JDz$atz$ZGBz$aGBz$bGBz$CFBz$cGBz$rvz$svz$rvz$svz$dGBz$Znz$eGBz$wBz$mGBz$nGBz$oGBz$pGBz$uCBz$qGBz$RGBz$rGBz$sGBz$tGBz$Znz$uGBz$z$qz$z$qz$z$qz$z$ez$yHz$z$Uz$Vz$ksz$vGBz$wGBz$xGBz$bDz$cDz$dDz$z$Ndz$yGBz$AHBz$BHBz$CHBz$DHBz$EHBz$FHBz$GHBz$HHBz$IHBz$JHBz$cDBz$z$JDBz$vQz$KDBz$LDBz$cEz$MDBz$NDBz$ODBz$PDBz$QDBz$RDBz$SDBz$TDBz$z$Uz$Vz$KDBz$UDBz$VDBz$Ytz$bRz$UBz$VBz$z$JDz$atz$Ulz$WDBz$XDBz$YDBz$ZDBz$z$oz$pz$z$qz$z$JDz$atz$Ulz$HCz$aDBz$ksz$KHBz$LHBz$MHBz$z$QDz$RDz$iwz$NHBz$avz$OHBz$qez$PHBz$cz$dz$z$Uz$Vz$dDBz$VLz$bxz$cxz$cz$dz$z$Ndz$Odz$Ifz$QHBz$RHBz$SHBz$THBz$pbz$FDBz$GDBz$HDBz$IDBz$z$JDBz$vQz$KDBz$LDBz$cEz$MDBz$NDBz$ODBz$PDBz$QDBz$RDBz$SDBz$TDBz$z$gBz$z$Ndz$Odz$Ifz$QHBz$RHBz$UHBz$GHBz$HHBz$IHBz$JHBz$cDBz$z$JDBz$vQz$KDBz$LDBz$cEz$MDBz$NDBz$ODBz$PDBz$QDBz$RDBz$SDBz$TDBz$z$Uz$Vz$KDBz$UDBz$VDBz$Umz$Qlz$cz$dz$z$JDz$atz$Ulz$WDBz$XDBz$YDBz$ZDBz$z$oz$pz$z$qz$z$qz$z$JDz$atz$Ulz$HCz$aDBz$Bnz$bDBz$cDBz$PDz$z$gBz$z$Ndz$Odz$Ifz$VHBz$WHBz$EHBz$FHBz$XHBz$YHBz$ZHBz$aHBz$bHBz$z$JDBz$vQz$KDBz$LDBz$cEz$MDBz$NDBz$ODBz$PDBz$QDBz$RDBz$SDBz$TDBz$z$Vz$KDBz$UDBz$VDBz$Ytz$cHBz$dHBz$fJz$eHBz$fHBz$gHBz$XDBz$YDBz$ZDBz$GJz$oz$pz$z$JDz$atz$Ulz$HCz$aDBz$juz$hHBz$iHBz$oCBz$z$jHBz$kHBz$lHBz$mHBz$EDBz$nHBz$oHBz$TQz$z$qz$z$Uz$Vz$pHBz$VLz$bxz$cxz$cz$dz$z$ez$yHz$z$qHBz$rHBz$sHBz$tHBz$PDz$z$ez$yBBz$uHBz$vHBz$z$ez$yBBz$wHBz$xHBz$PDz$z$ez$yBBz$yHBz$AIBz$PDz$z$ez$yBBz$BIBz$CIBz$DIBz$z$ez$yBBz$EIBz$FIBz$PDz$z$ez$yBBz$GIBz$HIBz$IIBz$PDz$z$Ndz$Odz$JIBz$KIBz$LIBz$MIBz$NIBz$OIBz$z$Nfz$LCBz$MCBz$NCBz$z$PIBz$QIBz$RIBz$SIBz$TIBz$tvz$z$UIBz$QIBz$RIBz$SIBz$VIBz$WIBz$z$XIBz$QIBz$RIBz$SIBz$YIBz$ZIBz$aIBz$WIBz$z$bIBz$QIBz$RIBz$SIBz$FIBz$WIBz$z$cIBz$QIBz$RIBz$SIBz$HIBz$dIBz$eIBz$Kwz$z$fIBz$QIBz$RIBz$SIBz$gIBz$WIBz$z$pfz$z$qHBz$rHBz$KIBz$hIBz$iIBz$jIBz$KFz$z$kIBz$lIBz$mIBz$nIBz$oUz$vKz$uVz$rABz$oIBz$pIBz$z$qz$z$Uz$Vz$asz$qIBz$Umz$xrz$bRz$UBz$VBz$z$ez$yHz$z$Ndz$Odz$rIBz$sIBz$tIBz$uIBz$vIBz$wIBz$xIBz$yIBz$z$JDBz$vQz$xIBz$yIBz$bRz$GJz$xIBz$yIBz$lIBz$mIBz$fqz$AJBz$BJBz$Dvz$CJBz$DJBz$EJBz$FJBz$GJBz$HJBz$IJBz$JJBz$oHz$Qwz$TQz$z$qHBz$rHBz$KJBz$LJBz$MJBz$NJBz$OJBz$z$qz$z$Uz$Vz$gsz$PJBz$QJBz$RJBz$HDz$IDz$z$ez$yHz$z$JDz$atz$jBBz$kBBz$lBBz$SJBz$TJBz$z$ez$fz$Qnz$UJBz$VJBz$WJBz$XJBz$YJBz$ZJBz$aJBz$Znz$bJBz$z$ez$yBBz$wHBz$cJBz$dJBz$eJBz$fJBz$PDz$z$Ndz$Odz$GCBz$gJBz$hJBz$iJBz$jJBz$kJBz$KCBz$KIz$z$JDBz$vQz$lJBz$mJBz$cEz$nJBz$MCBz$oJBz$z$Nfz$LCBz$MCBz$NCBz$z$TQz$z$pJBz$qJBz$rJBz$sJBz$tJBz$uJBz$z$Tfz$z$Ufz$z$pJBz$qJBz$rJBz$sJBz$vJBz$wJBz$z$Tfz$z$jfz$z$JDz$atz$btz$ctz$xJBz$yJBz$AKBz$VJBz$WJBz$XJBz$BKBz$z$pJBz$qJBz$rJBz$sJBz$tJBz$uJBz$z$Tfz$z$pfz$z$JDz$atz$jBBz$kBBz$CKBz$DKBz$pJBz$PDz$z$qz$z$Uz$Vz$EKBz$axz$bxz$cxz$cz$dz$z$ez$yHz$z$hCz$FKBz$GKBz$z$Ugz$z$Ndz$Odz$Ifz$HKBz$IKBz$JKBz$KKBz$LKBz$MKBz$MIz$z$Uz$bNz$cNz$NKBz$OKBz$bDz$cDz$dDz$z$PKBz$QKBz$PDBz$RKBz$SKBz$TKBz$z$UKBz$EGz$yjz$VKBz$WKBz$XKBz$YKBz$ZKBz$aKBz$bKBz$MQz$cKBz$dKBz$eKBz$ISz$ONz$fKBz$whz$z$NKBz$gKBz$hKBz$PDz$z$iKBz$jKBz$z$QDz$RDz$kKBz$lKBz$mKBz$VDBz$Vvz$nKBz$cz$dz$z$JDz$atz$Ulz$WDBz$oKBz$pKBz$qKBz$rKBz$z$QDz$RDz$kKBz$lKBz$sKBz$tKBz$bRz$UBz$VBz$z$JDz$atz$Ulz$WDBz$uKBz$vKBz$wKBz$APz$z$gBz$z$iKBz$jKBz$z$qz$z$vCz$z$JDz$atz$Ulz$HCz$xEBz$xKBz$yKBz$lKBz$ALBz$z$qz$z$Uz$Vz$dDBz$Biz$xrz$eDBz$fDBz$dDBz$Biz$xrz$bRz$UBz$VBz$z$ez$yHz$z$JDz$atz$jBBz$kBBz$lBBz$BLBz$CLBz$z$ez$yBBz$uHBz$DLBz$ELBz$FLBz$GLBz$HLBz$ILBz$JLBz$KLBz$LLBz$MLBz$z$ez$yBBz$wHBz$NLBz$OLBz$PLBz$z$ez$yBBz$yHBz$QLBz$RLBz$wwz$SLBz$TLBz$ULBz$VLBz$z$ez$yBBz$BIBz$WLBz$RLBz$wwz$SLBz$XLBz$YLBz$DOz$ZLBz$z$ez$yBBz$EIBz$aLBz$bLBz$cLBz$AOz$dLBz$bLBz$eLBz$fLBz$ZLBz$z$ez$yBBz$GIBz$gLBz$hLBz$qPz$ynz$iLBz$jLBz$kLBz$ZLBz$z$ez$yBBz$lLBz$gLBz$mLBz$qPz$unz$nLBz$oLBz$pLBz$PDz$z$ez$yBBz$qLBz$rLBz$sLBz$tLBz$uLBz$LYz$vLBz$PDz$z$ez$z$Ndz$Odz$lBBz$wLBz$xLBz$yLBz$AMBz$BMBz$CMBz$DMBz$lJBz$Yfz$z$Uz$bNz$EMBz$KCBz$FMBz$cz$dz$z$PKBz$GMBz$HMBz$IMBz$z$JMBz$KMBz$eOz$z$NDz$LMBz$lHBz$MMBz$NMBz$OMBz$PMBz$z$QMBz$RMBz$SMBz$bnz$ECBz$TMBz$UMBz$z$gBz$z$Nfz$LCBz$MCBz$NCBz$z$VMBz$aqz$WMBz$bqz$z$Tfz$z$Ufz$z$PKBz$GMBz$HMBz$IMBz$z$JMBz$KMBz$eOz$z$hCz$FKBz$XMBz$Ugz$z$NDz$LMBz$lHBz$MMBz$YMBz$ZMBz$aMBz$z$QMBz$RMBz$SMBz$bnz$ECBz$TMBz$UMBz$z$Fpz$bMBz$JUz$cMBz$dMBz$eMBz$Vjz$Wjz$fMBz$gMBz$z$hMBz$WQz$XQz$iMBz$jMBz$kMBz$oqz$aoz$Dpz$lMBz$mMBz$eOz$z$Ksz$jCBz$nMBz$oMBz$wMz$IQz$QGBz$pMBz$qMBz$z$Uz$Vz$XGBz$OKz$Yxz$bDz$cDz$dDz$z$ez$rMBz$sMBz$tMBz$uMBz$ZYz$Fpz$lPz$z$iKBz$jKBz$z$qz$z$vCz$z$Tfz$z$vMBz$aqz$WMBz$irz$AOz$wMBz$xMBz$yMBz$ANBz$Tfz$z$BNBz$aqz$WMBz$irz$AOz$wMBz$CNBz$DNBz$Xoz$ENBz$Kwz$z$FNBz$aqz$WMBz$irz$AOz$dLBz$bLBz$eLBz$fLBz$WIBz$z$GNBz$aqz$WMBz$irz$AOz$HNBz$INBz$JNBz$KNBz$tvz$z$LNBz$aqz$WMBz$irz$AOz$MNBz$NNBz$ONBz$PNBz$Tfz$z$ffz$z$Ndz$Odz$Ifz$QNBz$RNBz$SNBz$TNBz$UNBz$VNBz$QMBz$RMBz$WNBz$z$Uz$bNz$XNBz$aqz$WMBz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$YNBz$ZNBz$APz$z$oz$pz$z$QDz$RDz$aNBz$aqz$WMBz$bNBz$cNBz$dNBz$eNBz$bDz$cDz$dDz$z$JDz$atz$btz$ctz$fNBz$gNBz$LYz$hNBz$UNBz$APz$z$oz$pz$z$qz$z$Tfz$z$jfz$z$JDz$atz$btz$ctz$YNBz$iNBz$jNBz$z$oz$pz$z$pfz$z$qz$z$otz$kNBz$lNBz$Tlz$Ulz$QMBz$RMBz$mNBz$Avz$nNBz$oNBz$whz$z$JDz$atz$jBBz$kBBz$lCBz$pNBz$QMBz$RMBz$qNBz$z$ez$yHz$z$qHBz$rHBz$rNBz$sNBz$tNBz$uNBz$vNBz$wNBz$z$ez$yBBz$xNBz$yNBz$AOBz$BOBz$COBz$DOBz$EOBz$FOBz$GOBz$HOBz$PDz$z$ez$yBBz$IOBz$JOBz$KOBz$LOBz$MOBz$NOBz$OOBz$POBz$QOBz$z$ROBz$SOBz$TOBz$UOBz$z$ez$yHz$z$qHBz$rHBz$VOBz$WOBz$ROBz$SOBz$TOBz$PDz$z$qz$z$rz$z$jFz$XOBz$avz$Tz$z$ez$yHz$z$JDz$atz$jBBz$kBBz$YOBz$KLBz$ZOBz$PDz$z$Uz$Vz$aOBz$muz$Zsz$bRz$UBz$VBz$z$Uz$Vz$bOBz$Biz$cOBz$bDz$cDz$dDz$z$dOBz$eOBz$fOBz$gOBz$hOBz$pKz$VTz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$ez$iOBz$avz$jOBz$kOBz$z$YVz$lOBz$mOBz$nOBz$oOBz$pOBz$z$qOBz$oPz$LYz$rOBz$avz$crz$sOBz$tOBz$uOBz$xmz$vOBz$pKz$wOBz$xOBz$yOBz$APBz$z$BPBz$CPBz$oJBz$z$DPBz$EPBz$fDz$z$FPBz$GPBz$qPz$rOBz$avz$crz$HPBz$IPBz$JPBz$KPBz$iLBz$LPBz$z$qWz$MPBz$NPBz$OPBz$xrz$PPBz$nUz$QPBz$RPBz$SPBz$Vsz$TPBz$UPBz$z$qz$z$qz$z$dOBz$eOBz$fOBz$VPBz$WPBz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$Gwz$XPBz$YPBz$ZPBz$AOz$aPBz$bPBz$cPBz$UPz$z$oz$pz$z$qz$z$uGz$vGz$wGz$xGz$VPBz$WPBz$z$gBz$z$Ksz$Lsz$dPBz$avz$eqz$fqz$gqz$whz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$ePBz$fPBz$gPBz$hPBz$KLBz$iPBz$jPBz$PDz$z$oz$pz$z$qz$z$qz$z$rz$z$DUz$kPBz$lPBz$MFz$z$Uz$Vz$aOBz$muz$Zsz$bRz$UBz$VBz$z$uGz$vGz$mPBz$nPBz$KLBz$oPBz$z$gBz$z$KLBz$pPBz$qPBz$Ssz$sYz$Vsz$rPBz$sPBz$KLBz$tPBz$bUz$z$qz$z$rz$z$uPBz$juz$kuz$FKz$z$Uz$Vz$aOBz$muz$Zsz$bRz$UBz$VBz$z$uGz$vGz$mPBz$vPBz$avz$z$gBz$z$Ksz$wPBz$xPBz$IQz$piz$yPBz$AQBz$z$Uz$Vz$Osz$Psz$Qsz$cz$dz$z$KLBz$BQBz$CQBz$tUz$z$qz$z$qz$z$rz$z$DQBz$EQBz$bCz$z$bLz$JABz$KABz$yoz$Apz$ZYz$Bnz$z$Uz$bNz$FQBz$GQBz$xuz$HQBz$HDz$IDz$z$uPBz$juz$oPBz$z$uGz$vGz$mPBz$IQBz$JQBz$z$qBBz$UKz$KQBz$LQBz$MQBz$Ugz$z$Uz$NQBz$OQBz$PQBz$QQBz$RQBz$UKz$bQz$ZQz$cMz$SQBz$TQBz$UQBz$bDz$cDz$dDz$z$JDz$atz$ZGBz$VQBz$WQBz$kGz$XQBz$YQBz$ZQBz$IEz$JEz$aQBz$bQBz$cQBz$lJz$nz$z$gBz$z$JDz$atz$ZGBz$dQBz$eQBz$CNz$fQBz$gQBz$hQBz$iQBz$jQBz$kQBz$uuz$lQBz$mQBz$nQBz$oQBz$pQBz$lQBz$mQBz$qQBz$rQBz$sQBz$tQBz$uQBz$vQBz$wQBz$xQBz$yQBz$vTz$ARBz$z$BRBz$CRBz$DRBz$ERBz$z$ez$yxz$IEz$JEz$FRBz$GRBz$HRBz$IRBz$z$BRBz$CRBz$DRBz$JRBz$SOz$shz$iDz$thz$oQz$DQz$eQz$KRBz$LRBz$MRBz$NRBz$ORBz$PRBz$z$JDz$atz$ZGBz$VQBz$WQBz$kGz$XQBz$YQBz$ZQBz$IEz$JEz$QRBz$RRBz$cQBz$lJz$nz$z$qz$z$vCz$z$dOBz$eOBz$fOBz$rFz$SRBz$lABz$TRBz$z$Uz$Vz$bOBz$Biz$cOBz$bDz$cDz$dDz$z$dOBz$eOBz$fOBz$URBz$VRBz$z$uGz$vGz$mPBz$nPBz$WRBz$OHz$z$uGz$vGz$wGz$xGz$URBz$XRBz$z$gBz$z$dOBz$eOBz$fOBz$URBz$dDz$z$uGz$vGz$mPBz$nPBz$WRBz$z$uGz$vGz$wGz$xGz$URBz$dDz$z$qz$z$wjz$hqz$VKz$wwz$YRBz$ZRBz$aRBz$bRBz$cRBz$dRBz$eRBz$fRBz$gRBz$hRBz$iRBz$jRBz$z$kRBz$lRBz$mRBz$nRBz$z$oRBz$pRBz$qRBz$pRBz$rRBz$gHz$hHz$HHz$sRBz$tRBz$uRBz$z$oRBz$pRBz$qRBz$pRBz$rRBz$vRBz$wRBz$xRBz$yRBz$ASBz$sYz$BSBz$CSBz$DSBz$z$Uz$Vz$aOBz$muz$Zsz$bRz$UBz$VBz$z$oRBz$pRBz$qRBz$pRBz$rRBz$ESBz$FSBz$GSBz$qFBz$HSBz$ISBz$JSBz$KSBz$LSBz$EHz$MSBz$NSBz$OSBz$PSBz$QSBz$RSBz$KLBz$SSBz$TSBz$USBz$VSBz$uGz$vGz$WSBz$DUz$XSBz$YSBz$ZSBz$aSBz$bSBz$VTz$z$gBz$z$oRBz$pRBz$qRBz$pRBz$rRBz$ESBz$FSBz$GSBz$qFBz$HSBz$ISBz$JSBz$KSBz$LSBz$EHz$MSBz$NSBz$cSBz$dSBz$eSBz$fSBz$gSBz$ez$Qwz$hSBz$iSBz$TSBz$USBz$VSBz$KLBz$pPBz$qPBz$Ssz$sYz$Vsz$rPBz$sPBz$KLBz$tPBz$jSBz$gSBz$ez$Qwz$hSBz$iSBz$jOBz$kSBz$lSBz$z$qz$z$JDBz$HFBz$ZRBz$aRBz$mSBz$qFBz$nSBz$oSBz$pSBz$qSBz$YLz$FKz$z$JDz$atz$btz$ctz$rSBz$YPBz$sSBz$tSBz$uSBz$qPz$vSBz$fRBz$nPBz$wSBz$z$oz$pz$z$rz$z$MFBz$JFz$NFBz$VIz$WIz$OFBz$PFBz$QFBz$uEBz$svz$RFBz$PDz$z$SFBz$xuz$TFBz$ZIz$aIz$nUz$UFBz$VFBz$mEBz$WFBz$XFBz$z$oRBz$pRBz$qRBz$pRBz$rRBz$xSBz$sez$ySBz$ajz$ATBz$UGBz$BTBz$CTBz$z$DTBz$ETBz$Adz$qcz$FTBz$GTBz$HTBz$z$ITBz$JTBz$cWz$QZz$KTBz$LTBz$suz$MEz$z$MTBz$NTBz$OTBz$qcz$PTBz$QTBz$VPBz$RTBz$STBz$iiz$TTBz$z$JDBz$UTBz$GQBz$xuz$GJz$ruz$SFBz$xuz$Ylz$VTBz$z$JDz$atz$btz$ctz$rSBz$YPBz$ZPBz$AOz$aPBz$bPBz$cPBz$UPz$z$oz$pz$z$rz$z$gBz$z$WTBz$UFBz$XTBz$YTBz$ZIz$aIz$nUz$UFBz$VFBz$mEBz$WFBz$ZTBz$z$WTBz$UFBz$aTBz$bTBz$ZIz$aIz$nUz$UFBz$VFBz$mEBz$WFBz$LPBz$z$qz$z$rz$z$qUz$cTBz$Tuz$bCz$z$bLz$JABz$KABz$ILBz$JLBz$KLBz$LLBz$dTBz$z$Uz$Vz$ROBz$SOBz$TOBz$axz$eTBz$HDz$IDz$z$ez$fTBz$gTBz$Jqz$hTBz$iTBz$VIz$jTBz$kTBz$Isz$lTBz$mTBz$nTBz$oTBz$z$ez$pTBz$qTBz$rTBz$sTBz$tTBz$ssz$tsz$Vsz$uTBz$vTBz$wTBz$xTBz$yTBz$z$AUBz$BUBz$CUBz$DUBz$EUBz$FUBz$GUBz$HUBz$IUBz$JUBz$KUBz$z$gBz$z$AUBz$BUBz$CUBz$bqz$z$qz$z$Uz$Vz$aOBz$muz$Zsz$bRz$UBz$VBz$z$Uz$nuz$ouz$ZYz$KLBz$LUBz$MUBz$qUz$NUBz$bDz$cDz$dDz$z$OUBz$ZYz$KLBz$LUBz$MUBz$qUz$CYz$Hsz$Isz$KLBz$tPBz$PUBz$QUBz$z$qz$z$Ksz$RUBz$KLBz$SUBz$yjz$Akz$Bgz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$Laz$TUBz$UUBz$VUBz$z$gBz$z$Laz$WUBz$YSBz$z$qz$z$EGz$XUz$XUBz$avz$Vsz$YUBz$ZUBz$aUBz$bUBz$z$Laz$cUBz$dUBz$z$eUBz$uNz$fUBz$gUBz$ytz$hUBz$z$iUBz$jUBz$kUBz$lUBz$mUBz$avz$nUBz$oUBz$pUBz$z$qUBz$rUBz$Vsz$sUBz$tUBz$z$uUBz$vUBz$QIz$wUBz$xUBz$avz$VVz$WVz$yUBz$AVBz$z$BVBz$CVBz$z$eUBz$DVBz$EVBz$FVBz$GVBz$HVBz$z$rz$z$LYz$MFz$z$IVBz$JVBz$KVBz$bBz$LVBz$MVBz$NVBz$OVBz$PVBz$MVBz$NVBz$Laz$QVBz$ZCz$pZz$RVBz$SVBz$TVBz$UVBz$LCz$z$VVBz$oez$WVBz$XVBz$YVBz$ZVBz$aVBz$bVBz$cVBz$dVBz$eVBz$fVBz$z$gVBz$LYz$hVBz$iVBz$jVBz$kVBz$LYz$lVBz$mVBz$nVBz$Gaz$oVBz$z$bFBz$pVBz$qVBz$rVBz$sVBz$Vsz$tVBz$Lnz$uVBz$vVBz$wVBz$z$BUz$xVBz$yVBz$AWBz$BWBz$z$CWBz$QZz$qcz$qcz$qcz$DWBz$z$FVz$EWBz$FWBz$qcz$qcz$DWBz$z$FVz$GWBz$HWBz$qcz$qcz$DWBz$z$IWBz$JWBz$KWBz$TDz$LWBz$MWBz$z$NWBz$OWBz$PWBz$QWBz$RWBz$SWBz$Kwz$z$TWBz$qcz$qcz$qcz$qcz$DWBz$z$uUBz$vUBz$qcz$qcz$qcz$nUz$Vsz$UWBz$VWBz$NWBz$WWBz$z$XWBz$YWBz$NWBz$qcz$qcz$dFBz$eFBz$fFBz$ZWBz$aWBz$bWBz$Kwz$z$uUBz$vUBz$nUz$Vsz$rPBz$cWBz$dWBz$qUz$Kwz$z$rz$z$eWBz$z$qz$z$Uz$Vz$QMBz$RMBz$fWBz$gWBz$HDz$IDz$z$hWBz$JKz$PDz$z$gBz$z$hWBz$JKz$iWBz$jWBz$kWBz$sYz$lWBz$mWBz$Kwz$z$iWBz$nWBz$oWBz$QMBz$RMBz$pWBz$z$iWBz$qWBz$rWBz$gGz$sWBz$tWBz$uWBz$vWBz$wWBz$z$xWBz$yWBz$AXBz$BXBz$CXBz$DXBz$EXBz$FXBz$qFBz$GXBz$z$xWBz$yWBz$HXBz$IXBz$JXBz$PDz$z$qz$z$Uz$Vz$dDBz$Biz$xrz$eDBz$fDBz$dDBz$Biz$xrz$bRz$UBz$VBz$z$bLz$JABz$KXBz$LXBz$MXBz$NXBz$OXBz$z$Uz$Vz$luz$wGBz$xGBz$bDz$cDz$dDz$z$EGz$PXBz$Csz$Dsz$Esz$QXBz$TGBz$UGBz$RXBz$SXBz$TXBz$z$BUz$UXBz$z$TQBz$VXBz$WXBz$z$TQBz$XXBz$YXBz$ZXBz$z$BUz$aXBz$rHz$TGBz$UGBz$bXBz$z$fuz$oxz$cXBz$qPz$dXBz$eXBz$LPz$YVz$fXBz$gXBz$hXBz$iXBz$jXBz$kXBz$z$rz$z$BUz$UXBz$z$TQBz$lXBz$qcz$mXBz$gXBz$nXBz$VKz$oXBz$z$TQBz$lXBz$qcz$pXBz$qXBz$cDBz$rXBz$sXBz$tXBz$z$BUz$aXBz$rHz$TGBz$UGBz$bXBz$z$uXBz$vXBz$wXBz$xXBz$z$yXBz$AYBz$BYBz$CYBz$DYBz$EYBz$DYBz$FYBz$z$yXBz$GYBz$rhz$HYBz$IYBz$JYBz$KYBz$LYBz$MYBz$NYBz$OYBz$PYBz$QYBz$RYBz$SYBz$TYBz$UYBz$HYBz$IYBz$VYBz$WYBz$LYBz$XYBz$NYBz$YYBz$ZYBz$aYBz$bYBz$TYBz$UYBz$HYBz$IYBz$VYBz$cYBz$LYBz$XYBz$dYBz$eYBz$PYBz$fYBz$gYBz$hYBz$iYBz$jYBz$kYBz$lYBz$gYBz$hYBz$mYBz$jYBz$kYBz$UYBz$gYBz$nYBz$oYBz$pYBz$qYBz$rYBz$Kwz$z$yXBz$sYBz$tYBz$uYBz$vYBz$wYBz$Kwz$z$yXBz$HPz$xYBz$XTz$yYBz$AZBz$BZBz$Kwz$z$yXBz$CZBz$vz$DZBz$EZBz$FZBz$GZBz$HZBz$Kwz$z$yXBz$CZBz$vz$ZCz$IZBz$JZBz$z$yXBz$CZBz$vz$KZBz$Ucz$JXBz$z$yXBz$LZBz$MZBz$Lz$NZBz$OZBz$PZBz$z$yXBz$LZBz$MZBz$QZBz$RZBz$SZBz$JFz$TZBz$z$Rtz$KABz$ILBz$JLBz$KLBz$LLBz$dTBz$z$WIz$Sz$UZBz$z$VZBz$WZBz$z$rz$z$XZBz$YZBz$auz$ZZBz$z$WIz$Sz$aZBz$lKBz$bZBz$z$iWBz$cZBz$tJBz$dZBz$eZBz$z$iWBz$nWBz$fZBz$kKz$gZBz$hZBz$iZBz$jZBz$gXBz$Kwz$z$iWBz$kZBz$lZBz$IKz$mZBz$nZBz$z$iWBz$qWBz$rWBz$gGz$oZBz$hHz$pZBz$cVBz$tRBz$qZBz$z$iWBz$qWBz$rWBz$gGz$rZBz$sZBz$mwz$tZBz$hHz$uZBz$z$iWBz$qWBz$rWBz$gGz$vZBz$wZBz$Fpz$Kwz$z$iWBz$qWBz$rWBz$gGz$xZBz$yZBz$AaBz$MVBz$NVBz$OVBz$Kwz$z$iWBz$qWBz$rWBz$gGz$BaBz$mVBz$nVBz$CaBz$DaBz$EaBz$FaBz$lVBz$mVBz$nVBz$Gaz$Kwz$z$rz$z$rz$z$eWBz$z$gBz$z$EGz$PXBz$Csz$Dsz$Esz$QXBz$TGBz$UGBz$RXBz$SXBz$TXBz$z$BUz$UXBz$z$TQBz$VXBz$WXBz$z$TQBz$XXBz$YXBz$ZXBz$z$TQBz$VXBz$GaBz$tXBz$z$BUz$aXBz$rHz$TGBz$UGBz$bXBz$z$Rtz$KABz$ILBz$JLBz$KLBz$LLBz$dTBz$z$WIz$Sz$UZBz$z$VZBz$WZBz$z$rz$z$XZBz$YZBz$auz$ZZBz$z$rz$z$eWBz$z$qz$z$qz$z$rz$z$HaBz$IaBz$JaBz$MFz$z$Uz$Ojz$CYz$Ddz$dMz$KaBz$Orz$Ylz$LaBz$OOz$MaBz$NaBz$OaBz$PaBz$QaBz$nUz$RaBz$SaBz$Bpz$TaBz$cDz$dDz$z$SYz$TYz$UaBz$VaBz$WaBz$XaBz$YaBz$ZaBz$aaBz$baBz$caBz$daBz$VZz$YUz$IaBz$eaBz$hYz$STz$z$faBz$gaBz$haBz$z$qz$z$rz$z$iaBz$tFz$jaBz$bCz$z$Ksz$Lsz$kaBz$tFz$laBz$OTBz$Qrz$Rrz$maBz$z$Uz$fxz$naBz$Ktz$cz$dz$z$uGz$vGz$mPBz$mez$oaBz$paBz$qaBz$bABz$Xrz$raBz$saBz$z$Uz$fxz$naBz$Ktz$taBz$VBz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$uaBz$vaBz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$uaBz$qPz$z$Uz$Vz$cDBz$waBz$xaBz$yaBz$cz$dz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$AbBz$BbBz$CbBz$DbBz$EbBz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$AbBz$BbBz$CbBz$DbBz$FbBz$z$qz$z$BHz$CHz$DHz$MHz$NHz$OHz$z$gBz$z$GbBz$HbBz$IbBz$JbBz$KbBz$LbBz$ZQz$MbBz$NbBz$hOz$ObBz$WOz$XOz$glz$z$Uz$Vz$PbBz$Vvz$yaBz$cz$dz$z$HbBz$IbBz$QbBz$RbBz$SbBz$TbBz$UbBz$UKz$VbBz$WbBz$XbBz$YbBz$z$HbBz$IbBz$QbBz$RbBz$SbBz$TbBz$UbBz$UKz$ZbBz$abBz$bbBz$cbBz$z$Uz$Vz$cDBz$waBz$xaBz$yaBz$cz$dz$z$HbBz$IbBz$QbBz$RbBz$SbBz$TbBz$UbBz$UKz$mXBz$gXBz$abBz$bbBz$cbBz$z$HbBz$IbBz$QbBz$RbBz$SbBz$dbBz$UbBz$UKz$mXBz$gXBz$abBz$bbBz$cbBz$z$qz$z$qz$z$qz$z$gBz$z$Ksz$Lsz$ebBz$fbBz$gbBz$Qrz$Rrz$maBz$z$Uz$fxz$naBz$Ktz$cz$dz$z$GbBz$HbBz$IbBz$JbBz$KbBz$LbBz$ZQz$MbBz$NbBz$hOz$ObBz$WOz$XOz$glz$z$Uz$Vz$PbBz$Vvz$yaBz$cz$dz$z$HbBz$IbBz$QbBz$RbBz$SbBz$TbBz$UbBz$UKz$VbBz$WbBz$XbBz$YbBz$z$HbBz$IbBz$QbBz$RbBz$SbBz$TbBz$UbBz$UKz$ZbBz$abBz$bbBz$cbBz$z$Uz$Vz$cDBz$waBz$xaBz$yaBz$cz$dz$z$HbBz$IbBz$QbBz$RbBz$SbBz$TbBz$UbBz$UKz$mXBz$gXBz$abBz$bbBz$cbBz$z$HbBz$IbBz$QbBz$RbBz$SbBz$dbBz$UbBz$UKz$mXBz$gXBz$abBz$bbBz$cbBz$z$qz$z$qz$z$gBz$z$Ksz$Lsz$hbBz$ibBz$Wrz$Xrz$jbBz$z$Uz$fxz$naBz$Ktz$cz$dz$z$Ksz$kbBz$nlz$olz$IQz$piz$rBBz$hWBz$lbBz$z$Uz$Vz$Osz$Biz$bRz$UBz$VBz$z$mbBz$nbBz$obBz$pbBz$qbBz$z$mbBz$nbBz$obBz$rbBz$EbBz$z$Uz$Vz$cDBz$waBz$xaBz$yaBz$cz$dz$z$mbBz$nbBz$sbBz$cDBz$tbBz$tUz$z$mbBz$nbBz$sbBz$cDBz$ubBz$tUz$z$qz$z$qz$z$qz$z$qz$z$qz$z$rz$z$jFz$vbBz$wbBz$bCz$z$VPz$qsz$xbBz$Bnz$z$bLz$JABz$ybBz$AcBz$BcBz$z$CcBz$DcBz$EcBz$FcBz$GcBz$QMBz$HcBz$AOz$IcBz$YKz$DOz$JcBz$KcBz$LcBz$McBz$bKz$MOz$NcBz$OcBz$PcBz$Gxz$QcBz$RcBz$ScBz$nHz$TcBz$UcBz$VcBz$WcBz$PDz$z$JDz$atz$jBBz$kBBz$XcBz$YcBz$ZcBz$CcBz$DcBz$EcBz$acBz$z$wjz$bcBz$ccBz$dcBz$ecBz$iUz$fcBz$gcBz$hcBz$icBz$jcBz$UFBz$kcBz$lcBz$mcBz$ncBz$ocBz$pcBz$qcBz$z$Uz$rcBz$scBz$tcBz$dz$z$JDz$atz$btz$ctz$ucBz$vcBz$wcBz$xcBz$ycBz$AdBz$z$oz$pz$z$qz$z$uGz$vGz$mPBz$IQBz$JQBz$z$bLz$JABz$KABz$yoz$Apz$ZYz$Bnz$KABz$yoz$Apz$jTBz$BdBz$CdBz$uFBz$z$DdBz$EdBz$FdBz$GdBz$Bnz$WcBz$Evz$jcBz$UFBz$iFz$z$HdBz$xbBz$Bnz$UFBz$bTBz$ZIz$aIz$RIz$z$HdBz$xbBz$Bnz$IdBz$JdBz$ZIz$aIz$wUBz$KdBz$JQBz$z$kVz$lVz$KABz$yoz$Apz$jWz$Bnz$YLz$FKz$z$JDz$atz$btz$ctz$LdBz$MdBz$NdBz$z$oz$pz$z$rz$z$EGz$Cdz$DYz$Ipz$OdBz$Ipz$UFBz$PdBz$QdBz$RdBz$eWBz$z$SdBz$TdBz$z$UdBz$VdBz$Pjz$YcBz$WdBz$QTBz$z$XdBz$YdBz$BGBz$ZdBz$AOz$IcBz$YKz$DOz$adBz$lPz$z$bdBz$cdBz$ddBz$edBz$fdBz$gdBz$hdBz$idBz$jdBz$kdBz$z$ldBz$QTBz$mdBz$z$ndBz$odBz$ePz$z$pdBz$qdBz$rdBz$sdBz$xrz$z$tdBz$udBz$vdBz$ZIz$aIz$RIz$UFBz$wdBz$xdBz$hYz$ydBz$ZIz$aIz$nUz$UFBz$AeBz$Orz$BeBz$dDz$z$CeBz$DeBz$EeBz$FeBz$GeBz$z$CeBz$HeBz$IeBz$JeBz$KeBz$mez$LeBz$z$MeBz$sez$mdBz$z$NeBz$OeBz$PeBz$QeBz$ReBz$jdBz$kdBz$z$eWBz$z$uGz$vGz$SeBz$TeBz$iiz$UeBz$z$uGz$vGz$wGz$xGz$VeBz$PdBz$QdBz$VTz$z$rz$z$sIBz$WeBz$Orz$Tz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$jeBz$keBz$leBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$qeBz$reBz$seBz$teBz$ueBz$veBz$z$rz$z$weBz$z$dsz$xeBz$yeBz$AfBz$z$FKz$z$BfBz$CfBz$oTz$DfBz$EfBz$z$FfBz$eeBz$GfBz$z$HfBz$z$FKz$z$BfBz$CfBz$IfBz$leBz$z$FfBz$eeBz$JfBz$z$rz$z$mdBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$RfBz$leBz$z$SfBz$TfBz$UfBz$VfBz$WfBz$z$VfBz$XfBz$YfBz$ZfBz$z$PTBz$afBz$bfBz$cfBz$mEBz$dfBz$z$BfBz$CfBz$efBz$ffBz$gfBz$hfBz$ifBz$z$jfBz$kfBz$lfBz$beBz$mfBz$z$FKz$z$jfBz$kfBz$lfBz$nfBz$QfBz$NZBz$OZBz$ofBz$z$pfBz$nfBz$QfBz$SZBz$JFz$KFz$z$rz$z$mdBz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$sIBz$IgBz$JgBz$Orz$Tz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$jeBz$keBz$leBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$qeBz$reBz$seBz$teBz$ueBz$KgBz$z$LgBz$MgBz$NgBz$OgBz$z$rz$z$weBz$z$dsz$xeBz$yeBz$AfBz$z$FKz$z$BfBz$CfBz$oTz$DfBz$EfBz$z$FfBz$eeBz$GfBz$z$HfBz$z$FKz$z$BfBz$CfBz$IfBz$leBz$z$FfBz$eeBz$JfBz$z$rz$z$mdBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$RfBz$leBz$z$SfBz$TfBz$UfBz$PgBz$QgBz$z$PgBz$Xuz$Yuz$beBz$FKz$z$PTBz$afBz$bfBz$cfBz$mEBz$dfBz$z$BfBz$CfBz$efBz$ffBz$gfBz$hfBz$ifBz$z$jfBz$kfBz$lfBz$beBz$mfBz$z$FKz$z$jfBz$kfBz$lfBz$nfBz$QfBz$NZBz$OZBz$ofBz$z$pfBz$nfBz$QfBz$SZBz$JFz$KFz$z$rz$z$mdBz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$RgBz$SgBz$TgBz$bCz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$ZgBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$dgBz$egBz$fgBz$z$ggBz$hgBz$igBz$z$rz$z$mdBz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$RgBz$jgBz$kgBz$lgBz$MFz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$ZgBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$dgBz$egBz$fgBz$z$ggBz$hgBz$mgBz$dCz$z$rz$z$mdBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$ngBz$WfBz$z$ogBz$XfBz$YfBz$ZfBz$z$pgBz$qgBz$rgBz$sgBz$tgBz$ugBz$z$vgBz$wgBz$xgBz$ygBz$UfBz$AhBz$z$BhBz$ChBz$DhBz$EhBz$FhBz$z$GhBz$HhBz$OfBz$z$IhBz$JhBz$KhBz$iIBz$jIBz$KFz$z$HfBz$z$LhBz$seBz$MhBz$NhBz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$RgBz$OhBz$kgBz$lgBz$MFz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$ZgBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$dgBz$egBz$fgBz$z$ggBz$hgBz$igBz$z$rz$z$weBz$z$PhBz$xGz$QhBz$RhBz$ShBz$ThBz$UhBz$VhBz$WhBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$RfBz$leBz$z$SfBz$TfBz$UfBz$VfBz$WfBz$z$VfBz$XfBz$YfBz$ZfBz$z$PTBz$afBz$bfBz$cfBz$mEBz$dfBz$z$BfBz$CfBz$efBz$ffBz$gfBz$hfBz$ifBz$z$jfBz$kfBz$lfBz$beBz$mfBz$z$FKz$z$jfBz$kfBz$lfBz$nfBz$QfBz$NZBz$OZBz$ofBz$z$pfBz$nfBz$QfBz$SZBz$JFz$KFz$z$rz$z$mdBz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$RgBz$XhBz$hYz$YhBz$FKz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$ZhBz$ahBz$z$bhBz$chBz$dhBz$ehBz$fhBz$WfBz$z$geBz$heBz$ieBz$ZgBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$dgBz$egBz$fgBz$z$ggBz$hgBz$igBz$z$rz$z$weBz$z$PhBz$xGz$QhBz$RhBz$ShBz$ThBz$UhBz$VhBz$WhBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$ghBz$z$hhBz$MfBz$NfBz$OfBz$z$ihBz$jhBz$khBz$MIz$WfBz$z$GhBz$ILz$ZfBz$z$lhBz$eeBz$mhBz$UGBz$PDz$z$rz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$nhBz$ohBz$kgBz$lgBz$MFz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$phBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$dgBz$egBz$kcz$z$rz$z$weBz$z$qhBz$DSBz$DhBz$rhBz$shBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$RfBz$leBz$z$SfBz$TfBz$UfBz$thBz$Bsz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$nhBz$OhBz$kgBz$lgBz$MFz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$phBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$dgBz$egBz$kcz$z$rz$z$weBz$z$qhBz$DSBz$DhBz$rhBz$shBz$leBz$z$dsz$xeBz$yeBz$AfBz$z$FKz$z$BfBz$CfBz$oTz$DfBz$EfBz$z$FfBz$eeBz$GfBz$z$HfBz$z$FKz$z$BfBz$CfBz$IfBz$leBz$z$FfBz$eeBz$JfBz$z$rz$z$mdBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$RfBz$leBz$z$SfBz$TfBz$UfBz$VfBz$WfBz$z$VfBz$XfBz$YfBz$ZfBz$z$PTBz$afBz$bfBz$cfBz$mEBz$dfBz$z$BfBz$CfBz$efBz$ffBz$gfBz$hfBz$ifBz$z$jfBz$kfBz$lfBz$beBz$mfBz$z$FKz$z$jfBz$kfBz$lfBz$nfBz$QfBz$NZBz$OZBz$ofBz$z$pfBz$nfBz$QfBz$SZBz$JFz$KFz$z$rz$z$mdBz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$nhBz$uhBz$vhBz$TgBz$bCz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$phBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$LgBz$MgBz$NgBz$whBz$z$dgBz$egBz$kcz$z$rz$z$weBz$z$qhBz$DSBz$DhBz$rhBz$shBz$leBz$z$dsz$xeBz$yeBz$AfBz$z$FKz$z$BfBz$CfBz$oTz$DfBz$EfBz$z$FfBz$eeBz$GfBz$z$HfBz$z$FKz$z$BfBz$CfBz$IfBz$leBz$z$FfBz$eeBz$JfBz$z$rz$z$mdBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$RfBz$leBz$z$SfBz$TfBz$UfBz$PgBz$QgBz$z$PgBz$Xuz$Yuz$beBz$FKz$z$PTBz$afBz$bfBz$cfBz$mEBz$dfBz$z$BfBz$CfBz$efBz$ffBz$gfBz$hfBz$ifBz$z$jfBz$kfBz$lfBz$beBz$mfBz$z$FKz$z$jfBz$kfBz$lfBz$nfBz$QfBz$NZBz$OZBz$ofBz$z$pfBz$nfBz$QfBz$SZBz$JFz$KFz$z$rz$z$mdBz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$nhBz$XhBz$hYz$YhBz$FKz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$ZhBz$ahBz$z$bhBz$chBz$dhBz$ehBz$fhBz$WfBz$z$geBz$heBz$ieBz$phBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$dgBz$egBz$kcz$z$rz$z$weBz$z$qhBz$DSBz$DhBz$rhBz$shBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$ghBz$z$SfBz$TfBz$UfBz$thBz$xhBz$z$hhBz$MfBz$NfBz$OfBz$z$ihBz$jhBz$khBz$MIz$WfBz$z$GhBz$ILz$ZfBz$z$lhBz$eeBz$mhBz$UGBz$PDz$z$rz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$nhBz$jgBz$kgBz$lgBz$MFz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$phBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$dgBz$egBz$kcz$z$rz$z$weBz$z$qhBz$DSBz$DhBz$rhBz$shBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$ngBz$WfBz$z$ogBz$XfBz$YfBz$ZfBz$z$pgBz$qgBz$rgBz$sgBz$tgBz$ugBz$z$vgBz$wgBz$xgBz$ygBz$UfBz$AhBz$z$BhBz$ChBz$DhBz$EhBz$FhBz$z$GhBz$HhBz$OfBz$z$IhBz$JhBz$KhBz$iIBz$jIBz$KFz$z$HfBz$z$LhBz$seBz$MhBz$NhBz$z$rz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$yhBz$AiBz$Orz$Tz$z$Laz$BiBz$ONz$yjz$VKBz$WKBz$XKBz$YKBz$ZKBz$aKBz$bKBz$MQz$cKBz$dKBz$Yyz$oHz$CiBz$eOz$z$DiBz$EiBz$BiBz$ONz$yjz$VKBz$WKBz$XKBz$YKBz$ZKBz$aKBz$bKBz$MQz$cKBz$dKBz$FiBz$pQz$cwz$TQz$z$EGz$XeBz$auz$buz$GiBz$aUBz$bUBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$CbBz$HiBz$z$geBz$heBz$ieBz$IiBz$JiBz$z$meBz$Yuz$beBz$FKz$z$KiBz$jhBz$qeBz$reBz$LiBz$z$MiBz$NiBz$beBz$mfBz$z$OiBz$PiBz$cNz$Laz$QiBz$qeBz$beBz$RiBz$SiBz$TiBz$UiBz$z$weBz$z$ViBz$WiBz$XiBz$z$YiBz$ZiBz$aiBz$biBz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ciBz$AYBz$BYBz$QfBz$diBz$eiBz$HgBz$z$rz$z$eWBz$z$rz$z$fiBz$giBz$hYz$YhBz$FKz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$hiBz$ZfBz$z$hiBz$iiBz$ieBz$jiBz$RBz$PDz$z$HfBz$z$ZeBz$aeBz$beBz$mfBz$z$FKz$z$bhBz$chBz$ZiBz$aiBz$kiBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$phBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$LgBz$MgBz$PgBz$liBz$miBz$niBz$oiBz$z$rz$z$weBz$z$qhBz$DSBz$DhBz$rhBz$shBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$RfBz$leBz$z$SfBz$TfBz$UfBz$piBz$VABz$WfBz$z$piBz$VABz$XfBz$YfBz$ZfBz$z$qiBz$MgBz$Asz$riBz$z$FfBz$eeBz$BXBz$siBz$tiBz$uiBz$z$viBz$wiBz$ugBz$z$PTBz$afBz$xiBz$peBz$z$BXBz$siBz$yiBz$AjBz$BjBz$KFz$z$weBz$z$CjBz$DjBz$EjBz$cfBz$FjBz$QZBz$XFBz$leBz$z$GjBz$HjBz$IjBz$JjBz$KjBz$LjBz$MjBz$z$qiBz$NjBz$beBz$mfBz$z$MhBz$OjBz$PjBz$QjBz$RjBz$z$mdBz$z$rz$z$HfBz$z$SjBz$TjBz$UjBz$FKz$z$VjBz$WjBz$WiBz$XiBz$z$FfBz$XjBz$YjBz$JhBz$mfBz$z$oTz$ZjBz$z$VfBz$WfBz$z$ajBz$bjBz$z$mdBz$z$rz$z$rz$z$weBz$z$rfBz$sfBz$tfBz$AfBz$z$FKz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$FKz$z$cjBz$djBz$ejBz$fjBz$gjBz$hjBz$ijBz$PDz$z$rz$z$rz$z$mdBz$z$rz$z$eWBz$z$rz$z$qUz$jjBz$kjBz$MFz$z$bLz$JABz$KABz$yoz$Apz$Bnz$z$Uz$Vz$ksz$vGBz$wGBz$xGBz$bDz$cDz$dDz$z$yhBz$AiBz$Orz$z$fuz$wxz$z$qz$z$Uz$Vz$msz$LABz$Biz$xrz$bRz$UBz$VBz$z$fiBz$giBz$hYz$STz$z$fuz$wxz$z$qz$z$Uz$Vz$asz$qIBz$wGBz$xGBz$bDz$cDz$dDz$z$Uz$Vz$gsz$axz$bxz$cxz$cz$dz$z$sIBz$IgBz$JgBz$Orz$z$gBz$z$sIBz$WeBz$Orz$z$qz$z$fuz$wxz$z$qz$z$Uz$Vz$Xsz$ljBz$mjBz$isz$bDz$cDz$dDz$z$Uz$Vz$pHBz$Biz$xrz$bRz$UBz$VBz$z$RgBz$jgBz$kgBz$aYz$z$fuz$wxz$z$qz$z$Uz$Vz$dDBz$Biz$Asz$cxz$cz$dz$z$RgBz$SgBz$njBz$z$QDz$RDz$khBz$axz$dsz$ojBz$HDz$IDz$z$RgBz$OhBz$kgBz$aYz$z$gBz$z$RgBz$XhBz$hYz$STz$z$qz$z$gBz$z$Uz$Vz$pHBz$Biz$xrz$bRz$UBz$VBz$z$nhBz$jgBz$kgBz$aYz$z$fuz$wxz$z$qz$z$Uz$Vz$dDBz$Biz$Asz$pjBz$GWz$luz$muz$Zsz$bRz$UBz$VBz$z$nhBz$ohBz$kgBz$aYz$z$QDz$RDz$khBz$axz$dsz$ojBz$HDz$IDz$z$Uz$Vz$gsz$axz$dsz$ojBz$HDz$IDz$z$nhBz$OhBz$kgBz$aYz$z$gBz$z$nhBz$uhBz$vhBz$njBz$z$qz$z$gBz$z$nhBz$XhBz$hYz$STz$z$qz$z$qz$z$rz$z$jFz$jaBz$bCz$z$HABz$sEBz$z$qjBz$rjBz$sjBz$HUz$z$tjBz$qjBz$axz$itz$bRz$GJz$qjBz$ttz$ujBz$z$dOBz$eOBz$fOBz$vjBz$wjBz$xjBz$yjBz$AkBz$BkBz$uLz$qABz$wjz$CkBz$z$dOBz$eOBz$fOBz$DkBz$EkBz$FkBz$GkBz$HkBz$IkBz$JkBz$KkBz$Ekz$z$dOBz$eOBz$fOBz$LkBz$MkBz$NkBz$LkBz$MkBz$NkBz$dGz$OkBz$PkBz$QkBz$dDz$z$dOBz$eOBz$fOBz$OGz$PGz$RkBz$tFz$uFz$SkBz$xGz$TkBz$YPz$z$Uz$Vz$bOBz$Biz$UkBz$bDz$cDz$dDz$z$dOBz$eOBz$fOBz$LkBz$VkBz$WkBz$XkBz$z$qz$z$Ksz$Lsz$hbBz$YkBz$eqz$fqz$gqz$whz$z$Uz$fxz$Jtz$Ktz$cz$dz$z$JDz$atz$btz$ctz$YGz$ZkBz$YPBz$akBz$PDz$z$oz$pz$z$qz$z$Uz$Vz$bkBz$Tvz$ckBz$Biz$Wvz$Ylz$dkBz$Vz$dDBz$Biz$xrz$bRz$YLz$tjBz$ekBz$ljBz$QJBz$RJBz$HDz$IDz$z$jFz$XOBz$avz$z$qz$z$iaBz$tFz$fkBz$z$Uz$Vz$dDBz$Biz$xrz$eDBz$fDBz$dDBz$Biz$xrz$bRz$UBz$VBz$z$DQBz$gkBz$z$qUz$cTBz$hkBz$z$qz$z$JDz$atz$jBBz$kBBz$YOBz$YcBz$tGz$z$Wwz$IKz$ikBz$z$ewz$jkBz$kkBz$z$Uz$lkBz$mkBz$nkBz$Ktz$cz$dz$z$JDz$atz$jBBz$kBBz$okBz$pkBz$qkBz$hwz$QcBz$rkBz$skBz$z$QDz$RDz$pxz$qxz$tkBz$bDz$cDz$dDz$z$oz$pz$z$gBz$z$JDz$atz$jBBz$kBBz$YOBz$YcBz$KXBz$Wxz$ukBz$vkBz$wkBz$xkBz$ykBz$z$jFz$vbBz$JQBz$z$qz$z$Uz$Vz$msz$LABz$Biz$xrz$bRz$UBz$VBz$z$JDz$atz$jBBz$kBBz$AlBz$OABz$BlBz$ClBz$gFz$z$Uz$fiz$KABz$yoz$Apz$jWz$Bnz$bDz$cDz$dDz$z$DlBz$ElBz$FlBz$VIz$WIz$XIz$puz$GlBz$HlBz$gfz$z$FjBz$QZBz$IlBz$jCBz$JlBz$KlBz$LlBz$rlz$ESz$MlBz$NlBz$OlBz$PlBz$WOz$XOz$QlBz$z$RlBz$SlBz$TlBz$UlBz$ZGBz$DlBz$ElBz$bQz$NQz$VlBz$WlBz$XlBz$YlBz$iDz$thz$Htz$z$RlBz$SlBz$TlBz$UlBz$ZGBz$DlBz$ElBz$bQz$NQz$ZlBz$alBz$blBz$clBz$cOz$Ghz$eOz$z$bLz$JABz$KABz$yoz$Apz$ZYz$Bnz$z$ez$JjBz$NlBz$dlBz$elBz$tTBz$ZIz$aIz$nUz$UFBz$flBz$nBBz$glBz$hlBz$ilBz$iFz$z$ez$JjBz$KjBz$LjBz$jlBz$KABz$yoz$Apz$ZYz$Bnz$klBz$VABz$llBz$mlBz$LPBz$z$JDz$atz$nlBz$iBz$olBz$plBz$qlBz$FjBz$QZBz$XFBz$z$JDz$atz$nlBz$iBz$rlBz$plBz$qlBz$RlBz$SlBz$slBz$z$JDz$atz$jBBz$kBBz$tlBz$ulBz$vlBz$ZIz$aIz$nUz$UFBz$flBz$nBBz$wlBz$XFBz$z$kVz$xlBz$ylBz$ZIz$aIz$nUz$UFBz$flBz$nBBz$wlBz$LPBz$z$gBz$z$JDz$atz$btz$ctz$LdBz$MdBz$AmBz$BmBz$CmBz$z$oz$pz$z$qz$z$qz$z$qUz$jjBz$BcBz$z$HaBz$IaBz$DmBz$z$DUz$ePz$z$sz$hJz$z$rz$z$KLBz$kuz$FKz$z$uGz$vGz$mPBz$nPBz$KLBz$oPBz$z$rz$z$KLBz$EmBz$MFz$z$uGz$vGz$WSBz$DUz$XSBz$hkBz$z$rz$z$hFz$FmBz$MFz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$JDz$atz$btz$ctz$LdBz$JmBz$KmBz$LmBz$z$fuz$guz$z$qz$z$Wwz$IKz$ikBz$z$ewz$jkBz$kkBz$z$Uz$lkBz$mkBz$nkBz$Ktz$cz$dz$z$JDz$atz$jBBz$kBBz$okBz$pkBz$qkBz$hwz$QcBz$rkBz$skBz$z$QDz$RDz$pxz$qxz$tkBz$bDz$cDz$dDz$z$oz$pz$z$gBz$z$JDz$atz$jBBz$kBBz$YOBz$YcBz$KXBz$Wxz$ukBz$vkBz$wkBz$xkBz$ykBz$z$jFz$vbBz$JQBz$z$uPBz$z$DUz$ePz$z$JDz$atz$nlBz$iBz$MmBz$NmBz$OmBz$CXz$z$qz$z$rz$z$Gbz$Hbz$Dnz$FKz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$JDz$atz$btz$ctz$LdBz$JmBz$KmBz$LmBz$z$fuz$guz$z$qz$z$ez$yHz$z$Ndz$Odz$PmBz$QmBz$RmBz$SmBz$TmBz$KCBz$KIz$z$Uz$Vz$UmBz$VmBz$WmBz$XmBz$bRz$UBz$VBz$z$YmBz$ZmBz$ZQz$vZBz$amBz$auz$buz$bmBz$Avz$Bvz$Cvz$XKBz$YKBz$cmBz$dmBz$z$Uz$Vz$YmBz$emBz$Yxz$bDz$cDz$dDz$z$YmBz$ZmBz$ZQz$fmBz$afBz$rHz$vuz$wuz$xuz$Vjz$Wjz$Jpz$gmBz$hmBz$imBz$jmBz$Tmz$z$qz$z$uPBz$z$uGz$vGz$kmBz$lmBz$mmBz$BcBz$z$VPz$qsz$ZYz$uGz$nmBz$uGz$omBz$FEBz$BUz$pmBz$z$VPz$qsz$VIz$WIz$XIz$puz$BcBz$z$VPz$qsz$VIz$WIz$OFBz$PFBz$BcBz$z$VPz$qsz$Rtz$qmBz$rmBz$smBz$z$Uz$Vz$aOBz$muz$Zsz$bRz$UBz$VBz$z$uGz$vGz$kmBz$lmBz$tmBz$hkBz$z$dOBz$umBz$vmBz$KLBz$oPBz$z$Uz$Vz$bOBz$Biz$UkBz$bDz$cDz$dDz$z$dOBz$umBz$vmBz$KLBz$wmBz$xmBz$z$qz$z$VPz$qsz$ZYz$KLBz$LUBz$MUBz$qUz$z$Uz$fiz$CYz$Hsz$Isz$KLBz$tPBz$PUBz$ymBz$cz$dz$z$OUBz$ZYz$KLBz$LUBz$MUBz$qUz$NUBz$CYz$Hsz$Isz$KLBz$tPBz$bUz$z$qz$z$qz$z$Uz$Vz$YmBz$emBz$Vvz$bRz$UBz$VBz$z$VPz$AnBz$BnBz$CnBz$DnBz$MIz$EnBz$FnBz$GnBz$IZz$z$qz$z$JDBz$HFBz$ZRBz$aRBz$HnBz$aRBz$Ylz$InBz$qmBz$rmBz$JnBz$rmBz$KnBz$Gbz$Hbz$nGz$z$JDz$atz$nlBz$iBz$MABz$LnBz$MnBz$z$qz$z$rz$z$DUz$NnBz$FKz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$JDz$atz$btz$ctz$LdBz$JmBz$KmBz$LmBz$z$fuz$guz$z$qz$z$uPBz$juz$oPBz$z$DUz$kPBz$WPBz$z$uGz$vGz$WSBz$DUz$OnBz$BcBz$z$UEz$PnBz$z$UKz$Vuz$tuz$uuz$vuz$wuz$xuz$RQz$SQz$yuz$Avz$Bvz$Cvz$Dvz$Evz$Fvz$Gvz$z$Ksz$Hvz$Ivz$Jvz$ZQz$Kvz$Lvz$NOz$OOz$Mvz$Nvz$z$Uz$Vz$Osz$Biz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$LdBz$QnBz$mxz$RnBz$SnBz$TnBz$UnBz$z$gBz$z$JDz$atz$jBBz$kBBz$okBz$VnBz$lmz$z$qz$z$rz$z$uPBz$Tz$z$uPBz$juz$oPBz$z$uGz$vGz$mPBz$IQBz$JQBz$z$JDz$atz$jBBz$kBBz$okBz$WnBz$lmz$z$rz$z$uYz$XnBz$bCz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$JDz$atz$btz$ctz$LdBz$JmBz$KmBz$LmBz$z$fuz$guz$z$qz$z$uPBz$z$DUz$ePz$z$rz$z$DQBz$hYz$YnBz$ZnBz$Luz$FKz$z$nhBz$anBz$Zsz$PDz$z$bnBz$dsz$esz$z$cnBz$Asz$Bsz$z$cJBz$hsz$isz$z$sIBz$dnBz$Asz$Bsz$z$AYBz$BYBz$enBz$fnBz$z$gnBz$dsz$esz$z$Uz$nuz$hnBz$vuz$wuz$xuz$bRz$UBz$VBz$z$fuz$guz$z$qz$z$inBz$Qjz$jnBz$knBz$CUBz$JFz$lnBz$yjz$Akz$LbBz$oHz$CiBz$Zjz$ajz$mnBz$nnBz$onBz$pnBz$qnBz$whz$z$rnBz$snBz$Qjz$tnBz$unBz$vnBz$auz$buz$wnBz$Wrz$Xrz$Yrz$Avz$Bvz$Cvz$XKBz$YKBz$cmBz$dmBz$z$xnBz$ynBz$Qjz$AoBz$ddBz$BoBz$auz$buz$wnBz$Wrz$Xrz$Yrz$CoBz$DoBz$EoBz$Wjz$Jpz$gmBz$hmBz$imBz$jmBz$Tmz$z$JDBz$vQz$xnBz$FoBz$Ylz$GoBz$HoBz$IoBz$RfBz$z$YmBz$ZmBz$ZQz$fmBz$afBz$rHz$vuz$wuz$xuz$eqz$fqz$gqz$Vjz$Wjz$Jpz$gmBz$hmBz$imBz$jmBz$Tmz$z$Uz$Vz$YmBz$emBz$Yxz$bDz$cDz$dDz$z$YmBz$ZmBz$ZQz$vZBz$amBz$auz$buz$wnBz$Wrz$Xrz$Yrz$Avz$Bvz$Cvz$XKBz$YKBz$cmBz$dmBz$z$Uz$Vz$YmBz$emBz$Vvz$bRz$UBz$VBz$z$cnBz$xrz$PDz$z$bnBz$bxz$Bsz$z$JoBz$KoBz$ZQz$LoBz$MoBz$auz$buz$wnBz$Wrz$Xrz$Yrz$Avz$Bvz$Cvz$XKBz$YKBz$cmBz$dmBz$z$qz$z$gBz$z$bnBz$bxz$Bsz$z$qz$z$Uz$Vz$NoBz$wGBz$xGBz$bDz$cDz$dDz$z$UKz$Vuz$piz$OoBz$PoBz$LXBz$MXBz$NXBz$QoBz$YmBz$RoBz$qUz$eqz$fqz$gqz$ISz$ONz$SoBz$SOz$shz$iDz$thz$vkz$z$gBz$z$UKz$Vuz$tuz$uuz$vuz$wuz$xuz$eqz$fqz$gqz$Vjz$Wjz$Jpz$gmBz$hmBz$imBz$jmBz$Tmz$z$qz$z$Ksz$Qjz$ToBz$UoBz$knBz$CUBz$JFz$lnBz$yjz$Akz$Bgz$z$Uz$Vz$Osz$Psz$Qsz$cz$dz$z$gnBz$bxz$Bsz$z$NWBz$Vuz$VoBz$KLz$WoBz$XoBz$voz$woz$suz$Qrz$Rrz$Srz$IQz$JQz$NWBz$MQz$Tqz$YoBz$Uqz$Dvz$Evz$Fvz$Gvz$z$ZoBz$Vuz$aoBz$boBz$vuz$wuz$xuz$eqz$fqz$gqz$Vjz$Wjz$Jpz$gmBz$hmBz$imBz$jmBz$Tmz$z$qz$z$RgBz$coBz$OOz$RgBz$Zuz$auz$buz$wnBz$Wrz$Xrz$jbBz$z$Uz$Vz$RgBz$doBz$gWBz$HDz$IDz$z$sIBz$eoBz$ZQz$KJBz$foBz$vuz$wuz$xuz$eqz$fqz$gqz$whz$z$Uz$Vz$sIBz$goBz$Yxz$bDz$cDz$dDz$z$nhBz$hoBz$xGBz$z$AYBz$BYBz$ioBz$joBz$z$gLz$hLz$Vuz$aoBz$nLz$PABz$vuz$wuz$xuz$eqz$fqz$gqz$Vjz$Wjz$Jpz$gmBz$hmBz$imBz$jmBz$Tmz$z$Uz$Vz$gLz$hLz$axz$VfBz$eDBz$koBz$nLz$sgBz$Biz$cJBz$bRz$UBz$VBz$z$bnBz$bxz$Bsz$z$qz$z$cJBz$Vuz$loBz$moBz$MfBz$noBz$vuz$wuz$xuz$eqz$fqz$gqz$whz$z$Uz$Vz$cJBz$waBz$gWBz$HDz$IDz$z$cJBz$ooBz$poBz$z$qoBz$Vuz$roBz$soBz$vuz$wuz$xuz$eqz$fqz$gqz$Vjz$Wjz$Jpz$gmBz$hmBz$imBz$jmBz$Tmz$z$gBz$z$qoBz$toBz$z$qz$z$gBz$z$sIBz$dnBz$xrz$PDz$z$DiBz$EiBz$Vuz$tuz$SiBz$uoBz$vuz$wuz$xuz$eqz$fqz$gqz$Vjz$Wjz$Jpz$gmBz$hmBz$imBz$jmBz$Tmz$z$AYBz$BYBz$ooBz$voBz$PDz$z$bnBz$bxz$Bsz$z$woBz$ThBz$JKz$gIBz$PDz$z$cJBz$Vuz$loBz$moBz$MfBz$noBz$vuz$wuz$xuz$eqz$fqz$gqz$whz$z$Uz$Vz$cJBz$waBz$gWBz$HDz$IDz$z$cJBz$ooBz$poBz$z$qoBz$Vuz$roBz$soBz$vuz$wuz$xuz$eqz$fqz$gqz$Vjz$Wjz$Jpz$gmBz$hmBz$imBz$jmBz$Tmz$z$gBz$z$qoBz$toBz$z$qz$z$qz$z$qz$z$rz$z$xoBz$yoBz$ApBz$bCz$z$BpBz$CpBz$z$DpBz$EpBz$FpBz$z$GpBz$HpBz$IpBz$JpBz$KpBz$LpBz$MpBz$leBz$z$NpBz$OpBz$PpBz$QpBz$z$RpBz$SpBz$TpBz$UpBz$VpBz$leBz$z$WpBz$HpBz$XpBz$YpBz$WfBz$z$ZpBz$OpBz$apBz$bpBz$cpBz$leBz$z$dpBz$epBz$fpBz$gpBz$z$hpBz$ipBz$jpBz$kpBz$WfBz$z$lpBz$mpBz$npBz$WfBz$z$opBz$ppBz$npBz$WfBz$z$qpBz$rpBz$spBz$z$nz$z$tpBz$upBz$nMBz$oMBz$vpBz$wpBz$xpBz$ypBz$AqBz$z$tpBz$BqBz$CqBz$lKz$tpBz$nz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$ez$fz$Qnz$JqBz$KqBz$LqBz$Grz$MqBz$rvz$svz$edz$NqBz$RGBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$OqBz$PqBz$QqBz$rvz$svz$RqBz$SqBz$UKz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$UqBz$VqBz$WqBz$rvz$svz$RqBz$SqBz$XqBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$YqBz$ZqBz$rnBz$aqBz$bqBz$sGBz$qjz$WDBz$cqBz$dqBz$eqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$fqBz$gqBz$gLz$hLz$hqBz$Znz$ovz$pvz$iqBz$jqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$kqBz$lqBz$xnBz$mqBz$bqBz$sGBz$qjz$WDBz$nqBz$ddBz$oqBz$Znz$uGBz$z$ez$z$ez$fz$Qnz$JqBz$pqBz$Hnz$qqBz$Puz$yvz$rqBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$uqBz$DFBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$rz$z$xoBz$yoBz$UrBz$VrBz$MFz$z$ez$fz$Qnz$JqBz$KqBz$LqBz$Grz$MqBz$rvz$svz$edz$NqBz$RGBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$OqBz$PqBz$QqBz$rvz$svz$RqBz$SqBz$UKz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$UqBz$VqBz$WqBz$rvz$svz$RqBz$SqBz$XqBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$YqBz$ZqBz$rnBz$aqBz$bqBz$sGBz$qjz$WDBz$cqBz$dqBz$eqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$fqBz$gqBz$gLz$hLz$hqBz$Znz$ovz$pvz$iqBz$jqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$kqBz$lqBz$xnBz$mqBz$bqBz$sGBz$qjz$WDBz$nqBz$ddBz$oqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$WrBz$XrBz$NWBz$hqBz$Znz$ovz$pvz$YrBz$ZrBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$arBz$brBz$ZoBz$bqBz$sGBz$qjz$WDBz$crBz$drBz$Puz$Quz$z$rz$z$xoBz$erBz$voBz$Tz$z$Uz$Vz$cJBz$PJBz$QJBz$RJBz$HDz$IDz$z$tpBz$ooBz$voBz$frBz$grBz$reBz$hrBz$irBz$jrBz$krBz$Lvz$lrBz$JpBz$KpBz$LpBz$mrBz$nrBz$orBz$Rz$Sz$prBz$qrBz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$rrBz$srBz$LYz$MYz$oqz$trBz$sYz$DOz$urBz$vrBz$wrBz$xrBz$yrBz$AsBz$BsBz$CsBz$DsBz$EsBz$FsBz$CsBz$PDz$z$ez$fz$Qnz$JqBz$KqBz$GsBz$HsBz$IsBz$JsBz$Puz$yvz$RqBz$SqBz$YmBz$KsBz$Puz$Quz$z$ez$fz$Qnz$JqBz$OqBz$PqBz$QqBz$rvz$svz$RqBz$SqBz$UKz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$LsBz$MsBz$alBz$NsBz$rvz$svz$RqBz$SqBz$DiBz$EiBz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$OsBz$PsBz$QsBz$rvz$svz$rqBz$RsBz$SsBz$sGBz$nz$z$ez$fz$Qnz$JqBz$fqBz$TsBz$UsBz$Sz$hqBz$Znz$ovz$pvz$VsBz$WsBz$sGBz$nz$z$ez$fz$Qnz$JqBz$kqBz$lqBz$xnBz$mqBz$bqBz$sGBz$qjz$WDBz$nqBz$ddBz$oqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$XsBz$YsBz$ZsBz$asBz$Puz$iGBz$pvz$bsBz$csBz$sGBz$nz$z$ez$z$ez$fz$Qnz$JqBz$dsBz$esBz$fsBz$mXBz$sGBz$gsBz$hsBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$uqBz$DFBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$gBz$z$tpBz$ooBz$voBz$frBz$grBz$reBz$hrBz$irBz$jrBz$krBz$Lvz$lrBz$JpBz$KpBz$LpBz$mrBz$nrBz$orBz$Rz$Sz$prBz$qrBz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$rrBz$srBz$LYz$MYz$oqz$trBz$sYz$DOz$urBz$vrBz$wrBz$xrBz$yrBz$AsBz$BsBz$CsBz$DsBz$EsBz$FsBz$CsBz$PDz$z$ez$fz$Qnz$JqBz$KqBz$GsBz$HsBz$IsBz$JsBz$Puz$yvz$RqBz$SqBz$YmBz$KsBz$Puz$Quz$z$ez$fz$Qnz$JqBz$OqBz$PqBz$QqBz$rvz$svz$RqBz$SqBz$UKz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$LsBz$MsBz$alBz$NsBz$rvz$svz$RqBz$SqBz$DiBz$EiBz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$kqBz$lqBz$xnBz$mqBz$bqBz$sGBz$qjz$WDBz$nqBz$ddBz$oqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$XsBz$YsBz$ZsBz$asBz$Puz$iGBz$pvz$isBz$rvz$svz$PDz$z$ez$z$ez$fz$Qnz$JqBz$dsBz$esBz$fsBz$mXBz$sGBz$gsBz$hsBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$uqBz$DFBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$qz$z$rz$z$xoBz$yoBz$jsBz$ksBz$MFz$z$BpBz$CpBz$z$DpBz$EpBz$FpBz$z$GpBz$HpBz$IpBz$JpBz$KpBz$LpBz$MpBz$leBz$z$NpBz$OpBz$PpBz$QpBz$z$RpBz$SpBz$TpBz$UpBz$VpBz$leBz$z$WpBz$HpBz$XpBz$YpBz$WfBz$z$ZpBz$OpBz$apBz$bpBz$cpBz$leBz$z$dpBz$epBz$lsBz$xnBz$msBz$nsBz$z$hpBz$ipBz$jpBz$kpBz$WfBz$z$lpBz$mpBz$TpBz$irBz$jrBz$nsBz$z$opBz$ppBz$npBz$WfBz$z$qpBz$rpBz$qpBz$osBz$z$nz$z$tpBz$upBz$nMBz$oMBz$vpBz$wpBz$xpBz$ypBz$AqBz$z$tpBz$BqBz$CqBz$lKz$tpBz$nz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$ez$fz$Qnz$JqBz$KqBz$LqBz$Grz$MqBz$rvz$svz$edz$NqBz$RGBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$OqBz$PqBz$QqBz$rvz$svz$RqBz$SqBz$UKz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$UqBz$VqBz$WqBz$rvz$svz$RqBz$SqBz$XqBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$YqBz$ZqBz$rnBz$aqBz$bqBz$sGBz$qjz$WDBz$cqBz$dqBz$eqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$fqBz$gqBz$gLz$hLz$hqBz$Znz$ovz$pvz$VsBz$WsBz$sGBz$nz$z$ez$fz$Qnz$JqBz$kqBz$lqBz$xnBz$mqBz$bqBz$sGBz$qjz$WDBz$nqBz$ddBz$oqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$WrBz$psBz$qsBz$Fpz$rsBz$ssBz$tsBz$bqBz$sGBz$usBz$NqBz$irBz$jrBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$XsBz$YsBz$ZsBz$asBz$Puz$iGBz$pvz$isBz$rvz$svz$PDz$z$ez$z$ez$fz$Qnz$JqBz$pqBz$Hnz$qqBz$Puz$yvz$rqBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$uqBz$DFBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$rz$z$xoBz$yoBz$vsBz$wsBz$FKz$z$BpBz$CpBz$z$DpBz$EpBz$FpBz$z$GpBz$HpBz$IpBz$JpBz$KpBz$LpBz$MpBz$leBz$z$NpBz$OpBz$PpBz$QpBz$z$RpBz$SpBz$TpBz$UpBz$VpBz$leBz$z$WpBz$HpBz$XpBz$YpBz$WfBz$z$ZpBz$OpBz$apBz$bpBz$cpBz$leBz$z$dpBz$epBz$lsBz$xnBz$msBz$nsBz$z$hpBz$ipBz$jpBz$kpBz$WfBz$z$lpBz$mpBz$TpBz$irBz$jrBz$nsBz$z$opBz$ppBz$TpBz$xsBz$ysBz$nsBz$z$qpBz$rpBz$qpBz$osBz$z$nz$z$tpBz$bMBz$JUz$AtBz$BtBz$KUz$qOBz$CtBz$DtBz$z$tpBz$BqBz$CqBz$lKz$tpBz$nz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$ez$fz$Qnz$JqBz$KqBz$LqBz$Grz$MqBz$rvz$svz$edz$NqBz$RGBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$OqBz$PqBz$QqBz$rvz$svz$RqBz$SqBz$UKz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$UqBz$VqBz$WqBz$rvz$svz$RqBz$SqBz$XqBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$YqBz$ZqBz$rnBz$aqBz$bqBz$sGBz$qjz$WDBz$cqBz$dqBz$eqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$fqBz$gqBz$gLz$hLz$hqBz$Znz$ovz$pvz$VsBz$WsBz$sGBz$nz$z$ez$fz$Qnz$JqBz$kqBz$lqBz$xnBz$mqBz$bqBz$sGBz$qjz$WDBz$nqBz$ddBz$oqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$WrBz$XrBz$NWBz$hqBz$Znz$eGBz$WDBz$gIBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$WrBz$psBz$qsBz$Fpz$rsBz$ssBz$tsBz$bqBz$sGBz$usBz$NqBz$irBz$jrBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$EtBz$FtBz$GtBz$rvz$svz$RqBz$SqBz$JoBz$HtBz$Puz$Quz$z$ez$fz$Qnz$JqBz$XsBz$YsBz$ZsBz$asBz$Puz$iGBz$pvz$isBz$rvz$svz$PDz$z$ez$z$ez$fz$Qnz$JqBz$pqBz$Hnz$qqBz$Puz$yvz$rqBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$uqBz$DFBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$rz$z$xoBz$ItBz$jsBz$VrBz$MFz$z$ez$fz$Qnz$JqBz$KqBz$LqBz$Grz$MqBz$rvz$svz$edz$NqBz$RGBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$OqBz$PqBz$QqBz$rvz$svz$RqBz$SqBz$UKz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$UqBz$VqBz$WqBz$rvz$svz$RqBz$SqBz$XqBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$fqBz$TsBz$UsBz$Sz$hqBz$Znz$ovz$pvz$VsBz$WsBz$sGBz$nz$z$ez$fz$Qnz$JqBz$kqBz$lqBz$xnBz$mqBz$bqBz$sGBz$qjz$WDBz$nqBz$ddBz$oqBz$Znz$uGBz$z$tpBz$JtBz$CqBz$lKz$XqBz$KtBz$LtBz$UpBz$MtBz$NtBz$OtBz$PtBz$QtBz$nLz$RtBz$gIBz$KGBz$StBz$TtBz$UtBz$ArBz$BrBz$VtBz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$rrBz$srBz$LYz$MYz$oqz$trBz$sYz$DOz$urBz$vrBz$wrBz$xrBz$yrBz$AsBz$WtBz$XtBz$YtBz$ZtBz$KpBz$atBz$UKz$btBz$UsBz$Sz$ctBz$dtBz$Edz$etBz$ftBz$NWBz$LVz$lrBz$JpBz$KpBz$LpBz$gtBz$htBz$itBz$jtBz$z$ez$z$ez$fz$Qnz$JqBz$pqBz$ktBz$ltBz$rvz$svz$mtBz$ntBz$otBz$HUBz$DqBz$GdBz$Dkz$ptBz$qtBz$rtBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$stBz$ZcBz$Znz$ttBz$iBz$utBz$vtBz$Znz$wtBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$Quz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$rz$z$sz$hJz$Tz$z$yhBz$xtBz$ZQz$cMz$ytBz$AuBz$BuBz$CuBz$DuBz$EuBz$auz$buz$FuBz$z$Uz$hrz$koBz$GuBz$bRz$UBz$VBz$z$cDBz$HuBz$IuBz$JuBz$KuBz$LuBz$MuBz$NuBz$knBz$CUBz$JFz$OuBz$z$Laz$HuBz$IuBz$JuBz$KuBz$LuBz$PuBz$MfBz$QuBz$RuBz$SuBz$TuBz$Laz$EuBz$auz$buz$FuBz$z$DiBz$EiBz$HuBz$IuBz$JuBz$KuBz$LuBz$PuBz$MfBz$QuBz$RuBz$SuBz$TuBz$DiBz$EuBz$auz$buz$FuBz$z$UuBz$iJz$Laz$atBz$DiBz$EiBz$VuBz$WuBz$CbBz$XuBz$z$YuBz$ZuBz$IpBz$JpBz$KpBz$LpBz$auBz$z$bLz$JABz$HUBz$buBz$GuBz$wCz$z$ez$CuBz$cuBz$lKz$UuBz$duBz$YuBz$euBz$Wz$BEBz$fuBz$guBz$tqBz$JUBz$z$tpBz$huBz$cuBz$iuBz$ez$Qwz$juBz$kuBz$luBz$muBz$dKBz$nuBz$UlBz$NGBz$ouBz$puBz$quBz$luBz$muBz$dKBz$ruBz$z$rrBz$srBz$LYz$MYz$oqz$trBz$sYz$DOz$urBz$vrBz$wrBz$xrBz$yrBz$AsBz$BsBz$CsBz$DsBz$EsBz$suBz$kIz$z$ez$fz$tuBz$uuBz$HCz$vuBz$mXBz$sGBz$usBz$NqBz$RGBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$OqBz$wuBz$Puz$iGBz$pvz$TqBz$gXBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$xuBz$yuBz$Puz$iGBz$pvz$AvBz$BvBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$LsBz$CvBz$Puz$iGBz$pvz$DvBz$SiBz$TiBz$rvz$svz$PDz$z$ez$z$ez$fz$Qnz$JqBz$EvBz$GuBz$FvBz$fXBz$sGBz$GvBz$HvBz$tpBz$IvBz$DFBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$stBz$fXBz$sGBz$JvBz$iBz$utBz$vtBz$Znz$wtBz$z$ez$fz$Qnz$qcz$qcz$KvBz$LvBz$MvBz$NvBz$OvBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$PvBz$GuBz$frBz$QvBz$RvBz$SvBz$YdBz$nz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TvBz$yhBz$MYz$UvBz$VvBz$WvBz$XvBz$ARBz$z$fuz$wxz$z$qz$z$fiBz$RtBz$YvBz$piz$ZvBz$gLz$hLz$QfBz$fiBz$sgBz$EuBz$auz$buz$FuBz$z$Uz$hrz$Ovz$avBz$bvBz$HDz$IDz$z$xoBz$cvBz$nBBz$iFz$z$fuz$wxz$z$qz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$JDz$atz$btz$ctz$LdBz$JmBz$KmBz$LmBz$z$fuz$guz$z$qz$z$ez$yHz$z$ez$Qwz$dvBz$fHBz$gHBz$YcBz$evBz$bqBz$sGBz$nz$z$Dfz$dvz$yTBz$z$ez$fz$fvBz$HCz$gvBz$hvBz$ivBz$Puz$yvz$RqBz$SqBz$voz$woz$jvBz$rvz$svz$PDz$z$JDz$atz$jBBz$kBBz$okBz$kvBz$lvBz$mvBz$nvBz$ovBz$pvBz$PDz$z$DQBz$hYz$YnBz$ZnBz$pCz$z$Uz$bNz$qvBz$rvBz$HDz$IDz$z$JDz$atz$btz$ctz$svBz$tvBz$uvBz$vvBz$z$fuz$guz$z$qz$z$ez$fz$Qnz$JqBz$wvBz$xvBz$Puz$yvz$RqBz$SqBz$AYBz$BYBz$TqBz$sGBz$nz$z$Uz$Vz$sIBz$goBz$wGBz$xGBz$bDz$cDz$dDz$z$xoBz$erBz$voBz$z$fuz$wxz$z$qz$z$Uz$Vz$nhBz$doBz$mjBz$isz$bDz$cDz$dDz$z$Uz$Vz$yvBz$Biz$xrz$bRz$UBz$VBz$z$xoBz$yoBz$UrBz$AwBz$z$fuz$wxz$z$qz$z$Uz$Vz$BwBz$Biz$Asz$cxz$cz$dz$z$xoBz$yoBz$CwBz$z$QDz$RDz$DwBz$axz$dsz$ojBz$HDz$IDz$z$xoBz$yoBz$jsBz$EwBz$z$gBz$z$xoBz$yoBz$vsBz$FwBz$z$qz$z$gBz$z$Uz$Vz$yvBz$Biz$xrz$bRz$UBz$VBz$z$ez$fz$Qnz$JqBz$KqBz$LqBz$Grz$MqBz$rvz$svz$edz$NqBz$RGBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$OqBz$PqBz$QqBz$rvz$svz$RqBz$SqBz$UKz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$UqBz$VqBz$WqBz$rvz$svz$RqBz$SqBz$XqBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$fqBz$TsBz$UsBz$Sz$hqBz$Znz$ovz$pvz$VsBz$WsBz$sGBz$nz$z$ez$fz$Qnz$JqBz$kqBz$lqBz$xnBz$mqBz$bqBz$sGBz$qjz$WDBz$nqBz$ddBz$oqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$WrBz$XrBz$NWBz$hqBz$Znz$ovz$pvz$YrBz$ZrBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$arBz$brBz$ZoBz$bqBz$sGBz$qjz$WDBz$crBz$drBz$Puz$Quz$z$fuz$wxz$z$qz$z$Uz$Vz$BwBz$Biz$Asz$pjBz$GWz$NoBz$muz$Zsz$bRz$UBz$VBz$z$xoBz$ItBz$jsBz$AwBz$z$fuz$wxz$z$qz$z$Uz$Vz$cJBz$axz$bxz$cxz$cz$dz$z$ez$fz$fvBz$HCz$GwBz$OVBz$HwBz$ZcBz$Znz$ovz$pvz$IwBz$JwBz$Znz$uGBz$z$ez$fz$fvBz$HCz$KwBz$UKz$hqBz$Znz$eGBz$WDBz$LwBz$MwBz$Puz$Quz$z$ez$fz$fvBz$HCz$NwBz$cgBz$hqBz$Znz$eGBz$WDBz$OwBz$eqBz$Znz$uGBz$z$ez$fz$fvBz$HCz$PwBz$qoBz$hqBz$Znz$QwBz$RwBz$SwBz$Puz$Quz$z$ez$fz$fvBz$HCz$TwBz$woBz$ThBz$UwBz$rvz$svz$edz$VwBz$WwBz$Puz$Quz$z$ez$fz$fvBz$HCz$XwBz$YwBz$ddBz$ZwBz$Puz$yvz$RqBz$SqBz$xnBz$msBz$rvz$svz$PDz$z$ez$fz$fvBz$HCz$awBz$bwBz$cwBz$rvz$svz$RqBz$dwBz$ewBz$sGBz$PDz$z$ez$fz$fvBz$HCz$fwBz$gwBz$AFBz$hwBz$iwBz$jwBz$kwBz$Puz$iGBz$pvz$EnBz$FnBz$lwBz$Znz$uGBz$z$ez$fz$fvBz$HCz$mwBz$nwBz$owBz$bqBz$sGBz$usBz$pwBz$qwBz$Puz$Quz$z$tpBz$JtBz$CqBz$lKz$XqBz$rwBz$FnBz$swBz$UpBz$MtBz$NtBz$OtBz$PtBz$QtBz$nLz$RtBz$cJBz$KGBz$StBz$twBz$uwBz$irBz$jrBz$vwBz$wwBz$sFBz$gIBz$lrBz$JpBz$KpBz$LpBz$mrBz$nrBz$orBz$Rz$Sz$prBz$qrBz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$rrBz$srBz$LYz$MYz$oqz$trBz$sYz$DOz$urBz$vrBz$wrBz$xrBz$yrBz$xwBz$ywBz$AxBz$BxBz$CxBz$DxBz$ExBz$FxBz$OwBz$GxBz$HxBz$FnBz$IxBz$JxBz$Lvz$KxBz$NtBz$OtBz$LxBz$gIBz$MxBz$nLz$NxBz$OxBz$PxBz$NWBz$QxBz$RxBz$SxBz$TxBz$UxBz$bBz$VxBz$WxBz$XxBz$YmBz$YxBz$ZxBz$axBz$bxBz$cxBz$dxBz$exBz$NiBz$fxBz$KpBz$LpBz$auBz$z$ez$z$ez$fz$Qnz$JqBz$pqBz$ktBz$ltBz$rvz$svz$mtBz$ntBz$otBz$HUBz$DqBz$GdBz$Dkz$ptBz$qtBz$rtBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$stBz$ZcBz$Znz$ttBz$iBz$utBz$vtBz$Znz$wtBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$QDz$RDz$DwBz$axz$dsz$ojBz$HDz$IDz$z$ez$fz$fvBz$HCz$GwBz$OVBz$HwBz$gxBz$Puz$iGBz$pvz$IwBz$JwBz$Znz$uGBz$z$ez$fz$fvBz$HCz$KwBz$UKz$hqBz$Znz$eGBz$WDBz$LwBz$MwBz$Puz$Quz$z$ez$fz$fvBz$HCz$NwBz$cgBz$hqBz$Znz$eGBz$WDBz$OwBz$eqBz$Znz$uGBz$z$ez$fz$fvBz$HCz$PwBz$qoBz$hqBz$Znz$QwBz$RwBz$SwBz$Puz$Quz$z$ez$fz$fvBz$HCz$TwBz$woBz$ThBz$UwBz$rvz$svz$edz$VwBz$WwBz$Puz$Quz$z$ez$fz$fvBz$HCz$XwBz$YwBz$ddBz$ZwBz$Puz$yvz$RqBz$SqBz$xnBz$msBz$rvz$svz$PDz$z$ez$fz$fvBz$HCz$awBz$bwBz$cwBz$rvz$svz$RqBz$dwBz$ewBz$sGBz$PDz$z$ez$fz$fvBz$HCz$fwBz$gwBz$AFBz$hwBz$iwBz$jwBz$kwBz$Puz$iGBz$pvz$EnBz$FnBz$lwBz$Znz$uGBz$z$ez$fz$fvBz$HCz$mwBz$nwBz$owBz$bqBz$sGBz$usBz$hxBz$ixBz$Znz$uGBz$z$tpBz$JtBz$CqBz$lKz$XqBz$rwBz$FnBz$swBz$UpBz$MtBz$NtBz$OtBz$PtBz$QtBz$nLz$RtBz$jxBz$NWBz$LVz$kxBz$lxBz$YmBz$mxBz$oHz$nxBz$oxBz$pxBz$qxBz$rxBz$RGBz$QrBz$sxBz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$rrBz$srBz$LYz$MYz$oqz$trBz$sYz$DOz$urBz$vrBz$wrBz$xrBz$yrBz$xwBz$ywBz$AxBz$BxBz$CxBz$DxBz$ExBz$FxBz$OwBz$GxBz$HxBz$FnBz$IxBz$JxBz$Lvz$KxBz$NtBz$OtBz$LxBz$gIBz$MxBz$nLz$NxBz$OxBz$PxBz$NWBz$QxBz$RxBz$SxBz$TxBz$UxBz$bBz$VxBz$WxBz$XxBz$YmBz$YxBz$ZxBz$axBz$bxBz$cxBz$dxBz$exBz$NiBz$fxBz$KpBz$LpBz$auBz$z$ez$z$ez$fz$Qnz$JqBz$pqBz$ktBz$ltBz$rvz$svz$mtBz$ntBz$otBz$HUBz$DqBz$GdBz$Dkz$ptBz$qtBz$rtBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$stBz$ZcBz$Znz$ttBz$iBz$utBz$vtBz$Znz$wtBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$gBz$z$ez$fz$fvBz$HCz$GwBz$OVBz$HwBz$ZcBz$Znz$ovz$pvz$IwBz$JwBz$Znz$uGBz$z$ez$fz$fvBz$HCz$KwBz$UKz$hqBz$Znz$eGBz$WDBz$LwBz$MwBz$Puz$Quz$z$ez$fz$fvBz$HCz$NwBz$cgBz$hqBz$Znz$eGBz$WDBz$OwBz$eqBz$Znz$uGBz$z$ez$fz$fvBz$HCz$PwBz$qoBz$hqBz$Znz$QwBz$RwBz$SwBz$Puz$Quz$z$ez$fz$fvBz$HCz$TwBz$woBz$ThBz$UwBz$rvz$svz$edz$VwBz$WwBz$Puz$Quz$z$ez$fz$fvBz$HCz$XwBz$YwBz$ddBz$ZwBz$Puz$yvz$RqBz$SqBz$xnBz$msBz$rvz$svz$PDz$z$ez$fz$fvBz$HCz$awBz$bwBz$cwBz$rvz$svz$RqBz$dwBz$ewBz$sGBz$PDz$z$ez$fz$fvBz$HCz$fwBz$gwBz$AFBz$hwBz$iwBz$jwBz$kwBz$Puz$iGBz$pvz$EnBz$FnBz$lwBz$Znz$uGBz$z$ez$fz$fvBz$HCz$txBz$uxBz$hqBz$Znz$eGBz$WDBz$vxBz$uxBz$TqBz$sGBz$nz$z$ez$fz$fvBz$HCz$mwBz$nwBz$owBz$bqBz$sGBz$usBz$hxBz$ixBz$Znz$uGBz$z$tpBz$JtBz$CqBz$lKz$XqBz$rwBz$FnBz$swBz$UpBz$MtBz$NtBz$OtBz$PtBz$QtBz$nLz$RtBz$jxBz$NWBz$wxBz$Fpz$xxBz$FnBz$yxBz$AyBz$irBz$jrBz$ByBz$CyBz$JoBz$VvBz$qxBz$rxBz$RGBz$QrBz$sxBz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$rrBz$srBz$LYz$MYz$oqz$trBz$sYz$DOz$urBz$vrBz$wrBz$xrBz$yrBz$xwBz$ywBz$AxBz$BxBz$CxBz$DxBz$ExBz$FxBz$OwBz$GxBz$HxBz$FnBz$IxBz$JxBz$Lvz$KxBz$NtBz$OtBz$LxBz$gIBz$MxBz$nLz$NxBz$OxBz$PxBz$NWBz$DyBz$PxBz$Fpz$EyBz$irBz$jrBz$MxBz$FyBz$GyBz$FnBz$HyBz$IyBz$JyBz$vxBz$uxBz$KyBz$LyBz$MyBz$NyBz$RGBz$QrBz$sxBz$z$ez$z$ez$fz$Qnz$JqBz$pqBz$ktBz$ltBz$rvz$svz$mtBz$ntBz$otBz$HUBz$DqBz$GdBz$Dkz$ptBz$qtBz$rtBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$stBz$ZcBz$Znz$ttBz$iBz$utBz$vtBz$Znz$wtBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$qz$z$qz$z$rz$z$xoBz$cvBz$nBBz$OyBz$FKz$z$WIz$UgBz$PyBz$QyBz$RyBz$SyBz$EuBz$auz$buz$bmBz$pQz$qQz$Vjz$Wjz$TyBz$UyBz$eOz$z$WIz$VyBz$WyBz$QyBz$RyBz$UKz$XyBz$vuz$wuz$xuz$ISz$ONz$YyBz$ESz$Zmz$Rmz$Smz$MQz$onBz$ZyBz$ayBz$z$ez$yHz$z$JDz$atz$jBBz$kBBz$okBz$byBz$avBz$cyBz$dyBz$PDz$z$ez$fz$Qnz$JqBz$wvBz$xvBz$Puz$yvz$RqBz$eyBz$fyBz$gyBz$hyBz$avBz$iyBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$jyBz$kyBz$Grz$MqBz$rvz$svz$edz$NqBz$RGBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$OqBz$PqBz$lyBz$mXBz$sGBz$qjz$WDBz$LwBz$MwBz$Puz$Quz$z$ez$fz$Qnz$JqBz$KqBz$myBz$nyBz$mXBz$sGBz$qjz$WDBz$oyBz$pyBz$Puz$Quz$z$ez$fz$Qnz$JqBz$OsBz$PsBz$qyBz$mXBz$sGBz$qjz$WDBz$cJBz$dJBz$ryBz$sKz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$syBz$tyBz$WlBz$uyBz$JsBz$Puz$yvz$RqBz$SqBz$RlBz$SlBz$vyBz$Puz$Quz$z$ez$fz$Qnz$JqBz$EvBz$wyBz$xyBz$mXBz$sGBz$qjz$WDBz$yyBz$OjBz$PjBz$QjBz$AACz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$WrBz$BACz$CACz$JsBz$Puz$yvz$RqBz$SqBz$msz$HBBz$gCBz$hCBz$DACz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$EACz$FACz$GACz$iDz$HACz$rvz$svz$edz$IACz$JACz$WsBz$sGBz$nz$z$WIz$mHz$srBz$nhBz$MYz$oyBz$ZtBz$KpBz$atBz$UKz$KACz$LACz$VJBz$WJBz$MACz$NACz$woBz$ThBz$OACz$ftBz$NWBz$LVz$PACz$TfBz$QACz$nBBz$RACz$SACz$msz$HBBz$gCBz$hCBz$DACz$TACz$UACz$VACz$WACz$XACz$YACz$ZACz$aACz$bACz$cACz$dACz$dABz$eABz$duBz$UtBz$ArBz$BrBz$eACz$OABz$sgBz$z$rrBz$srBz$LYz$MYz$oqz$trBz$sYz$DOz$urBz$vrBz$wrBz$xrBz$yrBz$AsBz$WtBz$XtBz$YtBz$XqBz$KtBz$LtBz$UpBz$fACz$gACz$cJBz$dJBz$ryBz$sKz$hACz$DSBz$Pjz$gIBz$KGBz$StBz$iACz$Edz$jACz$avBz$kACz$AyBz$DCBz$tBBz$lACz$mACz$nACz$oACz$pACz$qACz$rACz$sACz$WlBz$tACz$uACz$vACz$vABz$wABz$xABz$yABz$wACz$mvBz$nvBz$ovBz$pvBz$xACz$VABz$PDz$z$bLz$JABz$HUBz$DqBz$JQBz$z$ez$yACz$ABCz$iTBz$Rtz$UFBz$BBCz$CBCz$ePz$z$ez$yHz$z$ez$fz$Qnz$JqBz$DBCz$avBz$EBCz$ZcBz$WDBz$EqBz$FBCz$sGBz$nz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$stBz$ZcBz$Znz$ttBz$iBz$utBz$vtBz$Znz$wtBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$GBCz$ZcBz$Znz$HBCz$Jiz$Bnz$ArBz$BrBz$CrBz$IBCz$z$ez$yHz$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$rz$z$sz$JBCz$bCz$z$Ksz$KBCz$mez$eOz$z$XEz$LBCz$MBCz$NBCz$GJz$siz$OBCz$JmBz$KmBz$PBCz$WRz$XRz$fDz$z$QBCz$RBCz$sUz$SBCz$TBCz$NABz$GMz$UBCz$Yfz$z$rz$z$uLz$VBCz$WBCz$MFz$z$uGz$vGz$mPBz$XBCz$tFz$uFz$YBCz$QTBz$z$uGz$vGz$kmBz$lmBz$ZBCz$aBCz$bBCz$BUz$pmBz$z$faBz$gaBz$haBz$z$mbBz$cBCz$dBCz$z$HbBz$IbBz$eBCz$RbBz$fBCz$gBCz$z$HbBz$IbBz$eBCz$hBCz$iBCz$bbBz$cbBz$z$HbBz$IbBz$eBCz$jBCz$kBCz$XbBz$YbBz$z$HbBz$IbBz$yGBz$lBCz$mBCz$z$HbBz$IbBz$yGBz$nBCz$oBCz$bUBz$z$HbBz$IbBz$pBCz$z$HbBz$IbBz$qBCz$z$rBCz$sBCz$tBCz$uBCz$LXz$vBCz$VTz$z$qHBz$rHBz$wBCz$xBCz$yBCz$ACCz$z$rz$z$BCCz$CCCz$DCCz$FKz$z$JIz$KIz$z$SYz$TYz$AZz$JZz$ECCz$FCCz$GCCz$HCCz$ICCz$JCCz$GZz$ZYz$rUz$KCCz$LCCz$rUz$HZz$IZz$z$SYz$TYz$AZz$JZz$ECCz$MCCz$SUz$NCCz$HCCz$ICCz$JCCz$GZz$ZYz$rUz$KCCz$LCCz$rUz$HZz$IZz$z$SYz$TYz$AZz$JZz$ECCz$OCCz$PCCz$lmBz$QCCz$RCCz$VZz$YUz$ZUz$SCCz$TCCz$ZUz$aUz$bUz$z$SYz$TYz$AZz$JZz$ECCz$FCCz$GCCz$HCCz$ICCz$JCCz$GZz$ZYz$rUz$HZz$IZz$z$SYz$TYz$AZz$JZz$ECCz$MCCz$SUz$NCCz$HCCz$ICCz$JCCz$GZz$ZYz$rUz$HZz$IZz$z$SYz$TYz$AZz$JZz$ECCz$OCCz$PCCz$lmBz$QCCz$RCCz$VZz$YUz$ZUz$aUz$bUz$z$ez$QUz$cUz$UCCz$cWBz$hMz$cBCz$VCCz$WCCz$nbz$z$ebz$WCCz$FYz$XCCz$DZz$YCCz$lmBz$QCCz$ZCCz$pz$z$ebz$WCCz$FYz$aCCz$bCCz$xGz$cCCz$dCCz$eCCz$Cdz$DYz$EYz$fCCz$gCCz$EYz$FYz$GYz$z$rUz$sUz$hCCz$iCCz$z$jCCz$kCCz$lCCz$mCCz$nCCz$oCCz$z$rz$z$uLz$WCCz$Tz$z$JIz$KIz$z$SYz$TYz$AZz$JZz$ECCz$FCCz$GCCz$HCCz$ICCz$JCCz$GZz$ZYz$rUz$KCCz$LCCz$rUz$HZz$IZz$z$SYz$TYz$AZz$JZz$ECCz$MCCz$SUz$NCCz$HCCz$ICCz$JCCz$GZz$ZYz$rUz$KCCz$LCCz$rUz$HZz$IZz$z$SYz$TYz$AZz$JZz$ECCz$OCCz$PCCz$lmBz$QCCz$RCCz$VZz$YUz$ZUz$SCCz$TCCz$ZUz$aUz$bUz$z$SYz$TYz$AZz$JZz$ECCz$FCCz$GCCz$HCCz$ICCz$JCCz$GZz$ZYz$rUz$HZz$IZz$z$SYz$TYz$AZz$JZz$ECCz$MCCz$SUz$NCCz$HCCz$ICCz$JCCz$GZz$ZYz$rUz$HZz$IZz$z$SYz$TYz$AZz$JZz$ECCz$OCCz$PCCz$lmBz$QCCz$RCCz$VZz$YUz$ZUz$aUz$bUz$z$ez$QUz$cUz$UCCz$cWBz$hMz$cBCz$VCCz$WCCz$pCCz$z$ebz$WCCz$FYz$XCCz$DZz$YCCz$lmBz$QCCz$ZCCz$kcz$z$ebz$WCCz$FYz$aCCz$bCCz$xGz$cCCz$dCCz$qCCz$Cdz$DYz$EYz$fCCz$gCCz$EYz$FYz$GYz$z$rUz$sUz$hCCz$iCCz$z$jCCz$rCCz$sCCz$mCCz$nCCz$oCCz$z$rz$z$tCCz$Tz$z$JIz$KIz$z$ez$uCCz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$vCCz$z$ez$fz$wCCz$qcz$qcz$qcz$edz$pwBz$gDBz$xCCz$yCCz$sGBz$ADCz$qcz$qcz$qcz$qcz$BDCz$PDz$z$ez$fz$CDCz$lvz$DDCz$EDCz$sGBz$FDCz$GDCz$HDCz$IDCz$qcz$qcz$qcz$qcz$qcz$qcz$qcz$qcz$BDCz$PDz$z$ez$fz$hBz$iBz$JDCz$Puz$KDCz$JqBz$LDCz$MDCz$rvz$svz$PDz$z$ez$fz$hBz$iBz$NDCz$rvz$svz$ODCz$gHBz$PDCz$QDCz$RDCz$Znz$uGBz$z$ez$fz$hBz$iBz$SDCz$Puz$KDCz$JqBz$LDCz$yKz$lwBz$Znz$uGBz$z$ez$uCCz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$vCCz$z$ez$uKBz$TDCz$pdz$pdz$pdz$pdz$UDCz$VDCz$pdz$pdz$pdz$WDCz$z$ez$fz$XDCz$lvz$YDCz$ZDCz$sGBz$ADCz$aDCz$Dxz$UDCz$bDCz$cDCz$z$ez$fz$XDCz$lvz$dDCz$ZDCz$sGBz$ADCz$aDCz$Dxz$JqBz$eDCz$fDCz$gDCz$hDCz$sGBz$nz$z$ez$fz$XDCz$lvz$iDCz$ZDCz$sGBz$ADCz$aDCz$Dxz$UDCz$bDCz$jDCz$kDCz$z$ez$fz$XDCz$lvz$lDCz$ZDCz$sGBz$ADCz$aDCz$Dxz$JqBz$eDCz$fDCz$mDCz$qwBz$Puz$iGBz$pvz$nDCz$rGBz$sGBz$nz$z$ez$uKBz$TDCz$pdz$pdz$pdz$pdz$Xsz$VDCz$pdz$pdz$pdz$WDCz$z$ez$fz$XDCz$lvz$oDCz$ZDCz$sGBz$ADCz$aDCz$Dxz$JqBz$eDCz$pDCz$qDCz$PDz$z$ez$fz$XDCz$lvz$rDCz$ZDCz$sGBz$ADCz$aDCz$Dxz$JqBz$eDCz$pDCz$gDCz$hDCz$sGBz$nz$z$ez$fz$XDCz$lvz$sDCz$ZDCz$sGBz$ADCz$aDCz$Dxz$Xsz$bDCz$jDCz$kDCz$z$ez$fz$XDCz$lvz$tDCz$ZDCz$sGBz$ADCz$aDCz$Dxz$JqBz$eDCz$pDCz$mDCz$qwBz$Puz$iGBz$pvz$uDCz$vDCz$rvz$svz$PDz$z$ez$fz$XDCz$lvz$wDCz$ZDCz$sGBz$ADCz$aDCz$Dxz$JqBz$eDCz$pDCz$qDCz$xDCz$csBz$sGBz$nz$z$ez$uKBz$TDCz$pdz$pdz$pdz$pdz$yDCz$AECz$BECz$pdz$pdz$pdz$PDz$z$ez$fz$XDCz$lvz$YDCz$hez$Znz$CECz$DECz$EECz$FECz$voBz$rvz$svz$RqBz$GECz$HECz$Znz$uGBz$z$ez$fz$XDCz$lvz$YDCz$rdz$Znz$CECz$DECz$EECz$FECz$voBz$xDCz$csBz$sGBz$usBz$IECz$JECz$Puz$Quz$z$ez$uKBz$TDCz$pdz$pdz$pdz$pdz$KECz$LECz$BECz$pdz$pdz$pdz$PDz$z$ez$fz$XDCz$lvz$YDCz$vdz$Znz$CECz$aDCz$Dxz$JqBz$EvBz$GuBz$MECz$sGBz$usBz$IECz$NECz$rGBz$sGBz$nz$z$ez$uKBz$TDCz$pdz$pdz$pdz$pdz$OECz$VABz$PECz$pdz$pdz$pdz$QECz$z$ez$fz$XDCz$lvz$YDCz$Aez$Znz$CECz$aDCz$Dxz$JqBz$eDCz$pDCz$RECz$SECz$TECz$UECz$VABz$rvz$svz$RqBz$GECz$HECz$Znz$uGBz$z$ez$VECz$WECz$WECz$WECz$PDz$z$ez$fz$XDCz$lvz$YDCz$Gez$Znz$CECz$XECz$YECz$z$ez$fz$XDCz$lvz$YDCz$Kez$WDBz$qcz$ZECz$aECz$Puz$Quz$z$ez$VECz$WECz$WECz$WECz$PDz$z$ez$fz$XDCz$lvz$YDCz$Nez$Znz$CECz$bECz$YECz$z$ez$fz$XDCz$lvz$YDCz$Tez$Znz$CECz$cECz$YECz$z$ez$fz$XDCz$lvz$YDCz$Vez$Znz$CECz$dECz$YECz$z$ez$VECz$WECz$WECz$eECz$z$ez$fz$XDCz$lvz$YDCz$aez$Znz$CECz$fECz$gECz$hECz$z$ez$fz$XDCz$lvz$dDCz$hez$Znz$CECz$fECz$iECz$jECz$z$ez$kECz$pdz$pdz$pdz$QECz$z$ez$fz$XDCz$lvz$dDCz$rdz$Znz$CECz$lECz$avz$PDz$z$ez$fz$XDCz$lvz$dDCz$vdz$Znz$CECz$mECz$avz$PDz$z$ez$fz$XDCz$lvz$dDCz$Aez$Znz$CECz$nECz$KLBz$oECz$PDz$z$ez$kECz$pdz$pdz$pdz$QECz$z$ez$fz$XDCz$lvz$dDCz$Gez$Znz$CECz$pECz$qECz$rECz$z$ez$fz$XDCz$lvz$dDCz$Kez$Znz$CECz$sECz$tECz$z$ez$fz$XDCz$lvz$dDCz$Nez$Znz$CECz$uECz$tECz$z$ez$VECz$WECz$WECz$WECz$PDz$z$ez$fz$XDCz$lvz$vECz$ZDCz$sGBz$ADCz$wECz$z$ez$Qwz$Qnz$xECz$yECz$z$Dfz$dvz$yTBz$z$ez$z$Ndz$yGBz$AFCz$BFCz$CFCz$DFCz$EFCz$FFCz$GFCz$HFCz$IFCz$JFCz$MCBz$z$Uz$bNz$EMBz$KCBz$FMBz$cz$dz$z$lJBz$KFCz$z$ez$fz$LFCz$MFCz$NFCz$OFCz$lJBz$PFCz$PDz$z$qz$z$Nfz$LCBz$MCBz$NCBz$z$QFCz$XRz$RFCz$z$SFCz$JWz$TFCz$Kwz$z$UFCz$VFCz$xrz$kSz$mtz$sez$tvz$z$WFCz$XFCz$xrz$kSz$mtz$sez$tvz$z$YFCz$XFCz$xrz$kSz$ZFCz$bxz$pjBz$aFCz$Hbz$bFCz$z$cFCz$Xsz$dFCz$xGBz$eFCz$JWz$TFCz$Kwz$z$fFCz$pDCz$ooBz$RJBz$gFCz$VFCz$xrz$kSz$mtz$sez$tvz$z$hFCz$pDCz$ooBz$RJBz$iFCz$XFCz$xrz$kSz$mtz$sez$tvz$z$jFCz$pDCz$ooBz$RJBz$iFCz$XFCz$xrz$kSz$ZFCz$bxz$pjBz$aFCz$Hbz$bFCz$z$kFCz$pDCz$ooBz$RJBz$iFCz$XFCz$xrz$kSz$lFCz$dFCz$xGBz$GJz$jFz$kFz$Tfz$z$mFCz$asz$bsz$xrz$kSz$nFCz$ooBz$RJBz$eFCz$JWz$TFCz$Kwz$z$oFCz$asz$bsz$xrz$kSz$nFCz$ooBz$RJBz$pFCz$csz$bxz$pjBz$aFCz$Hbz$bFCz$z$qFCz$ksz$lsz$xrz$kSz$mtz$sez$tvz$z$rFCz$Xsz$dFCz$xGBz$GJz$msz$nsz$bxz$pjBz$aFCz$Hbz$bFCz$z$sFCz$hFz$tFCz$Kwz$z$uFCz$Gbz$Hbz$bFCz$z$vFCz$DUz$wFCz$z$xFCz$uYz$nPBz$Tfz$z$yFCz$uPBz$AGCz$z$BGCz$sz$hJz$tvz$z$CGCz$sz$DGCz$Tfz$z$EGCz$KLBz$FGCz$z$GGCz$KLBz$HGCz$Kwz$z$IGCz$KLBz$JGCz$Kwz$z$KGCz$uLz$VBCz$LGCz$Kwz$z$MGCz$uLz$WCCz$tvz$z$NGCz$BCCz$CCCz$OGCz$z$PGCz$fJz$eHBz$QGCz$RGCz$SGCz$TGCz$UGCz$phz$qhz$tvz$z$pfz$z$rz$z$Pz$osz$iCCz$z$hWBz$iPz$fDz$z$JDBz$VGCz$Ylz$WGCz$FVBz$XGCz$xYz$z$Nfz$EMBz$FVBz$YGCz$dDz$z$tCCz$ZGCz$aGCz$Gbz$Hbz$bGCz$cGCz$uYz$cGCz$uPBz$dGCz$eGCz$fGCz$gGCz$hGCz$z$iGCz$Sz$rz$z$Tfz$z$jfz$z$ez$jGCz$kGCz$z$ez$lGCz$mGCz$qOBz$YVz$nGCz$oGCz$pGCz$qGCz$rGCz$jFz$sGCz$DUz$tGCz$DUz$uGCz$vGCz$wGCz$xGCz$sz$yGCz$PDz$z$Tfz$z$pfz$z$rz$z$AHCz$BHCz$MFz$z$sBz$LJz$MJz$Enz$qcz$Fnz$Gnz$Hnz$Inz$z$wBz$Jnz$yBz$FJz$qcz$Knz$Lnz$Mnz$Nnz$VTz$z$CCz$Onz$ECz$Pnz$Qnz$Rnz$lDz$Snz$Nnz$VTz$z$HCz$bJz$Tnz$Unz$qcz$Vnz$Wnz$Xnz$Ynz$z$Znz$xBz$yBz$anz$z$qVz$tEz$CHCz$VIz$WIz$XIz$DHCz$z$kVz$lVz$KABz$yoz$Apz$jWz$EHCz$z$qVz$tEz$CHCz$VIz$WIz$XIz$FHCz$z$kVz$lVz$KABz$yoz$Apz$jWz$GHCz$z$bnz$cnz$z$LYz$MYz$lnz$mnz$nnz$onz$z$LYz$MYz$pnz$qnz$rnz$snz$tnz$z$LYz$unz$vnz$wnz$DOz$xnz$z$LYz$ynz$Aoz$Boz$Coz$z$LYz$MYz$Doz$Eoz$Foz$tnz$z$LYz$MYz$lnz$Goz$vVz$z$LYz$MYz$HHCz$IHCz$JHCz$z$LYz$MYz$lnz$KHCz$LHCz$MHCz$z$LYz$unz$vnz$Noz$Ooz$Poz$Qoz$z$LYz$unz$NHCz$OHCz$PHCz$Voz$z$LYz$MYz$lnz$Roz$Soz$xnz$z$LYz$MYz$lnz$QHCz$RHCz$Voz$z$LYz$MYz$lnz$SHCz$THCz$STz$z$LYz$ynz$Toz$Uoz$Voz$z$LYz$MYz$lnz$eoz$UHCz$vVz$z$LYz$unz$VHCz$eoz$Zcz$xnz$z$LYz$MYz$Woz$Xoz$tnz$z$LYz$MYz$lnz$mnz$nnz$onz$z$LYz$MYz$lnz$Yoz$Zoz$aoz$z$LYz$MYz$lnz$boz$coz$xnz$z$LYz$MYz$lnz$doz$aUz$tnz$z$LYz$MYz$eoz$foz$goz$Voz$z$LYz$unz$hoz$ioz$DOz$xnz$z$LYz$unz$joz$koz$loz$aoz$z$LYz$MYz$lnz$moz$noz$WHCz$XHCz$z$LYz$MYz$YHCz$ZHCz$aHCz$DOz$xnz$z$LYz$unz$hoz$ooz$aoz$z$LYz$unz$poz$qoz$Xoz$tnz$z$LYz$MYz$lnz$bHCz$cHCz$DOz$xnz$z$LYz$unz$vnz$dHCz$eHCz$Voz$z$LYz$MYz$lnz$roz$aoz$z$LYz$soz$toz$uoz$aoz$z$LYz$MYz$lnz$fHCz$gHCz$hHCz$z$eOz$z$voz$woz$iEz$Gsz$iHCz$GdBz$qUz$jHCz$kHCz$z$gCBz$lHCz$xuz$mHCz$YUz$Obz$nHCz$Obz$oHCz$FEBz$BUz$pHCz$z$qHCz$rHCz$sHCz$tHCz$NOz$OOz$uHCz$Obz$vHCz$Tqz$YoBz$swz$z$Lpz$Mpz$Npz$Ipz$Opz$Ppz$Qpz$Rpz$z$GKz$Spz$YVz$ZVz$z$Tpz$Upz$iIz$Vpz$Wpz$Xpz$Ypz$Zpz$apz$bpz$cpz$dpz$epz$fpz$gpz$hpz$ipz$jpz$kpz$lpz$mpz$npz$opz$ppz$qpz$rpz$spz$tpz$upz$vpz$wpz$xpz$z$ypz$WQz$XQz$Aqz$wHCz$xHCz$yHCz$z$Eqz$Fqz$XQz$Gqz$Hqz$Iqz$Jqz$cNz$Tpz$Upz$Kqz$VKz$WKz$Lqz$Mqz$Nqz$Oqz$Pqz$YXz$Qqz$Rqz$Sqz$Tqz$Uqz$Vqz$bQz$Tqz$Wqz$Xqz$Yqz$z$AICz$wNz$xNz$BICz$CICz$DICz$EICz$crz$Dqz$z$FICz$wNz$xNz$GICz$CICz$DICz$EICz$crz$Dqz$z$cqz$WQz$XQz$HICz$arz$IICz$z$tjBz$JICz$Vvz$Qlz$Ltz$KICz$wNz$xNz$BICz$wHCz$LICz$z$yrz$Asz$Bsz$z$Csz$Dsz$Esz$Fsz$Gsz$Hsz$Isz$qUz$Jsz$z$Ksz$Lsz$Msz$Nsz$yjz$Akz$Bgz$z$Uz$Vz$Osz$Psz$Qsz$cz$dz$z$yrz$xrz$PDz$z$Csz$Dsz$Esz$Fsz$Rsz$Ssz$sYz$Tsz$Usz$Fpz$Vsz$Wsz$z$qz$z$Xsz$Ysz$Zsz$PDz$z$asz$bsz$Asz$Bsz$z$csz$dsz$esz$z$fsz$Asz$Bsz$z$gsz$hsz$isz$z$jsz$dsz$esz$z$Pz$osz$psz$bCz$z$Etz$Ftz$Gtz$SOz$shz$iDz$MUz$Htz$z$Uz$GmBz$MICz$NICz$OICz$PICz$Rtz$QICz$cz$dz$z$JDz$atz$btz$ctz$RICz$SICz$TICz$UICz$z$oz$pz$z$qz$z$Ksz$Lsz$VICz$WICz$Wrz$Xrz$jbBz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$Ksz$Lsz$XICz$YICz$Wrz$Xrz$jbBz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$dtz$etz$ftz$gtz$z$oz$pz$z$qz$z$htz$itz$PDz$z$jtz$ktz$ltz$itz$mtz$sez$ntz$PDz$z$jtz$otz$ptz$eHz$ELz$FLz$qtz$z$jtz$rtz$stz$itz$ttz$utz$vtz$wtz$hHz$xtz$vtz$ytz$Auz$Buz$Cuz$z$gBz$z$htz$Euz$PDz$z$jtz$ktz$ltz$Euz$mtz$sez$ntz$PDz$z$jtz$otz$ptz$eFz$ELz$FLz$qtz$z$jtz$rtz$stz$Euz$ttz$Lz$Cuz$z$qz$z$Ksz$Lsz$ZICz$Obz$aICz$eqz$fqz$gqz$whz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$Huz$Iuz$Juz$Kuz$PDz$z$oz$pz$z$qz$z$rz$z$JDz$atz$Luz$FKz$z$ez$fz$Muz$Nuz$Ouz$Puz$Quz$z$rz$z$qUz$Ruz$Suz$Tuz$bCz$z$WIz$Uuz$Vuz$Wuz$Xuz$Yuz$Zuz$auz$buz$cuz$z$Uz$bNz$duz$RKz$cz$dz$z$ez$euz$z$fuz$guz$z$qz$z$ez$huz$z$rz$z$iuz$juz$kuz$FKz$z$Uz$Vz$luz$muz$Zsz$bRz$UBz$VBz$z$ez$euz$z$fuz$guz$z$qz$z$ez$huz$z$rz$z$Dfz$sNz$MFz$z$Uz$nuz$ouz$VIz$jWz$AHCz$bICz$NABz$HDz$IDz$z$ez$kcz$z$fuz$guz$z$qz$z$Uz$nuz$ruz$voz$woz$suz$HDz$IDz$z$ez$pz$z$fuz$guz$z$qz$z$UKz$Vuz$tuz$uuz$vuz$wuz$xuz$RQz$SQz$yuz$Avz$Bvz$Cvz$Dvz$Evz$Fvz$Gvz$z$Ksz$Hvz$Ivz$Jvz$ZQz$Kvz$Lvz$NOz$OOz$cICz$dICz$whz$z$Uz$bNz$Ovz$Pvz$HDz$IDz$z$ez$Qvz$z$fuz$guz$z$qz$z$Uz$Rvz$hYz$Svz$Tvz$Uvz$Vvz$Wvz$bDz$cDz$dDz$z$ez$Xvz$z$gBz$z$Ksz$Hvz$Ivz$Yvz$OOz$Zvz$avz$whz$z$Uz$bNz$Ovz$Pvz$HDz$IDz$z$ez$bvz$z$gBz$z$ez$cvz$z$qz$z$qz$z$rz$z$Dfz$dvz$evz$MFz$z$Ksz$fvz$gvz$z$Nfz$hvz$ivz$z$Ufz$z$ez$fz$eICz$fICz$Bfz$Puz$yvz$RqBz$gICz$hICz$sGBz$rz$z$Tfz$z$Vfz$z$ez$fz$eICz$fICz$Bfz$Puz$yvz$eICz$fICz$iICz$jICz$hICz$sGBz$rz$z$Tfz$z$Zfz$z$ez$fz$eICz$fICz$Bfz$Puz$yvz$eICz$fICz$iICz$jICz$hICz$sGBz$kICz$pvz$lICz$mICz$hICz$sGBz$rz$z$Tfz$z$afz$z$ez$fz$eICz$fICz$Bfz$Puz$yvz$eICz$fICz$iICz$jICz$nICz$avz$oICz$rvz$svz$z$Tfz$z$jfz$z$ez$fz$RqBz$pICz$qICz$sGBz$rz$z$Tfz$z$pfz$z$rz$z$Nwz$Owz$Pwz$sKz$Tz$z$Uz$Qwz$NEz$vEz$IDz$z$Nfz$Rwz$Swz$z$Twz$z$ez$rICz$sICz$kIz$z$Tfz$z$jfz$z$ez$Rwz$PDz$z$Tfz$z$pfz$z$gBz$z$ez$yHz$z$qz$z$rz$z$Wwz$IKz$Xwz$MFz$z$tICz$VIz$jWz$AHCz$bICz$NABz$uICz$sKz$vICz$Rrz$Srz$wICz$sxz$dDz$z$Ywz$xICz$VIz$jWz$AHCz$bICz$NABz$uICz$sKz$hOz$ObBz$yICz$AJCz$Rmz$Smz$BJCz$z$gBz$z$Ywz$xICz$VIz$jWz$AHCz$bICz$NABz$BLz$mwz$SOz$CJCz$DJCz$clBz$cOz$Ghz$ZLBz$z$qz$z$ewz$fwz$gwz$z$hwz$Ywz$iwz$jwz$kwz$lwz$mwz$nwz$JUz$owz$pwz$pQz$cwz$qwz$Avz$Evz$rwz$swz$twz$z$uwz$vwz$oTz$wwz$xwz$ywz$Axz$aoz$WWz$EJCz$FJCz$AHCz$GJCz$HJCz$AGz$IJCz$JJCz$KJCz$z$Gxz$Ywz$iwz$jwz$kwz$lwz$mwz$TFz$mFz$Hxz$Ixz$Jxz$Kxz$Lxz$Mxz$Nxz$TDz$Oxz$Dvz$LJCz$MJCz$MQz$ZQz$NJCz$Qxz$OJCz$Zjz$ajz$PJCz$QJCz$ZLBz$z$Uz$Vxz$Wxz$Xxz$Yxz$bDz$cDz$dDz$z$Gxz$Ywz$RJCz$z$qz$z$Uz$Vz$gsz$axz$bxz$cxz$cz$dz$z$Gxz$Ywz$SJCz$TJCz$z$qz$z$Uz$fxz$Jtz$Ktz$gxz$RDz$hxz$ixz$VLz$Qsz$cz$dz$z$JDz$atz$btz$ctz$UJCz$dICz$VJCz$YPBz$akBz$PDz$z$fuz$oxz$z$QDz$RDz$pxz$qxz$rxz$yCz$sxz$dDz$z$fuz$txz$z$QDz$RDz$hxz$ixz$Psz$uxz$ixz$bDz$IDz$z$fuz$vxz$z$qz$z$fuz$wxz$z$rz$z$USz$xxz$WJCz$z$Nfz$yxz$vWz$Ayz$Byz$dDz$z$Cyz$XJCz$cfz$z$ez$YJCz$LCz$z$Tfz$z$gjz$ZJCz$EMz$eOz$z$ez$Kyz$LCz$z$Tfz$z$aJCz$bJCz$z$ez$bSz$Tyz$Xyz$z$Tfz$z$Myz$cJCz$z$ez$bSz$Tyz$dJCz$z$Tfz$z$aJCz$eJCz$Zyz$ayz$z$ez$bSz$fJCz$gJCz$z$Tfz$z$hJCz$iJCz$jJCz$z$ez$gyz$hyz$kJCz$z$Tfz$z$hJCz$lJCz$eOz$z$ez$gyz$hyz$LCz$z$Tfz$z$hJCz$mJCz$eOz$z$ez$gyz$nJCz$LCz$z$Tfz$z$hJCz$oJCz$z$ez$gyz$pJCz$z$Tfz$z$qJCz$rJCz$z$ez$sJCz$tJCz$z$Tfz$z$myz$nyz$z$ez$uJCz$vJCz$wJCz$z$Tfz$z$myz$Zfz$z$ez$uJCz$xJCz$z$Tfz$z$jfz$z$JDz$atz$btz$ctz$DABz$EABz$FABz$z$oz$pz$z$Tfz$z$pfz$z$fuz$wxz$z$rz$z$HABz$IABz$bCz$z$Uz$Vz$dDBz$Biz$xrz$eDBz$fDBz$dDBz$Biz$xrz$bRz$UBz$VBz$z$ez$yHz$z$ez$yJCz$dICz$AKCz$BKCz$CKCz$DKCz$EKCz$FKCz$z$JDz$atz$Ulz$CCz$mDBz$nDBz$oDBz$pDBz$PDz$z$JDz$atz$Ulz$CCz$mDBz$qDBz$rDBz$sDBz$tDBz$uDBz$vDBz$wDBz$xDBz$z$JDz$atz$Ulz$HCz$aDBz$GKCz$HKCz$IKCz$JKCz$AHCz$XTBz$KKCz$AHCz$aTBz$LKCz$MKCz$NKCz$OKCz$PDz$z$ez$jEBz$z$Ndz$Odz$Ifz$kEBz$lEBz$mEBz$nEBz$z$Uz$bNz$cNz$mEBz$Quz$bDz$cDz$dDz$z$JDz$atz$Ulz$WDBz$oEBz$pEBz$qEBz$rEBz$PDz$z$qz$z$mEBz$tEBz$uEBz$vEBz$wEBz$z$JDz$atz$Ulz$HCz$xEBz$yEBz$AFBz$BFBz$CFBz$DFBz$z$Uz$fiz$PKCz$dICz$RFBz$GJz$QKCz$RKCz$JEBz$SKCz$cz$dz$z$JDz$atz$Ulz$HCz$xEBz$WSz$JFBz$KFBz$LFBz$z$MFBz$JFz$NFBz$ZYz$AHCz$VFBz$mEBz$WFBz$TKCz$z$SFBz$xuz$mHCz$UKCz$dICz$mSBz$qFBz$VKCz$slBz$z$gBz$z$YFBz$ZFBz$wNz$xNz$aFBz$bFBz$cFBz$dFBz$eFBz$fFBz$gFBz$Dpz$hFBz$qPz$iFBz$jFBz$kFBz$lFBz$Hdz$mFBz$nFBz$oFBz$YVz$pFBz$qFBz$rFBz$sFBz$tFBz$uFBz$z$wjz$vFBz$wFBz$xFBz$yFBz$AGBz$BGBz$CGBz$DGBz$EGBz$oTz$wwz$FGBz$TEBz$RWz$GGBz$aoz$gFBz$HGBz$IGBz$JGBz$uEBz$svz$KGBz$LGBz$MGBz$z$ujz$kez$ZGBz$YFBz$WKCz$NOz$OOz$XKCz$YKCz$ZKCz$fz$aKCz$bKCz$IDz$z$cKCz$JUz$dKCz$YGBz$NOz$OOz$eKCz$fKCz$cDz$dDz$z$JDz$atz$Ulz$HCz$xEBz$gKCz$hKCz$iKCz$jKCz$kKCz$lKCz$mKCz$nKCz$z$gBz$z$JDz$atz$Ulz$HCz$xEBz$oKCz$qFBz$pKCz$qKCz$rKCz$sKCz$tKCz$PDz$z$qz$z$JDz$atz$Ulz$WDBz$oKBz$uKCz$nGBz$oGBz$vKCz$EECz$wKCz$xKCz$gz$yKCz$rKCz$ALCz$cNz$HCz$BLCz$CLCz$RqBz$DLCz$ELCz$FLCz$PDz$z$oz$pz$z$qz$z$qz$z$qz$z$ez$yHz$z$Uz$Vz$bkBz$Tvz$ckBz$Biz$GLCz$HDz$IDz$z$Uz$Vz$dDBz$Biz$xrz$bRz$UBz$VBz$z$Ndz$Odz$Ifz$HLCz$ILCz$EHBz$JLCz$aHBz$bHBz$z$JDBz$vQz$KDBz$LDBz$cEz$MDBz$NDBz$ODBz$PDBz$Ubz$XHBz$KLCz$TDBz$z$gBz$z$Ndz$Odz$Ifz$HLCz$ILCz$LLCz$MLCz$NLCz$OLCz$PLCz$QLCz$YbBz$z$JDBz$vQz$KDBz$LDBz$cEz$MDBz$RLCz$lHBz$SLCz$vcz$RDBz$SDBz$TLCz$z$Uz$Vz$KDBz$UDBz$VDBz$Ytz$bRz$UBz$VBz$z$JDz$atz$Ulz$WDBz$oKBz$ULCz$VLCz$PDz$z$oz$pz$z$qz$z$qz$z$JDz$atz$Ulz$HCz$xEBz$WLCz$XLCz$YLCz$ZLCz$z$gBz$z$Ndz$Odz$Ifz$VHBz$WHBz$LLCz$vcz$XHBz$aLCz$bLCz$cLCz$JHBz$cDBz$z$JDBz$vQz$KDBz$LDBz$cEz$MDBz$NDBz$ODBz$PDBz$QDBz$XHBz$KLCz$TDBz$z$Uz$cNz$cDBz$dLCz$OKz$eLCz$vEz$IDz$z$JDz$atz$Ulz$HCz$xEBz$fLCz$gLCz$hLCz$z$oz$pz$z$qz$z$JDz$atz$Ulz$HCz$xEBz$Gwz$iLCz$YLCz$ZLCz$z$jLCz$RLCz$lHBz$mHBz$EDBz$nHBz$oHBz$TKBz$z$qz$z$Uz$Vz$pHBz$Biz$xrz$bRz$UBz$VBz$z$ez$yHz$z$JDz$atz$jBBz$kBBz$lBBz$kLCz$lLCz$z$ez$yBBz$uHBz$vHBz$z$ez$yBBz$wHBz$xHBz$PDz$z$ez$yBBz$yHBz$AIBz$PDz$z$ez$yBBz$BIBz$CIBz$DIBz$z$ez$yBBz$EIBz$FIBz$PDz$z$ez$yBBz$GIBz$HIBz$IIBz$PDz$z$Ndz$Odz$GCBz$mLCz$nLCz$oLCz$TmBz$KCBz$KIz$z$Nfz$LCBz$MCBz$NCBz$z$Ufz$z$pLCz$qLCz$rLCz$sLCz$PDz$z$Tfz$z$Vfz$z$pLCz$qLCz$rLCz$tLCz$uLCz$z$Tfz$z$Zfz$z$pLCz$qLCz$rLCz$vLCz$wLCz$xLCz$yLCz$z$Tfz$z$afz$z$pLCz$qLCz$rLCz$AMCz$BMCz$z$Tfz$z$cfz$z$pLCz$qLCz$rLCz$CMCz$DMCz$EMCz$z$Tfz$z$jfz$z$pLCz$qLCz$rLCz$thBz$Bsz$z$Tfz$z$pfz$z$JDz$atz$jBBz$kBBz$lCBz$FMCz$pLCz$qLCz$GMCz$z$kIBz$HMCz$IMCz$JMCz$KMCz$GKz$LMCz$MMCz$NMCz$OMCz$z$qz$z$Uz$Vz$asz$qIBz$wGBz$xGBz$bDz$cDz$dDz$z$ez$yHz$z$Ndz$Odz$PMCz$QMCz$LJBz$RMCz$SMCz$TMCz$UMCz$VMCz$WMCz$z$JDBz$vQz$xIBz$yIBz$bRz$GJz$xIBz$yIBz$HMCz$XMCz$YMCz$rABz$ZMCz$hmBz$aMCz$bMCz$cMCz$dMCz$eMCz$fMCz$gMCz$ISz$ONz$fKBz$whz$z$JDz$atz$jBBz$kBBz$hMCz$voBz$iMCz$xIBz$yIBz$PDz$z$qz$z$Uz$Vz$gsz$axz$bxz$cxz$cz$dz$z$ez$yHz$z$JDz$atz$jBBz$kBBz$lBBz$SJBz$TJBz$z$ez$fz$Qnz$UJBz$VJBz$WJBz$XJBz$YJBz$ZJBz$aJBz$Znz$bJBz$z$ez$yBBz$wHBz$cJBz$dJBz$eJBz$fJBz$PDz$z$Ndz$Odz$GCBz$gJBz$hJBz$iJBz$jJBz$kJBz$KCBz$KIz$z$JDBz$vQz$lJBz$mJBz$cEz$nJBz$MCBz$oJBz$z$Nfz$LCBz$MCBz$NCBz$z$TQz$z$pJBz$qJBz$rJBz$sJBz$tJBz$uJBz$z$Tfz$z$Ufz$z$pJBz$qJBz$rJBz$sJBz$vJBz$wJBz$z$Tfz$z$jfz$z$JDz$atz$btz$ctz$xJBz$yJBz$AKBz$VJBz$WJBz$XJBz$BKBz$z$pJBz$qJBz$rJBz$sJBz$tJBz$uJBz$z$Tfz$z$pfz$z$JDz$atz$jBBz$kBBz$CKBz$DKBz$pJBz$PDz$z$qz$z$Uz$Vz$EKBz$axz$bxz$cxz$cz$dz$z$ez$yHz$z$hCz$FKBz$GKBz$z$Ugz$z$Ndz$Odz$Ifz$HKBz$IKBz$JKBz$KKBz$LKBz$MKBz$MIz$z$Uz$bNz$cNz$NKBz$OKBz$bDz$cDz$dDz$z$PKBz$QKBz$PDBz$jMCz$CiBz$whz$z$UKBz$EGz$yjz$VKBz$WKBz$XKBz$YKBz$ZKBz$aKBz$bKBz$MQz$cKBz$dKBz$eKBz$ISz$ONz$fKBz$whz$z$NKBz$gKBz$hKBz$PDz$z$iKBz$jKBz$z$QDz$RDz$kKBz$lKBz$mKBz$VDBz$Vvz$nKBz$cz$dz$z$JDz$atz$Ulz$WDBz$oKBz$pKBz$qKBz$rKBz$z$QDz$RDz$kKBz$lKBz$sKBz$tKBz$bRz$UBz$VBz$z$JDz$atz$Ulz$WDBz$uKBz$vKBz$wKBz$APz$z$gBz$z$iKBz$jKBz$z$qz$z$vCz$z$JDz$atz$Ulz$HCz$xEBz$xKBz$yKBz$lKBz$ALBz$z$qz$z$Uz$Vz$dDBz$Biz$xrz$eDBz$fDBz$dDBz$Biz$xrz$bRz$UBz$VBz$z$ez$yHz$z$JDz$atz$jBBz$kBBz$lBBz$BLBz$CLBz$z$ez$z$ez$yBBz$uHBz$DLBz$ELBz$FLBz$GLBz$HLBz$ILBz$JLBz$KLBz$LLBz$MLBz$z$ez$yBBz$wHBz$NLBz$OLBz$PLBz$z$ez$yBBz$yHBz$QLBz$RLBz$wwz$SLBz$TLBz$ULBz$VLBz$z$ez$yBBz$BIBz$WLBz$RLBz$wwz$SLBz$XLBz$YLBz$DOz$ZLBz$z$ez$yBBz$EIBz$aLBz$bLBz$cLBz$AOz$dLBz$bLBz$eLBz$fLBz$ZLBz$z$ez$yBBz$GIBz$gLBz$hLBz$qPz$ynz$iLBz$jLBz$kLBz$ZLBz$z$ez$yBBz$lLBz$gLBz$mLBz$qPz$unz$nLBz$oLBz$pLBz$PDz$z$ez$yBBz$qLBz$rLBz$sLBz$tLBz$uLBz$LYz$vLBz$PDz$z$ez$z$Ndz$Odz$lBBz$wLBz$xLBz$yLBz$AMBz$BMBz$CMBz$DMBz$lJBz$Yfz$z$Uz$bNz$EMBz$KCBz$FMBz$cz$dz$z$PKBz$GMBz$HMBz$IMBz$z$JMBz$KMBz$eOz$z$NDz$LMBz$lHBz$cMz$kMCz$lMCz$mMCz$z$QMBz$RMBz$SMBz$bnz$ECBz$TMBz$UMBz$z$gBz$z$Nfz$LCBz$MCBz$NCBz$z$VMBz$aqz$WMBz$bqz$z$Tfz$z$Ufz$z$PKBz$GMBz$HMBz$IMBz$z$JMBz$KMBz$eOz$z$hCz$FKBz$XMBz$Ugz$z$NDz$LMBz$lHBz$MMBz$YMBz$ZMBz$aMBz$z$QMBz$RMBz$SMBz$bnz$ECBz$TMBz$UMBz$z$Fpz$bMBz$JUz$cMBz$dMBz$eMBz$Vjz$Wjz$fMBz$gMBz$z$hMBz$WQz$XQz$nMCz$qPz$oMCz$pMCz$qMCz$rMCz$mMBz$eOz$z$Ksz$jCBz$nMBz$oMBz$wMz$IQz$QGBz$pMBz$qMBz$z$Uz$Vz$XGBz$OKz$Yxz$bDz$cDz$dDz$z$ez$rMBz$sMBz$tMBz$uMBz$ZYz$Fpz$lPz$z$iKBz$jKBz$z$qz$z$vCz$z$Tfz$z$vMBz$aqz$WMBz$irz$AOz$wMBz$xMBz$yMBz$ANBz$Tfz$z$BNBz$aqz$WMBz$irz$AOz$wMBz$CNBz$DNBz$Xoz$ENBz$Kwz$z$FNBz$aqz$WMBz$irz$AOz$dLBz$bLBz$eLBz$fLBz$WIBz$z$GNBz$aqz$WMBz$irz$AOz$HNBz$INBz$JNBz$KNBz$tvz$z$LNBz$aqz$WMBz$irz$AOz$MNBz$NNBz$ONBz$PNBz$Tfz$z$ffz$z$Ndz$Odz$Ifz$QNBz$RNBz$SNBz$TNBz$UNBz$VNBz$QMBz$RMBz$WNBz$z$Uz$bNz$XNBz$aqz$WMBz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$YNBz$ZNBz$APz$z$oz$pz$z$QDz$RDz$aNBz$aqz$WMBz$bNBz$cNBz$dNBz$eNBz$bDz$cDz$dDz$z$JDz$atz$btz$ctz$fNBz$gNBz$LYz$hNBz$UNBz$APz$z$oz$pz$z$qz$z$Tfz$z$jfz$z$JDz$atz$btz$ctz$YNBz$iNBz$jNBz$z$oz$pz$z$pfz$z$qz$z$otz$kNBz$lNBz$Tlz$Ulz$QMBz$RMBz$mNBz$Avz$nNBz$oNBz$whz$z$JDz$atz$jBBz$kBBz$lCBz$pNBz$QMBz$RMBz$qNBz$z$ez$yHz$z$ROBz$SOBz$TOBz$UOBz$z$qz$z$rz$z$jFz$XOBz$avz$Tz$z$ez$yHz$z$JDz$atz$jBBz$kBBz$YOBz$KLBz$ZOBz$PDz$z$Uz$Vz$aOBz$muz$Zsz$bRz$UBz$VBz$z$Uz$Vz$bOBz$Biz$cOBz$bDz$cDz$dDz$z$dOBz$eOBz$fOBz$gOBz$hOBz$pKz$VTz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$ez$iOBz$avz$jOBz$kOBz$z$YVz$lOBz$mOBz$nOBz$oOBz$pOBz$z$qOBz$oPz$LYz$rOBz$avz$crz$sOBz$tOBz$uOBz$xmz$vOBz$pKz$wOBz$xOBz$yOBz$APBz$z$BPBz$CPBz$oJBz$z$DPBz$EPBz$fDz$z$FPBz$GPBz$qPz$rOBz$avz$crz$HPBz$IPBz$JPBz$KPBz$iLBz$LPBz$z$qWz$MPBz$NPBz$OPBz$xrz$PPBz$nUz$QPBz$RPBz$SPBz$Vsz$TPBz$UPBz$z$qz$z$qz$z$dOBz$eOBz$fOBz$VPBz$WPBz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$Gwz$XPBz$YPBz$sMCz$PDz$z$oz$pz$z$qz$z$uGz$vGz$wGz$xGz$VPBz$WPBz$z$gBz$z$Ksz$Lsz$dPBz$avz$eqz$fqz$gqz$whz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$ePBz$fPBz$gPBz$hPBz$KLBz$iPBz$jPBz$PDz$z$oz$pz$z$qz$z$qz$z$rz$z$DUz$kPBz$lPBz$MFz$z$Uz$Vz$aOBz$muz$Zsz$bRz$UBz$VBz$z$uGz$vGz$mPBz$nPBz$KLBz$oPBz$z$gBz$z$KLBz$pPBz$qPBz$Ssz$sYz$Vsz$rPBz$sPBz$KLBz$tPBz$bUz$z$qz$z$rz$z$uPBz$juz$kuz$FKz$z$Uz$Vz$aOBz$muz$Zsz$bRz$UBz$VBz$z$uGz$vGz$mPBz$vPBz$avz$z$gBz$z$Ksz$wPBz$xPBz$IQz$piz$yPBz$AQBz$z$Uz$Vz$Osz$Psz$Qsz$cz$dz$z$KLBz$BQBz$CQBz$tUz$z$qz$z$qz$z$rz$z$DQBz$EQBz$bCz$z$bLz$JABz$CYz$iHCz$JQBz$z$Uz$bNz$FQBz$GQBz$xuz$HQBz$HDz$IDz$z$uPBz$juz$oPBz$z$UEz$PnBz$z$Ksz$tMCz$uMCz$vMCz$wMCz$IQz$piz$xMCz$yMCz$QBBz$ANCz$z$Uz$Vz$XGBz$cNBz$Yxz$bDz$cDz$dDz$z$JDz$atz$Ulz$WDBz$BNCz$CNCz$DNCz$ENCz$FNCz$GNCz$HNCz$z$ez$wQBz$xQBz$INCz$z$ez$cNz$SGBz$PDz$z$UEz$JNCz$z$KNCz$LNCz$MNCz$NNCz$ONCz$NOz$OOz$PNCz$QNCz$RNCz$SNCz$SOz$shz$iDz$TNCz$oQz$Avz$UNCz$VNCz$kCBz$z$qBBz$qUBz$WNCz$KNCz$ADz$z$XNCz$YNCz$ZNCz$z$ez$aNCz$bNCz$cNCz$ZNCz$PDz$z$vCz$z$UEz$dNCz$z$Ksz$tMCz$uMCz$vMCz$wMCz$IQz$piz$xMCz$yMCz$QBBz$ANCz$z$Uz$Vz$XGBz$cNBz$Yxz$bDz$cDz$dDz$z$JDz$atz$Ulz$WDBz$wQBz$eNCz$fNCz$gNCz$hNCz$iNCz$jNCz$kNCz$z$ez$wQBz$xQBz$INCz$z$ez$cNz$SGBz$PDz$z$oz$pz$z$qz$z$qz$z$dOBz$eOBz$fOBz$rFz$SRBz$lABz$TRBz$z$Uz$Vz$bOBz$Biz$cOBz$bDz$cDz$dDz$z$dOBz$eOBz$fOBz$URBz$VRBz$z$uGz$vGz$mPBz$nPBz$WRBz$OHz$z$uGz$vGz$wGz$xGz$URBz$XRBz$z$gBz$z$dOBz$eOBz$fOBz$URBz$dDz$z$uGz$vGz$mPBz$nPBz$WRBz$z$uGz$vGz$wGz$xGz$URBz$dDz$z$qz$z$wjz$hqz$VKz$wwz$YRBz$ZRBz$aRBz$bRBz$cRBz$dRBz$lNCz$mNCz$nNCz$oNCz$DOz$z$kRBz$lRBz$mRBz$nRBz$z$oRBz$pRBz$qRBz$pRBz$FWBz$pNCz$qNCz$rNCz$sNCz$tNCz$qNCz$VTz$z$oRBz$pRBz$qRBz$pRBz$rRBz$vRBz$wRBz$xRBz$yRBz$ASBz$sYz$BSBz$CSBz$DSBz$z$Uz$Vz$WCCz$uNCz$pOz$vNCz$wNCz$cz$dz$z$Uz$Vz$aOBz$muz$Zsz$bRz$UBz$VBz$z$oRBz$pRBz$qRBz$pRBz$FWBz$xNCz$yNCz$Evz$CFBz$cGBz$DTBz$AOCz$BOCz$COCz$DOCz$EOCz$FOCz$GOCz$Obz$aICz$CQBz$HOCz$YSBz$EHz$IOCz$JOCz$KOCz$Ipz$Gpz$uYz$nPBz$KLBz$LOCz$MOCz$NOCz$OOCz$POCz$QOCz$ROCz$xNCz$SOCz$TOCz$z$gBz$z$oRBz$pRBz$qRBz$pRBz$FWBz$xNCz$yNCz$Evz$CFBz$cGBz$DTBz$AOCz$BOCz$COCz$DOCz$EOCz$FOCz$UOCz$avz$LrBz$uPBz$YLz$VOCz$nMBz$WOCz$XOCz$EHz$IOCz$JOCz$YOCz$ZOCz$aOCz$bOCz$BUz$cOCz$avz$Bpz$dOCz$MUBz$qUz$YLz$VOCz$nMBz$WOCz$XOCz$eOCz$fOCz$gOCz$hOCz$iOCz$jOCz$kOCz$xSBz$nLz$VTz$z$qz$z$gBz$z$Uz$Vz$aOBz$muz$Zsz$bRz$UBz$VBz$z$oRBz$pRBz$qRBz$pRBz$FWBz$xNCz$yNCz$Evz$CFBz$cGBz$DTBz$AOCz$BOCz$COCz$DOCz$EOCz$FOCz$GOCz$Obz$aICz$CQBz$HOCz$YSBz$EHz$IOCz$JOCz$KOCz$Ipz$Gpz$uYz$nPBz$KLBz$LOCz$MOCz$NOCz$OOCz$xNCz$SOCz$TOCz$z$gBz$z$oRBz$pRBz$qRBz$pRBz$FWBz$xNCz$yNCz$Evz$CFBz$cGBz$DTBz$AOCz$BOCz$COCz$DOCz$EOCz$FOCz$UOCz$avz$LrBz$uPBz$YLz$VOCz$nMBz$WOCz$XOCz$EHz$IOCz$JOCz$YOCz$ZOCz$aOCz$bOCz$BUz$cOCz$avz$Bpz$dOCz$MUBz$qUz$YLz$VOCz$nMBz$WOCz$XOCz$eOCz$fOCz$gOCz$hOCz$xSBz$nLz$VTz$z$qz$z$qz$z$JDBz$HFBz$ZRBz$aRBz$mSBz$qFBz$nSBz$oSBz$pSBz$qSBz$YLz$FKz$z$JDz$atz$btz$ctz$lOCz$mOCz$nOCz$oOCz$UPz$z$oz$pz$z$rz$z$SFBz$xuz$mHCz$UKCz$dICz$mSBz$qFBz$VKCz$slBz$z$MFBz$JFz$NFBz$ZYz$AHCz$VFBz$mEBz$WFBz$TKCz$z$oRBz$pRBz$qRBz$pRBz$FWBz$pOCz$Hbz$qOCz$rOCz$GSBz$qFBz$HSBz$sOCz$MEz$z$DTBz$ETBz$Adz$qcz$FTBz$GTBz$tOCz$MEz$z$ITBz$JTBz$cWz$QZz$KTBz$LTBz$suz$MEz$z$MTBz$NTBz$OTBz$qcz$PTBz$QTBz$VPBz$RTBz$STBz$iiz$TTBz$z$JDBz$UTBz$GQBz$xuz$GJz$ruz$SFBz$xuz$Ylz$VTBz$z$JDz$atz$btz$ctz$lOCz$mOCz$nOCz$oOCz$UPz$z$oz$pz$z$rz$z$gBz$z$WTBz$RKCz$uOCz$vOCz$ZYz$AHCz$VFBz$mEBz$WFBz$ZTBz$z$WTBz$RKCz$JEBz$wOCz$ZYz$AHCz$VFBz$mEBz$WFBz$LPBz$z$qz$z$rz$z$qUz$cTBz$Tuz$bCz$z$bLz$JABz$KABz$ILBz$JLBz$KLBz$LLBz$dTBz$z$Uz$Vz$ROBz$SOBz$TOBz$axz$eTBz$HDz$IDz$z$ez$fTBz$gTBz$Jqz$hTBz$iTBz$VIz$jTBz$kTBz$Isz$lTBz$mTBz$nTBz$oTBz$z$ez$pTBz$qTBz$rTBz$sTBz$tTBz$ssz$tsz$Vsz$uTBz$vTBz$wTBz$xTBz$yTBz$z$AUBz$BUBz$CUBz$DUBz$EUBz$FUBz$GUBz$HUBz$IUBz$JUBz$KUBz$z$gBz$z$AUBz$BUBz$CUBz$bqz$z$qz$z$Uz$Vz$aOBz$muz$Zsz$bRz$UBz$VBz$z$Uz$nuz$ouz$ZYz$KLBz$LUBz$MUBz$qUz$NUBz$bDz$cDz$dDz$z$OUBz$ZYz$KLBz$LUBz$MUBz$qUz$CYz$Hsz$Isz$KLBz$tPBz$PUBz$QUBz$z$qz$z$Ksz$RUBz$KLBz$SUBz$yjz$Akz$Bgz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$Laz$TUBz$UUBz$VUBz$z$gBz$z$Laz$WUBz$YSBz$z$qz$z$EGz$XUz$XUBz$avz$Vsz$YUBz$ZUBz$aUBz$bUBz$z$Laz$cUBz$dUBz$z$eUBz$uNz$fUBz$gUBz$ytz$hUBz$z$iUBz$jUBz$kUBz$lUBz$mUBz$avz$nUBz$oUBz$pUBz$z$qUBz$rUBz$Vsz$sUBz$tUBz$z$uUBz$vUBz$QIz$wUBz$xUBz$avz$VVz$WVz$yUBz$AVBz$z$BVBz$CVBz$z$eUBz$DVBz$EVBz$FVBz$GVBz$HVBz$z$rz$z$LYz$MFz$z$IVBz$JVBz$KVBz$bBz$LVBz$MVBz$NVBz$OVBz$PVBz$MVBz$NVBz$Laz$QVBz$ZCz$pZz$RVBz$SVBz$TVBz$UVBz$LCz$z$VVBz$oez$WVBz$XVBz$YVBz$ZVBz$aVBz$bVBz$cVBz$dVBz$eVBz$fVBz$z$gVBz$LYz$hVBz$iVBz$jVBz$kVBz$LYz$lVBz$mVBz$nVBz$Gaz$oVBz$z$bFBz$pVBz$qVBz$rVBz$sVBz$Vsz$tVBz$Lnz$uVBz$vVBz$wVBz$z$BUz$xVBz$yVBz$AWBz$BWBz$z$CWBz$QZz$qcz$qcz$qcz$DWBz$z$FVz$EWBz$FWBz$qcz$qcz$DWBz$z$FVz$GWBz$HWBz$qcz$qcz$DWBz$z$IWBz$JWBz$KWBz$TDz$LWBz$MWBz$z$NWBz$OWBz$PWBz$QWBz$RWBz$SWBz$Kwz$z$TWBz$qcz$qcz$qcz$qcz$DWBz$z$uUBz$vUBz$qcz$qcz$qcz$nUz$Vsz$UWBz$VWBz$NWBz$WWBz$z$XWBz$YWBz$NWBz$qcz$qcz$dFBz$eFBz$fFBz$ZWBz$aWBz$bWBz$Kwz$z$uUBz$vUBz$nUz$Vsz$rPBz$cWBz$dWBz$qUz$Kwz$z$rz$z$eWBz$z$qz$z$Uz$Vz$QMBz$RMBz$fWBz$gWBz$HDz$IDz$z$hWBz$JKz$PDz$z$gBz$z$hWBz$JKz$iWBz$jWBz$kWBz$sYz$lWBz$mWBz$Kwz$z$iWBz$nWBz$oWBz$QMBz$RMBz$pWBz$z$iWBz$qWBz$rWBz$gGz$sWBz$tWBz$uWBz$vWBz$wWBz$z$xWBz$yWBz$AXBz$BXBz$CXBz$DXBz$EXBz$FXBz$qFBz$GXBz$z$xWBz$yWBz$HXBz$IXBz$JXBz$PDz$z$qz$z$Uz$Vz$dDBz$Biz$xrz$eDBz$fDBz$dDBz$Biz$xrz$bRz$UBz$VBz$z$bLz$JABz$xOCz$yOCz$voz$APCz$BPCz$z$Uz$Vz$luz$wGBz$xGBz$bDz$cDz$dDz$z$EGz$PXBz$Csz$Dsz$Esz$QXBz$TGBz$UGBz$RXBz$SXBz$TXBz$z$BUz$UXBz$z$TQBz$VXBz$WXBz$z$TQBz$XXBz$YXBz$ZXBz$z$BUz$aXBz$rHz$TGBz$UGBz$bXBz$z$fuz$oxz$cXBz$qPz$dXBz$eXBz$LPz$YVz$fXBz$gXBz$hXBz$iXBz$jXBz$kXBz$z$rz$z$BUz$UXBz$z$TQBz$lXBz$qcz$mXBz$gXBz$nXBz$VKz$oXBz$z$TQBz$lXBz$qcz$pXBz$qXBz$cDBz$rXBz$sXBz$tXBz$z$BUz$aXBz$rHz$TGBz$UGBz$bXBz$z$uXBz$vXBz$wXBz$xXBz$z$yXBz$AYBz$BYBz$CYBz$DYBz$EYBz$DYBz$FYBz$z$yXBz$GYBz$rhz$HYBz$IYBz$JYBz$KYBz$LYBz$MYBz$NYBz$OYBz$PYBz$QYBz$RYBz$SYBz$TYBz$UYBz$HYBz$IYBz$VYBz$WYBz$LYBz$XYBz$NYBz$YYBz$ZYBz$aYBz$bYBz$TYBz$UYBz$HYBz$IYBz$VYBz$cYBz$LYBz$XYBz$dYBz$eYBz$PYBz$fYBz$gYBz$hYBz$iYBz$jYBz$kYBz$lYBz$gYBz$hYBz$mYBz$jYBz$kYBz$UYBz$gYBz$nYBz$oYBz$pYBz$qYBz$rYBz$Kwz$z$yXBz$HPz$xYBz$XTz$yYBz$AZBz$BZBz$Kwz$z$yXBz$CZBz$vz$DZBz$CPCz$DPCz$EPCz$FPCz$tsz$GPCz$HPCz$IPCz$z$yXBz$CZBz$vz$ZCz$IZBz$JZBz$z$yXBz$JPCz$xYBz$RWBz$KPCz$Kwz$z$yXBz$LPCz$MPCz$NPCz$z$yXBz$LPCz$MPCz$QMz$OPCz$DWBz$z$yXBz$CZBz$vz$KZBz$Ucz$JXBz$z$yXBz$LZBz$MZBz$Lz$NZBz$OZBz$PZBz$z$yXBz$LZBz$MZBz$QZBz$RZBz$SZBz$JFz$TZBz$z$Rtz$KABz$ILBz$JLBz$KLBz$LLBz$dTBz$z$WIz$Sz$UZBz$z$VZBz$WZBz$z$rz$z$XZBz$YZBz$auz$ZZBz$z$WIz$Sz$aZBz$lKBz$bZBz$z$iWBz$cZBz$tJBz$dZBz$eZBz$z$iWBz$nWBz$fZBz$kKz$gZBz$hZBz$iZBz$PPCz$cDBz$bXBz$z$iWBz$kZBz$lZBz$IKz$mZBz$nZBz$z$iWBz$qWBz$rWBz$gGz$oZBz$hHz$pZBz$cVBz$tRBz$qZBz$z$iWBz$qWBz$rWBz$gGz$rZBz$sZBz$mwz$tZBz$hHz$uZBz$z$iWBz$qWBz$rWBz$gGz$vZBz$wZBz$Fpz$Kwz$z$iWBz$qWBz$rWBz$gGz$xZBz$yZBz$AaBz$MVBz$NVBz$OVBz$Kwz$z$iWBz$qWBz$rWBz$gGz$BaBz$mVBz$nVBz$CaBz$DaBz$EaBz$FaBz$lVBz$mVBz$nVBz$Gaz$Kwz$z$rz$z$rz$z$eWBz$z$gBz$z$EGz$PXBz$Csz$Dsz$Esz$QXBz$TGBz$UGBz$RXBz$SXBz$TXBz$z$BUz$UXBz$z$TQBz$VXBz$WXBz$z$TQBz$XXBz$YXBz$ZXBz$z$TQBz$VXBz$GaBz$tXBz$z$BUz$aXBz$rHz$TGBz$UGBz$bXBz$z$Rtz$KABz$ILBz$JLBz$KLBz$LLBz$dTBz$z$WIz$Sz$UZBz$z$VZBz$WZBz$z$rz$z$XZBz$YZBz$auz$ZZBz$z$rz$z$eWBz$z$qz$z$qz$z$rz$z$HaBz$IaBz$JaBz$MFz$z$Uz$Ojz$CYz$Ddz$dMz$KaBz$Orz$Ylz$LaBz$OOz$MaBz$NaBz$OaBz$PaBz$QaBz$nUz$RaBz$SaBz$Bpz$TaBz$cDz$dDz$z$SYz$TYz$UaBz$VaBz$WaBz$XaBz$YaBz$ZaBz$aaBz$baBz$caBz$daBz$VZz$YUz$IaBz$eaBz$hYz$STz$z$faBz$gaBz$haBz$z$qz$z$rz$z$iaBz$tFz$jaBz$bCz$z$Ksz$Lsz$kaBz$tFz$laBz$OTBz$Qrz$Rrz$maBz$z$Uz$fxz$naBz$Ktz$cz$dz$z$uGz$vGz$mPBz$mez$oaBz$paBz$qaBz$bABz$Xrz$raBz$saBz$z$Uz$fxz$naBz$Ktz$taBz$VBz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$uaBz$vaBz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$uaBz$qPz$z$Uz$Vz$cDBz$waBz$xaBz$yaBz$cz$dz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$AbBz$BbBz$CbBz$DbBz$EbBz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$AbBz$BbBz$CbBz$DbBz$FbBz$z$qz$z$BHz$CHz$DHz$MHz$NHz$OHz$z$gBz$z$GbBz$HbBz$IbBz$JbBz$KbBz$LbBz$ZQz$MbBz$NbBz$hOz$ObBz$WOz$XOz$glz$z$Uz$Vz$PbBz$Vvz$yaBz$cz$dz$z$HbBz$IbBz$QbBz$RbBz$SbBz$TbBz$UbBz$UKz$VbBz$WbBz$XbBz$YbBz$z$HbBz$IbBz$QbBz$RbBz$SbBz$TbBz$UbBz$UKz$ZbBz$abBz$bbBz$cbBz$z$Uz$Vz$cDBz$waBz$xaBz$yaBz$cz$dz$z$HbBz$IbBz$QbBz$RbBz$SbBz$TbBz$UbBz$UKz$mXBz$gXBz$abBz$bbBz$cbBz$z$HbBz$IbBz$QbBz$RbBz$SbBz$dbBz$UbBz$UKz$mXBz$gXBz$abBz$bbBz$cbBz$z$qz$z$qz$z$qz$z$gBz$z$Ksz$Lsz$ebBz$fbBz$gbBz$Qrz$Rrz$maBz$z$Uz$fxz$naBz$Ktz$cz$dz$z$GbBz$HbBz$IbBz$JbBz$KbBz$LbBz$ZQz$MbBz$NbBz$hOz$ObBz$WOz$XOz$glz$z$Uz$Vz$PbBz$Vvz$yaBz$cz$dz$z$HbBz$IbBz$QbBz$RbBz$SbBz$TbBz$UbBz$UKz$VbBz$WbBz$XbBz$YbBz$z$HbBz$IbBz$QbBz$RbBz$SbBz$TbBz$UbBz$UKz$ZbBz$abBz$bbBz$cbBz$z$Uz$Vz$cDBz$waBz$xaBz$yaBz$cz$dz$z$HbBz$IbBz$QbBz$RbBz$SbBz$TbBz$UbBz$UKz$mXBz$gXBz$abBz$bbBz$cbBz$z$HbBz$IbBz$QbBz$RbBz$SbBz$dbBz$UbBz$UKz$mXBz$gXBz$abBz$bbBz$cbBz$z$qz$z$qz$z$gBz$z$Ksz$Lsz$hbBz$ibBz$Wrz$Xrz$jbBz$z$Uz$fxz$naBz$Ktz$cz$dz$z$Ksz$kbBz$nlz$olz$IQz$piz$rBBz$hWBz$lbBz$z$Uz$Vz$Osz$Biz$bRz$UBz$VBz$z$mbBz$nbBz$obBz$pbBz$qbBz$z$mbBz$nbBz$obBz$rbBz$EbBz$z$Uz$Vz$cDBz$waBz$xaBz$yaBz$cz$dz$z$mbBz$nbBz$sbBz$cDBz$tbBz$tUz$z$mbBz$nbBz$sbBz$cDBz$ubBz$tUz$z$qz$z$qz$z$qz$z$qz$z$qz$z$rz$z$jFz$QPCz$dICz$Tz$z$VPz$qsz$xbBz$AHCz$iFz$z$bLz$JABz$ybBz$RPCz$JQBz$z$CcBz$DcBz$EcBz$SPCz$qPz$TPCz$mOz$tPz$oHCz$FJCz$AHCz$GJCz$HJCz$AGz$IJCz$UPCz$NTBz$VPCz$Wxz$WPCz$AHCz$ScBz$nHz$TcBz$UcBz$VcBz$WcBz$PDz$z$JDz$atz$jBBz$kBBz$XcBz$XPCz$YPCz$ncBz$ocBz$pcBz$ZPCz$z$wjz$bcBz$ccBz$dcBz$ecBz$iUz$fcBz$gcBz$hcBz$icBz$jcBz$RKCz$aPCz$dICz$WcBz$oKCz$bPCz$cPCz$dPCz$rz$z$Uz$rcBz$scBz$tcBz$dz$z$JDz$atz$btz$ctz$ePCz$dICz$fPCz$xOz$gPCz$hPCz$z$oz$pz$z$qz$z$AHCz$iPCz$gcz$qUz$jPCz$kPCz$lPCz$z$bLz$JABz$mPCz$UKCz$dICz$nPCz$oPCz$pPCz$AHCz$qPCz$uFBz$z$DdBz$EdBz$rPCz$dICz$RKCz$lcBz$sPCz$tPCz$rPCz$dICz$z$bLz$JABz$KABz$uPCz$vPCz$JQBz$z$HdBz$xbBz$AHCz$bICz$NABz$QIz$RIz$RKCz$wPCz$xPCz$jcBz$RKCz$yPCz$AQCz$QIz$RIz$RKCz$wPCz$z$kVz$lVz$BQCz$hVz$CQCz$dICz$RKCz$DQCz$VTBz$z$JDz$atz$btz$ctz$EQCz$OmBz$mmz$z$oz$pz$z$rz$z$Uz$Vz$Gxz$FQCz$Biz$SJCz$GQCz$bDz$cDz$dDz$z$HdBz$xbBz$AHCz$bICz$Gpz$QIz$RIz$RKCz$wPCz$z$kVz$lVz$BQCz$hVz$CQCz$dICz$HQCz$IQCz$VTBz$z$JDz$atz$btz$ctz$EQCz$OmBz$mmz$z$oz$pz$z$rz$z$AHCz$iPCz$gcz$qUz$jPCz$JQCz$KQCz$z$qz$z$EGz$LQCz$MQCz$NQCz$YeBz$TXBz$z$SdBz$TdBz$z$UdBz$VdBz$Pjz$iICz$OQCz$QdBz$VTz$z$XdBz$YdBz$BGBz$ZdBz$AOz$wMBz$PQCz$QQCz$kLz$z$bdBz$cdBz$ddBz$edBz$fdBz$gdBz$hdBz$idBz$jdBz$kdBz$z$ldBz$QTBz$mdBz$z$RQCz$SQCz$TQCz$z$ndBz$odBz$ePz$z$pdBz$qdBz$rdBz$sdBz$xrz$z$tdBz$udBz$vdBz$hVz$CQCz$dICz$RKCz$UQCz$AHCz$iPCz$gcz$qUz$VQCz$ZYz$AHCz$AeBz$Orz$BeBz$dDz$z$CeBz$DeBz$EeBz$FeBz$GeBz$z$MeBz$sez$mdBz$z$NeBz$OeBz$PeBz$QeBz$ReBz$jdBz$kdBz$z$eWBz$z$uGz$vGz$SeBz$TeBz$iiz$UeBz$z$uGz$vGz$wGz$xGz$WLCz$WQCz$JHz$XQCz$z$rz$z$sIBz$WeBz$Orz$Tz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$jeBz$keBz$leBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$qeBz$reBz$seBz$teBz$ueBz$veBz$z$rz$z$weBz$z$dsz$xeBz$yeBz$AfBz$z$FKz$z$BfBz$CfBz$oTz$DfBz$EfBz$z$FfBz$eeBz$GfBz$z$HfBz$z$FKz$z$BfBz$CfBz$IfBz$leBz$z$FfBz$eeBz$JfBz$z$rz$z$mdBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$RfBz$leBz$z$SfBz$TfBz$UfBz$VfBz$WfBz$z$VfBz$XfBz$YfBz$ZfBz$z$PTBz$afBz$bfBz$cfBz$mEBz$dfBz$z$BfBz$CfBz$efBz$ffBz$gfBz$hfBz$ifBz$z$jfBz$kfBz$lfBz$beBz$mfBz$z$FKz$z$jfBz$kfBz$lfBz$nfBz$QfBz$NZBz$OZBz$ofBz$z$pfBz$nfBz$QfBz$SZBz$JFz$KFz$z$rz$z$mdBz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$sIBz$IgBz$JgBz$Orz$Tz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$jeBz$keBz$leBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$qeBz$reBz$seBz$teBz$ueBz$KgBz$z$LgBz$MgBz$NgBz$OgBz$z$rz$z$weBz$z$dsz$xeBz$yeBz$AfBz$z$FKz$z$BfBz$CfBz$oTz$DfBz$EfBz$z$FfBz$eeBz$GfBz$z$HfBz$z$FKz$z$BfBz$CfBz$IfBz$leBz$z$FfBz$eeBz$JfBz$z$rz$z$mdBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$RfBz$leBz$z$SfBz$TfBz$UfBz$PgBz$QgBz$z$PgBz$Xuz$Yuz$beBz$FKz$z$PTBz$afBz$bfBz$cfBz$mEBz$dfBz$z$BfBz$CfBz$efBz$ffBz$gfBz$hfBz$ifBz$z$jfBz$kfBz$lfBz$beBz$mfBz$z$FKz$z$jfBz$kfBz$lfBz$nfBz$QfBz$NZBz$OZBz$ofBz$z$pfBz$nfBz$QfBz$SZBz$JFz$KFz$z$rz$z$mdBz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$RgBz$SgBz$TgBz$bCz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$ZgBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$dgBz$egBz$fgBz$z$ggBz$hgBz$igBz$z$rz$z$mdBz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$RgBz$jgBz$kgBz$lgBz$MFz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$ZgBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$dgBz$egBz$fgBz$z$ggBz$hgBz$igBz$z$rz$z$mdBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$ngBz$WfBz$z$ogBz$XfBz$YfBz$ZfBz$z$pgBz$qgBz$rgBz$sgBz$tgBz$ugBz$z$vgBz$wgBz$xgBz$ygBz$UfBz$AhBz$z$BhBz$ChBz$DhBz$EhBz$FhBz$z$GhBz$HhBz$OfBz$z$IhBz$JhBz$KhBz$iIBz$jIBz$KFz$z$HfBz$z$LhBz$seBz$MhBz$NhBz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$RgBz$OhBz$kgBz$lgBz$MFz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$ZgBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$dgBz$egBz$fgBz$z$ggBz$hgBz$igBz$z$rz$z$weBz$z$PhBz$xGz$QhBz$RhBz$ShBz$ThBz$UhBz$VhBz$WhBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$RfBz$leBz$z$SfBz$TfBz$UfBz$VfBz$WfBz$z$VfBz$XfBz$YfBz$ZfBz$z$PTBz$afBz$bfBz$cfBz$mEBz$dfBz$z$BfBz$CfBz$efBz$ffBz$gfBz$hfBz$ifBz$z$jfBz$kfBz$lfBz$beBz$mfBz$z$FKz$z$jfBz$kfBz$lfBz$nfBz$QfBz$NZBz$OZBz$ofBz$z$pfBz$nfBz$QfBz$SZBz$JFz$KFz$z$rz$z$mdBz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$RgBz$XhBz$hYz$YhBz$FKz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$YQCz$ZQCz$z$bhBz$chBz$dhBz$ehBz$fhBz$WfBz$z$geBz$heBz$ieBz$ZgBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$dgBz$egBz$fgBz$z$ggBz$hgBz$igBz$z$rz$z$weBz$z$PhBz$xGz$QhBz$RhBz$ShBz$ThBz$UhBz$VhBz$WhBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$ghBz$z$hhBz$MfBz$NfBz$OfBz$z$ihBz$jhBz$khBz$MIz$WfBz$z$GhBz$ILz$ZfBz$z$lhBz$eeBz$mhBz$UGBz$PDz$z$rz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$nhBz$OhBz$kgBz$lgBz$MFz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$phBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$dgBz$egBz$kcz$z$rz$z$weBz$z$qhBz$DSBz$DhBz$rhBz$shBz$leBz$z$dsz$xeBz$yeBz$AfBz$z$FKz$z$BfBz$CfBz$oTz$DfBz$EfBz$z$FfBz$eeBz$GfBz$z$HfBz$z$FKz$z$BfBz$CfBz$IfBz$leBz$z$FfBz$eeBz$JfBz$z$rz$z$mdBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$RfBz$leBz$z$SfBz$TfBz$UfBz$VfBz$WfBz$z$VfBz$XfBz$YfBz$ZfBz$z$PTBz$afBz$bfBz$cfBz$mEBz$dfBz$z$BfBz$CfBz$efBz$ffBz$gfBz$hfBz$ifBz$z$jfBz$kfBz$lfBz$beBz$mfBz$z$FKz$z$jfBz$kfBz$lfBz$nfBz$QfBz$NZBz$OZBz$ofBz$z$pfBz$nfBz$QfBz$SZBz$JFz$KFz$z$rz$z$mdBz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$nhBz$uhBz$vhBz$TgBz$bCz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$phBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$LgBz$MgBz$NgBz$whBz$z$dgBz$egBz$kcz$z$rz$z$weBz$z$qhBz$DSBz$DhBz$rhBz$shBz$leBz$z$dsz$xeBz$yeBz$AfBz$z$FKz$z$BfBz$CfBz$oTz$DfBz$EfBz$z$FfBz$eeBz$GfBz$z$HfBz$z$FKz$z$BfBz$CfBz$IfBz$leBz$z$FfBz$eeBz$JfBz$z$rz$z$mdBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$RfBz$leBz$z$SfBz$TfBz$UfBz$PgBz$QgBz$z$PgBz$Xuz$Yuz$beBz$FKz$z$PTBz$afBz$bfBz$cfBz$mEBz$dfBz$z$BfBz$CfBz$efBz$ffBz$gfBz$hfBz$ifBz$z$jfBz$kfBz$lfBz$beBz$mfBz$z$FKz$z$jfBz$kfBz$lfBz$nfBz$QfBz$NZBz$OZBz$ofBz$z$pfBz$nfBz$QfBz$SZBz$JFz$KFz$z$rz$z$mdBz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$nhBz$XhBz$hYz$YhBz$FKz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$YQCz$ZQCz$z$bhBz$chBz$dhBz$ehBz$fhBz$WfBz$z$geBz$heBz$ieBz$phBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$dgBz$egBz$kcz$z$rz$z$weBz$z$qhBz$DSBz$DhBz$rhBz$shBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$ghBz$z$SfBz$TfBz$UfBz$thBz$xhBz$z$hhBz$MfBz$NfBz$OfBz$z$ihBz$jhBz$khBz$MIz$WfBz$z$GhBz$ILz$ZfBz$z$lhBz$eeBz$mhBz$UGBz$PDz$z$rz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$nhBz$jgBz$kgBz$lgBz$MFz$z$WIz$UgBz$VgBz$WgBz$XgBz$nIBz$oUz$vKz$uVz$rABz$oIBz$YgBz$ZLBz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$ZeBz$aeBz$beBz$ceBz$z$deBz$eeBz$iHBz$feBz$z$geBz$heBz$ieBz$phBz$agBz$z$meBz$Yuz$beBz$FKz$z$neBz$oeBz$peBz$z$FKz$z$bgBz$cfBz$cgBz$WfBz$z$dgBz$egBz$kcz$z$rz$z$weBz$z$qhBz$DSBz$DhBz$rhBz$shBz$z$HfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$KfBz$LfBz$MfBz$NfBz$OfBz$z$PfBz$eUBz$QfBz$ngBz$WfBz$z$ogBz$XfBz$YfBz$ZfBz$z$pgBz$qgBz$rgBz$sgBz$tgBz$ugBz$z$vgBz$wgBz$xgBz$ygBz$UfBz$AhBz$z$BhBz$ChBz$DhBz$EhBz$FhBz$z$GhBz$HhBz$OfBz$z$IhBz$JhBz$KhBz$iIBz$jIBz$KFz$z$HfBz$z$LhBz$seBz$MhBz$NhBz$z$rz$z$rz$z$rz$z$qfBz$z$rfBz$sfBz$tfBz$ufBz$z$geBz$heBz$ieBz$vfBz$wfBz$WfBz$z$meBz$Yuz$beBz$xfBz$z$yfBz$z$geBz$heBz$ieBz$AgBz$BgBz$CgBz$z$meBz$Yuz$beBz$DgBz$z$EgBz$QfBz$FgBz$GgBz$z$HgBz$z$rz$z$eWBz$z$rz$z$qUz$aQCz$wbBz$bCz$z$bLz$JABz$CYz$iHCz$JQBz$z$Uz$Vz$asz$qIBz$wGBz$xGBz$bDz$cDz$dDz$z$Uz$Vz$gsz$axz$bxz$cxz$cz$dz$z$sIBz$IgBz$JgBz$Orz$z$gBz$z$sIBz$WeBz$Orz$z$qz$z$fuz$wxz$z$qz$z$Uz$Vz$Xsz$ljBz$mjBz$isz$bDz$cDz$dDz$z$Uz$Vz$pHBz$Biz$xrz$bRz$UBz$VBz$z$RgBz$jgBz$kgBz$aYz$z$fuz$wxz$z$qz$z$Uz$Vz$dDBz$Biz$Asz$cxz$cz$dz$z$RgBz$SgBz$njBz$z$QDz$RDz$khBz$axz$dsz$ojBz$HDz$IDz$z$RgBz$OhBz$kgBz$aYz$z$gBz$z$RgBz$XhBz$hYz$STz$z$qz$z$gBz$z$Uz$Vz$pHBz$Biz$xrz$bRz$UBz$VBz$z$nhBz$jgBz$kgBz$aYz$z$fuz$wxz$z$qz$z$Uz$Vz$luz$muz$Zsz$bRz$UBz$VBz$z$Uz$Vz$gsz$axz$dsz$ojBz$HDz$IDz$z$nhBz$OhBz$kgBz$aYz$z$gBz$z$nhBz$uhBz$vhBz$njBz$z$qz$z$gBz$z$nhBz$XhBz$hYz$STz$z$qz$z$qz$z$rz$z$KLBz$kuz$FKz$z$uGz$vGz$mPBz$nPBz$KLBz$oPBz$z$rz$z$KLBz$EmBz$MFz$z$uGz$vGz$WSBz$DUz$XSBz$hkBz$z$rz$z$jFz$jaBz$bCz$z$HABz$sEBz$z$qjBz$rjBz$sjBz$HUz$z$tjBz$qjBz$axz$itz$bRz$GJz$qjBz$ttz$ujBz$z$dOBz$eOBz$fOBz$vjBz$wjBz$xjBz$yjBz$AkBz$BkBz$uLz$qABz$wjz$bQCz$cQCz$z$dOBz$eOBz$fOBz$DkBz$EkBz$FkBz$GkBz$HkBz$IVz$z$dOBz$eOBz$fOBz$LkBz$MkBz$NkBz$LkBz$MkBz$NkBz$dGz$OkBz$PkBz$QkBz$dDz$z$dOBz$eOBz$fOBz$OGz$PGz$RkBz$tFz$uFz$SkBz$xGz$TkBz$YPz$z$Uz$Vz$bOBz$Biz$UkBz$bDz$cDz$dDz$z$dOBz$eOBz$fOBz$LkBz$VkBz$WkBz$XkBz$z$qz$z$Ksz$Utz$Vtz$DdBz$dQCz$yjz$Akz$Guz$z$Uz$fxz$Jtz$Ktz$cz$dz$z$JDz$atz$btz$ctz$DdBz$eQCz$mxz$nxz$z$oz$pz$z$qz$z$jFz$XOBz$avz$z$iaBz$tFz$fkBz$z$Uz$Vz$dDBz$Biz$xrz$eDBz$fDBz$dDBz$Biz$xrz$bRz$UBz$VBz$z$DQBz$gkBz$z$qz$z$qUz$cTBz$hkBz$z$JDz$atz$jBBz$kBBz$YOBz$iICz$fQCz$PDz$z$Wwz$IKz$ikBz$z$ewz$jkBz$kkBz$z$Uz$lkBz$mkBz$nkBz$Ktz$cz$dz$z$JDz$atz$jBBz$kBBz$gQCz$hQCz$iQCz$jQCz$ixz$kQCz$lQCz$z$QDz$RDz$pxz$qxz$tkBz$bDz$cDz$dDz$z$oz$pz$z$gBz$z$JDz$atz$jBBz$kBBz$YOBz$XPCz$mQCz$Gxz$QcBz$nQCz$TcBz$UcBz$VcBz$PDz$z$jFz$QPCz$dICz$z$qz$z$qUz$aQCz$JQBz$z$HaBz$IaBz$DmBz$z$DUz$ePz$z$sz$hJz$z$rz$z$hFz$FmBz$MFz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$JDz$atz$btz$ctz$EQCz$oQCz$pQCz$qQCz$z$fuz$guz$z$qz$z$Wwz$IKz$ikBz$z$ewz$jkBz$kkBz$z$Uz$lkBz$mkBz$nkBz$Ktz$cz$dz$z$JDz$atz$jBBz$kBBz$gQCz$hQCz$iQCz$jQCz$ixz$kQCz$lQCz$z$QDz$RDz$pxz$qxz$tkBz$bDz$cDz$dDz$z$oz$pz$z$gBz$z$JDz$atz$jBBz$kBBz$YOBz$XPCz$mQCz$Gxz$QcBz$nQCz$TcBz$UcBz$VcBz$PDz$z$jFz$QPCz$dICz$z$uPBz$z$DUz$ePz$z$JDz$atz$nlBz$iBz$MmBz$rQCz$sQCz$tQCz$PDz$z$qz$z$rz$z$Gbz$Hbz$Dnz$FKz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$JDz$atz$btz$ctz$EQCz$oQCz$pQCz$qQCz$z$fuz$guz$z$qz$z$ez$yHz$z$Ndz$Odz$PmBz$uQCz$vQCz$wQCz$JHBz$lJBz$Yfz$z$Uz$Vz$UmBz$VmBz$WmBz$XmBz$bRz$UBz$VBz$z$YmBz$ZmBz$ZQz$vZBz$amBz$auz$buz$bmBz$Avz$Bvz$Cvz$XKBz$YKBz$cmBz$dmBz$z$Uz$Vz$YmBz$emBz$Yxz$bDz$cDz$dDz$z$YmBz$ZmBz$ZQz$fmBz$afBz$rHz$vuz$wuz$xuz$Vjz$Wjz$Jpz$gmBz$hmBz$imBz$jmBz$Tmz$z$qz$z$uPBz$z$uGz$vGz$kmBz$lmBz$xQCz$JQBz$z$VPz$AnBz$gCBz$lHCz$xuz$z$VPz$qsz$ZYz$AHCz$iFz$z$VPz$qsz$VIz$jWz$AHCz$iFz$z$VPz$qsz$Rtz$xIz$yQCz$ARCz$z$VPz$qsz$Rtz$BRCz$CRCz$SXz$Yfz$z$VPz$qsz$Rtz$qmBz$rmBz$smBz$z$Uz$Vz$aOBz$muz$Zsz$bRz$UBz$VBz$z$uGz$vGz$kmBz$lmBz$tmBz$hkBz$z$dOBz$umBz$vmBz$KLBz$oPBz$z$Uz$Vz$bOBz$Biz$UkBz$bDz$cDz$dDz$z$dOBz$umBz$vmBz$KLBz$wmBz$xmBz$z$qz$z$VPz$qsz$ZYz$KLBz$LUBz$MUBz$qUz$z$Uz$fiz$CYz$Hsz$Isz$KLBz$tPBz$PUBz$ymBz$cz$dz$z$OUBz$ZYz$KLBz$LUBz$MUBz$qUz$NUBz$CYz$Hsz$Isz$KLBz$tPBz$bUz$z$qz$z$qz$z$Uz$Vz$YmBz$emBz$Vvz$bRz$UBz$VBz$z$VPz$AnBz$Csz$Dsz$Esz$DRCz$irBz$jrBz$FYz$GYz$z$qz$z$JDBz$HFBz$ZRBz$aRBz$HnBz$aRBz$Ylz$InBz$qmBz$rmBz$JnBz$rmBz$KnBz$Gbz$Hbz$nGz$z$JDz$atz$nlBz$iBz$yJCz$dICz$ERCz$PDz$z$qz$z$rz$z$DUz$NnBz$FKz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$JDz$atz$btz$ctz$EQCz$oQCz$pQCz$qQCz$z$fuz$guz$z$qz$z$uPBz$juz$oPBz$z$DUz$kPBz$WPBz$z$uGz$vGz$WSBz$DUz$FRCz$JQBz$z$UEz$PnBz$z$UKz$Vuz$tuz$uuz$vuz$wuz$xuz$RQz$SQz$yuz$Avz$Bvz$Cvz$Dvz$Evz$Fvz$Gvz$z$Ksz$Hvz$Ivz$Jvz$ZQz$Kvz$Lvz$NOz$OOz$cICz$dICz$whz$z$Uz$Vz$Osz$Biz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$WLCz$VnBz$YPBz$GRCz$HRCz$IRCz$JRCz$z$gBz$z$JDz$atz$jBBz$kBBz$KRCz$LRCz$bmz$z$qz$z$rz$z$uPBz$Tz$z$uPBz$juz$oPBz$z$uGz$vGz$mPBz$MRCz$dICz$z$JDz$atz$jBBz$kBBz$gQCz$NRCz$ORCz$z$rz$z$uYz$XnBz$bCz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$JDz$atz$btz$ctz$EQCz$oQCz$pQCz$qQCz$z$fuz$guz$z$qz$z$uPBz$z$DUz$ePz$z$rz$z$DQBz$hYz$YnBz$ZnBz$Luz$FKz$z$nhBz$anBz$Zsz$PDz$z$bnBz$dsz$esz$z$cnBz$Asz$Bsz$z$cJBz$hsz$isz$z$sIBz$dnBz$Asz$Bsz$z$AYBz$BYBz$enBz$fnBz$z$gnBz$dsz$esz$z$inBz$Qjz$jnBz$knBz$CUBz$JFz$PRCz$oHz$CiBz$Zjz$ajz$mnBz$nnBz$onBz$pnBz$qnBz$whz$z$rnBz$snBz$Qjz$tnBz$unBz$vnBz$auz$buz$tOCz$Zjz$ajz$mnBz$nnBz$onBz$pnBz$qnBz$whz$z$xnBz$ynBz$Qjz$AoBz$ddBz$BoBz$auz$buz$tOCz$QRCz$RRCz$SRCz$Tqz$YoBz$Uqz$Dvz$Evz$Fvz$Gvz$z$JDBz$vQz$xnBz$FoBz$Ylz$GoBz$HoBz$IoBz$RfBz$z$gLz$hLz$Vuz$aoBz$nLz$PABz$vuz$wuz$xuz$ISz$ONz$SoBz$Zjz$ajz$mnBz$nnBz$onBz$pnBz$qnBz$whz$z$YmBz$ZmBz$ZQz$fmBz$afBz$rHz$vuz$wuz$xuz$Vjz$Wjz$Jpz$gmBz$hmBz$imBz$jmBz$Tmz$z$Uz$Vz$YmBz$emBz$Yxz$bDz$cDz$dDz$z$YmBz$ZmBz$ZQz$vZBz$amBz$auz$buz$bmBz$Avz$Bvz$Cvz$XKBz$YKBz$cmBz$dmBz$z$Uz$Vz$YmBz$emBz$Vvz$bRz$UBz$VBz$z$cnBz$xrz$PDz$z$JoBz$KoBz$ZQz$LoBz$MoBz$auz$buz$bmBz$Avz$Bvz$Cvz$XKBz$YKBz$cmBz$dmBz$z$qz$z$qz$z$Uz$Vz$gLz$hLz$PJBz$TRCz$RKz$gxz$RDz$URCz$Edz$bvBz$Umz$cJBz$bRz$YLz$tjBz$VRCz$TfBz$WRCz$vlz$avBz$bvBz$HDz$IDz$z$bnBz$bxz$Bsz$z$Uz$Vz$gLz$hLz$PJBz$XRCz$YRCz$HDz$IDz$z$cJBz$ooBz$poBz$z$qz$z$qz$z$Uz$Vz$YmBz$emBz$Vvz$bRz$GJz$tjBz$VRCz$TfBz$WRCz$Yxz$bDz$cDz$dDz$z$bnBz$bxz$Bsz$z$qz$z$Uz$Vz$NoBz$wGBz$xGBz$bDz$cDz$dDz$z$UKz$Vuz$piz$OoBz$PoBz$LXBz$MXBz$NXBz$QoBz$YmBz$RoBz$qUz$RQz$SQz$ZRCz$ESz$Zmz$Rmz$Smz$Tmz$z$gBz$z$UKz$Vuz$tuz$uuz$vuz$wuz$xuz$Vjz$Wjz$Jpz$gmBz$hmBz$imBz$jmBz$Tmz$z$qz$z$Ksz$Qjz$ToBz$UoBz$knBz$CUBz$JFz$aRCz$z$Uz$Vz$Osz$Psz$Qsz$cz$dz$z$gnBz$bxz$Bsz$z$NWBz$Vuz$VoBz$KLz$WoBz$XoBz$voz$woz$suz$IQz$JQz$NWBz$MQz$Tqz$YoBz$Uqz$Dvz$Evz$Fvz$Gvz$z$ZoBz$Vuz$aoBz$boBz$vuz$wuz$xuz$Vjz$Wjz$Jpz$gmBz$hmBz$imBz$jmBz$Tmz$z$qz$z$RgBz$coBz$OOz$RgBz$Zuz$auz$buz$cuz$z$Uz$Vz$RgBz$doBz$gWBz$HDz$IDz$z$sIBz$eoBz$ZQz$KJBz$foBz$vuz$wuz$xuz$whz$z$Uz$Vz$sIBz$goBz$Yxz$bDz$cDz$dDz$z$nhBz$hoBz$xGBz$z$AYBz$BYBz$ioBz$joBz$z$gBz$z$sIBz$dnBz$xrz$PDz$z$DiBz$EiBz$Vuz$tuz$SiBz$uoBz$vuz$wuz$xuz$Vjz$Wjz$Jpz$gmBz$hmBz$imBz$jmBz$Tmz$z$AYBz$BYBz$ooBz$voBz$PDz$z$qz$z$bnBz$bxz$Bsz$z$woBz$ThBz$JKz$gIBz$PDz$z$cJBz$Vuz$loBz$moBz$MfBz$noBz$vuz$wuz$xuz$whz$z$Uz$Vz$cJBz$waBz$gWBz$HDz$IDz$z$cJBz$ooBz$poBz$z$qoBz$Vuz$roBz$soBz$vuz$wuz$xuz$Vjz$Wjz$Jpz$gmBz$hmBz$imBz$jmBz$Tmz$z$gBz$z$qoBz$toBz$z$qz$z$qz$z$rz$z$xoBz$yoBz$ApBz$bCz$z$BpBz$CpBz$z$DpBz$EpBz$FpBz$z$GpBz$HpBz$IpBz$JpBz$KpBz$LpBz$MpBz$leBz$z$NpBz$OpBz$PpBz$QpBz$z$RpBz$SpBz$TpBz$UpBz$VpBz$leBz$z$WpBz$HpBz$XpBz$YpBz$WfBz$z$ZpBz$OpBz$apBz$bpBz$cpBz$leBz$z$dpBz$epBz$fpBz$gpBz$z$hpBz$ipBz$jpBz$kpBz$WfBz$z$lpBz$mpBz$npBz$WfBz$z$opBz$ppBz$npBz$WfBz$z$qpBz$rpBz$spBz$z$nz$z$tpBz$upBz$nMBz$oMBz$vpBz$wpBz$xpBz$ypBz$AqBz$z$tpBz$BqBz$CqBz$lKz$tpBz$nz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$ez$fz$Qnz$JqBz$KqBz$LqBz$Grz$MqBz$rvz$svz$edz$NqBz$RGBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$OqBz$PqBz$QqBz$rvz$svz$RqBz$SqBz$UKz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$UqBz$VqBz$WqBz$rvz$svz$RqBz$SqBz$XqBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$YqBz$ZqBz$rnBz$aqBz$bqBz$sGBz$qjz$WDBz$cqBz$dqBz$eqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$fqBz$gqBz$gLz$hLz$hqBz$Znz$ovz$pvz$iqBz$jqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$kqBz$lqBz$xnBz$mqBz$bqBz$sGBz$qjz$WDBz$nqBz$ddBz$oqBz$Znz$uGBz$z$ez$z$ez$fz$Qnz$JqBz$pqBz$Hnz$qqBz$Puz$yvz$rqBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$uqBz$DFBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$rz$z$xoBz$yoBz$UrBz$VrBz$MFz$z$ez$fz$Qnz$JqBz$KqBz$LqBz$Grz$MqBz$rvz$svz$edz$NqBz$RGBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$OqBz$PqBz$QqBz$rvz$svz$RqBz$SqBz$UKz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$UqBz$VqBz$WqBz$rvz$svz$RqBz$SqBz$XqBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$YqBz$ZqBz$rnBz$aqBz$bqBz$sGBz$qjz$WDBz$cqBz$dqBz$eqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$fqBz$gqBz$gLz$hLz$hqBz$Znz$ovz$pvz$iqBz$jqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$kqBz$lqBz$xnBz$mqBz$bqBz$sGBz$qjz$WDBz$nqBz$ddBz$oqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$WrBz$XrBz$NWBz$hqBz$Znz$ovz$pvz$YrBz$ZrBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$arBz$brBz$ZoBz$bqBz$sGBz$qjz$WDBz$crBz$drBz$Puz$Quz$z$rz$z$xoBz$erBz$voBz$Tz$z$Uz$Vz$cJBz$PJBz$QJBz$RJBz$HDz$IDz$z$tpBz$ooBz$voBz$frBz$grBz$reBz$hrBz$irBz$jrBz$krBz$Lvz$lrBz$JpBz$KpBz$LpBz$bRCz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$rrBz$srBz$LYz$MYz$oqz$trBz$sYz$DOz$urBz$vrBz$wrBz$xrBz$yrBz$AsBz$BsBz$CsBz$DsBz$EsBz$FsBz$CsBz$PDz$z$ez$fz$Qnz$JqBz$KqBz$GsBz$HsBz$IsBz$JsBz$Puz$yvz$RqBz$SqBz$YmBz$KsBz$Puz$Quz$z$ez$fz$Qnz$JqBz$OqBz$PqBz$QqBz$rvz$svz$RqBz$SqBz$UKz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$LsBz$MsBz$alBz$NsBz$rvz$svz$RqBz$SqBz$DiBz$EiBz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$OsBz$PsBz$QsBz$rvz$svz$rqBz$RsBz$SsBz$sGBz$nz$z$ez$fz$Qnz$JqBz$fqBz$TsBz$UsBz$Sz$hqBz$Znz$ovz$pvz$VsBz$WsBz$sGBz$nz$z$ez$fz$Qnz$JqBz$kqBz$lqBz$xnBz$mqBz$bqBz$sGBz$qjz$WDBz$nqBz$ddBz$oqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$XsBz$YsBz$ZsBz$asBz$Puz$iGBz$pvz$bsBz$csBz$sGBz$nz$z$ez$z$ez$fz$Qnz$JqBz$dsBz$esBz$fsBz$mXBz$sGBz$gsBz$hsBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$uqBz$DFBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$gBz$z$tpBz$ooBz$voBz$frBz$grBz$reBz$hrBz$irBz$jrBz$krBz$Lvz$lrBz$JpBz$KpBz$LpBz$auBz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$rrBz$srBz$LYz$MYz$oqz$trBz$sYz$DOz$urBz$vrBz$wrBz$xrBz$yrBz$AsBz$BsBz$CsBz$DsBz$EsBz$FsBz$CsBz$PDz$z$ez$fz$Qnz$JqBz$KqBz$GsBz$HsBz$IsBz$JsBz$Puz$yvz$RqBz$SqBz$YmBz$KsBz$Puz$Quz$z$ez$fz$Qnz$JqBz$OqBz$PqBz$QqBz$rvz$svz$RqBz$SqBz$UKz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$LsBz$MsBz$alBz$NsBz$rvz$svz$RqBz$SqBz$DiBz$EiBz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$kqBz$lqBz$xnBz$mqBz$bqBz$sGBz$qjz$WDBz$nqBz$ddBz$oqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$XsBz$YsBz$ZsBz$asBz$Puz$iGBz$pvz$isBz$rvz$svz$PDz$z$ez$z$ez$fz$Qnz$JqBz$dsBz$esBz$fsBz$mXBz$sGBz$gsBz$hsBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$uqBz$DFBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$qz$z$rz$z$xoBz$yoBz$jsBz$ksBz$MFz$z$BpBz$CpBz$z$DpBz$EpBz$FpBz$z$GpBz$HpBz$IpBz$JpBz$KpBz$LpBz$MpBz$leBz$z$NpBz$OpBz$PpBz$QpBz$z$RpBz$SpBz$TpBz$UpBz$VpBz$leBz$z$WpBz$HpBz$XpBz$YpBz$WfBz$z$ZpBz$OpBz$apBz$bpBz$cpBz$leBz$z$dpBz$epBz$lsBz$xnBz$msBz$nsBz$z$hpBz$ipBz$jpBz$kpBz$WfBz$z$lpBz$mpBz$TpBz$irBz$jrBz$nsBz$z$opBz$ppBz$npBz$WfBz$z$qpBz$rpBz$qpBz$osBz$z$nz$z$tpBz$upBz$nMBz$oMBz$vpBz$wpBz$xpBz$ypBz$AqBz$z$tpBz$BqBz$CqBz$lKz$tpBz$nz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$ez$fz$Qnz$JqBz$KqBz$LqBz$Grz$MqBz$rvz$svz$edz$NqBz$RGBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$OqBz$PqBz$QqBz$rvz$svz$RqBz$SqBz$UKz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$UqBz$VqBz$WqBz$rvz$svz$RqBz$SqBz$XqBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$YqBz$ZqBz$rnBz$aqBz$bqBz$sGBz$qjz$WDBz$cqBz$dqBz$eqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$fqBz$gqBz$gLz$hLz$hqBz$Znz$ovz$pvz$VsBz$WsBz$sGBz$nz$z$ez$fz$Qnz$JqBz$kqBz$lqBz$xnBz$mqBz$bqBz$sGBz$qjz$WDBz$nqBz$ddBz$oqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$WrBz$psBz$qsBz$Fpz$rsBz$ssBz$tsBz$bqBz$sGBz$usBz$NqBz$irBz$jrBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$XsBz$YsBz$ZsBz$asBz$Puz$iGBz$pvz$isBz$rvz$svz$PDz$z$ez$z$ez$fz$Qnz$JqBz$pqBz$Hnz$qqBz$Puz$yvz$rqBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$uqBz$DFBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$rz$z$xoBz$yoBz$vsBz$wsBz$FKz$z$BpBz$CpBz$z$DpBz$EpBz$FpBz$z$GpBz$HpBz$IpBz$JpBz$KpBz$LpBz$MpBz$leBz$z$NpBz$OpBz$PpBz$QpBz$z$RpBz$SpBz$TpBz$UpBz$VpBz$leBz$z$WpBz$HpBz$XpBz$YpBz$WfBz$z$ZpBz$OpBz$apBz$bpBz$cpBz$leBz$z$dpBz$epBz$lsBz$xnBz$msBz$nsBz$z$hpBz$ipBz$jpBz$kpBz$WfBz$z$lpBz$mpBz$TpBz$irBz$jrBz$nsBz$z$opBz$ppBz$TpBz$xsBz$ysBz$nsBz$z$qpBz$rpBz$qpBz$osBz$z$nz$z$tpBz$bMBz$JUz$AtBz$BtBz$KUz$qOBz$CtBz$DtBz$z$tpBz$BqBz$CqBz$lKz$tpBz$nz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$ez$fz$Qnz$JqBz$KqBz$LqBz$Grz$MqBz$rvz$svz$edz$NqBz$RGBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$OqBz$PqBz$QqBz$rvz$svz$RqBz$SqBz$UKz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$UqBz$VqBz$WqBz$rvz$svz$RqBz$SqBz$XqBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$YqBz$ZqBz$rnBz$aqBz$bqBz$sGBz$qjz$WDBz$cqBz$dqBz$eqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$fqBz$gqBz$gLz$hLz$hqBz$Znz$ovz$pvz$VsBz$WsBz$sGBz$nz$z$ez$fz$Qnz$JqBz$kqBz$lqBz$xnBz$mqBz$bqBz$sGBz$qjz$WDBz$nqBz$ddBz$oqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$WrBz$XrBz$NWBz$hqBz$Znz$eGBz$WDBz$gIBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$WrBz$psBz$qsBz$Fpz$rsBz$ssBz$tsBz$bqBz$sGBz$usBz$NqBz$irBz$jrBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$EtBz$FtBz$GtBz$rvz$svz$RqBz$SqBz$JoBz$HtBz$Puz$Quz$z$ez$fz$Qnz$JqBz$XsBz$YsBz$ZsBz$asBz$Puz$iGBz$pvz$isBz$rvz$svz$PDz$z$ez$z$ez$fz$Qnz$JqBz$pqBz$Hnz$qqBz$Puz$yvz$rqBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$uqBz$DFBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$rz$z$sz$hJz$Tz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$JDz$atz$btz$ctz$EQCz$oQCz$pQCz$qQCz$z$fuz$guz$z$qz$z$ez$yHz$z$ez$Qwz$dvBz$fHBz$gHBz$iICz$cRCz$dRCz$Znz$uGBz$z$Dfz$dvz$yTBz$z$ez$fz$fvBz$HCz$eRCz$kvBz$fRCz$rvz$svz$edz$NqBz$gRCz$wuz$xuz$TqBz$sGBz$nz$z$JDz$atz$jBBz$kBBz$gQCz$gECz$dyBz$PDz$z$DQBz$hYz$YnBz$ZnBz$pCz$z$ez$fz$Qnz$JqBz$hRCz$iRCz$qxBz$rxBz$RGBz$QrBz$sxBz$z$ez$fz$Qnz$JqBz$wvBz$xvBz$Puz$yvz$RqBz$SqBz$AYBz$BYBz$TqBz$sGBz$nz$z$Uz$Vz$sIBz$goBz$wGBz$xGBz$bDz$cDz$dDz$z$xoBz$erBz$voBz$z$fuz$wxz$z$qz$z$Uz$Vz$nhBz$doBz$mjBz$isz$bDz$cDz$dDz$z$Uz$Vz$yvBz$Biz$xrz$bRz$UBz$VBz$z$xoBz$yoBz$UrBz$AwBz$z$fuz$wxz$z$qz$z$Uz$Vz$BwBz$Biz$Asz$cxz$cz$dz$z$xoBz$yoBz$CwBz$z$QDz$RDz$DwBz$axz$dsz$ojBz$HDz$IDz$z$xoBz$yoBz$jsBz$EwBz$z$gBz$z$xoBz$yoBz$vsBz$FwBz$z$qz$z$gBz$z$Uz$Vz$yvBz$Biz$xrz$bRz$UBz$VBz$z$ez$fz$Qnz$JqBz$KqBz$LqBz$Grz$MqBz$rvz$svz$edz$NqBz$RGBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$OqBz$PqBz$QqBz$rvz$svz$RqBz$SqBz$UKz$TqBz$sGBz$nz$z$ez$fz$Qnz$JqBz$UqBz$VqBz$WqBz$rvz$svz$RqBz$SqBz$XqBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$fqBz$TsBz$UsBz$Sz$hqBz$Znz$ovz$pvz$VsBz$WsBz$sGBz$nz$z$ez$fz$Qnz$JqBz$kqBz$lqBz$xnBz$mqBz$bqBz$sGBz$qjz$WDBz$nqBz$ddBz$oqBz$Znz$uGBz$z$ez$fz$Qnz$JqBz$WrBz$XrBz$NWBz$hqBz$Znz$ovz$pvz$YrBz$ZrBz$rvz$svz$PDz$z$ez$fz$Qnz$JqBz$arBz$brBz$ZoBz$bqBz$sGBz$qjz$WDBz$crBz$drBz$Puz$Quz$z$fuz$wxz$z$qz$z$Uz$Vz$cJBz$PJBz$QJBz$RJBz$HDz$IDz$z$ez$fz$fvBz$HCz$GwBz$OVBz$HwBz$ZcBz$Znz$ovz$pvz$IwBz$JwBz$Znz$uGBz$z$ez$fz$fvBz$HCz$KwBz$UKz$hqBz$Znz$eGBz$WDBz$LwBz$MwBz$Puz$Quz$z$ez$fz$fvBz$HCz$NwBz$cgBz$hqBz$Znz$eGBz$WDBz$OwBz$eqBz$Znz$uGBz$z$ez$fz$fvBz$HCz$PwBz$qoBz$hqBz$Znz$QwBz$RwBz$SwBz$Puz$Quz$z$ez$fz$fvBz$HCz$TwBz$woBz$ThBz$UwBz$rvz$svz$edz$VwBz$WwBz$Puz$Quz$z$ez$fz$fvBz$HCz$XwBz$YwBz$ddBz$ZwBz$Puz$yvz$RqBz$SqBz$xnBz$msBz$rvz$svz$PDz$z$ez$fz$fvBz$HCz$awBz$bwBz$cwBz$rvz$svz$RqBz$dwBz$ewBz$sGBz$PDz$z$ez$fz$fvBz$HCz$fwBz$gwBz$AFBz$hwBz$iwBz$jwBz$kwBz$Puz$iGBz$pvz$EnBz$FnBz$lwBz$Znz$uGBz$z$ez$fz$fvBz$HCz$mwBz$nwBz$owBz$bqBz$sGBz$usBz$pwBz$qwBz$Puz$Quz$z$tpBz$JtBz$CqBz$lKz$XqBz$rwBz$FnBz$swBz$UpBz$MtBz$NtBz$OtBz$PtBz$QtBz$nLz$RtBz$cJBz$KGBz$StBz$twBz$uwBz$irBz$jrBz$vwBz$wwBz$sFBz$gIBz$lrBz$JpBz$KpBz$LpBz$auBz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$rrBz$srBz$LYz$MYz$oqz$trBz$sYz$DOz$urBz$vrBz$wrBz$xrBz$yrBz$xwBz$ywBz$AxBz$BxBz$CxBz$DxBz$ExBz$FxBz$OwBz$GxBz$HxBz$FnBz$IxBz$JxBz$Lvz$KxBz$NtBz$OtBz$LxBz$gIBz$MxBz$nLz$NxBz$OxBz$PxBz$NWBz$QxBz$RxBz$SxBz$TxBz$UxBz$bBz$VxBz$WxBz$XxBz$YmBz$YxBz$ZxBz$axBz$bxBz$cxBz$dxBz$exBz$NiBz$fxBz$KpBz$LpBz$auBz$z$ez$z$ez$fz$Qnz$JqBz$pqBz$ktBz$ltBz$rvz$svz$mtBz$ntBz$otBz$HUBz$DqBz$GdBz$Dkz$ptBz$qtBz$rtBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$stBz$ZcBz$Znz$ttBz$iBz$utBz$vtBz$Znz$wtBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$QDz$RDz$DwBz$PJBz$mjBz$isz$bDz$cDz$dDz$z$ez$fz$fvBz$HCz$GwBz$OVBz$HwBz$gxBz$Puz$iGBz$pvz$IwBz$JwBz$Znz$uGBz$z$ez$fz$fvBz$HCz$KwBz$UKz$hqBz$Znz$eGBz$WDBz$LwBz$MwBz$Puz$Quz$z$ez$fz$fvBz$HCz$NwBz$cgBz$hqBz$Znz$eGBz$WDBz$OwBz$eqBz$Znz$uGBz$z$ez$fz$fvBz$HCz$PwBz$qoBz$hqBz$Znz$QwBz$RwBz$SwBz$Puz$Quz$z$ez$fz$fvBz$HCz$TwBz$woBz$ThBz$UwBz$rvz$svz$edz$VwBz$WwBz$Puz$Quz$z$ez$fz$fvBz$HCz$XwBz$YwBz$ddBz$ZwBz$Puz$yvz$RqBz$SqBz$xnBz$msBz$rvz$svz$PDz$z$ez$fz$fvBz$HCz$awBz$bwBz$cwBz$rvz$svz$RqBz$dwBz$ewBz$sGBz$PDz$z$ez$fz$fvBz$HCz$fwBz$gwBz$AFBz$hwBz$iwBz$jwBz$kwBz$Puz$iGBz$pvz$EnBz$FnBz$lwBz$Znz$uGBz$z$ez$fz$fvBz$HCz$mwBz$nwBz$owBz$bqBz$sGBz$usBz$hxBz$ixBz$Znz$uGBz$z$tpBz$JtBz$CqBz$lKz$XqBz$rwBz$FnBz$swBz$UpBz$MtBz$NtBz$OtBz$PtBz$QtBz$nLz$RtBz$jxBz$NWBz$LVz$kxBz$lxBz$YmBz$mxBz$oHz$nxBz$oxBz$pxBz$qxBz$rxBz$RGBz$QrBz$sxBz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$rrBz$srBz$LYz$MYz$oqz$trBz$sYz$DOz$urBz$vrBz$wrBz$xrBz$yrBz$xwBz$ywBz$AxBz$BxBz$CxBz$DxBz$ExBz$FxBz$OwBz$GxBz$HxBz$FnBz$IxBz$JxBz$Lvz$KxBz$NtBz$OtBz$LxBz$gIBz$MxBz$nLz$NxBz$OxBz$PxBz$NWBz$QxBz$RxBz$SxBz$TxBz$UxBz$bBz$VxBz$WxBz$XxBz$YmBz$YxBz$ZxBz$axBz$bxBz$cxBz$dxBz$exBz$NiBz$fxBz$KpBz$LpBz$auBz$z$ez$z$ez$fz$Qnz$JqBz$pqBz$ktBz$ltBz$rvz$svz$mtBz$ntBz$otBz$HUBz$DqBz$GdBz$Dkz$ptBz$qtBz$rtBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$stBz$ZcBz$Znz$ttBz$iBz$utBz$vtBz$Znz$wtBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$gBz$z$ez$fz$fvBz$HCz$GwBz$OVBz$HwBz$ZcBz$Znz$ovz$pvz$IwBz$JwBz$Znz$uGBz$z$ez$fz$fvBz$HCz$KwBz$UKz$hqBz$Znz$eGBz$WDBz$LwBz$MwBz$Puz$Quz$z$ez$fz$fvBz$HCz$NwBz$cgBz$hqBz$Znz$eGBz$WDBz$OwBz$eqBz$Znz$uGBz$z$ez$fz$fvBz$HCz$PwBz$qoBz$hqBz$Znz$QwBz$RwBz$SwBz$Puz$Quz$z$ez$fz$fvBz$HCz$TwBz$woBz$ThBz$UwBz$rvz$svz$edz$VwBz$WwBz$Puz$Quz$z$ez$fz$fvBz$HCz$XwBz$YwBz$ddBz$ZwBz$Puz$yvz$RqBz$SqBz$xnBz$msBz$rvz$svz$PDz$z$ez$fz$fvBz$HCz$awBz$bwBz$cwBz$rvz$svz$RqBz$dwBz$ewBz$sGBz$PDz$z$ez$fz$fvBz$HCz$fwBz$gwBz$AFBz$hwBz$iwBz$jwBz$kwBz$Puz$iGBz$pvz$EnBz$FnBz$lwBz$Znz$uGBz$z$ez$fz$fvBz$HCz$txBz$uxBz$hqBz$Znz$eGBz$WDBz$vxBz$uxBz$TqBz$sGBz$nz$z$ez$fz$fvBz$HCz$mwBz$nwBz$owBz$bqBz$sGBz$usBz$hxBz$ixBz$Znz$uGBz$z$tpBz$JtBz$CqBz$lKz$XqBz$rwBz$FnBz$swBz$UpBz$MtBz$NtBz$OtBz$PtBz$QtBz$nLz$RtBz$jxBz$NWBz$wxBz$Fpz$xxBz$FnBz$yxBz$AyBz$irBz$jrBz$ByBz$CyBz$JoBz$VvBz$qxBz$rxBz$RGBz$QrBz$sxBz$z$bLz$JABz$HUBz$DqBz$NABz$WRz$JUz$EqBz$FqBz$BEBz$GqBz$HqBz$IqBz$yTBz$z$rrBz$srBz$LYz$MYz$oqz$trBz$sYz$DOz$urBz$vrBz$wrBz$xrBz$yrBz$xwBz$ywBz$AxBz$BxBz$CxBz$DxBz$ExBz$FxBz$OwBz$GxBz$HxBz$FnBz$IxBz$JxBz$Lvz$KxBz$NtBz$OtBz$LxBz$gIBz$MxBz$nLz$NxBz$OxBz$PxBz$NWBz$DyBz$PxBz$Fpz$EyBz$irBz$jrBz$MxBz$FyBz$GyBz$FnBz$HyBz$IyBz$JyBz$vxBz$uxBz$KyBz$LyBz$MyBz$NyBz$RGBz$QrBz$sxBz$z$ez$z$ez$fz$Qnz$JqBz$pqBz$ktBz$ltBz$rvz$svz$mtBz$ntBz$otBz$HUBz$DqBz$GdBz$Dkz$ptBz$qtBz$rtBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$stBz$ZcBz$Znz$ttBz$iBz$utBz$vtBz$Znz$wtBz$z$ez$z$ez$fz$Qnz$JqBz$vqBz$wqBz$xqBz$yqBz$Jiz$Bnz$ArBz$BrBz$CrBz$DrBz$Puz$ErBz$FrBz$GrBz$HrBz$IrBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$GqBz$HqBz$IqBz$NrBz$z$MkBz$NkBz$icBz$OrBz$PrBz$RGBz$QrBz$RrBz$SrBz$TrBz$WgBz$sqBz$Jiz$Bnz$tqBz$JUBz$eOz$z$qz$z$qz$z$rz$z$sz$JBCz$bCz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$JDz$atz$btz$ctz$EQCz$oQCz$pQCz$qQCz$z$fuz$guz$z$qz$z$QBCz$RBCz$sUz$SBCz$jRCz$dICz$yGz$kRCz$lRCz$z$rz$z$tCCz$Tz$z$JIz$KIz$z$ez$uCCz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$vCCz$z$ez$fz$wCCz$qcz$qcz$qcz$qcz$mRCz$pvz$nRCz$oRCz$pRCz$rvz$svz$qcz$qcz$qcz$qcz$qcz$qRCz$z$ez$fz$CDCz$lvz$DDCz$EDCz$sGBz$FDCz$GDCz$HDCz$IDCz$qcz$qcz$qcz$qcz$qcz$qcz$qcz$qcz$BDCz$PDz$z$ez$fz$CDCz$lvz$rRCz$sRCz$sGBz$tRCz$qPz$unz$hoz$uRCz$vRCz$qcz$qcz$qcz$qcz$qcz$qcz$qcz$wRCz$z$ez$z$ez$fz$hBz$iBz$JDCz$Puz$KDCz$JqBz$LDCz$MDCz$rvz$svz$PDz$z$ez$fz$hBz$iBz$NDCz$rvz$svz$xRCz$gHBz$PDCz$QDCz$RDCz$Znz$uGBz$z$ez$fz$hBz$iBz$SDCz$Puz$KDCz$JqBz$LDCz$yKz$lwBz$Znz$uGBz$z$ez$kECz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$yRCz$z$ez$fz$ASCz$BSCz$CSCz$DSCz$kNCz$z$ez$VECz$WECz$UDCz$ESCz$WECz$FSCz$z$ez$fz$XDCz$lvz$YDCz$ZDCz$sGBz$ADCz$GSCz$Dxz$UDCz$kDCz$z$ez$fz$XDCz$lvz$dDCz$ZDCz$sGBz$ADCz$GSCz$Dxz$JqBz$eDCz$fDCz$gDCz$hDCz$sGBz$nz$z$ez$fz$XDCz$lvz$iDCz$ZDCz$sGBz$ADCz$GSCz$Dxz$UDCz$bDCz$jDCz$kDCz$z$ez$fz$XDCz$lvz$lDCz$ZDCz$sGBz$ADCz$GSCz$Dxz$JqBz$eDCz$fDCz$mDCz$qwBz$Puz$iGBz$pvz$nDCz$rGBz$sGBz$nz$z$ez$VECz$WECz$HSCz$ISCz$WECz$FSCz$z$ez$fz$XDCz$lvz$oDCz$ZDCz$sGBz$ADCz$GSCz$Dxz$JqBz$eDCz$pDCz$gDCz$hDCz$sGBz$nz$z$ez$fz$XDCz$lvz$rDCz$ZDCz$sGBz$ADCz$GSCz$Dxz$Xsz$bDCz$jDCz$kDCz$z$ez$fz$XDCz$lvz$sDCz$ZDCz$sGBz$ADCz$GSCz$Dxz$JqBz$eDCz$pDCz$mDCz$qwBz$Puz$iGBz$pvz$uDCz$vDCz$rvz$svz$PDz$z$ez$fz$XDCz$lvz$tDCz$ZDCz$sGBz$ADCz$GSCz$Dxz$JqBz$eDCz$pDCz$qDCz$xDCz$csBz$sGBz$usBz$IECz$JECz$Puz$Quz$z$ez$VECz$WECz$JSCz$KSCz$WECz$LSCz$z$ez$fz$XDCz$lvz$wDCz$ZDCz$sGBz$ADCz$nvz$HCz$MSCz$NSCz$Puz$iGBz$pvz$nDCz$rGBz$sGBz$nz$z$ez$fz$XDCz$lvz$YDCz$hez$Znz$CECz$nvz$HCz$MSCz$OSCz$gsz$rvz$svz$RqBz$GECz$HECz$Znz$uGBz$z$ez$VECz$WECz$WECz$WECz$PDz$z$ez$fz$XDCz$lvz$YDCz$rdz$Znz$CECz$PSCz$YECz$z$ez$fz$XDCz$lvz$YDCz$QSCz$RqBz$RSCz$uQCz$aECz$Puz$Quz$z$ez$VECz$WECz$WECz$WECz$PDz$z$ez$fz$XDCz$lvz$YDCz$Aez$Znz$CECz$SSCz$YECz$z$ez$fz$XDCz$lvz$YDCz$Gez$Znz$CECz$TSCz$YECz$z$ez$fz$XDCz$lvz$YDCz$Kez$Znz$CECz$USCz$YECz$z$ez$VECz$WECz$WECz$WECz$PDz$z$ez$fz$XDCz$lvz$YDCz$Nez$Znz$CECz$VSCz$gECz$hECz$z$ez$fz$XDCz$lvz$YDCz$Tez$Znz$CECz$VSCz$iECz$jECz$z$ez$kECz$pdz$pdz$pdz$QECz$z$ez$fz$XDCz$lvz$YDCz$Vez$Znz$CECz$WSCz$YSBz$z$ez$fz$XDCz$lvz$YDCz$aez$Znz$CECz$XSCz$YSBz$z$ez$kECz$pdz$pdz$pdz$QECz$z$ez$fz$XDCz$lvz$vECz$ZDCz$sGBz$ADCz$YSCz$z$ez$Qwz$tez$ZSCz$z$Dfz$dvz$yTBz$z$ez$kECz$pdz$pdz$pdz$QECz$z$Ndz$Odz$lBBz$aSCz$bSCz$JHBz$lJBz$Yfz$z$Nfz$LCBz$MCBz$NCBz$z$QFCz$XRz$RFCz$z$SFCz$JWz$TFCz$Kwz$z$UFCz$VFCz$xrz$kSz$mtz$sez$tvz$z$WFCz$XFCz$xrz$kSz$mtz$sez$tvz$z$YFCz$XFCz$xrz$kSz$ZFCz$bxz$pjBz$aFCz$Hbz$bFCz$z$cSCz$pDCz$ooBz$RJBz$gFCz$VFCz$xrz$kSz$mtz$sez$tvz$z$fFCz$pDCz$ooBz$RJBz$iFCz$XFCz$xrz$kSz$mtz$sez$tvz$z$hFCz$pDCz$ooBz$RJBz$iFCz$XFCz$xrz$kSz$ZFCz$bxz$pjBz$aFCz$Hbz$bFCz$z$jFCz$pDCz$ooBz$RJBz$iFCz$XFCz$xrz$kSz$lFCz$dFCz$xGBz$GJz$jFz$kFz$Tfz$z$dSCz$eSCz$fSCz$xGBz$GJz$csz$bxz$pjBz$aFCz$Hbz$bFCz$z$mFCz$asz$bsz$xrz$kSz$nFCz$ooBz$RJBz$pFCz$csz$bxz$pjBz$aFCz$Hbz$bFCz$z$oFCz$hFz$tFCz$Kwz$z$qFCz$Gbz$Hbz$bFCz$z$rFCz$DUz$wFCz$z$sFCz$uYz$nPBz$Tfz$z$uFCz$uPBz$tvz$z$vFCz$sz$hJz$tvz$z$xFCz$sz$DGCz$Tfz$z$yFCz$KLBz$FGCz$z$BGCz$KLBz$HGCz$Kwz$z$jfz$z$JDz$atz$btz$ctz$gSCz$hSCz$iSCz$z$oz$pz$z$Tfz$z$pfz$z$rz$z$Pz$osz$iCCz$z$hWBz$iPz$fDz$z$JDBz$VGCz$Ylz$WGCz$FVBz$XGCz$xYz$z$Nfz$EMBz$FVBz$YGCz$dDz$z$tCCz$ZGCz$aGCz$Gbz$Hbz$bGCz$cGCz$uYz$cGCz$uPBz$dGCz$eGCz$fGCz$gGCz$hGCz$z$iGCz$Sz$rz$z$Tfz$z$jfz$z$ez$jGCz$kGCz$z$ez$lGCz$mGCz$qOBz$YVz$nGCz$oGCz$pGCz$qGCz$rGCz$jFz$sGCz$DUz$tGCz$DUz$uGCz$vGCz$wGCz$xGCz$sz$yGCz$PDz$z$Tfz$z$pfz$z$rz$z$msz$jSCz$Tz$z$sBz$LJz$MJz$Enz$qcz$Fnz$Gnz$Hnz$Inz$z$wBz$Jnz$yBz$FJz$qcz$Knz$Lnz$Mnz$Nnz$VTz$z$CCz$Onz$ECz$Pnz$Qnz$Rnz$lDz$Snz$Nnz$VTz$z$HCz$bJz$Tnz$Unz$qcz$Vnz$Wnz$Xnz$Ynz$z$Znz$xBz$yBz$anz$z$qVz$tEz$CHCz$VIz$WIz$XIz$kSCz$z$kVz$lVz$KABz$yoz$Apz$jWz$lSCz$z$qVz$tEz$CHCz$VIz$WIz$XIz$mSCz$z$kVz$lVz$KABz$yoz$Apz$jWz$KIz$z$JDz$atz$Luz$FKz$z$ez$fz$Muz$Nuz$Ouz$Puz$Quz$z$rz$z$Pz$osz$psz$bCz$z$Etz$Ftz$Gtz$SOz$shz$iDz$MUz$Htz$z$Uz$GmBz$MICz$NICz$OICz$PICz$Rtz$QICz$cz$dz$z$JDz$atz$btz$ctz$RICz$SICz$TICz$UICz$z$oz$pz$z$qz$z$Ksz$Lsz$VICz$WICz$Wrz$Xrz$jbBz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$Ksz$Lsz$XICz$YICz$Wrz$Xrz$jbBz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$dtz$etz$ftz$gtz$z$oz$pz$z$qz$z$htz$itz$PDz$z$jtz$ktz$ltz$itz$mtz$sez$ntz$PDz$z$jtz$otz$ptz$eHz$ELz$FLz$qtz$z$jtz$rtz$stz$itz$ttz$utz$vtz$wtz$hHz$xtz$vtz$ytz$Auz$Buz$Cuz$z$gBz$z$htz$Euz$PDz$z$jtz$ktz$ltz$Euz$mtz$sez$ntz$PDz$z$jtz$otz$ptz$eFz$ELz$FLz$qtz$z$jtz$rtz$stz$Euz$ttz$Lz$Cuz$z$qz$z$Ksz$Lsz$ZICz$Obz$aICz$eqz$fqz$gqz$whz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$Huz$Iuz$Juz$Kuz$PDz$z$oz$pz$z$qz$z$rz$z$Dfz$nSCz$oSCz$pSCz$MFz$z$eIz$fIz$Fsz$QIz$Btz$qSCz$rSCz$MIz$z$sSCz$TFz$UFz$VFz$tSCz$Jiz$uSCz$vSCz$ZLBz$z$Uz$Vz$wSCz$Biz$bRz$UBz$VBz$z$ez$kcz$z$fuz$guz$z$qz$z$Uz$nuz$ouz$Rtz$klBz$VABz$BeBz$xSCz$UBz$VBz$z$ez$pz$z$fuz$guz$z$qz$z$UKz$Vuz$piz$ySCz$TQBz$ATCz$BTCz$CTCz$DTCz$ETCz$Jiz$fiBz$FTCz$Dpz$hOz$ObBz$WOz$XOz$GTCz$z$Uz$hrz$JjBz$BTCz$bDz$cDz$dDz$z$Ksz$Hvz$HTCz$ITCz$OOz$LwBz$JTCz$IQz$aoBz$KTCz$LTCz$z$Uz$bNz$Ovz$Pvz$HDz$IDz$z$ez$Qvz$z$gBz$z$ez$Xvz$z$qz$z$gBz$z$ez$Qvz$z$qz$z$rz$z$Dfz$dvz$MTCz$oSCz$pSCz$MFz$z$Ksz$fvz$NTCz$uSCz$LTCz$z$Nfz$hvz$ivz$z$Ufz$z$ez$fz$eICz$fICz$OTCz$oSCz$PTCz$Znz$ovz$pvz$qvz$rvz$svz$z$Tfz$z$Vfz$z$ez$fz$eICz$fICz$OTCz$oSCz$PTCz$Znz$ovz$lvz$QTCz$xvz$Puz$RTCz$z$Tfz$z$jfz$z$ez$fz$RqBz$pICz$STCz$TTCz$rvz$svz$z$Tfz$z$pfz$z$rz$z$UTCz$JWz$yYz$MFz$z$qjBz$rjBz$sjBz$HUz$z$tjBz$qjBz$axz$itz$bRz$GJz$qjBz$ttz$ujBz$z$ez$yHz$z$ez$VTCz$WTCz$XTCz$tGz$z$Uz$Vz$bOBz$Biz$UkBz$bDz$cDz$dDz$z$Ksz$Lsz$hbBz$ibBz$Wrz$Xrz$jbBz$z$tjBz$JICz$Vvz$Qlz$Ltz$YTCz$ZTCz$aTCz$bTCz$YPz$z$qz$z$Ksz$Lsz$cTCz$mFz$Qrz$Rrz$maBz$z$tjBz$JICz$Vvz$Qlz$Ltz$YTCz$ZTCz$aTCz$dTCz$eTCz$z$Ksz$Lsz$fTCz$lABz$gTCz$Wrz$Xrz$jbBz$z$tjBz$JICz$Vvz$Qlz$Ltz$YTCz$ZTCz$aTCz$hTCz$ZABz$nGz$z$Ksz$Lsz$iTCz$jTCz$kTCz$Qrz$Rrz$maBz$z$tjBz$JICz$Vvz$Qlz$Ltz$YTCz$ZTCz$aTCz$lTCz$FkBz$mTCz$z$Ksz$Lsz$nTCz$oTCz$yjz$Akz$Bgz$z$tjBz$JICz$Vvz$Qlz$Ltz$YTCz$ZTCz$aTCz$pTCz$z$Uz$Ojz$CYz$Ddz$dMz$KaBz$Orz$Ylz$LaBz$OOz$MaBz$NaBz$OaBz$PaBz$QaBz$nUz$RaBz$SaBz$Bpz$TaBz$cDz$dDz$z$SYz$TYz$UaBz$VaBz$WaBz$XaBz$YaBz$ZaBz$aaBz$baBz$caBz$daBz$VZz$YUz$IaBz$eaBz$hYz$STz$z$faBz$gaBz$haBz$z$qz$z$rz$z$rABz$qTCz$rTCz$FmBz$MFz$z$YmBz$sTCz$tTCz$z$uTCz$vTCz$Boz$wTCz$z$RBBz$xTCz$yTCz$AUCz$VWBz$BUCz$z$RBBz$CUCz$cBBz$wTCz$z$DUCz$EUCz$FUCz$GUCz$HUCz$z$RBBz$IUCz$JUCz$wTCz$z$RBBz$KUCz$LUCz$DOz$PDz$z$RBBz$MUCz$DOz$PDz$z$RBBz$SBBz$TBBz$wTCz$z$NUCz$OUCz$PUCz$DOz$PDz$z$RBBz$hBBz$iBBz$HUCz$z$RBBz$QUCz$RUCz$HUCz$z$SUCz$TUCz$wTCz$z$UUCz$VUCz$PDz$z$RBBz$WUCz$XUCz$YUCz$PDz$z$ZUCz$aUCz$bUCz$TQBz$Zcz$PDz$z$cUCz$fLBz$PDz$z$RBBz$dUCz$eUCz$fUCz$uLCz$z$RBBz$gUCz$DOz$PDz$z$hUCz$iUCz$jUCz$z$RBBz$kUCz$lUCz$z$RBBz$mUCz$nUCz$oUCz$Foz$jUCz$z$RBBz$pUCz$DOz$PDz$z$qUCz$rUCz$dFBz$sUCz$jUCz$z$vgBz$OcBz$tUCz$Hbz$uUCz$vUCz$wUCz$xUCz$yUCz$z$eOz$z$sfz$AVCz$bBz$BVCz$CVCz$DVCz$IMBz$z$rABz$EVCz$TMBz$FVCz$GVCz$HVCz$IVCz$JVCz$FnBz$KVCz$z$ez$cNz$YmBz$LVCz$rABz$EVCz$TMBz$FCBz$z$rz$z$jFz$MVCz$oSCz$pSCz$MFz$z$ez$yHz$z$ez$NVCz$OVCz$PVCz$PDz$z$JJCz$QVCz$IKz$RVCz$SVCz$WQz$XQz$TVCz$AOz$BOz$COz$YKz$DOz$EOz$UVCz$VVCz$WVCz$uSCz$vSCz$BQz$NKz$rmz$oFz$XVCz$YVCz$bRBz$ZVCz$aVCz$bVCz$pKz$cVCz$Zsz$dVCz$eVCz$Qxz$fVCz$z$JJCz$QVCz$IKz$iPz$gVCz$hVCz$BLz$vz$iVCz$jVCz$kVCz$lVCz$mVCz$LCz$z$USz$Spz$YVz$nVCz$z$Nfz$oVCz$pVCz$NCBz$z$gjz$qVCz$z$USz$rVCz$sVCz$z$Tfz$z$Zyz$ayz$z$USz$tVCz$uVCz$z$Tfz$z$Myz$vVCz$z$USz$tVCz$wVCz$z$Tfz$z$pfz$z$xVCz$yVCz$YVz$AWCz$BWCz$CWCz$gVCz$hVCz$BLz$CLz$DWCz$EWCz$FWCz$GWCz$z$oPz$oTz$wwz$HWCz$Axz$aoz$IWCz$JWCz$KWCz$LWCz$MWCz$pKz$Oaz$NWCz$OWCz$PWCz$Fxz$QMz$sKz$QWCz$tKz$xVCz$yVCz$YVz$RWCz$SWCz$PDz$z$wjz$hqz$TWCz$Rtz$UWCz$VWCz$WWCz$XWCz$YWCz$ZWCz$qvBz$LRz$z$AkBz$aWCz$bWCz$Jiz$cWCz$dWCz$eWCz$fWCz$gWCz$hWCz$iWCz$Rtz$z$jWCz$BEBz$kWCz$xVCz$yVCz$YVz$lWCz$BWCz$mWCz$BEBz$onz$z$VPz$nWCz$Rtz$UWCz$VWCz$WWCz$XWCz$YWCz$ZWCz$bWCz$Jiz$cWCz$dWCz$eWCz$oWCz$z$pWCz$qWCz$rWCz$sWCz$BEBz$tWCz$BWCz$uWCz$z$kVz$lVz$HUBz$buBz$KTCz$vWCz$z$bLz$JABz$HUBz$buBz$oSCz$uWCz$z$DFz$wWCz$Jiz$fiBz$FTCz$Dpz$z$JDz$atz$jBBz$kBBz$xWCz$yWCz$AXCz$rLz$BXCz$QLz$oiBz$z$UEz$JNCz$z$rz$z$jFz$CXCz$uSCz$DXCz$bCz$z$ez$yHz$z$ez$NVCz$EXCz$FXCz$gFz$z$BEBz$tWCz$BWCz$GXCz$HXCz$Lz$cgBz$iTBz$Rtz$KWCz$TTCz$IXCz$OHz$z$cgBz$HMCz$sqBz$Jiz$uSCz$JXCz$cgBz$whz$z$JDz$atz$jBBz$kBBz$KXCz$LXCz$MXCz$z$ez$yHz$z$Ndz$Odz$NXCz$OXCz$PXCz$QXCz$RXCz$SXCz$TXCz$YVz$z$JDBz$vQz$GWBz$lWBz$cxz$Ltz$UXCz$eWCz$VXCz$OABz$WXCz$XXCz$YXCz$z$JDz$atz$jBBz$kBBz$ZXCz$aXCz$TXCz$YVz$PDz$z$ez$Ofz$TXCz$YVz$Wz$BEBz$tWCz$bXCz$cXCz$Dtz$z$ez$yHz$z$ez$NVCz$dXCz$eXCz$fXCz$gXCz$gFz$z$DlBz$ElBz$FlBz$Rtz$KWCz$LWCz$hXCz$iXCz$jXCz$avBz$kXCz$lXCz$mXCz$z$FjBz$QZBz$IlBz$jCBz$JlBz$KlBz$LlBz$rlz$ESz$MlBz$NlBz$OlBz$nXCz$iDz$thz$oQz$hmBz$Xqz$oXCz$z$RlBz$SlBz$TlBz$UlBz$ZGBz$DlBz$ElBz$bQz$NQz$VlBz$WlBz$pXCz$clBz$cOz$Ghz$XKBz$YKBz$qXCz$eOz$z$JDz$atz$jBBz$kBBz$rXCz$hlBz$sXCz$tXCz$z$JDz$atz$jBBz$kBBz$uXCz$WlBz$tACz$PDz$z$ez$JjBz$KjBz$LjBz$vXCz$wXCz$xXCz$yXCz$Jiz$RlBz$AYCz$BYCz$CYCz$z$ez$yHz$z$DYCz$EYCz$ypz$WQz$XQz$iqz$LYz$MYz$oqz$pqz$qqz$hGCz$z$DYCz$EYCz$FYCz$WQz$XQz$grz$LYz$MYz$GYCz$oZz$Jaz$HYCz$z$Uz$hrz$IYCz$JYCz$KYCz$LYCz$GWz$DYCz$EYCz$MYCz$NYCz$Tjz$OYCz$Tjz$OYCz$Tjz$OYCz$Tjz$PYCz$HDz$IDz$z$Uz$hrz$IYCz$JYCz$KYCz$QYCz$GWz$DYCz$EYCz$RYCz$NYCz$SYCz$TYCz$UYCz$VYCz$bDz$cDz$dDz$z$JDz$atz$tCBz$uCBz$WYCz$XYCz$YYCz$ZYCz$DYCz$EYCz$aYCz$z$JDz$atz$tCBz$uCBz$WYCz$XYCz$bYCz$ZYCz$DYCz$EYCz$cYCz$z$Ndz$Odz$dYCz$eYCz$fYCz$gYCz$hYCz$wVz$iYCz$jYCz$kYCz$lYCz$mYCz$z$Uz$nYCz$lYCz$oYCz$pYCz$HDz$IDz$z$BUz$saz$qYCz$JYCz$KYCz$Ecz$z$JDz$atz$jBBz$kBBz$rYCz$sYCz$BUz$saz$tYCz$z$gBz$z$BUz$saz$qYCz$JYCz$KYCz$uYCz$z$JDz$atz$jBBz$kBBz$rYCz$sYCz$BUz$saz$tYCz$z$qz$z$gBz$z$JDz$atz$tCBz$uCBz$WYCz$vYCz$wYCz$xYCz$yYCz$AZCz$wYCz$gCz$z$BUz$saz$qYCz$JYCz$KYCz$uYCz$z$JDz$atz$jBBz$kBBz$rYCz$sYCz$BUz$saz$tYCz$z$qz$z$gBz$z$Uz$hrz$IYCz$JYCz$KYCz$QYCz$GWz$DYCz$EYCz$RYCz$NYCz$SYCz$TYCz$UYCz$VYCz$bDz$cDz$dDz$z$JDz$atz$tCBz$uCBz$WYCz$vYCz$BZCz$xYCz$yYCz$AZCz$BZCz$gCz$z$BUz$saz$qYCz$JYCz$KYCz$Ecz$z$JDz$atz$jBBz$kBBz$rYCz$sYCz$BUz$saz$tYCz$z$gBz$z$JDz$atz$btz$ctz$CZCz$DZCz$EZCz$FZCz$GZCz$z$qz$z$qz$z$ez$koBz$XTz$HZCz$Wz$BEBz$tWCz$bXCz$IZCz$z$ez$yHz$z$hCz$FKBz$GKBz$z$Ugz$z$Ndz$Odz$rIBz$uSCz$JZCz$KZCz$LZCz$XHBz$MZCz$NZCz$vIBz$OZCz$QOCz$PZCz$QZCz$z$JDBz$vQz$TQBz$ATCz$BTCz$Ylz$RZCz$QOCz$PZCz$SZCz$lHBz$SLCz$TZCz$nHBz$oHBz$TKBz$z$Uz$Vz$UZCz$VZCz$UKz$dLCz$OKz$eLCz$bDz$cDz$dDz$z$ez$fz$gz$WZCz$YDBz$XZCz$Puz$Quz$z$oz$pz$z$qz$z$YZCz$ZZCz$aZCz$VBCz$bZCz$cZCz$yjz$Akz$nGz$z$Uz$fxz$naBz$Ktz$cz$dz$z$Uz$dZCz$QOCz$PZCz$rOCz$eZCz$fZCz$cEz$gZCz$ZZCz$aZCz$VBCz$hZCz$iZCz$jZCz$HDz$IDz$z$ez$yACz$QOCz$PZCz$JRBz$yXCz$Jiz$uSCz$JXCz$UKz$z$JDz$atz$jBBz$kBBz$kZCz$lZCz$aZCz$VBCz$mZCz$z$iKBz$jKBz$z$gBz$z$JDz$atz$btz$ctz$nZCz$oZCz$pZCz$qZCz$rZCz$sZCz$z$qz$z$gBz$z$JDz$atz$btz$ctz$nZCz$oZCz$pZCz$qZCz$rZCz$sZCz$z$qz$z$vCz$z$ez$yHz$z$ez$NVCz$tZCz$QOCz$PZCz$uZCz$tGz$z$Uz$SFz$TFz$UFz$VFz$vZCz$aBCz$wZCz$xZCz$vEz$IDz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$AbBz$BbBz$yZCz$aZCz$VBCz$AaCz$BaCz$bABz$Xrz$raBz$saBz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$AbBz$BbBz$yZCz$aZCz$VBCz$CaCz$DaCz$bABz$Xrz$raBz$saBz$z$BHz$CHz$DHz$MHz$NHz$EaCz$yjz$Akz$Fuz$FaCz$z$JDz$atz$tCBz$uCBz$GaCz$TQBz$ATCz$HaCz$IaCz$ACCz$z$QDz$PHz$QHz$RHz$SHz$THz$JaCz$WHz$cDz$dDz$z$mbBz$nbBz$sbBz$TQBz$ATCz$Lvz$sVz$iTBz$fqz$gqz$KaCz$fDz$z$mbBz$nbBz$sbBz$TQBz$ATCz$Lvz$LaCz$iTBz$fqz$gqz$KaCz$fDz$z$mbBz$MaCz$NaCz$bABz$Xrz$raBz$saBz$z$JDz$atz$tCBz$uCBz$GaCz$TQBz$ATCz$HaCz$IaCz$ACCz$z$gBz$z$JDz$atz$btz$ctz$OaCz$PaCz$QaCz$RaCz$SaCz$oSCz$TaCz$UaCz$z$qz$z$ez$yHz$z$Ndz$Odz$NXCz$VaCz$WaCz$XaCz$YaCz$ZaCz$aaCz$baCz$caCz$daCz$eaCz$faCz$QXCz$vIBz$gaCz$haCz$z$Uz$bNz$iaCz$jaCz$bDz$cDz$dDz$z$hCz$FKBz$XMBz$Ugz$z$YmBz$kaCz$laCz$maCz$naCz$oaCz$z$Pz$paCz$qaCz$ez$raCz$saCz$taCz$uaCz$vaCz$lABz$waCz$xaCz$aVBz$JQCz$sZBz$cNz$YmBz$yaCz$ZBBz$AbCz$BbCz$CbCz$DbCz$EbCz$FbCz$DQz$GbCz$HbCz$IbCz$JbCz$KbCz$LbCz$MbCz$hRBz$NbCz$ObCz$PbCz$QbCz$RbCz$MQz$SbCz$TbCz$UbCz$VbCz$z$Uz$ouBz$CPBz$jPz$WbCz$XbCz$cz$dz$z$IBBz$YbCz$FnBz$oiBz$z$iKBz$jKBz$z$qz$z$vCz$z$ez$ZbCz$abCz$HUBz$buBz$oSCz$bbCz$cbCz$z$ez$ZbCz$abCz$HUBz$buBz$oSCz$dbCz$XTz$ebCz$VTz$z$BUz$aXBz$fbCz$gbCz$HUBz$buBz$oSCz$dbCz$XTz$ebCz$hbCz$z$JDz$atz$jBBz$kBBz$ibCz$jbCz$kbCz$lbCz$XTz$mbCz$nbCz$z$gBz$z$ez$NVCz$obCz$pbCz$qbCz$rbCz$sbCz$tbCz$ubCz$vbCz$z$Pz$paCz$qaCz$ez$raCz$saCz$taCz$uaCz$vaCz$lABz$waCz$xaCz$aVBz$JQCz$sZBz$cNz$IBBz$wbCz$xbCz$ybCz$AcCz$BcCz$CcCz$wICz$NOz$OOz$DcCz$EcCz$FcCz$GcCz$HcCz$IcCz$JcCz$heBz$KcCz$LcCz$McCz$HlBz$NcCz$OcCz$rOCz$PcCz$Agz$Guz$z$Uz$DDz$Pz$paCz$QcCz$RcCz$bDz$cDz$dDz$z$ez$ZbCz$abCz$HUBz$buBz$oSCz$bbCz$cbCz$z$ez$ZbCz$abCz$HUBz$buBz$oSCz$dbCz$XTz$ebCz$VTz$z$BUz$aXBz$fbCz$gbCz$HUBz$buBz$oSCz$dbCz$XTz$ebCz$hbCz$z$JDz$atz$tCBz$uCBz$ScCz$TcCz$lsBz$IBBz$UcCz$VcCz$FcCz$WcCz$XcCz$z$gBz$z$JDz$atz$tCBz$uCBz$ScCz$TcCz$lsBz$IBBz$UcCz$YcCz$tbCz$ZcCz$acCz$bcCz$ccCz$dcCz$ecCz$z$hCz$FKBz$XMBz$Ugz$z$YmBz$kaCz$laCz$maCz$naCz$oaCz$z$Pz$paCz$qaCz$ez$raCz$saCz$taCz$uaCz$vaCz$lABz$waCz$xaCz$aVBz$JQCz$sZBz$cNz$YmBz$yaCz$ZBBz$AbCz$BbCz$CbCz$DbCz$EbCz$FbCz$DQz$GbCz$HbCz$IbCz$JbCz$KbCz$LbCz$MbCz$hRBz$NbCz$ObCz$PbCz$QbCz$RbCz$MQz$SbCz$TbCz$UbCz$VbCz$z$Uz$ouBz$CPBz$jPz$WbCz$XbCz$cz$dz$z$IBBz$YbCz$FnBz$oiBz$z$iKBz$jKBz$z$qz$z$vCz$z$ez$ZbCz$abCz$HUBz$buBz$oSCz$bbCz$cbCz$z$ez$ZbCz$abCz$HUBz$buBz$oSCz$dbCz$XTz$ebCz$VTz$z$BUz$aXBz$fbCz$gbCz$HUBz$buBz$oSCz$dbCz$XTz$ebCz$hbCz$z$JDz$atz$jBBz$kBBz$ibCz$jbCz$kbCz$lbCz$XTz$mbCz$nbCz$z$qz$z$qz$z$ez$yHz$z$ez$NVCz$fcCz$qCBz$gcCz$PDz$z$BEBz$tWCz$BWCz$GXCz$HXCz$Lz$rABz$hcCz$icCz$iTBz$Rtz$KWCz$TTCz$jcCz$z$kcCz$lcCz$HMCz$sqBz$Jiz$uSCz$JXCz$mcCz$z$JDz$atz$jBBz$kBBz$ncCz$qCBz$ocCz$wyBz$pcCz$z$ez$yHz$z$qcCz$rcCz$scCz$TQBz$ATCz$uuz$tcCz$aZCz$VBCz$ucCz$vcCz$fmBz$LPz$YVz$koBz$XTz$mbCz$wcCz$xcCz$ycCz$hlBz$sXCz$AdCz$FjBz$QZBz$XFBz$HHz$BdCz$wyBz$CdCz$DdCz$rZz$rvBz$xcCz$EdCz$FdCz$GdCz$HdCz$vcCz$fmBz$LPz$IdCz$eXBz$LPz$JdCz$KdCz$z$hiBz$ZfBz$z$dgBz$egBz$LdCz$MdCz$z$NdCz$OdCz$PdCz$QdCz$VTz$z$HfBz$z$ZeBz$aeBz$beBz$mfBz$z$FKz$z$IhBz$JhBz$phBz$agBz$z$EgBz$QfBz$nhBz$RdCz$WfBz$z$bhBz$chBz$SdCz$TdCz$z$bhBz$VZCz$UKz$UdCz$VdCz$VZCz$UKz$XKBz$WdCz$XdCz$leBz$z$SjBz$YdCz$QdCz$riBz$z$SjBz$ZdCz$adCz$bdCz$cdCz$ddCz$DhBz$EhBz$FhBz$z$cjBz$edCz$fdCz$gdCz$QfBz$wVz$hdCz$MjBz$z$idCz$jdCz$AfBz$z$FKz$z$kdCz$seBz$GdCz$ldCz$z$LgBz$MgBz$PgBz$liBz$miBz$niBz$oiBz$z$rz$z$weBz$z$VfBz$ZfBz$z$VjBz$WjBz$WiBz$XiBz$z$PTBz$LPz$YVz$mgBz$BUz$aXBz$mdCz$z$piBz$VABz$ZfBz$z$VjBz$WjBz$WiBz$XiBz$z$ndCz$odCz$pdCz$MFz$z$PTBz$qdCz$rdCz$XTz$mbCz$sdCz$z$PTBz$LPz$UKz$tdCz$udCz$z$HfBz$z$CjBz$DjBz$tACz$mgBz$FjBz$QZBz$vdCz$z$qiBz$wdCz$seBz$xdCz$rZz$ydCz$z$rz$z$rz$z$rz$z$weBz$z$rfBz$sfBz$tfBz$AfBz$z$FKz$z$IhBz$JhBz$AeCz$BKBz$leBz$z$EgBz$QfBz$tJBz$uJBz$z$HfBz$z$FKz$z$IhBz$JhBz$BeCz$CeCz$z$EgBz$QfBz$FgBz$DeCz$z$rz$z$mdBz$z$EeCz$HUBz$FeCz$avBz$GeCz$HeCz$z$EGz$XUz$YUz$Obz$nHCz$Obz$IeCz$BWCz$JeCz$JHz$KeCz$LeCz$z$SdBz$TdBz$z$bdBz$cdBz$ddBz$edBz$fdBz$gdBz$hdBz$idBz$jdBz$kdBz$z$ldBz$QTBz$mdBz$z$ndBz$odBz$ePz$z$MeCz$NeCz$OeCz$PeCz$QeCz$qNz$z$ReCz$SeCz$TeCz$UeCz$VeCz$WeCz$XeCz$YeCz$ZeCz$aeCz$beCz$ceCz$lACz$deCz$eeCz$feCz$geCz$z$heCz$ieCz$jeCz$keCz$leCz$aeCz$beCz$meCz$neCz$XeCz$oeCz$peCz$qeCz$reCz$seCz$teCz$ueCz$z$tdBz$udBz$veCz$Jiz$uSCz$vSCz$weCz$xeCz$BEBz$yeCz$nBBz$AfCz$ikBz$z$tdBz$BfCz$CfCz$jWz$XNCz$DfCz$EfCz$UGBz$FfCz$z$CeBz$DeBz$EeBz$FeBz$GeBz$z$CeBz$GfCz$HfCz$dCz$z$IfCz$JfCz$iEz$KfCz$LfCz$z$MeBz$sez$mdBz$z$NeBz$OeBz$PeBz$QeBz$ReBz$jdBz$kdBz$z$eWBz$z$tICz$Rtz$KWCz$LWCz$MfCz$NfCz$aOCz$Rtz$klBz$VABz$BeBz$OfCz$dz$z$ez$PfCz$GIz$QfCz$RfCz$TTCz$SfCz$gFz$z$uGz$vGz$SeBz$TeBz$iiz$UeBz$z$uGz$vGz$wGz$xGz$TfCz$LWCz$UfCz$yjz$Akz$Fuz$FaCz$z$uGz$vGz$mPBz$nPBz$uSCz$vSCz$z$uGz$vGz$WSBz$DUz$VfCz$BWCz$uWCz$z$Uz$Vz$BUz$saz$WfCz$XfCz$YfCz$ZfCz$YfCz$ZfCz$YfCz$ZfCz$YfCz$afCz$cz$dz$z$BUz$bfCz$cfCz$phBz$XtBz$dfCz$efCz$BUz$saz$ffCz$QOCz$PZCz$gfCz$NtBz$OtBz$PtBz$hfCz$gACz$cJBz$dJBz$ryBz$sKz$PACz$TfBz$QACz$nBBz$RACz$ifCz$XTz$mbCz$jfCz$kfCz$cHCz$lfCz$mfCz$WlBz$tACz$aACz$nfCz$rZz$ofCz$sFBz$pfCz$oHz$nxBz$oxBz$pxBz$qfCz$eWCz$nbCz$z$QDz$RDz$URCz$sYz$rfCz$Blz$sfCz$tfCz$ufCz$vfCz$wfCz$UBz$VBz$z$BUz$bfCz$cfCz$phBz$XtBz$dfCz$xfCz$eXBz$LPz$yfCz$VdCz$VZCz$UKz$AgCz$DSBz$Pjz$gIBz$BgCz$CgCz$rJBz$sJBz$DgCz$EgCz$nLz$RtBz$fiBz$FgCz$GgCz$eXBz$LPz$YVz$TACz$UACz$VACz$WACz$RlBz$SlBz$HgCz$PyBz$kcCz$lcCz$KGBz$StBz$IgCz$gGz$RQCz$ctBz$JgCz$TXCz$YVz$PDz$z$gBz$z$JDz$atz$btz$ctz$KgCz$LgCz$MgCz$z$qz$z$ez$yHz$z$JDz$atz$jBBz$kBBz$piBz$VABz$NgCz$OgCz$FKCz$z$JDz$atz$tCBz$uCBz$PgCz$XTz$QgCz$ZcBz$Znz$RgCz$XTz$HZCz$PDz$z$JDz$atz$tCBz$uCBz$SgCz$QOCz$TgCz$UgCz$rvz$svz$VdCz$VZCz$UKz$PDz$z$JDz$atz$tCBz$uCBz$PgCz$XTz$VgCz$WgCz$rvz$svz$eXBz$LPz$YVz$PDz$z$JDz$atz$tCBz$uCBz$XgCz$KjBz$YgCz$YPCz$Puz$iGBz$RlBz$SlBz$slBz$z$JDz$atz$tCBz$uCBz$PgCz$wyBz$xyBz$mXBz$sGBz$ZgCz$rZz$agCz$z$JDz$atz$tCBz$uCBz$bgCz$cgCz$mXBz$sGBz$dgCz$agCz$z$ez$yHz$z$ez$yHz$z$JDz$atz$jBBz$kBBz$egCz$gHBz$fiBz$fgCz$ggCz$Puz$KDCz$crBz$sYz$hgCz$igCz$z$ez$yHz$z$ez$yHz$z$JDz$atz$tCBz$uCBz$jgCz$avBz$kgCz$lgCz$mgCz$ngCz$AHCz$ogCz$pgCz$qgCz$rgCz$sgCz$tgCz$PDz$z$MkBz$NkBz$icBz$ugCz$vgCz$wgCz$xgCz$ygCz$LPz$tpBz$rz$z$ez$yHz$z$ez$yHz$z$gBz$z$JDz$atz$btz$ctz$AhCz$gFz$z$qz$z$rz$z$BhCz$Hbz$ChCz$TTCz$Tz$z$JDz$atz$jBBz$kBBz$DhCz$EhCz$BFz$z$uGz$vGz$mPBz$FhCz$KTCz$vWCz$z$uGz$vGz$kmBz$lmBz$GhCz$BWCz$HhCz$bABz$Xrz$raBz$saBz$z$IhCz$ZYz$uGz$nmBz$uGz$JhCz$KTCz$KhCz$BUz$pmBz$z$IhCz$Rtz$klBz$VABz$BeBz$dDz$z$IhCz$Rtz$KWCz$LWCz$oPBz$z$IhCz$Rtz$LhCz$mlBz$MhCz$NhCz$z$VPz$qsz$Rtz$KWCz$TTCz$z$rz$z$OhCz$PhCz$oSCz$QhCz$RhCz$MFz$z$ez$yHz$z$ez$ShCz$uSCz$ThCz$UhCz$PDz$z$VhCz$WhCz$BLz$vz$XhCz$YhCz$Jiz$uSCz$vSCz$awz$sKz$NOz$OOz$ZhCz$LWCz$ahCz$QLz$bhCz$ESz$Zmz$Rmz$chCz$ayBz$z$JJCz$dhCz$nOBz$ehCz$QLz$fhCz$wjz$LrBz$oTz$wwz$xwz$ywz$Axz$aoz$WWz$ghCz$hhCz$ihCz$KTCz$JXCz$bKz$MOz$bQz$qcCz$jhCz$khCz$lhCz$mhCz$nhCz$ohCz$NKz$phCz$qhCz$rhCz$shCz$lWBz$thCz$z$Uz$uhCz$vhCz$whCz$IKz$RVCz$xhCz$yhCz$AiCz$BiCz$bDz$cDz$dDz$z$uSCz$CiCz$BLz$Pjz$DiCz$PDz$z$qz$z$JDz$atz$tCBz$uCBz$EiCz$FiCz$GiCz$TTCz$QMz$sKz$HiCz$IiCz$BXCz$QLz$JiCz$KiCz$z$JDz$atz$jBBz$kBBz$LiCz$MiCz$NiCz$Fxz$KOz$VCCz$BLz$DhBz$z$ez$yHz$z$ez$OiCz$PiCz$z$ez$QiCz$RiCz$SiCz$z$Ndz$Odz$NXCz$TiCz$UiCz$wIBz$ViCz$WiCz$XiCz$z$Nfz$YiCz$ZiCz$aiCz$biCz$z$TQz$z$ciCz$BLz$vz$XhCz$diCz$hVCz$eiCz$fiCz$IKz$ikBz$z$uSCz$CiCz$BLz$Pjz$DiCz$PDz$z$Tfz$z$ifz$z$JDz$atz$jBBz$kBBz$giCz$hiCz$z$oz$kcz$z$Tfz$z$jfz$z$ciCz$BLz$vz$XhCz$diCz$hVCz$eiCz$fiCz$IKz$ikBz$z$uSCz$CiCz$BLz$Pjz$DiCz$PDz$z$Tfz$z$pfz$z$Ksz$fvz$NTCz$uSCz$LTCz$z$Nfz$hvz$ivz$z$Vfz$z$uGz$vGz$mPBz$FhCz$KTCz$vWCz$z$Tfz$z$pfz$z$USz$Spz$YVz$nVCz$z$Nfz$iiCz$ebBz$dDz$z$gjz$Jyz$USz$rVCz$sVCz$tvz$z$Zyz$ayz$jiCz$kiCz$cyz$WIBz$z$Myz$Wyz$USz$tVCz$wVCz$tvz$z$pfz$z$xVCz$yVCz$YVz$AWCz$BWCz$CWCz$liCz$QMz$sKz$QWCz$miCz$dMz$niCz$USz$nz$z$oPz$oTz$wwz$HWCz$Axz$aoz$IWCz$JWCz$KWCz$LWCz$MWCz$pKz$Oaz$NWCz$OWCz$nqBz$oiCz$QLz$JiCz$piCz$qiCz$tOBz$lWBz$riCz$siCz$tiCz$z$wjz$hqz$TWCz$Rtz$UWCz$VWCz$WWCz$XWCz$YWCz$ZWCz$qvBz$LRz$z$AkBz$aWCz$bWCz$Jiz$cWCz$dWCz$eWCz$fWCz$gWCz$hWCz$iWCz$Rtz$z$jWCz$BEBz$kWCz$xVCz$yVCz$YVz$lWCz$BWCz$mWCz$BEBz$tWCz$BWCz$uWCz$z$VPz$nWCz$Rtz$UWCz$VWCz$WWCz$XWCz$YWCz$ZWCz$bWCz$Jiz$cWCz$dWCz$eWCz$oWCz$z$pWCz$qWCz$rWCz$sWCz$BEBz$tWCz$BWCz$uWCz$z$kVz$lVz$HUBz$buBz$KTCz$vWCz$z$uGz$vGz$SeBz$TeBz$iiz$UeBz$z$Nfz$hvz$ivz$z$Ufz$z$uGz$vGz$mPBz$nPBz$uSCz$vSCz$z$Tfz$z$pfz$z$JDz$atz$tCBz$uCBz$uiCz$viCz$uSCz$CiCz$BLz$wiCz$xiCz$QMz$sKz$QWCz$PDz$z$ez$yHz$z$UEz$JNCz$z$rz$z$yiCz$Hbz$ChCz$TTCz$Tz$z$ez$NVCz$AjCz$bXCz$ZOBz$PDz$z$uGz$vGz$mPBz$FhCz$KTCz$vWCz$z$uGz$vGz$kmBz$lmBz$GhCz$BWCz$HhCz$bABz$Xrz$raBz$saBz$z$VPz$BjCz$YUz$Obz$nHCz$Obz$IeCz$BWCz$JeCz$JHz$XQCz$z$VPz$CjCz$Jiz$uSCz$vSCz$z$VPz$CjCz$Jiz$fiBz$FTCz$Dpz$z$VPz$CjCz$Jiz$RlBz$AYCz$BYCz$CYCz$z$VPz$qsz$Rtz$KWCz$TTCz$z$uGz$vGz$SeBz$TeBz$iiz$UeBz$z$JDz$atz$nlBz$iBz$DjCz$bXCz$EjCz$FjCz$z$rz$z$GjCz$HjCz$IjCz$FKz$z$VhCz$WhCz$TQBz$ATCz$BbBz$JjCz$KjCz$LjCz$sfBz$MjCz$NjCz$aZCz$VBCz$OjCz$Rtz$klBz$VABz$BeBz$PjCz$z$VhCz$WhCz$BUz$aXBz$fbCz$JjCz$KjCz$LjCz$sfBz$MjCz$QjCz$RjCz$sYz$lWBz$SjCz$Rtz$klBz$VABz$BeBz$PjCz$z$cgBz$HuBz$IuBz$JuBz$KuBz$LuBz$TjCz$UjCz$TuBz$cgBz$ETCz$Jiz$fiBz$FTCz$Dpz$eOz$z$RlBz$SlBz$TlBz$VjCz$xXCz$WjCz$NkBz$HUBz$XjCz$KjBz$YjCz$ZjCz$Zfz$z$kcCz$lcCz$HuBz$IuBz$JuBz$KuBz$LuBz$ajCz$bjCz$avBz$cjCz$wyBz$djCz$ejCz$BEBz$yeCz$nBBz$AfCz$fjCz$z$BUz$saz$gjCz$EGz$BEBz$tWCz$bXCz$IZCz$eOz$z$Uz$Vz$BUz$saz$WfCz$XfCz$YfCz$ZfCz$YfCz$ZfCz$YfCz$ZfCz$YfCz$afCz$cz$dz$z$BUz$bfCz$cfCz$phBz$XtBz$dfCz$efCz$BUz$saz$ffCz$QOCz$PZCz$gfCz$NtBz$OtBz$PtBz$hfCz$gACz$cJBz$dJBz$ryBz$sKz$PACz$TfBz$QACz$nBBz$RACz$ifCz$XTz$mbCz$jfCz$kfCz$cHCz$lfCz$mfCz$WlBz$tACz$aACz$nfCz$rZz$ofCz$sFBz$pfCz$oHz$nxBz$oxBz$pxBz$qfCz$eWCz$nbCz$z$QDz$RDz$URCz$sYz$rfCz$Blz$sfCz$tfCz$ufCz$vfCz$wfCz$UBz$VBz$z$BUz$bfCz$cfCz$phBz$XtBz$dfCz$xfCz$eXBz$LPz$yfCz$VdCz$VZCz$UKz$AgCz$DSBz$Pjz$gIBz$BgCz$CgCz$rJBz$sJBz$DgCz$EgCz$nLz$RtBz$fiBz$FgCz$GgCz$eXBz$LPz$YVz$TACz$UACz$VACz$WACz$RlBz$SlBz$HgCz$PyBz$kcCz$lcCz$KGBz$StBz$IgCz$gGz$RQCz$ctBz$JgCz$TXCz$YVz$PDz$z$gBz$z$JDz$atz$btz$ctz$KgCz$LgCz$MgCz$z$qz$z$JDz$atz$jBBz$kBBz$egCz$gHBz$fiBz$fgCz$ggCz$Puz$KDCz$crBz$sYz$hgCz$igCz$z$ez$yHz$z$ez$yHz$z$JDz$atz$tCBz$uCBz$jgCz$avBz$kgCz$lgCz$mgCz$ngCz$AHCz$ogCz$pgCz$qgCz$rgCz$sgCz$tgCz$PDz$z$MkBz$NkBz$icBz$ugCz$vgCz$wgCz$xgCz$ygCz$LPz$tpBz$rz$z$oz$kcz$z$rz$z$hjCz$ijCz$oSCz$QhCz$Orz$Tz$z$TQBz$ATCz$BbBz$JjCz$KjCz$LjCz$sfBz$MjCz$NjCz$aZCz$VBCz$OjCz$Rtz$klBz$VABz$BeBz$PjCz$z$BUz$aXBz$fbCz$JjCz$KjCz$LjCz$sfBz$MjCz$QjCz$RjCz$sYz$lWBz$SjCz$Rtz$klBz$VABz$BeBz$PjCz$z$cgBz$HuBz$IuBz$JuBz$KuBz$LuBz$TjCz$UjCz$TuBz$cgBz$ETCz$Jiz$fiBz$FTCz$Dpz$eOz$z$RlBz$SlBz$TlBz$VjCz$xXCz$WjCz$NkBz$HUBz$XjCz$KjBz$YjCz$ZjCz$Zfz$z$FjBz$QZBz$IlBz$JjCz$KjCz$LjCz$sfBz$MjCz$QjCz$jjCz$nBBz$kjCz$hlBz$sXCz$ljCz$Rtz$klBz$VABz$BeBz$PjCz$z$kcCz$lcCz$HuBz$IuBz$JuBz$KuBz$LuBz$ajCz$bjCz$avBz$cjCz$wyBz$djCz$ejCz$BEBz$yeCz$nBBz$AfCz$fjCz$z$BUz$saz$gjCz$EGz$BEBz$tWCz$bXCz$IZCz$eOz$z$GWBz$lWBz$mjCz$EGz$BEBz$tWCz$bXCz$cXCz$njCz$z$ez$yHz$z$Ndz$Odz$ojCz$pjCz$qjCz$rjCz$PiCz$sjCz$tjCz$ujCz$vjCz$wjCz$z$Uz$xjCz$vjCz$yjCz$AkCz$bDz$cDz$dDz$z$ez$yHz$z$ez$NVCz$BkCz$CkCz$DkCz$EkCz$FkCz$z$BEBz$tWCz$BWCz$GXCz$HXCz$Lz$cgBz$iTBz$Rtz$KWCz$TTCz$IXCz$OHz$z$cgBz$HMCz$sqBz$Jiz$uSCz$JXCz$cgBz$whz$z$JDz$atz$jBBz$kBBz$KXCz$LXCz$MXCz$z$gBz$z$JDz$atz$jBBz$kBBz$kdCz$GkCz$HkCz$z$qz$z$ez$yHz$z$Ndz$Odz$ojCz$IkCz$JkCz$KkCz$LkCz$MkCz$NkCz$OkCz$PkCz$Dtz$z$Uz$xjCz$QkCz$rHz$AkCz$bDz$cDz$dDz$z$ez$yHz$z$Ndz$Odz$NXCz$OXCz$PXCz$QXCz$RXCz$SXCz$TXCz$YVz$z$JDBz$vQz$GWBz$lWBz$cxz$Ltz$UXCz$eWCz$VXCz$OABz$WXCz$XXCz$YXCz$z$JDz$atz$jBBz$kBBz$ZXCz$aXCz$TXCz$YVz$PDz$z$ez$Ofz$TXCz$YVz$Wz$BEBz$tWCz$bXCz$cXCz$Dtz$z$gBz$z$JDz$atz$jBBz$kBBz$ZXCz$RkCz$HkCz$z$qz$z$ez$yHz$z$Ndz$Odz$ojCz$pjCz$SkCz$TkCz$UkCz$VkCz$TMCz$WkCz$tACz$z$Uz$xjCz$XkCz$YkCz$pYCz$HDz$IDz$z$ez$yHz$z$ez$NVCz$BkCz$ZkCz$akCz$bkCz$FKCz$z$DlBz$ElBz$FlBz$Rtz$KWCz$LWCz$hXCz$iXCz$jXCz$avBz$kXCz$lXCz$mXCz$z$FjBz$QZBz$IlBz$jCBz$JlBz$KlBz$LlBz$rlz$ESz$MlBz$NlBz$OlBz$nXCz$iDz$thz$oQz$hmBz$Xqz$oXCz$z$RlBz$SlBz$TlBz$UlBz$ZGBz$DlBz$ElBz$bQz$NQz$VlBz$WlBz$pXCz$clBz$cOz$Ghz$XKBz$YKBz$qXCz$eOz$z$JDz$atz$jBBz$kBBz$rXCz$hlBz$sXCz$tXCz$z$JDz$atz$jBBz$kBBz$uXCz$WlBz$tACz$PDz$z$ez$JjBz$KjBz$LjBz$vXCz$wXCz$xXCz$yXCz$Jiz$RlBz$AYCz$BYCz$CYCz$z$gBz$z$JDz$atz$jBBz$kBBz$ckCz$dkCz$PDz$z$qz$z$ez$yHz$z$Ndz$Odz$ojCz$ekCz$fkCz$TkCz$UkCz$gkCz$hkCz$ikCz$mYCz$z$Uz$jkCz$kkCz$VLz$lkCz$UBz$VBz$z$DYCz$EYCz$ypz$WQz$XQz$iqz$LYz$MYz$oqz$pqz$qqz$hGCz$z$DYCz$EYCz$FYCz$WQz$XQz$grz$LYz$MYz$GYCz$oZz$Jaz$HYCz$z$Uz$hrz$IYCz$JYCz$KYCz$LYCz$GWz$DYCz$EYCz$MYCz$NYCz$Tjz$OYCz$Tjz$OYCz$Tjz$OYCz$Tjz$PYCz$HDz$IDz$z$Uz$hrz$IYCz$JYCz$KYCz$QYCz$GWz$DYCz$EYCz$RYCz$NYCz$SYCz$TYCz$UYCz$VYCz$bDz$cDz$dDz$z$JDz$atz$tCBz$uCBz$WYCz$XYCz$YYCz$ZYCz$DYCz$EYCz$aYCz$z$JDz$atz$tCBz$uCBz$WYCz$XYCz$bYCz$ZYCz$DYCz$EYCz$cYCz$z$Ndz$Odz$dYCz$eYCz$fYCz$gYCz$hYCz$wVz$iYCz$jYCz$kYCz$lYCz$mYCz$z$Uz$nYCz$lYCz$oYCz$pYCz$HDz$IDz$z$BUz$saz$qYCz$JYCz$KYCz$Ecz$z$JDz$atz$jBBz$kBBz$rYCz$sYCz$BUz$saz$tYCz$z$gBz$z$BUz$saz$qYCz$JYCz$KYCz$uYCz$z$JDz$atz$jBBz$kBBz$rYCz$sYCz$BUz$saz$tYCz$z$qz$z$gBz$z$JDz$atz$tCBz$uCBz$WYCz$vYCz$wYCz$xYCz$yYCz$AZCz$wYCz$gCz$z$BUz$saz$qYCz$JYCz$KYCz$uYCz$z$JDz$atz$jBBz$kBBz$rYCz$sYCz$BUz$saz$tYCz$z$qz$z$gBz$z$Uz$hrz$IYCz$JYCz$KYCz$QYCz$GWz$DYCz$EYCz$RYCz$NYCz$SYCz$TYCz$UYCz$VYCz$bDz$cDz$dDz$z$JDz$atz$tCBz$uCBz$WYCz$vYCz$BZCz$xYCz$yYCz$AZCz$BZCz$gCz$z$BUz$saz$qYCz$JYCz$KYCz$Ecz$z$JDz$atz$jBBz$kBBz$rYCz$sYCz$BUz$saz$tYCz$z$gBz$z$JDz$atz$btz$ctz$CZCz$DZCz$EZCz$FZCz$GZCz$z$qz$z$qz$z$ez$koBz$XTz$HZCz$Wz$BEBz$tWCz$bXCz$IZCz$z$gBz$z$JDz$atz$jBBz$kBBz$rYCz$mkCz$HkCz$z$qz$z$ez$yHz$z$Ndz$Odz$ojCz$nkCz$okCz$PiCz$pkCz$qkCz$ujCz$rkCz$skCz$z$Uz$xjCz$rkCz$uuz$AkCz$bDz$cDz$dDz$z$hCz$FKBz$GKBz$z$Ugz$z$ez$yHz$z$Ndz$Odz$rIBz$uSCz$JZCz$KZCz$LZCz$XHBz$MZCz$NZCz$vIBz$OZCz$QOCz$PZCz$QZCz$z$JDBz$vQz$TQBz$ATCz$BTCz$Ylz$RZCz$QOCz$PZCz$SZCz$lHBz$SLCz$TZCz$nHBz$oHBz$TKBz$z$Uz$Vz$UZCz$VZCz$UKz$dLCz$OKz$eLCz$bDz$cDz$dDz$z$ez$fz$gz$WZCz$YDBz$XZCz$Puz$Quz$z$oz$pz$z$qz$z$YZCz$ZZCz$aZCz$VBCz$bZCz$cZCz$yjz$Akz$nGz$z$Uz$fxz$naBz$Ktz$cz$dz$z$Uz$dZCz$QOCz$PZCz$rOCz$eZCz$fZCz$cEz$gZCz$ZZCz$aZCz$VBCz$hZCz$iZCz$jZCz$HDz$IDz$z$ez$yACz$QOCz$PZCz$JRBz$yXCz$Jiz$uSCz$JXCz$UKz$z$JDz$atz$jBBz$kBBz$kZCz$lZCz$aZCz$VBCz$mZCz$z$ez$yHz$z$ez$NVCz$tZCz$QOCz$PZCz$uZCz$tGz$z$Uz$SFz$TFz$UFz$VFz$vZCz$aBCz$wZCz$xZCz$vEz$IDz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$AbBz$BbBz$yZCz$aZCz$VBCz$AaCz$BaCz$bABz$Xrz$raBz$saBz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$AbBz$BbBz$yZCz$aZCz$VBCz$CaCz$DaCz$bABz$Xrz$raBz$saBz$z$BHz$CHz$DHz$MHz$NHz$EaCz$yjz$Akz$Fuz$FaCz$z$JDz$atz$tCBz$uCBz$GaCz$TQBz$ATCz$HaCz$IaCz$ACCz$z$QDz$PHz$QHz$RHz$SHz$THz$JaCz$WHz$cDz$dDz$z$mbBz$nbBz$sbBz$TQBz$ATCz$Lvz$sVz$iTBz$fqz$gqz$KaCz$fDz$z$mbBz$nbBz$sbBz$TQBz$ATCz$Lvz$LaCz$iTBz$fqz$gqz$KaCz$fDz$z$mbBz$MaCz$NaCz$bABz$Xrz$raBz$saBz$z$JDz$atz$tCBz$uCBz$GaCz$TQBz$ATCz$HaCz$IaCz$ACCz$z$gBz$z$JDz$atz$btz$ctz$OaCz$PaCz$QaCz$RaCz$SaCz$oSCz$TaCz$UaCz$z$qz$z$iKBz$jKBz$z$gBz$z$JDz$atz$btz$ctz$nZCz$oZCz$pZCz$qZCz$rZCz$sZCz$z$qz$z$gBz$z$JDz$atz$btz$ctz$nZCz$oZCz$pZCz$qZCz$rZCz$sZCz$z$qz$z$vCz$z$gBz$z$JDz$atz$jBBz$kBBz$tkCz$dkCz$PDz$z$qz$z$ez$yHz$z$Ndz$Odz$ojCz$ukCz$vkCz$TkCz$UkCz$wkCz$xkCz$WkCz$ykCz$z$Uz$xjCz$AlCz$BlCz$pYCz$HDz$IDz$z$ez$yHz$z$Ndz$Odz$NXCz$VaCz$WaCz$XaCz$YaCz$ZaCz$aaCz$baCz$caCz$daCz$eaCz$faCz$QXCz$vIBz$gaCz$haCz$z$Uz$bNz$iaCz$jaCz$bDz$cDz$dDz$z$hCz$FKBz$XMBz$Ugz$z$YmBz$kaCz$laCz$maCz$naCz$oaCz$z$Pz$paCz$qaCz$ez$raCz$saCz$taCz$uaCz$vaCz$lABz$waCz$xaCz$aVBz$JQCz$sZBz$cNz$YmBz$yaCz$ZBBz$AbCz$BbCz$CbCz$DbCz$EbCz$FbCz$DQz$GbCz$HbCz$IbCz$JbCz$KbCz$LbCz$MbCz$hRBz$NbCz$ObCz$PbCz$QbCz$RbCz$MQz$SbCz$TbCz$UbCz$VbCz$z$Uz$ouBz$CPBz$jPz$WbCz$XbCz$cz$dz$z$IBBz$YbCz$FnBz$oiBz$z$iKBz$jKBz$z$qz$z$vCz$z$ez$ZbCz$abCz$HUBz$buBz$oSCz$bbCz$cbCz$z$ez$ZbCz$abCz$HUBz$buBz$oSCz$dbCz$XTz$ebCz$VTz$z$BUz$aXBz$fbCz$gbCz$HUBz$buBz$oSCz$dbCz$XTz$ebCz$hbCz$z$JDz$atz$jBBz$kBBz$ibCz$jbCz$kbCz$lbCz$XTz$mbCz$nbCz$z$gBz$z$ez$NVCz$obCz$pbCz$qbCz$rbCz$sbCz$tbCz$ubCz$vbCz$z$Pz$paCz$qaCz$ez$raCz$saCz$taCz$uaCz$vaCz$lABz$waCz$xaCz$aVBz$JQCz$sZBz$cNz$IBBz$wbCz$xbCz$ybCz$AcCz$BcCz$CcCz$wICz$NOz$OOz$DcCz$EcCz$FcCz$GcCz$HcCz$IcCz$JcCz$heBz$KcCz$LcCz$McCz$HlBz$NcCz$OcCz$rOCz$PcCz$Agz$Guz$z$Uz$DDz$Pz$paCz$QcCz$RcCz$bDz$cDz$dDz$z$ez$ZbCz$abCz$HUBz$buBz$oSCz$bbCz$cbCz$z$ez$ZbCz$abCz$HUBz$buBz$oSCz$dbCz$XTz$ebCz$VTz$z$BUz$aXBz$fbCz$gbCz$HUBz$buBz$oSCz$dbCz$XTz$ebCz$hbCz$z$JDz$atz$tCBz$uCBz$ScCz$TcCz$lsBz$IBBz$UcCz$VcCz$FcCz$WcCz$XcCz$z$gBz$z$JDz$atz$tCBz$uCBz$ScCz$TcCz$lsBz$IBBz$UcCz$YcCz$tbCz$ZcCz$acCz$bcCz$ccCz$dcCz$ecCz$z$hCz$FKBz$XMBz$Ugz$z$YmBz$kaCz$laCz$maCz$naCz$oaCz$z$Pz$paCz$qaCz$ez$raCz$saCz$taCz$uaCz$vaCz$lABz$waCz$xaCz$aVBz$JQCz$sZBz$cNz$YmBz$yaCz$ZBBz$AbCz$BbCz$CbCz$DbCz$EbCz$FbCz$DQz$GbCz$HbCz$IbCz$JbCz$KbCz$LbCz$MbCz$hRBz$NbCz$ObCz$PbCz$QbCz$RbCz$MQz$SbCz$TbCz$UbCz$VbCz$z$Uz$ouBz$CPBz$jPz$WbCz$XbCz$cz$dz$z$IBBz$YbCz$FnBz$oiBz$z$iKBz$jKBz$z$qz$z$vCz$z$ez$ZbCz$abCz$HUBz$buBz$oSCz$bbCz$cbCz$z$ez$ZbCz$abCz$HUBz$buBz$oSCz$dbCz$XTz$ebCz$VTz$z$BUz$aXBz$fbCz$gbCz$HUBz$buBz$oSCz$dbCz$XTz$ebCz$hbCz$z$JDz$atz$jBBz$kBBz$ibCz$jbCz$kbCz$lbCz$XTz$mbCz$nbCz$z$qz$z$qz$z$gBz$z$JDz$atz$jBBz$ClCz$DlCz$PiCz$IRBz$z$qz$z$ez$yHz$z$Ndz$Odz$ojCz$pjCz$ElCz$FlCz$GlCz$PiCz$sjCz$tjCz$OkCz$HlCz$OHz$z$Uz$xjCz$AlCz$IlCz$pYCz$HDz$IDz$z$ez$yHz$z$ez$NVCz$BkCz$kcCz$JlCz$BFz$z$BEBz$tWCz$BWCz$GXCz$HXCz$Lz$rABz$hcCz$icCz$iTBz$Rtz$KWCz$TTCz$jcCz$z$kcCz$lcCz$HMCz$sqBz$Jiz$uSCz$JXCz$mcCz$z$JDz$atz$jBBz$kBBz$ncCz$qCBz$ocCz$wyBz$pcCz$z$gBz$z$JDz$atz$jBBz$kBBz$qiBz$FlCz$PiCz$IRBz$z$qz$z$ez$yHz$z$qcCz$rcCz$scCz$TQBz$ATCz$uuz$tcCz$aZCz$VBCz$ucCz$vcCz$fmBz$LPz$YVz$koBz$XTz$mbCz$wcCz$xcCz$ycCz$hlBz$sXCz$AdCz$FjBz$QZBz$XFBz$HHz$BdCz$wyBz$CdCz$DdCz$rZz$rvBz$xcCz$EdCz$FdCz$GdCz$HdCz$vcCz$fmBz$LPz$IdCz$eXBz$LPz$JdCz$KdCz$z$hiBz$ZfBz$z$dgBz$egBz$LdCz$MdCz$z$NdCz$OdCz$PdCz$QdCz$VTz$z$HfBz$z$ZeBz$aeBz$beBz$mfBz$z$FKz$z$IhBz$JhBz$phBz$agBz$z$EgBz$QfBz$nhBz$RdCz$WfBz$z$bhBz$chBz$SdCz$TdCz$z$bhBz$VZCz$UKz$UdCz$VdCz$VZCz$UKz$XKBz$WdCz$XdCz$leBz$z$SjBz$YdCz$QdCz$riBz$z$SjBz$ZdCz$adCz$bdCz$cdCz$ddCz$DhBz$EhBz$FhBz$z$cjBz$edCz$fdCz$gdCz$QfBz$wVz$hdCz$MjBz$z$idCz$jdCz$AfBz$z$FKz$z$kdCz$seBz$GdCz$ldCz$z$LgBz$MgBz$PgBz$liBz$miBz$niBz$oiBz$z$rz$z$weBz$z$VfBz$ZfBz$z$VjBz$WjBz$WiBz$XiBz$z$PTBz$LPz$YVz$mgBz$BUz$aXBz$mdCz$z$piBz$VABz$ZfBz$z$VjBz$WjBz$WiBz$XiBz$z$ndCz$odCz$pdCz$MFz$z$PTBz$qdCz$rdCz$XTz$mbCz$sdCz$z$PTBz$LPz$UKz$tdCz$udCz$z$HfBz$z$CjBz$DjBz$tACz$mgBz$FjBz$QZBz$vdCz$z$qiBz$wdCz$seBz$xdCz$rZz$ydCz$z$rz$z$rz$z$rz$z$weBz$z$rfBz$sfBz$tfBz$AfBz$z$FKz$z$IhBz$JhBz$AeCz$BKBz$leBz$z$EgBz$QfBz$tJBz$uJBz$z$HfBz$z$FKz$z$IhBz$JhBz$BeCz$CeCz$z$EgBz$QfBz$FgBz$DeCz$z$rz$z$mdBz$z$EeCz$HUBz$FeCz$avBz$GeCz$HeCz$z$uGz$vGz$WSBz$DUz$VfCz$BWCz$uWCz$z$ez$yHz$z$Uz$Vz$BUz$saz$WfCz$XfCz$YfCz$ZfCz$YfCz$ZfCz$YfCz$ZfCz$YfCz$afCz$cz$dz$z$BUz$bfCz$cfCz$phBz$XtBz$dfCz$efCz$BUz$saz$ffCz$QOCz$PZCz$gfCz$NtBz$OtBz$PtBz$hfCz$gACz$cJBz$dJBz$ryBz$sKz$PACz$TfBz$QACz$nBBz$RACz$ifCz$XTz$mbCz$jfCz$kfCz$cHCz$lfCz$mfCz$WlBz$tACz$aACz$nfCz$rZz$ofCz$sFBz$pfCz$oHz$nxBz$oxBz$pxBz$qfCz$eWCz$nbCz$z$QDz$RDz$URCz$sYz$rfCz$Blz$sfCz$tfCz$ufCz$vfCz$wfCz$UBz$VBz$z$BUz$bfCz$cfCz$phBz$XtBz$dfCz$xfCz$eXBz$LPz$yfCz$VdCz$VZCz$UKz$AgCz$DSBz$Pjz$gIBz$BgCz$CgCz$rJBz$sJBz$DgCz$EgCz$nLz$RtBz$fiBz$FgCz$GgCz$eXBz$LPz$YVz$TACz$UACz$VACz$WACz$RlBz$SlBz$HgCz$PyBz$kcCz$lcCz$KGBz$StBz$IgCz$gGz$RQCz$ctBz$JgCz$TXCz$YVz$PDz$z$gBz$z$JDz$atz$btz$ctz$KgCz$LgCz$MgCz$z$qz$z$JDz$atz$jBBz$kBBz$egCz$gHBz$fiBz$fgCz$ggCz$Puz$KDCz$crBz$sYz$hgCz$igCz$z$ez$yHz$z$ez$yHz$z$JDz$atz$tCBz$uCBz$jgCz$avBz$kgCz$lgCz$mgCz$ngCz$AHCz$ogCz$pgCz$qgCz$rgCz$sgCz$tgCz$PDz$z$MkBz$NkBz$icBz$ugCz$vgCz$wgCz$xgCz$ygCz$LPz$tpBz$rz$z$oz$kcz$z$rz$z$iaBz$tFz$jaBz$bCz$z$ez$yHz$z$ez$NVCz$KlCz$LlCz$MlCz$PDz$z$Uz$SFz$TFz$UFz$VFz$vZCz$aBCz$wZCz$xZCz$vEz$IDz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$AbBz$BbBz$CbBz$DbBz$NlCz$OlCz$Rrz$Srz$wICz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$AbBz$BbBz$CbBz$DbBz$PlCz$OlCz$Rrz$Srz$wICz$z$BHz$CHz$DHz$MHz$NHz$EaCz$yjz$Akz$Fuz$FaCz$z$JDz$atz$tCBz$uCBz$GaCz$cDBz$QlCz$RlCz$z$QDz$PHz$QHz$RHz$SHz$THz$JaCz$WHz$cDz$dDz$z$mbBz$nbBz$sbBz$cDBz$tbBz$SlCz$yjz$Akz$Fuz$FaCz$z$mbBz$nbBz$sbBz$cDBz$ubBz$SlCz$yjz$Akz$Fuz$FaCz$z$mbBz$MaCz$NaCz$bABz$Xrz$raBz$saBz$z$JDz$atz$tCBz$uCBz$GaCz$cDBz$QlCz$RlCz$z$gBz$z$ez$TlCz$UlCz$VlCz$WlCz$XlCz$YlCz$ZlCz$alCz$z$qz$z$rz$z$DUz$blCz$bXCz$kuz$FKz$z$Ksz$fvz$NTCz$uSCz$LTCz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$ez$fz$gz$clCz$oSCz$dlCz$pQCz$elCz$Puz$Quz$z$fuz$guz$z$qz$z$uGz$vGz$WSBz$DUz$VfCz$BWCz$uWCz$z$UEz$PnBz$z$UKz$Vuz$piz$ySCz$TQBz$ATCz$BTCz$CTCz$DTCz$ETCz$Jiz$fiBz$FTCz$Dpz$hOz$ObBz$WOz$XOz$GTCz$z$Ksz$Hvz$HTCz$ITCz$OOz$LwBz$JTCz$IQz$aoBz$KTCz$LTCz$z$Uz$Vz$Osz$Biz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$uSCz$flCz$glCz$hlCz$IRCz$JRCz$z$gBz$z$JDz$atz$jBBz$kBBz$ilCz$TTCz$Amz$APz$z$qz$z$rz$z$uYz$gcz$uSCz$DXCz$bCz$z$Ksz$fvz$NTCz$uSCz$LTCz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$ez$fz$gz$clCz$oSCz$dlCz$pQCz$elCz$Puz$Quz$z$fuz$guz$z$qz$z$uPBz$jlCz$TTCz$z$DUz$blCz$bXCz$oPBz$z$rz$z$uPBz$jlCz$TTCz$Tz$z$Ksz$fvz$NTCz$uSCz$LTCz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$ez$fz$gz$clCz$oSCz$dlCz$pQCz$elCz$Puz$Quz$z$fuz$guz$z$qz$z$uGz$vGz$mPBz$FhCz$KTCz$vWCz$z$JDz$atz$jBBz$kBBz$ilCz$TTCz$klCz$PDz$z$rz$z$llCz$DXCz$bCz$z$JIz$KIz$z$ez$mlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$PDz$z$ez$fz$CDCz$pvz$olCz$bXCz$plCz$qlCz$VABz$cdz$rlCz$Znz$CECz$qcz$qcz$qcz$qcz$qcz$qcz$qcz$qcz$qRCz$z$ez$fz$CDCz$lvz$DDCz$EDCz$sGBz$FDCz$slCz$tlCz$ulCz$qcz$qcz$qcz$qcz$qcz$qcz$qcz$qcz$qcz$qcz$qcz$BDCz$PDz$z$ez$mlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$nlCz$PDz$z$ez$fz$ASCz$BSCz$vlCz$DSCz$kNCz$z$ez$fz$XDCz$lvz$wlCz$xlCz$bXCz$ylCz$AmCz$BmCz$hsBz$nz$z$ez$fz$XDCz$lvz$dDCz$ZDCz$sGBz$CmCz$DmCz$TTCz$PDz$z$ez$fz$XDCz$lvz$iDCz$EmCz$FmCz$GmCz$oSCz$PTCz$Znz$uGBz$z$ez$VECz$WECz$WECz$WECz$PDz$z$ez$fz$XDCz$lvz$lDCz$ZDCz$sGBz$HmCz$ImCz$JmCz$niBz$KmCz$LmCz$PCBz$MmCz$oSCz$NmCz$z$ez$fz$XDCz$lvz$oDCz$ZDCz$sGBz$OmCz$PmCz$VABz$QmCz$z$ez$fz$XDCz$lvz$rDCz$RmCz$pvz$SmCz$avBz$TmCz$rvz$svz$PDz$z$ez$VECz$WECz$WECz$WECz$PDz$z$ez$fz$XDCz$lvz$sDCz$ZDCz$sGBz$UmCz$RfCz$TTCz$PDz$z$ez$fz$XDCz$lvz$tDCz$ZDCz$sGBz$VmCz$WmCz$TTCz$PDz$z$ez$fz$XDCz$lvz$wDCz$ZDCz$sGBz$XmCz$YmCz$TTCz$PDz$z$ez$VECz$WECz$WECz$WECz$PDz$z$ez$fz$XDCz$lvz$vECz$ZDCz$sGBz$ZmCz$amCz$z$ez$Qwz$tez$uSCz$bmCz$yECz$z$Dfz$dvz$MTCz$oSCz$uWCz$z$ez$z$Ndz$Odz$lBBz$aSCz$cmCz$JHBz$lJBz$Yfz$z$Nfz$LCBz$MCBz$NCBz$z$ifz$z$oz$kcz$z$Tfz$z$Ufz$z$OhCz$PhCz$oSCz$QhCz$GeBz$z$llCz$vWCz$z$Tfz$z$Vfz$z$yiCz$Hbz$ChCz$TTCz$z$Tfz$z$dmCz$Pz$osz$iCCz$z$UTCz$JWz$HUz$z$jFz$MVCz$oSCz$uWCz$z$jFz$CXCz$uSCz$vWCz$z$Tfz$z$afz$z$GjCz$HjCz$jKBz$z$Tfz$z$cfz$z$hjCz$ijCz$oSCz$QhCz$Orz$z$Tfz$z$efz$z$DUz$blCz$bXCz$oPBz$z$llCz$vWCz$z$Tfz$z$ffz$z$uYz$gcz$uSCz$vWCz$z$llCz$vWCz$z$Tfz$z$gfz$z$uPBz$jlCz$TTCz$z$llCz$vWCz$z$Tfz$z$jfz$z$ez$BHBz$emCz$fmCz$PDz$z$oz$pz$z$Tfz$z$pfz$z$rz$z$llCz$vWCz$z$rz$z$gmCz$hmCz$imCz$FKz$z$eIz$jmCz$kmCz$lmCz$mmCz$nmCz$z$sBz$LJz$MJz$jUCz$z$wBz$Jnz$yBz$FJz$z$CCz$Onz$ECz$Pnz$PDz$z$Znz$Jnz$yBz$omCz$z$pmCz$AVz$z$ez$fz$LJz$MJz$qmCz$rmCz$smCz$yBz$omCz$z$rz$z$jCCz$Njz$z$ez$fz$LJz$tmCz$qmCz$rmCz$smCz$yBz$omCz$z$rz$z$qHBz$umCz$FKz$z$ez$fz$LJz$vmCz$qmCz$rmCz$smCz$yBz$omCz$z$rz$z$qHCz$rHCz$sHCz$tHCz$NOz$OOz$uHCz$Obz$vHCz$Tqz$YoBz$swz$z$Lpz$Mpz$Npz$Ipz$Opz$Ppz$Qpz$Rpz$z$GKz$Spz$YVz$ZVz$z$wmCz$xmCz$wNz$xNz$GICz$VKz$wwz$ymCz$AnCz$BnCz$NiBz$CnCz$z$cqz$WQz$XQz$HICz$arz$IICz$z$tjBz$JICz$Vvz$Qlz$Ltz$KICz$wNz$xNz$BICz$wHCz$LICz$z$DnCz$EnCz$lLz$goBz$ZLz$aLz$wmz$xmz$FnCz$GnCz$HnCz$InCz$JnCz$KnCz$SaBz$LnCz$MnCz$NnCz$OnCz$daCz$PnCz$QnCz$RnCz$SnCz$TnCz$z$UnCz$VnCz$WnCz$YHz$XnCz$NMz$YnCz$ZnCz$anCz$bnCz$cnCz$dnCz$enCz$uABz$z$fnCz$gnCz$hnCz$inCz$itz$jnCz$ttz$knCz$lnCz$mnCz$nnCz$ciz$onCz$pnCz$qnCz$ciz$onCz$pnCz$qnCz$ciz$onCz$pnCz$qnCz$ciz$uABz$z$fnCz$gnCz$ktz$ltz$rnCz$snCz$mtz$sez$tnCz$unCz$vnCz$Hbz$wnCz$eFz$IWz$JWz$xnCz$Euz$ntz$jFz$ynCz$AoCz$BoCz$mtz$sez$uABz$z$fnCz$gnCz$otz$CoCz$itz$ntz$ELz$DoCz$itz$ntz$ELz$DoCz$Euz$ntz$ELz$DoCz$Euz$ntz$ELz$DoCz$Euz$ntz$ELz$EoCz$z$fnCz$gnCz$FoCz$aTCz$GoCz$eHz$HoCz$IoCz$JoCz$KoCz$eHz$HoCz$IoCz$JoCz$KoCz$eFz$HoCz$IoCz$JoCz$KoCz$eFz$HoCz$IoCz$JoCz$KoCz$eFz$HoCz$IoCz$JoCz$LoCz$z$XEz$Itz$Jtz$Ktz$Ltz$MoCz$NoCz$OoCz$Rtz$PoCz$QoCz$GJz$oz$pz$z$RoCz$SoCz$ZQz$cMz$ToCz$UoCz$rHz$nUz$VoCz$bKz$WoCz$Qrz$Rrz$Srz$Zjz$ajz$XoCz$swz$YoCz$rHCz$sHCz$tHCz$eqz$fqz$gqz$NOz$OOz$uHCz$Obz$vHCz$Tqz$ZoCz$Cvz$aoCz$PQBz$boCz$pKz$coCz$doCz$yjz$Akz$eoCz$foCz$OOz$goCz$hoCz$ioCz$joCz$ZYz$koCz$bKz$WoCz$Qrz$Rrz$Srz$Zjz$ajz$XoCz$swz$YoCz$QyBz$loCz$nUz$moCz$wLCz$bKz$WoCz$Qrz$Rrz$Wtz$YoCz$QyBz$loCz$nUz$noCz$ooCz$Wrz$Xrz$Yrz$Avz$Evz$poCz$qoCz$roCz$soCz$toCz$uoCz$voCz$z$qBBz$rBBz$cNz$woCz$xoCz$ADz$z$yoCz$ApCz$GJz$JDBz$BpCz$CpCz$Ltz$DpCz$QUBz$z$vCz$z$qBBz$EpCz$Qcz$FpCz$GpCz$HpCz$DnCz$IpCz$Qgz$JpCz$Tgz$Ugz$z$XEz$UlBz$ZGBz$KpCz$XKBz$jhCz$LpCz$MpCz$NpCz$OpCz$MpCz$PpCz$QpCz$DnCz$RpCz$SpCz$cEz$TpCz$UpCz$iJz$UnCz$VpCz$WpCz$XpCz$gZCz$Qwz$YpCz$ZpCz$cEz$apCz$bpCz$z$vCz$z$JDBz$cpCz$dpCz$epCz$GJz$siz$fpCz$gpCz$hpCz$ipCz$jpCz$WRz$XRz$fDz$z$Uz$bNz$kpCz$lpCz$mpCz$npCz$bDz$cDz$dDz$z$Uz$nuz$YpCz$ZpCz$Umz$ZnCz$anCz$HDz$IDz$z$opCz$ppCz$qpCz$Jz$rpCz$UMBz$z$qz$z$opCz$ppCz$spCz$aTCz$tpCz$SpCz$wjz$z$qz$z$fiBz$upCz$FKz$z$hMBz$WQz$XQz$HICz$arz$vpCz$wpCz$xpCz$wNz$xNz$BICz$wHCz$xHCz$yHCz$z$rz$z$jFz$ypCz$AqCz$z$jCCz$BqCz$Obz$CqCz$DqCz$EqCz$FqCz$FKCz$z$ez$yHz$z$ez$fz$fvBz$wBz$GqCz$rvz$svz$HqCz$IqCz$BmCz$hsBz$JqCz$KqCz$sGBz$nz$z$ez$fz$fvBz$wBz$LqCz$rvz$svz$MqCz$NqCz$OqCz$PDz$z$ez$fz$fvBz$wBz$PqCz$rvz$svz$QqCz$RqCz$PDz$z$ez$yHz$z$Ndz$SqCz$TqCz$UqCz$VqCz$WqCz$XqCz$YqCz$CFz$z$Uz$uhCz$ZqCz$aqCz$VLz$NBCz$UBz$VBz$z$LZBz$bqCz$cqCz$Rtz$dqCz$eqCz$mZCz$z$DlBz$uxBz$fqCz$Jiz$FjBz$gqCz$XFBz$z$kVz$hqCz$iqCz$sWCz$jqCz$gmCz$hmCz$kqCz$lqCz$BEBz$mqCz$z$Uz$fiz$HUBz$nqCz$oqCz$pqCz$GFBz$CjCz$Jiz$FjBz$gqCz$RZBz$cEz$gZCz$LrBz$BEBz$qqCz$rqCz$sqCz$tqCz$HUBz$XjCz$NlBz$uqCz$SKCz$Ltz$RDz$ouz$Rtz$vqCz$bcz$HDz$IDz$z$YmBz$kaCz$otBz$HUBz$nqCz$wqCz$hGCz$z$jCCz$xqCz$yqCz$ArCz$YmBz$BrCz$CrCz$DrCz$z$ErCz$FnBz$FrCz$FnBz$dDz$z$gBz$z$GrCz$HrCz$mez$lIBz$mFz$IrCz$JrCz$AOz$wMBz$KrCz$LrCz$MrCz$DOz$NrCz$OrCz$PrCz$QrCz$Sqz$ZQz$RrCz$SrCz$Tqz$TrCz$swz$z$GrCz$UrCz$mez$lIBz$mFz$VrCz$JrCz$AOz$wMBz$KrCz$LrCz$MrCz$DOz$NrCz$OrCz$PrCz$QrCz$Sqz$ZQz$RrCz$SrCz$Tqz$TrCz$swz$z$Uz$WrCz$XrCz$YrCz$olz$ZrCz$arCz$brCz$gxz$RDz$crCz$drCz$oez$erCz$frCz$IOz$bDz$cDz$dDz$z$grCz$hrCz$irCz$jrCz$krCz$yjz$Akz$Fuz$FaCz$z$uGz$vGz$mPBz$lrCz$mrCz$nrCz$yjz$Akz$Fuz$FaCz$z$fiBz$orCz$z$grCz$hrCz$prCz$qrCz$vICz$Rrz$Srz$wICz$z$uGz$vGz$mPBz$nPBz$rrCz$srCz$Wrz$Xrz$raBz$saBz$z$gBz$z$fiBz$orCz$z$qz$z$Ndz$Odz$NXCz$trCz$urCz$lEBz$YmBz$Qfz$z$JDBz$vrCz$FnBz$xSCz$GJz$siz$wrCz$xrCz$yrCz$AsCz$WRz$XRz$fDz$z$jCCz$BsCz$CsCz$DsCz$FnBz$EsCz$FsCz$GsCz$fDz$z$YmBz$HsCz$lIBz$mFz$IsCz$JsCz$KsCz$LsCz$MsCz$UxBz$bBz$NsCz$z$Uz$OsCz$FnBz$PsCz$QsCz$RsCz$cz$dz$z$opCz$ppCz$spCz$aTCz$tpCz$SpCz$wjz$vjBz$SsCz$TsCz$UsCz$CBBz$DBBz$z$Uz$VsCz$dpCz$WsCz$XsCz$aFz$bRz$UBz$VBz$z$opCz$ppCz$spCz$aTCz$tpCz$SpCz$WRBz$YsCz$z$uGz$vGz$mPBz$nPBz$WRBz$OHz$z$uGz$vGz$wGz$xGz$URBz$XRBz$z$gBz$z$opCz$ppCz$spCz$aTCz$tpCz$SpCz$WRBz$z$uGz$vGz$mPBz$nPBz$WRBz$z$uGz$vGz$wGz$xGz$URBz$dDz$z$qz$z$wjz$VKz$wwz$YRBz$ZRBz$aRBz$bRBz$cRBz$dRBz$ZsCz$asCz$bsCz$csCz$dsCz$esCz$Vjz$Wjz$fsCz$gsCz$hsCz$aUz$jTz$z$kRBz$lRBz$mRBz$nRBz$z$kTz$isCz$jsCz$ksCz$jsCz$tYz$pNCz$qNCz$lsCz$msCz$gHz$hHz$z$kTz$isCz$jsCz$ksCz$jsCz$tYz$ASBz$Ziz$DZz$nsCz$ZSBz$XTz$osCz$psCz$UsBz$ePz$z$Uz$hrz$qsCz$JUz$rsCz$IQz$plz$ssCz$HDz$IDz$z$kTz$isCz$jsCz$ksCz$jsCz$tYz$tsCz$oiz$usCz$irBz$jrBz$ZSBz$aSBz$bSBz$vsCz$wsCz$xsCz$ysCz$aZCz$AtCz$pOCz$gLz$GeBz$z$gBz$z$kTz$isCz$jsCz$ksCz$jsCz$tYz$tsCz$oiz$usCz$irBz$jrBz$ZSBz$aSBz$bSBz$vsCz$wsCz$xsCz$pOCz$gLz$GeBz$z$qz$z$kTz$isCz$jsCz$ksCz$jsCz$tYz$pOCz$Hbz$qOCz$rOCz$BtCz$YmBz$CtCz$DTBz$ETBz$DtCz$Rtz$EtCz$DjBz$IFBz$OkBz$FtCz$GtCz$HtCz$ItCz$Jiz$LZBz$JtCz$BTBz$jVz$z$Uz$fiz$HUBz$nqCz$oqCz$pqCz$GFBz$CjCz$Jiz$FjBz$gqCz$RZBz$cEz$gZCz$LrBz$BEBz$qqCz$rqCz$sqCz$tqCz$HUBz$XjCz$NlBz$uqCz$SKCz$cz$dz$z$ez$KtCz$bBz$iTBz$Rtz$vqCz$LtCz$z$SYz$TYz$MtCz$NtCz$GZz$ZYz$WRBz$OtCz$Wrz$Xrz$raBz$saBz$z$ez$PtCz$QtCz$RtCz$Rtz$wXCz$wWCz$Jiz$ZRBz$aRBz$HnBz$aRBz$StCz$TtCz$UtCz$yjz$Akz$Fuz$VtCz$WtCz$ZYz$WRBz$XtCz$z$jCCz$YtCz$ZtCz$atCz$btCz$ctCz$dtCz$eqCz$etCz$ftCz$FjBz$gqCz$gtCz$htCz$itCz$BEBz$jtCz$ktCz$z$qHBz$rHBz$ltCz$mtCz$ntCz$HUBz$nqCz$oqCz$otCz$z$qHBz$rHBz$ptCz$qtCz$ntCz$HUBz$XjCz$NlBz$uqCz$slBz$z$ErCz$FnBz$FrCz$FnBz$dDz$z$qz$z$gBz$z$siz$rtCz$stCz$ttCz$utCz$vtCz$wtCz$xtCz$z$jCCz$ytCz$AuCz$PDz$z$qHBz$rHBz$BuCz$CuCz$DuCz$MrCz$EuCz$FuCz$GuCz$HuCz$IuCz$JuCz$KuCz$LuCz$MuCz$z$qHBz$rHBz$NuCz$OuCz$PuCz$QuCz$RuCz$SuCz$TuCz$z$qHBz$rHBz$UuCz$VuCz$WuCz$XuCz$YuCz$ZuCz$auCz$buCz$cuCz$duCz$z$oz$pz$z$qz$z$qz$z$QDz$RDz$euCz$YqCz$fuCz$guCz$HDz$IDz$z$Ndz$Odz$NXCz$huCz$iuCz$juCz$kuCz$luCz$uxBz$z$qHBz$rHBz$huCz$iuCz$juCz$muCz$nuCz$ouCz$PDz$z$Ndz$Odz$NXCz$MKCz$XlBz$juCz$puCz$quCz$ruCz$z$qHBz$rHBz$MKCz$XlBz$juCz$suCz$nWBz$tuCz$z$Ndz$Odz$NXCz$urCz$lEBz$YmBz$Qfz$z$qHBz$rHBz$uuCz$vuCz$bBz$PDz$z$ErCz$FnBz$FrCz$FnBz$dDz$z$gBz$z$jCCz$wuCz$xuCz$yuCz$AvCz$Obz$CqCz$BvCz$CvCz$z$LZBz$bqCz$cqCz$ZYz$DvCz$hmCz$dqCz$eqCz$mZCz$z$DlBz$uxBz$mHCz$EvCz$Obz$FvCz$FjBz$gqCz$XFBz$z$uLz$qABz$GvCz$HvCz$IvCz$RZBz$JvCz$KvCz$LvCz$MvCz$NvCz$OvCz$EvCz$Obz$FvCz$FjBz$gqCz$LPBz$z$uLz$qABz$PvCz$QvCz$RvCz$SvCz$xz$TvCz$SDBz$RZBz$nUz$UvCz$dqBz$VvCz$hlBz$ilBz$WvCz$XvCz$ZYz$DvCz$hmCz$dqCz$eqCz$YvCz$ZvCz$avCz$bvCz$cvCz$snz$jUCz$z$kVz$dvCz$evCz$EvCz$Obz$FvCz$LZBz$JtCz$z$kVz$dvCz$evCz$EvCz$Obz$FvCz$FjBz$gqCz$LPBz$z$ErCz$FnBz$fvCz$vnz$iLBz$HUCz$z$YmBz$gvCz$lnz$hvCz$DOz$PDz$z$qz$z$rz$z$jFz$VBCz$AqCz$z$HbBz$IbBz$yGBz$lBCz$ivCz$jvCz$kvCz$lvCz$fqz$gqz$KaCz$fDz$z$Ndz$Odz$mvCz$gmCz$hmCz$nvCz$ovCz$XHBz$pvCz$qvCz$rvCz$svCz$tvCz$ePz$z$JDBz$uvCz$uuz$cEz$vvCz$WyBz$ODBz$PDBz$wvCz$GHBz$jZCz$fKBz$eOz$z$xvCz$yvCz$AwCz$BwCz$CwCz$DwCz$IQz$piz$EwCz$SrCz$NQz$bOz$cOz$FwCz$bRBz$GwCz$HwCz$TPCz$MQz$ZQz$dKBz$DRBz$IwCz$bDz$JwCz$z$Uz$hrz$KwCz$LwCz$MwCz$NOz$OOz$NwCz$OwCz$ESz$Zmz$Rmz$PwCz$MQz$SYz$QwCz$RwCz$SwCz$DQz$TwCz$JjBz$BTCz$UwCz$UBz$VBz$z$ez$fz$gz$FmCz$YQBz$VwCz$Znz$WwCz$XwCz$YwCz$ZwCz$awCz$bwCz$z$Ndz$Odz$mvCz$gmCz$hmCz$nvCz$ovCz$XHBz$pvCz$qvCz$rvCz$svCz$tvCz$ePz$z$JDBz$uvCz$uuz$cEz$vvCz$WyBz$ODBz$PDBz$wvCz$GHBz$jZCz$fKBz$eOz$z$qz$z$vCz$z$qHBz$rHBz$cwCz$Obz$CqCz$dwCz$ewCz$fwCz$UKz$PDz$z$jFz$gwCz$tUz$z$rz$z$jFz$gwCz$hwCz$z$jCCz$BqCz$Obz$CqCz$iwCz$jwCz$INCz$z$ez$yHz$z$ez$fz$fvBz$wBz$GqCz$rvz$svz$kwCz$lwCz$uCBz$mwCz$nwCz$Znz$uGBz$z$ez$yHz$z$Ndz$SqCz$TqCz$UqCz$owCz$pwCz$qwCz$aqCz$z$Uz$rwCz$qwCz$aqCz$Psz$lkCz$UBz$VBz$z$siz$swCz$twCz$uwCz$z$qz$z$rz$z$jFz$vwCz$FUz$z$Ndz$Odz$mvCz$gmCz$hmCz$wwCz$xwCz$ywCz$AxCz$TmBz$BxCz$CxCz$z$JDBz$DxCz$BxCz$ExCz$cEz$FxCz$GxCz$HxCz$asCz$bsCz$csCz$dsCz$esCz$Vjz$Wjz$fsCz$ffz$z$qHBz$rHBz$IxCz$gmCz$hmCz$JxCz$KxCz$LxCz$BxCz$MxCz$z$rz$z$jFz$NxCz$OxCz$z$Ndz$SqCz$TqCz$PxCz$QxCz$RxCz$SxCz$TxCz$UxCz$LYz$MYz$VxCz$WxCz$XxCz$YxCz$ZxCz$DWz$z$JDBz$uvCz$EaBz$axCz$Ylz$bxCz$EaBz$axCz$cxCz$dxCz$exCz$fxCz$z$qHBz$rHBz$IxCz$gmCz$hmCz$JxCz$gxCz$hxCz$ixCz$ZxCz$jxCz$z$rz$z$jFz$DvCz$hmCz$FUz$z$rrCz$FYCz$WQz$XQz$kxCz$LYz$MYz$lnz$lxCz$mxCz$nxCz$oxCz$pxCz$qxCz$rxCz$sxCz$IQz$Wuz$txCz$Zjz$ajz$uxCz$Ufz$z$rrCz$ypz$WQz$XQz$HICz$LYz$MYz$lnz$lxCz$mxCz$nxCz$oxCz$pxCz$qxCz$rxCz$sxCz$IQz$Wuz$txCz$Zjz$ajz$uxCz$Ufz$z$Uz$vxCz$wxCz$xxCz$frCz$IOz$YLz$yxCz$AyCz$ZrCz$arCz$brCz$cz$dz$z$grCz$hrCz$irCz$jrCz$krCz$yjz$Akz$Fuz$FaCz$z$uGz$vGz$mPBz$lrCz$mrCz$nrCz$yjz$Akz$Fuz$FaCz$z$fiBz$orCz$z$uGz$vGz$mPBz$nPBz$rrCz$srCz$Wrz$Xrz$raBz$saBz$z$grCz$hrCz$prCz$qrCz$vICz$Rrz$Srz$wICz$z$gBz$z$fiBz$orCz$z$qz$z$Uz$nuz$ByCz$UpCz$Gkz$XsCz$aFz$bRz$UBz$VBz$z$CyCz$DyCz$EyCz$FyCz$z$qz$z$CyCz$DyCz$eOBz$fOBz$GyCz$HyCz$IyCz$JyCz$KyCz$LyCz$MyCz$NyCz$OyCz$YxCz$PyCz$HbBz$IbBz$QyCz$RyCz$aVBz$rBCz$sBCz$tBCz$uBCz$LXz$z$nFz$FMz$LYz$MYz$nIz$lIz$oIz$pIz$qIz$rIz$SyCz$TyCz$UyCz$VyCz$QxCz$WyCz$JWz$XyCz$YyCz$ZyCz$jFz$CXCz$BUz$ayCz$smBz$z$kTz$mtz$sez$byCz$cyCz$LHz$z$VPz$dyCz$Hbz$kWBz$sYz$eyCz$z$Uz$fiz$fyCz$ZIz$aIz$RIz$UvCz$dqBz$gyCz$cz$dz$z$jCCz$BqCz$Obz$CqCz$hyCz$CXz$z$gBz$z$siz$iyCz$dqBz$jyCz$kyCz$APz$z$qz$z$jFz$ypCz$ePz$z$jFz$VBCz$ePz$z$jFz$vwCz$z$jFz$NxCz$VTz$z$EGz$lyCz$myCz$CYz$nyCz$QxCz$oyCz$hYz$pyCz$qyCz$z$TQBz$ryCz$syCz$QZCz$z$tyCz$z$LZBz$uyCz$luCz$uxBz$z$vyCz$wyCz$nWBz$xyCz$z$yyCz$AADz$z$BADz$CADz$DADz$EADz$FADz$GADz$Ccz$Dcz$Ecz$z$HADz$IADz$JADz$KADz$LADz$rTBz$Mcz$Ncz$z$BADz$MADz$NADz$OADz$PADz$QADz$RADz$SADz$z$TADz$UADz$VADz$WADz$XADz$YADz$ZADz$aADz$z$UuBz$AADz$z$NWBz$bADz$alBz$cADz$z$DiBz$EiBz$dADz$BxCz$CxCz$z$eADz$fADz$gADz$z$NWBz$hADz$iADz$z$iWBz$jADz$z$kADz$VKz$wwz$lADz$mADz$nADz$z$oADz$pADz$qADz$QdCz$VTz$z$eWBz$z$Uz$hrz$rADz$sADz$uuz$HDz$IDz$z$tADz$VBCz$uADz$UKz$vADz$sADz$wADz$xADz$UKz$PDz$z$gBz$z$tADz$VBCz$yADz$skCz$z$qz$z$Uz$hrz$qsCz$JUz$rsCz$IQz$plz$ssCz$HDz$IDz$z$tADz$ABDz$BBDz$CBDz$z$gBz$z$tADz$ABDz$DBDz$z$qz$z$bLz$EBDz$Jiz$FBDz$z$EGz$lyCz$myCz$HUBz$GBDz$HBDz$IBDz$JBDz$KBDz$z$BUz$LBDz$MBDz$NBDz$OBDz$PBDz$skCz$z$UuBz$dADz$BxCz$CxCz$z$tyCz$z$QBDz$RBDz$SBDz$TBDz$z$UBDz$RhBz$EhBz$GKBz$z$yyCz$AADz$z$BADz$CADz$DADz$EADz$FADz$GADz$Ccz$Dcz$Ecz$z$HADz$IADz$JADz$KADz$LADz$rTBz$Mcz$Ncz$z$BADz$MADz$NADz$OADz$PADz$QADz$RADz$SADz$z$TADz$UADz$VADz$WADz$XADz$YADz$ZADz$aADz$z$krz$VBDz$EhBz$GKBz$z$yhBz$WBDz$z$TQBz$ryCz$XBDz$YBDz$ZBDz$aBDz$z$bBDz$cBDz$dBDz$z$eBDz$z$fBDz$gBDz$hBDz$iBDz$z$eWBz$z$EGz$lyCz$myCz$HUBz$GBDz$HBDz$IBDz$JBDz$Dpz$z$FKz$z$PTBz$qdCz$cfBz$tADz$jBDz$MBDz$kBDz$lBDz$z$KiBz$jhBz$juBz$GxCz$mBDz$z$VfBz$ZfBz$z$SjBz$QfBz$nBDz$YmBz$oBDz$z$pBDz$nLz$JhBz$xrz$z$HfBz$z$ajBz$qBDz$FKz$z$rBDz$sBDz$tBDz$VADz$WADz$XADz$uBDz$vBDz$wBDz$z$xBDz$CADz$DADz$EADz$FADz$yBDz$ACDz$BCDz$CCDz$z$rBDz$DCDz$ECDz$KADz$LADz$FCDz$GCDz$HCDz$ICDz$z$xBDz$MADz$NADz$OADz$PADz$MgBz$JCDz$KCDz$z$HfBz$z$IiBz$LCDz$OfBz$z$bhBz$chBz$dhBz$ehBz$fhBz$MCDz$NCDz$z$HfBz$z$OCDz$PCDz$QCDz$MFz$z$ViBz$ZfBz$z$RCDz$SCDz$TCDz$QfBz$UCDz$z$rz$z$rz$z$rz$z$eWBz$z$oPz$VCDz$dqBz$WCDz$XCDz$GxCz$YCDz$tADz$jBDz$MBDz$kBDz$ZCDz$UBDz$RhBz$aCDz$AyBz$ErCz$FnBz$bCDz$wmCz$cCDz$ArBz$BrBz$VtBz$z$ez$z$ez$dCDz$eCDz$BEBz$fCDz$tqBz$JUBz$z$uGz$vGz$SeBz$TeBz$iiz$UeBz$z$uGz$vGz$wGz$xGz$gCDz$dqBz$hCDz$sYz$z$uGz$vGz$mPBz$nPBz$DvCz$hmCz$iCDz$jCDz$z$Uz$hrz$KwCz$Obz$aICz$nlz$olz$DvCz$hmCz$iCDz$prz$Qrz$Rrz$Srz$IQz$piz$kCDz$lCDz$mCDz$nCDz$oCDz$nyCz$QxCz$oyCz$hYz$pyCz$pCDz$HDz$IDz$z$jCCz$BqCz$Obz$CqCz$qCDz$Amz$PDz$z$gBz$z$siz$iyCz$dqBz$jyCz$rCDz$YPBz$sCDz$Obz$aICz$nlz$olz$DvCz$hmCz$iCDz$prz$tCDz$uCDz$vCDz$wCDz$WRz$XRz$fDz$z$qz$z$siz$xCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$ADDz$z$jCCz$BqCz$Obz$CqCz$BDDz$CDDz$FjCz$z$qHBz$rHBz$gmCz$hmCz$JxCz$DDDz$EDDz$FDDz$HUBz$GBDz$BBCz$CBCz$mZCz$z$ez$z$siz$TFz$mIBz$Rtz$GDDz$Dkz$ptBz$PDz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$fCDz$tqBz$JUBz$eOz$z$rz$z$HDDz$DvCz$hmCz$FUz$z$uGz$vGz$mPBz$IDDz$Obz$JDDz$BUz$ayCz$JHz$KDDz$yjz$Akz$Fuz$FaCz$z$uGz$vGz$kmBz$lmBz$LDDz$QxCz$MDDz$XTz$NDDz$QdBz$ODDz$fqz$gqz$KaCz$fDz$z$VPz$PDDz$QDDz$Obz$nHCz$Obz$RDDz$QxCz$MDDz$XTz$NDDz$QdBz$SDDz$QDDz$Obz$nHCz$Obz$RDDz$QxCz$MDDz$XTz$TDDz$JHz$XQCz$z$VPz$qsz$VIz$WIz$XIz$UDDz$QxCz$VDDz$ZYz$DvCz$hmCz$HUBz$GBDz$WDDz$Jiz$DvCz$hmCz$eyCz$z$HbBz$IbBz$yGBz$lBCz$ivCz$jvCz$kvCz$lvCz$fqz$gqz$KaCz$fDz$z$rBCz$sBCz$tBCz$uBCz$LXz$vBCz$ODDz$fqz$gqz$KaCz$fDz$z$jCCz$BqCz$Obz$CqCz$XDDz$YDDz$ZDDz$z$rz$z$DUz$aDDz$dqBz$bDDz$z$uGz$vGz$mPBz$nPBz$DvCz$hmCz$iCDz$jCDz$z$uGz$vGz$wGz$xGz$gCDz$dqBz$hCDz$sYz$vICz$Rrz$Srz$wICz$z$rz$z$uPBz$DvCz$hmCz$FUz$z$uGz$vGz$mPBz$IDDz$Obz$JDDz$BUz$Yfz$z$uGz$vGz$kmBz$lmBz$LDDz$QxCz$MDDz$XTz$cDDz$fqz$gqz$KaCz$fDz$z$rz$z$DvCz$hmCz$dDDz$eDDz$FKz$z$qHBz$rHBz$fDDz$gDDz$hDDz$z$ez$yHz$z$ez$fz$fvBz$wBz$GqCz$rvz$svz$iDDz$gmCz$hmCz$jDDz$z$ez$fz$fvBz$wBz$LqCz$rvz$svz$kDDz$gmCz$hmCz$jDDz$z$ez$fz$fvBz$wBz$PqCz$rvz$svz$lDDz$gmCz$hmCz$jDDz$z$ez$yHz$z$Ndz$SqCz$TqCz$UqCz$mDDz$WqCz$nDDz$oDDz$aqCz$z$Nfz$pDDz$qDDz$rDDz$sDDz$z$tDDz$DUz$aDDz$dqBz$uDDz$z$vDDz$uPBz$DvCz$hmCz$tvz$z$wDDz$uPBz$DvCz$hmCz$GJz$DUz$aDDz$dqBz$uDDz$z$xDDz$oz$GABz$Kwz$z$pfz$z$rz$z$yDDz$AEDz$BEDz$FKz$z$CEDz$BbBz$WgBz$OvCz$EvCz$Obz$FvCz$qUz$DEDz$EEDz$Qrz$Rrz$Srz$lhCz$cwz$FEDz$SOz$shz$iDz$thz$oQz$ESz$FSz$GEDz$bOz$cOz$Ghz$eOz$z$Ndz$Odz$mvCz$gmCz$hmCz$nvCz$HEDz$pbz$IEDz$JEDz$KEDz$LEDz$UKz$z$JDBz$uvCz$uuz$cEz$vvCz$WyBz$ODBz$PDBz$wvCz$GHBz$jZCz$fKBz$eOz$z$xvCz$yvCz$AwCz$BwCz$CwCz$DwCz$IQz$piz$EwCz$SrCz$NQz$bOz$cOz$FwCz$bRBz$GwCz$HwCz$TPCz$MQz$ZQz$dKBz$DRBz$IwCz$bDz$JwCz$z$Uz$hrz$KwCz$LwCz$MwCz$NOz$OOz$NwCz$OwCz$ESz$Zmz$Rmz$PwCz$MQz$SYz$QwCz$RwCz$SwCz$DQz$TwCz$JjBz$BTCz$UwCz$UBz$VBz$z$ez$fz$gz$FmCz$YQBz$VwCz$Znz$WwCz$XwCz$YwCz$ZwCz$awCz$bwCz$z$Ndz$Odz$mvCz$gmCz$hmCz$nvCz$ovCz$XHBz$pvCz$qvCz$rvCz$svCz$tvCz$ePz$z$JDBz$uvCz$uuz$cEz$vvCz$WyBz$ODBz$PDBz$wvCz$GHBz$jZCz$fKBz$eOz$z$qz$z$vCz$z$SYz$Cjz$MEDz$CEDz$NEDz$YQBz$OEDz$CYz$nyCz$QxCz$oyCz$hYz$pyCz$qyCz$z$SYz$Cjz$MEDz$CEDz$NEDz$YQBz$OEDz$HUBz$GBDz$HBDz$IBDz$JBDz$KBDz$z$SYz$Cjz$PEDz$CEDz$NEDz$YQBz$OEDz$HUBz$GBDz$HBDz$IBDz$JBDz$Dpz$z$uPBz$DvCz$hmCz$GJz$DUz$aDDz$dqBz$CWz$z$jCCz$BqCz$Obz$CqCz$iwCz$QEDz$REDz$UKz$PDz$z$qHBz$rHBz$SEDz$TEDz$UEDz$VEDz$WEDz$z$sz$qUz$z$rz$z$yDDz$XEDz$YEDz$FUz$z$CEDz$SiBz$ZEDz$EGz$nUz$UvCz$dqBz$aEDz$Orz$bEDz$Fuz$yjz$Akz$LbBz$SYz$fKBz$cEDz$ESz$Zmz$Rmz$Smz$ayBz$z$Ndz$Odz$mvCz$gmCz$hmCz$wwCz$xwCz$ywCz$AxCz$dEDz$SiBz$OHz$z$JDBz$uvCz$SiBz$eEDz$GJz$DiBz$HxCz$asCz$bsCz$csCz$dsCz$esCz$Vjz$Wjz$fsCz$ffz$z$SYz$Cjz$MEDz$CEDz$SiBz$fEDz$SiBz$gEDz$CYz$nyCz$QxCz$oyCz$hYz$pyCz$qyCz$z$SYz$Cjz$MEDz$CEDz$SiBz$fEDz$SiBz$gEDz$HUBz$GBDz$HBDz$IBDz$JBDz$KBDz$z$SYz$Cjz$hEDz$CEDz$SiBz$fEDz$SiBz$gEDz$HUBz$GBDz$HBDz$IBDz$JBDz$Dpz$z$uPBz$DvCz$hmCz$GJz$DUz$aDDz$dqBz$CWz$z$jCCz$BqCz$Obz$CqCz$dwCz$iEDz$jEDz$kEDz$YEDz$PDz$z$qHBz$rHBz$SEDz$TEDz$UEDz$VEDz$WEDz$z$sz$qUz$z$rz$z$yDDz$lEDz$EQBz$AVz$z$mEDz$LZBz$lIBz$mIBz$ZYz$DvCz$hmCz$Bpz$Cpz$KBDz$NOz$OOz$LZBz$hOz$iOz$nEDz$ukz$iDz$thz$Htz$z$mEDz$IlBz$WgBz$OvCz$EvCz$Obz$FvCz$qUz$DEDz$EEDz$IQz$oEDz$pEDz$ESz$FSz$rwz$bOz$cOz$Ghz$eOz$z$mEDz$qEDz$bBz$lIBz$mIBz$Rtz$GDDz$rEDz$sEDz$tEDz$uEDz$DQz$vEDz$wEDz$NQz$bOz$cOz$Ghz$eOz$z$jFz$ypCz$ePz$z$SYz$Cjz$xEDz$yEDz$AFDz$euCz$BFDz$CFDz$DFDz$EvCz$Obz$FvCz$qUz$DEDz$EFDz$z$SYz$Cjz$xEDz$FFDz$GFDz$DlBz$uxBz$HFDz$nUz$UvCz$dqBz$aEDz$Orz$bEDz$nGz$z$SYz$Cjz$IFDz$mEDz$qEDz$bBz$JFDz$SBDz$YyCz$KFDz$Rtz$GDDz$rEDz$sEDz$tEDz$qyCz$z$SYz$Cjz$LFDz$mEDz$qEDz$bBz$JFDz$SBDz$YyCz$KFDz$Rtz$GDDz$rEDz$sEDz$MFDz$ikBz$z$uPBz$DvCz$hmCz$GJz$DUz$aDDz$dqBz$CWz$z$jCCz$BqCz$Obz$CqCz$dwCz$NFDz$QEDz$OFDz$z$qHBz$rHBz$SEDz$TEDz$UEDz$VEDz$WEDz$z$sz$qUz$z$rz$z$yDDz$PFDz$mADz$QFDz$AVz$z$CEDz$EaBz$axCz$lIBz$mIBz$ZYz$DvCz$hmCz$Bpz$Cpz$KBDz$NOz$OOz$mFz$SOz$TOz$jEBz$Zmz$Rmz$Smz$MQz$NQz$RFDz$LYz$MYz$ukz$iDz$thz$Htz$z$jFz$NxCz$VTz$z$SYz$Cjz$SFDz$TFDz$mADz$UFDz$ixCz$ZxCz$VFDz$DFDz$gYz$WFDz$XFDz$YFDz$RVz$z$uPBz$DvCz$hmCz$GJz$DUz$aDDz$dqBz$CWz$z$jCCz$BqCz$Obz$CqCz$dwCz$ZFDz$QEDz$REDz$iWBz$aFDz$Bsz$z$rz$z$yDDz$bFDz$cFDz$FKz$z$jCCz$BqCz$Obz$CqCz$dFDz$eFDz$fFDz$z$ez$fz$fvBz$wBz$GqCz$rvz$svz$gFDz$hFDz$z$ez$fz$fvBz$wBz$LqCz$rvz$svz$iFDz$jFDz$z$ez$fz$fvBz$wBz$PqCz$rvz$svz$kFDz$lFDz$z$ez$fz$fvBz$wBz$mFDz$rvz$svz$nFDz$oFDz$z$ez$yHz$z$Ndz$Odz$lBBz$pFDz$qFDz$JHBz$qUz$rFDz$Yfz$z$Nfz$sFDz$tFDz$MCBz$NCBz$z$tDDz$yDDz$AEDz$uFDz$Kwz$z$vDDz$yDDz$XEDz$YEDz$tvz$z$wDDz$yDDz$lEDz$vFDz$Tfz$z$wFDz$yDDz$PFDz$mADz$xFDz$Tfz$z$xDDz$oz$GABz$Kwz$z$pfz$z$rz$z$sz$qUz$FUz$z$qHBz$rHBz$gmCz$hmCz$JxCz$DDDz$EDDz$FDDz$HUBz$GBDz$BBCz$CBCz$mZCz$z$ez$z$siz$TFz$mIBz$Rtz$GDDz$Dkz$ptBz$PDz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$MrBz$EGz$BEBz$fCDz$tqBz$JUBz$eOz$z$rz$z$tCCz$Tz$z$JIz$KIz$z$ez$uCCz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$vCCz$z$ez$fz$wCCz$qcz$qcz$qcz$mRCz$lvz$yFDz$Obz$CqCz$AGDz$pRCz$rvz$svz$qcz$qcz$qcz$qcz$BDCz$PDz$z$ez$fz$CDCz$lvz$DDCz$EDCz$sGBz$FDCz$GDCz$tlCz$IDCz$qcz$qcz$qcz$qcz$qcz$qcz$qcz$qcz$BDCz$PDz$z$ez$uCCz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$vCCz$z$ez$fz$hBz$iBz$JDCz$Puz$KDCz$JqBz$LDCz$MDCz$rvz$svz$BGDz$iBz$NDCz$rvz$svz$xRCz$gHBz$PDCz$QDCz$RDCz$Znz$CGDz$lvz$DGDz$EGDz$sGBz$FGDz$HCz$GGDz$HGDz$rvz$svz$PDz$z$ez$kECz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$yRCz$z$ez$fz$fvBz$wBz$GqCz$rvz$svz$WQBz$iBz$IGDz$gmCz$hmCz$JGDz$Znz$uGBz$z$ez$fz$fvBz$WDBz$vdz$Znz$ovz$pvz$KGDz$gmCz$hmCz$JGDz$Znz$uGBz$z$ez$VECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$LGDz$MGDz$NGDz$OGDz$QxCz$RxCz$PDz$z$ez$fz$PGDz$QGDz$gmCz$hmCz$RGDz$hECz$z$ez$fz$SGDz$TGDz$gmCz$hmCz$RGDz$UGDz$z$ez$VECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$VGDz$WGDz$kNCz$z$ez$yHz$z$Ndz$SqCz$TqCz$UqCz$XGDz$WqCz$YGDz$ZGDz$CFz$z$Nfz$aGDz$bGDz$cGDz$Qfz$z$tDDz$jFz$DvCz$hmCz$tvz$z$vDDz$HDDz$DvCz$hmCz$tvz$z$wDDz$DvCz$hmCz$dDDz$dGDz$Kwz$z$wFDz$yDDz$bFDz$eGDz$Kwz$z$fGDz$sz$qUz$tvz$z$xDDz$oz$GABz$Kwz$z$pfz$z$rz$z$tCCz$z$rz$z$gGDz$hGDz$iGDz$jGDz$FKz$z$sBz$LJz$MJz$Enz$qcz$Fnz$Gnz$Hnz$Inz$z$wBz$Jnz$yBz$FJz$qcz$Knz$Lnz$Mnz$Nnz$VTz$z$CCz$Onz$ECz$Pnz$Qnz$Rnz$lDz$Snz$Nnz$VTz$z$HCz$bJz$Tnz$Unz$qcz$Vnz$Wnz$Xnz$Ynz$z$Znz$xBz$yBz$anz$z$kGDz$cVz$lGDz$z$Epz$Fpz$YVz$Gpz$IQz$piz$Hpz$Ipz$Vjz$Wjz$Jpz$Kpz$z$nACz$mGDz$nGDz$yhBz$oGDz$pGDz$z$voz$woz$iEz$Gsz$qGDz$nACz$rGDz$Orz$BeBz$oiBz$z$gCBz$lHCz$xuz$mHCz$YUz$Obz$nHCz$Obz$sGDz$nACz$tGDz$QdBz$Bsz$z$qHCz$rHCz$sHCz$tHCz$NOz$OOz$uHCz$Obz$vHCz$Tqz$YoBz$swz$z$Lpz$Mpz$Npz$Ipz$Opz$Ppz$Qpz$Rpz$z$GKz$Spz$YVz$ZVz$z$wmCz$xmCz$wNz$xNz$GICz$VKz$wwz$ymCz$AnCz$BnCz$NiBz$CnCz$z$cqz$WQz$XQz$HICz$arz$IICz$z$tjBz$JICz$Vvz$Qlz$Ltz$KICz$wNz$xNz$BICz$wHCz$LICz$z$uGDz$wjz$hqz$iqz$arz$vGDz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$uGDz$wjz$hqz$grz$arz$vGDz$z$qz$z$JDz$atz$Luz$FKz$z$ez$fz$Muz$Nuz$Ouz$Puz$Quz$z$rz$z$Pz$osz$psz$bCz$z$Etz$Ftz$Gtz$SOz$shz$iDz$MUz$Htz$z$Uz$GmBz$MICz$NICz$OICz$PICz$Rtz$QICz$cz$dz$z$JDz$atz$btz$ctz$RICz$SICz$TICz$UICz$z$oz$pz$z$qz$z$Ksz$Lsz$VICz$WICz$Wrz$Xrz$jbBz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$Ksz$Lsz$XICz$YICz$Wrz$Xrz$jbBz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$dtz$etz$ftz$gtz$z$oz$pz$z$qz$z$htz$itz$PDz$z$jtz$ktz$ltz$itz$mtz$sez$ntz$PDz$z$jtz$otz$ptz$eHz$ELz$FLz$qtz$z$jtz$rtz$stz$itz$ttz$utz$vtz$wtz$hHz$xtz$vtz$ytz$Auz$Buz$Cuz$z$gBz$z$htz$Euz$PDz$z$jtz$ktz$ltz$Euz$mtz$sez$ntz$PDz$z$jtz$otz$ptz$eFz$ELz$FLz$qtz$z$jtz$rtz$stz$Euz$ttz$Lz$Cuz$z$qz$z$Ksz$Lsz$ZICz$Obz$aICz$eqz$fqz$gqz$whz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$Huz$Iuz$Juz$Kuz$PDz$z$oz$pz$z$qz$z$rz$z$Dfz$sNz$MFz$z$eIz$fIz$Fsz$QIz$Btz$qSCz$rSCz$MIz$z$sSCz$TFz$UFz$VFz$wGDz$iCDz$xGDz$PDz$z$Uz$Vz$wSCz$Biz$bRz$UBz$VBz$z$ez$kcz$z$fuz$guz$z$qz$z$Uz$nuz$ruz$voz$woz$suz$HDz$IDz$z$ez$pz$z$fuz$guz$z$qz$z$UKz$Vuz$aoBz$XTz$yGDz$tQBz$voz$woz$AHDz$Tqz$YoBz$BHDz$hmBz$imBz$jmBz$Tmz$z$Ksz$Hvz$HTCz$ITCz$OOz$LwBz$JTCz$IQz$aoBz$CHDz$sYz$whz$z$Uz$bNz$Ovz$Pvz$HDz$IDz$z$ez$Qvz$z$gBz$z$ez$Xvz$z$qz$z$rz$z$Dfz$dvz$evz$MFz$z$Ksz$fvz$gvz$z$Nfz$hvz$ivz$z$Ufz$z$ez$fz$eICz$fICz$Bfz$Puz$yvz$RqBz$gICz$hICz$sGBz$rz$z$Tfz$z$Vfz$z$ez$fz$eICz$fICz$Bfz$Puz$yvz$eICz$fICz$oICz$rvz$svz$z$Tfz$z$jfz$z$ez$fz$RqBz$pICz$qICz$sGBz$rz$z$Tfz$z$pfz$z$rz$z$HABz$IABz$bCz$z$ez$yHz$z$Ndz$Odz$PMCz$DHDz$EHDz$FHDz$GHDz$HHDz$NJBz$IHDz$z$JDBz$vQz$xIBz$yIBz$bRz$GJz$xIBz$yIBz$HMCz$XMCz$YMCz$rABz$ZMCz$hmBz$aMCz$bMCz$cMCz$dMCz$eMCz$fMCz$gMCz$ISz$ONz$fKBz$whz$z$ez$yHz$z$JDz$atz$jBBz$kBBz$JHDz$KHDz$NJBz$OJBz$z$ez$yHz$z$hCz$FKBz$GKBz$z$Ugz$z$Ndz$Odz$PMCz$DHDz$KZCz$LZCz$XHBz$LHDz$HDBz$IDBz$z$JDBz$vQz$cDBz$bRz$GJz$cDBz$MHDz$uaCz$NHDz$qZCz$OHDz$PHDz$z$Uz$Vz$KDBz$UDBz$VDBz$Ytz$bRz$UBz$VBz$z$ez$fz$fvBz$WDBz$ULCz$VLCz$rvz$svz$PDz$z$oz$pz$z$qz$z$YZCz$QHDz$RHDz$SHDz$Wrz$Xrz$HUz$z$Uz$fxz$naBz$Ktz$cz$dz$z$Uz$THDz$UHDz$OUz$LZCz$Ylz$Zlz$THDz$UHDz$mCz$pbz$WDz$UBz$VBz$z$ez$yHz$z$JDz$atz$jBBz$kBBz$VHDz$WHDz$cDBz$PDz$z$ez$yHz$z$iKBz$jKBz$z$gBz$z$JDz$atz$btz$ctz$XHDz$YHDz$ZHDz$aHDz$NLCz$bHDz$z$qz$z$gBz$z$JDz$atz$btz$ctz$XHDz$YHDz$ZHDz$aHDz$NLCz$bHDz$z$qz$z$vCz$z$JDz$atz$btz$ctz$gSCz$cHDz$dHDz$z$ez$yBBz$eHDz$fHDz$gHDz$jUCz$z$ez$yBBz$hHDz$iHDz$jHDz$jUCz$z$ez$yBBz$kHDz$lHDz$mHDz$jUCz$z$ez$yBBz$nHDz$fHDz$oHDz$pHDz$z$ez$yBBz$qHDz$iHDz$rHDz$pHDz$z$ez$yBBz$sHDz$lHDz$tHDz$pHDz$z$ez$yBBz$uHDz$fHDz$vHDz$wHDz$z$ez$yBBz$xHDz$iHDz$yHDz$wHDz$z$ez$yBBz$AIDz$lHDz$BIDz$wHDz$z$ez$yBBz$CIDz$DIDz$EIDz$FIDz$GIDz$z$ez$yBBz$HIDz$DIDz$EIDz$IIDz$GIDz$z$ez$yBBz$JIDz$DIDz$EIDz$KIDz$GIDz$z$ez$yBBz$LIDz$MIDz$NIDz$OIDz$PDz$z$ez$yBBz$PIDz$MIDz$NIDz$OIDz$QIDz$RIDz$SIDz$z$ez$yBBz$TIDz$UIDz$VIDz$WIDz$XIDz$YIDz$ZIDz$z$Ndz$Odz$lBBz$aIDz$bIDz$KIDz$cIDz$JFCz$MCBz$z$Uz$bNz$EMBz$KCBz$FMBz$cz$dz$z$dIDz$eIDz$bIDz$KIDz$fIDz$z$gBz$z$Nfz$LCBz$MCBz$NCBz$z$TQz$z$dIDz$eIDz$bIDz$KIDz$fIDz$z$Tfz$z$Ufz$z$dIDz$eIDz$bIDz$IIDz$fIDz$z$Tfz$z$Vfz$z$dIDz$eIDz$bIDz$FIDz$fIDz$z$Tfz$z$Zfz$z$dIDz$eIDz$bIDz$KIDz$gIDz$z$Tfz$z$afz$z$dIDz$eIDz$bIDz$IIDz$gIDz$z$Tfz$z$cfz$z$dIDz$eIDz$bIDz$FIDz$gIDz$z$Tfz$z$efz$z$dIDz$eIDz$bIDz$KIDz$GIDz$z$Tfz$z$ffz$z$dIDz$eIDz$bIDz$IIDz$GIDz$z$Tfz$z$gfz$z$dIDz$eIDz$bIDz$FIDz$GIDz$z$Tfz$z$hfz$z$dIDz$eIDz$hIDz$iIDz$jIDz$kIDz$PDz$z$Tfz$z$lIDz$z$dIDz$eIDz$hIDz$iIDz$mIDz$kIDz$PDz$z$Tfz$z$nIDz$z$dIDz$eIDz$hIDz$iIDz$LSBz$kIDz$PDz$z$Tfz$z$oIDz$z$dIDz$eIDz$UIDz$VIDz$WIDz$pIDz$z$Tfz$z$qIDz$z$dIDz$eIDz$UIDz$VIDz$WIDz$XIDz$YIDz$ZIDz$z$Tfz$z$rIDz$z$dIDz$eIDz$sIDz$tIDz$uIDz$vIDz$wIDz$xIDz$z$Tfz$z$jfz$z$JDz$atz$btz$ctz$yIDz$AJDz$BJDz$bIDz$KIDz$fIDz$z$dIDz$eIDz$bIDz$KIDz$fIDz$z$pfz$z$qz$z$ez$yHz$z$JDz$atz$jBBz$kBBz$CJDz$DJDz$dIDz$EJDz$z$rz$z$UTCz$JWz$yYz$MFz$z$qjBz$rjBz$sjBz$HUz$z$tjBz$qjBz$axz$itz$bRz$GJz$qjBz$ttz$ujBz$z$ez$yHz$z$JDz$atz$jBBz$FJDz$YOBz$WTCz$PDz$z$Uz$Vz$bOBz$Biz$cOBz$bDz$cDz$dDz$z$dOBz$eOBz$fOBz$gOBz$hOBz$pKz$VTz$z$qz$z$dOBz$eOBz$fOBz$vjBz$wjBz$GJDz$HJDz$IJDz$DdBz$JJDz$KJDz$FkBz$mTCz$z$dOBz$eOBz$fOBz$CBBz$DBBz$LJDz$vQBz$MJDz$ytz$NJDz$OJDz$PJDz$QJDz$RJDz$SJDz$SGz$TJDz$UJDz$VJDz$WJDz$z$Uz$Vz$bOBz$Biz$cOBz$bDz$cDz$dDz$z$dOBz$eOBz$fOBz$CBBz$DBBz$dGz$XJDz$gFBz$YJDz$mHz$ZJDz$YJDz$aJDz$bJDz$cJDz$YJDz$dJDz$eJDz$fJDz$eJDz$gJDz$hJDz$wLz$iJDz$jJDz$kJDz$lJDz$YJDz$mJDz$nJDz$oJDz$pJDz$YJDz$nGz$z$gBz$z$dOBz$eOBz$fOBz$LkBz$VkBz$WkBz$qJDz$gFBz$WkBz$rJDz$sJDz$tJDz$uJDz$vJDz$wJDz$xJDz$WkBz$yJDz$AKDz$BKDz$CKDz$DKDz$nJDz$EKDz$FKDz$pJDz$WkBz$XkBz$z$dOBz$eOBz$fOBz$LkBz$GKDz$HKDz$z$qz$z$Ksz$Lsz$IKDz$mTz$Qrz$Rrz$maBz$z$tjBz$JICz$Vvz$Qlz$Ltz$YTCz$ZTCz$aTCz$JKDz$kdBz$z$Ksz$Lsz$dPBz$MNCz$KKDz$Wrz$Xrz$jbBz$z$tjBz$JICz$Vvz$Qlz$Ltz$YTCz$ZTCz$aTCz$LKDz$HJDz$MKDz$z$Uz$Ojz$CYz$Ddz$dMz$KaBz$Orz$Ylz$LaBz$OOz$MaBz$NaBz$OaBz$PaBz$QaBz$nUz$RaBz$SaBz$Bpz$TaBz$cDz$dDz$z$SYz$TYz$UaBz$VaBz$WaBz$XaBz$YaBz$ZaBz$aaBz$baBz$caBz$daBz$VZz$YUz$IaBz$eaBz$hYz$STz$z$faBz$gaBz$haBz$z$qz$z$rz$z$Nwz$Owz$Pwz$sKz$Tz$z$Uz$Qwz$NEz$vEz$IDz$z$Nfz$Rwz$Swz$z$Twz$z$ez$cNz$NKDz$PDz$z$Tfz$z$jfz$z$ez$Rwz$PDz$z$Tfz$z$pfz$z$gBz$z$ez$yHz$z$qz$z$rz$z$jFz$XOBz$OKDz$PKDz$FKz$z$ciCz$QKDz$RJCz$z$ujz$vjBz$RKDz$GcBz$QMBz$HcBz$AOz$IcBz$YKz$DOz$wUBz$Zpz$GuBz$wUBz$Zpz$GuBz$SKDz$TKDz$AGz$IJCz$UPCz$NTBz$UKDz$ciCz$VKDz$wUBz$Zpz$GuBz$SKDz$WKDz$liCz$QMz$RWCz$SWCz$XKDz$KXBz$DACz$YWCz$YKDz$cDz$dDz$z$JDz$atz$btz$ctz$ZKDz$aKDz$bKDz$z$oz$pz$z$qz$z$AkBz$cKDz$dKDz$eKDz$gWCz$fKDz$z$gKDz$pgCz$hKDz$iKDz$jKDz$kKDz$lKDz$mKDz$z$nKDz$Orz$TOCz$z$SVz$GJz$SVz$mtz$sez$z$Uz$fxz$Jtz$Ktz$cz$dz$z$ez$z$ez$fz$oKDz$pvz$pKDz$Puz$qKDz$rKDz$sKDz$nGDz$yhBz$oGDz$tKDz$kyCz$uKDz$wSBz$z$vKDz$wKDz$xKDz$yKDz$ALDz$BLDz$Zpz$GuBz$SKDz$CLDz$z$oz$pz$z$qz$z$DLDz$KoBz$ELDz$FLDz$iCDz$prz$Qrz$Rrz$maBz$z$tjBz$GLDz$HLDz$Psz$Qsz$gxz$MFz$z$vKDz$wKDz$xKDz$yKDz$ALDz$BLDz$Zpz$GuBz$SKDz$CLDz$z$JDz$atz$btz$ctz$ILDz$JLDz$KLDz$qPz$LLDz$MLDz$NLDz$OLDz$z$oz$pz$z$rz$z$EGz$PLDz$qeCz$QLDz$suz$RLDz$SLDz$z$SdBz$TdBz$z$UdBz$VdBz$Pjz$gGDz$hGDz$TLDz$z$XdBz$YdBz$BGBz$ZdBz$AOz$wMBz$ULDz$VLDz$WLDz$XLDz$z$bdBz$cdBz$ddBz$YLDz$ZLDz$YWCz$aLDz$z$NeBz$bLDz$ddBz$YLDz$ZLDz$YWCz$aLDz$z$ldBz$QTBz$mdBz$z$RQCz$SQCz$TQCz$z$cLDz$dLDz$rVBz$rUBz$VPCz$DACz$eLDz$z$IfCz$JfCz$iEz$ybz$fLDz$z$tdBz$udBz$gLDz$hLDz$iLDz$knBz$CUBz$JFz$jLDz$kLDz$lLDz$mLDz$nACz$nLDz$OHz$z$tdBz$BfCz$CfCz$jWz$XNCz$LrBz$oLDz$pLDz$qLDz$WMCz$z$tdBz$rLDz$NIz$sLDz$tLDz$uLDz$vLDz$wLDz$xLDz$z$MeBz$sez$mdBz$z$NeBz$OeBz$PeBz$QeBz$ReBz$jdBz$kdBz$z$eWBz$z$uGz$vGz$SeBz$TeBz$iiz$UeBz$z$uGz$vGz$wGz$xGz$KXBz$DACz$z$vKDz$wKDz$xKDz$yKDz$ALDz$BLDz$Zpz$GuBz$SKDz$CLDz$z$JDz$atz$jBBz$kBBz$YOBz$yLDz$z$rz$z$jFz$MVCz$wsBz$FKz$z$ez$yHz$z$JDz$atz$jBBz$kBBz$YOBz$AMDz$BMDz$PDz$z$CMDz$oPz$DMDz$EMDz$FMDz$LYz$MYz$oqz$lIz$xaz$GMDz$HMDz$wUBz$Zpz$GuBz$wUBz$Zpz$GuBz$SKDz$TKDz$AGz$IJCz$JJCz$KJCz$z$ciCz$QKDz$iwz$jwz$kwz$lwz$mwz$TFz$mFz$Hxz$IMDz$JMDz$Cgz$Lxz$Mxz$Nxz$TDz$Oxz$IQz$JQz$CMDz$YVz$MQz$Tqz$KMDz$UyBz$LMDz$z$eIz$fIz$Fsz$QIz$Btz$qSCz$rSCz$MIz$z$DLDz$KoBz$ELDz$FLDz$iCDz$prz$Qrz$Rrz$maBz$z$Uz$Vz$Xtz$Ytz$bRz$UBz$VBz$z$tjBz$xiCz$QMz$waBz$gWBz$MMDz$NMDz$oiCz$OMDz$PMDz$PDz$z$jFz$XOBz$OKDz$QMDz$lKDz$Yfz$z$gBz$z$QKDz$RMDz$BUz$SMDz$TMDz$ZQz$KXBz$DACz$NOz$OOz$UMDz$VMDz$WMDz$XMDz$z$Uz$YMDz$ZMDz$aMDz$lKDz$bMDz$cz$dz$z$jFz$XOBz$OKDz$QMDz$lKDz$Yfz$z$gBz$z$JDz$atz$tCBz$uCBz$vCBz$cMDz$dMDz$PDz$z$qz$z$qz$z$rz$z$qUz$eMDz$FUz$z$fMDz$gMDz$hMDz$aiBz$biBz$z$Uz$Vz$Zqz$aqz$waBz$gWBz$HDz$IDz$z$fMDz$gMDz$iMDz$dHDz$z$qz$z$bLz$JABz$CYz$qGDz$nACz$rz$z$EGz$XeBz$auz$buz$YeBz$TXBz$z$FKz$z$PTBz$qdCz$jMDz$gBDz$bHCz$WfBz$z$PTBz$LPz$UKz$kMDz$cDBz$HfBz$z$lMDz$qZz$BTCz$mMDz$ugBz$z$qeBz$reBz$nMDz$opCz$ueBz$oMDz$leBz$z$NdCz$ZEz$pMDz$ugBz$z$qMDz$rMDz$sMDz$dIDz$tMDz$leBz$z$nrz$orz$qdCz$uMDz$vMDz$wMDz$z$xMDz$yMDz$FVz$ANDz$BNDz$leBz$z$CNDz$DNDz$ENDz$Asz$VTz$z$rz$z$eWBz$z$rz$z$iaBz$tFz$jaBz$bCz$z$Ksz$Lsz$kaBz$tFz$laBz$OTBz$Qrz$Rrz$maBz$z$Uz$fxz$naBz$Ktz$cz$dz$z$uGz$vGz$mPBz$mez$oaBz$paBz$qaBz$bABz$Xrz$raBz$saBz$z$Uz$fxz$naBz$Ktz$taBz$VBz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$AbBz$BbBz$CbBz$DbBz$EbBz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$AbBz$BbBz$CbBz$DbBz$FbBz$z$BHz$CHz$DHz$MHz$NHz$OHz$z$gBz$z$GbBz$HbBz$IbBz$JbBz$KbBz$LbBz$ZQz$MbBz$NbBz$hOz$ObBz$WOz$XOz$glz$z$Uz$Vz$PbBz$Vvz$yaBz$cz$dz$z$HbBz$IbBz$QbBz$RbBz$SbBz$TbBz$UbBz$UKz$mXBz$gXBz$abBz$bbBz$cbBz$z$HbBz$IbBz$QbBz$RbBz$SbBz$dbBz$UbBz$UKz$mXBz$gXBz$abBz$bbBz$cbBz$z$qz$z$qz$z$gBz$z$Ksz$Lsz$ebBz$fbBz$gbBz$Qrz$Rrz$maBz$z$Uz$fxz$naBz$Ktz$cz$dz$z$GbBz$HbBz$IbBz$JbBz$KbBz$LbBz$ZQz$MbBz$NbBz$hOz$ObBz$WOz$XOz$glz$z$Uz$Vz$PbBz$Vvz$yaBz$cz$dz$z$HbBz$IbBz$QbBz$RbBz$SbBz$TbBz$UbBz$UKz$mXBz$gXBz$abBz$bbBz$cbBz$z$HbBz$IbBz$QbBz$RbBz$SbBz$dbBz$UbBz$UKz$mXBz$gXBz$abBz$bbBz$cbBz$z$qz$z$gBz$z$Ksz$Lsz$hbBz$ibBz$Wrz$Xrz$jbBz$z$Uz$fxz$naBz$Ktz$cz$dz$z$Ksz$kbBz$nlz$olz$IQz$piz$rBBz$hWBz$lbBz$z$Uz$Vz$Osz$Biz$bRz$UBz$VBz$z$mbBz$nbBz$sbBz$cDBz$tbBz$tUz$z$mbBz$nbBz$sbBz$cDBz$ubBz$tUz$z$qz$z$qz$z$qz$z$qz$z$rz$z$sz$hJz$Tz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$ez$fz$fvBz$WDBz$FNDz$pQCz$elCz$Puz$Quz$z$fuz$guz$z$qz$z$UKz$Vuz$aoBz$XTz$yGDz$tQBz$voz$woz$suz$Zjz$ajz$mnBz$nnBz$onBz$pnBz$qnBz$whz$z$Ksz$GNDz$Dfz$HNDz$INDz$DQz$JNDz$UKz$KUz$ZQz$KNDz$iCDz$LNDz$whz$z$JDBz$vQz$Osz$Ylz$MNDz$oez$NNDz$pvz$ONDz$rvz$svz$eDBz$nlz$PNDz$hBz$iBz$QNDz$hICz$sGBz$nz$z$DiBz$EiBz$Vuz$tuz$SiBz$uoBz$vuz$wuz$xuz$Zjz$ajz$mnBz$nnBz$onBz$pnBz$qnBz$whz$z$RNDz$SNDz$ZQz$TNDz$UNDz$vuz$wuz$xuz$Zjz$ajz$mnBz$nnBz$onBz$pnBz$qnBz$whz$z$Ksz$Tlz$NGBz$cNz$RNDz$VNDz$cWCz$alBz$WNDz$KpBz$atBz$UKz$FQz$wXCz$xXCz$XNDz$whz$z$tpBz$YNDz$frBz$XGBz$duBz$wmCz$cCDz$ArBz$BrBz$VtBz$z$ez$ZNDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$aNDz$z$ez$fz$fvBz$HCz$bNDz$cNDz$Puz$KDCz$dNDz$mez$nz$z$ez$fz$fvBz$HCz$eNDz$fNDz$rvz$svz$RqBz$gNDz$auz$buz$hNDz$Znz$uGBz$z$ez$yHz$z$ez$fz$fvBz$WDBz$iNDz$lvBz$Puz$Quz$z$ez$fz$XDCz$EECz$jNDz$HsBz$IsBz$kNDz$Znz$CECz$RqBz$SqBz$lNDz$Puz$Quz$z$ez$fz$XDCz$EECz$mNDz$nNDz$oNDz$Puz$iGBz$pvz$DvBz$Lvz$rvz$svz$PDz$z$ez$fz$XDCz$EECz$pNDz$qNDz$reBz$rNDz$Puz$iGBz$pvz$DvBz$SiBz$TiBz$rvz$svz$PDz$z$ez$fz$XDCz$EECz$sNDz$tNDz$uNDz$rNDz$Puz$yvz$RqBz$SqBz$RNDz$vNDz$Puz$Quz$z$ez$z$ez$fz$fvBz$HCz$wNDz$xNDz$sGBz$yNDz$AODz$igCz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$BODz$tpBz$rz$z$rz$z$sz$CODz$MFz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$ez$fz$fvBz$WDBz$FNDz$pQCz$elCz$Puz$Quz$z$fuz$guz$z$qz$z$UKz$Vuz$aoBz$XTz$yGDz$tQBz$voz$woz$suz$Zjz$ajz$mnBz$nnBz$onBz$pnBz$qnBz$whz$z$Ksz$GNDz$Dfz$HNDz$INDz$DQz$JNDz$UKz$KUz$ZQz$KNDz$iCDz$LNDz$whz$z$JDBz$vQz$Osz$Ylz$MNDz$oez$NNDz$pvz$ONDz$rvz$svz$eDBz$nlz$PNDz$hBz$iBz$QNDz$hICz$sGBz$nz$z$DiBz$EiBz$Vuz$tuz$SiBz$uoBz$vuz$wuz$xuz$Zjz$ajz$mnBz$nnBz$onBz$pnBz$qnBz$whz$z$RNDz$SNDz$ZQz$TNDz$UNDz$vuz$wuz$xuz$Zjz$ajz$mnBz$nnBz$onBz$pnBz$qnBz$whz$z$Ksz$Tlz$NGBz$cNz$RNDz$VNDz$cWCz$alBz$WNDz$KpBz$atBz$UKz$FQz$wXCz$xXCz$XNDz$whz$z$tpBz$YNDz$frBz$XGBz$duBz$wmCz$cCDz$ArBz$BrBz$VtBz$z$ez$z$MkBz$NkBz$yGBz$JrBz$KrBz$LrBz$BODz$tpBz$rz$z$rz$z$jFz$jaBz$bCz$z$HABz$sEBz$z$UTCz$JWz$HUz$z$jFz$MVCz$FwBz$z$qUz$eMDz$z$iaBz$tFz$fkBz$z$DUz$ePz$z$sz$hJz$z$rz$z$DODz$Orz$Tz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$ez$fz$fvBz$WDBz$FNDz$pQCz$elCz$Puz$Quz$z$fuz$guz$z$qz$z$HABz$sEBz$z$qUz$eMDz$z$uYz$vYz$z$iaBz$tFz$fkBz$z$sz$hJz$z$rz$z$hFz$FmBz$MFz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$ez$fz$fvBz$WDBz$FNDz$pQCz$elCz$Puz$Quz$z$fuz$guz$z$qz$z$jFz$MVCz$FwBz$z$uYz$vYz$z$rz$z$DUz$NnBz$FKz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$ez$fz$fvBz$WDBz$FNDz$pQCz$elCz$Puz$Quz$z$fuz$guz$z$qz$z$uGz$vGz$WSBz$DUz$VwCz$nACz$rz$z$UEz$PnBz$z$UKz$Vuz$aoBz$XTz$yGDz$tQBz$voz$woz$suz$Zjz$ajz$mnBz$nnBz$onBz$pnBz$qnBz$whz$z$Ksz$Hvz$EODz$SrCz$ZQz$Kvz$Lvz$NOz$OOz$FODz$XTz$ykz$z$Uz$Vz$Osz$Biz$bRz$UBz$VBz$z$JDz$atz$btz$ctz$GODz$glCz$hlCz$IRCz$JRCz$z$gBz$z$JDz$atz$jBBz$kBBz$HODz$Amz$APz$z$qz$z$rz$z$uYz$XnBz$bCz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$ez$fz$fvBz$WDBz$FNDz$pQCz$elCz$Puz$Quz$z$fuz$guz$z$qz$z$uPBz$z$DUz$ePz$z$rz$z$uPBz$Tz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$ez$fz$fvBz$WDBz$FNDz$pQCz$elCz$Puz$Quz$z$fuz$guz$z$qz$z$uGz$vGz$mPBz$IODz$JODz$KODz$z$JDz$atz$jBBz$kBBz$HODz$klCz$PDz$z$rz$z$Gbz$Hbz$Dnz$FKz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$ez$fz$fvBz$WDBz$FNDz$pQCz$elCz$Puz$Quz$z$fuz$guz$z$qz$z$ez$yHz$z$Ndz$Odz$PmBz$LODz$MODz$NODz$NIBz$OIBz$z$JDBz$OODz$lJBz$PODz$cEz$nJBz$MCBz$UOBz$z$Uz$Vz$UmBz$QODz$PJBz$RODz$Ylz$dkBz$Vz$UmBz$QODz$PJBz$SODz$bDz$cDz$dDz$z$uGz$vGz$mPBz$IODz$JODz$xKDz$TODz$Ipz$Gpz$cBCz$UODz$dKDz$VODz$z$VPz$AnBz$gCBz$lHCz$xuz$z$WODz$VIz$WIz$XIz$XODz$pMz$qMz$YODz$aIz$ZODz$aODz$bODz$cODz$dODz$eODz$fODz$FODz$XTz$gODz$hODz$iODz$z$VPz$qsz$VIz$jODz$kODz$lODz$Zpz$GuBz$SKDz$CLDz$z$VPz$qsz$VIz$jTBz$mODz$nODz$nGDz$yhBz$oGDz$oODz$z$VPz$qsz$VIz$jTBz$pODz$qODz$rODz$sODz$fKDz$z$VPz$qsz$VIz$jTBz$pODz$qODz$tODz$pgCz$hKDz$iKDz$jKDz$uODz$z$JDz$atz$nlBz$iBz$vODz$wODz$xODz$z$qz$z$rz$z$sz$JBCz$bCz$z$Ksz$fvz$gvz$z$Uz$GmBz$HmBz$ImBz$bDz$cDz$dDz$z$ez$fz$fvBz$WDBz$FNDz$pQCz$elCz$Puz$Quz$z$fuz$guz$z$qz$z$QBCz$RBCz$sUz$SBCz$GMz$UBCz$SMDz$yODz$nACz$rz$z$rz$z$tCCz$Tz$z$JIz$KIz$z$ez$uCCz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$vCCz$z$ez$fz$wCCz$qcz$qcz$edz$APDz$pgCz$hKDz$BPDz$CPDz$pRCz$rvz$svz$qcz$qcz$qcz$qcz$qcz$qRCz$z$ez$fz$CDCz$lvz$DDCz$EDCz$sGBz$FDCz$GDCz$HDCz$IDCz$qcz$qcz$qcz$qcz$qcz$qcz$qcz$qcz$BDCz$PDz$z$ez$fz$CDCz$lvz$rRCz$sRCz$sGBz$tRCz$qPz$unz$DPDz$EPDz$FPDz$GPDz$qcz$qcz$qcz$qcz$qcz$qcz$BDCz$PDz$z$ez$fz$CDCz$lvz$HPDz$IPDz$sGBz$tRCz$qPz$unz$JPDz$Dxz$AHCz$KPDz$LPDz$qcz$qcz$qcz$qcz$qcz$BDCz$PDz$z$ez$uCCz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$vCCz$z$ez$fz$hBz$iBz$JDCz$Puz$KDCz$JqBz$LDCz$MDCz$rvz$svz$BGDz$iBz$NDCz$rvz$svz$xRCz$gHBz$PDCz$QDCz$RDCz$Znz$CGDz$lvz$DGDz$EGDz$sGBz$FGDz$HCz$GGDz$HGDz$rvz$svz$PDz$z$ez$kECz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$pdz$yRCz$z$ez$fz$XDCz$lvz$YDCz$ZDCz$sGBz$MPDz$NPDz$z$ez$fz$XDCz$lvz$dDCz$ZDCz$sGBz$CmCz$OPDz$z$ez$fz$XDCz$lvz$iDCz$RmCz$pvz$PPDz$QPDz$Puz$Quz$z$ez$VECz$WECz$WECz$WECz$PDz$z$ez$fz$XDCz$lvz$lDCz$ZDCz$sGBz$UmCz$RPDz$z$ez$fz$XDCz$lvz$oDCz$ZDCz$sGBz$VmCz$SPDz$z$ez$fz$XDCz$lvz$rDCz$ZDCz$sGBz$XmCz$TPDz$z$ez$VECz$WECz$WECz$WECz$PDz$z$ez$fz$XDCz$lvz$sDCz$ZDCz$sGBz$OmCz$UPDz$hECz$z$ez$fz$XDCz$lvz$tDCz$ZDCz$sGBz$OmCz$VPDz$WPDz$z$ez$fz$XDCz$lvz$wDCz$RmCz$pvz$XPDz$YPDz$ZPDz$sGBz$nz$z$ez$fz$XDCz$lvz$YDCz$hez$Znz$aPDz$bPDz$jECz$z$ez$VECz$WECz$WECz$WECz$PDz$z$ez$fz$XDCz$lvz$vECz$ZDCz$sGBz$cPDz$PDz$z$ez$z$ez$Qwz$tez$ZSCz$z$Dfz$dvz$yTBz$z$ez$z$Ndz$Odz$lBBz$aSCz$cmCz$JHBz$lJBz$Yfz$z$Nfz$LCBz$MCBz$NCBz$z$ifz$z$oz$kcz$z$Tfz$z$TQz$z$jFz$fkBz$z$Tfz$z$Ufz$z$hFz$DWz$z$Tfz$z$Vfz$z$Gbz$Hbz$nGz$z$Tfz$z$Zfz$z$DUz$ePz$z$Tfz$z$afz$z$uYz$vYz$z$Tfz$z$cfz$z$uPBz$z$Tfz$z$efz$z$sz$hJz$z$Tfz$z$ffz$z$sz$dPDz$z$Tfz$z$gfz$z$DODz$Orz$z$Tfz$z$hfz$z$sz$ePDz$z$Tfz$z$jfz$z$ez$fz$BXBz$fPDz$gPDz$hPDz$Puz$Quz$z$oz$pz$z$Tfz$z$pfz$z$rz$z$Pz$osz$iCCz$z$hWBz$iPz$fDz$z$JDBz$VGCz$Ylz$WGCz$FVBz$XGCz$xYz$z$Nfz$EMBz$FVBz$YGCz$dDz$z$tCCz$iPDz$sez$ZGCz$aGCz$Gbz$Hbz$bGCz$cGCz$uYz$cGCz$uPBz$dGCz$eGCz$fGCz$jPDz$dGCz$kPDz$eOz$z$iGCz$Sz$rz$z$Tfz$z$jfz$z$ez$jGCz$kGCz$z$ez$lGCz$mGCz$qOBz$YVz$nGCz$oGCz$lPDz$JWz$mPDz$qGCz$rGCz$jFz$sGCz$DUz$tGCz$DUz$uGCz$vGCz$wGCz$xGCz$sz$nPDz$oPDz$pPDz$z$Tfz$z$pfz$z$rz$z$HbBz$IbBz$eiz$z$MIz$NIz$OIz$PIz$QIz$RIz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$ZIz$aIz$bIz$cIz$dIz$z$eIz$fIz$gIz$z$hIz$iIz$jIz$kIz$z$AJz$BJz$CJz$DJz$EJz$yBz$FJz$GJz$HJz$IJz$JJz$KJz$LJz$MJz$NJz$OJz$PJz$QJz$RJz$SJz$DJz$EJz$yBz$TJz$UJz$VJz$WJz$XJz$YJz$ZJz$aJz$bJz$cJz$TCz$NJz$dJz$eJz$fJz$gJz$KJz$LJz$BEz$PDz$z$hJz$iJz$AJz$BJz$CJz$DJz$jJz$kJz$lJz$mJz$nJz$oJz$pJz$z$qJz$rJz$sJz$tJz$uJz$aJz$vJz$wJz$xJz$JDz$yJz$AKz$nz$z$BKz$hBz$kGz$tJz$uJz$aJz$CKz$wJz$xJz$JDz$yJz$AKz$nz$z$voz$qPDz$rPDz$nUz$sPDz$xGz$tPDz$PDz$z$voz$woz$iEz$uPDz$CUBz$vPDz$wPDz$xPDz$Hiz$z$gCBz$lHCz$nACz$yPDz$nOBz$AQDz$pIDz$z$Pz$BQDz$nOBz$CQDz$FKz$z$HbBz$IbBz$DQDz$uwBz$EQDz$xGz$FQDz$eqz$fqz$gqz$eOz$z$XEz$GQDz$xGz$HQDz$IQDz$Biz$bRz$GJz$ez$fz$qOz$rOz$JQDz$KQDz$nOBz$LQDz$ygz$kSz$dPz$lSz$z$rz$z$Pz$MQDz$NQDz$OQDz$AVz$z$Uz$DDz$bKz$cKz$VLz$kiz$liz$bDz$cDz$dDz$z$ujz$vjz$SHz$THz$PQDz$QQDz$xjz$yjz$Akz$Bkz$dz$z$ez$fz$lNz$mNz$RQDz$FGz$GGz$SQDz$gFz$z$eFz$jFz$kFz$TQDz$UQDz$wFz$VQDz$bABz$Xrz$HUz$z$qz$z$gBz$z$ujz$vjz$SHz$THz$PQDz$QQDz$xjz$yjz$Akz$Bkz$dz$z$ez$fz$lNz$mNz$RQDz$WQDz$XQDz$tGz$z$UHz$mTz$hFz$YQDz$ZQDz$mnCz$sDDz$Hbz$aQDz$bQDz$wFz$VQDz$bABz$Xrz$HUz$z$qz$z$qz$z$rz$z$Pz$Rfz$eiz$z$Uz$fiz$CYz$giz$hiz$iiz$NKz$bDz$cDz$dDz$z$bKz$jiz$kiz$liz$z$QDz$miz$CYz$niz$oiz$IQz$piz$qiz$cMz$WLz$XLz$UBz$VBz$z$bKz$jiz$WLz$XLz$z$QDz$miz$CYz$niz$oiz$IQz$piz$qiz$cMz$ZLz$aLz$UBz$VBz$z$bKz$jiz$ZLz$aLz$z$QDz$miz$CYz$niz$oiz$IQz$piz$qiz$cMz$kiz$riz$siz$tiz$uiz$viz$cDz$dDz$z$bKz$jiz$kiz$liz$z$QDz$miz$wiz$xiz$IKz$yiz$DQz$Ajz$Bjz$Cjz$lLz$Djz$cDz$dDz$z$bKz$jiz$WLz$XLz$z$QDz$miz$wiz$xiz$IKz$yiz$DQz$Ajz$Bjz$Cjz$Ejz$Fjz$cDz$dDz$z$bKz$jiz$ZLz$aLz$z$QDz$miz$wiz$xiz$IKz$yiz$DQz$Ajz$Bjz$Cjz$Gjz$Hjz$Ijz$Jjz$Kjz$Ljz$IDz$z$bKz$jiz$kiz$liz$z$qz$z$rz$z$jFz$CXCz$HbBz$IbBz$FUz$z$HbBz$IbBz$DQDz$uwBz$EQDz$xGz$FQDz$eqz$fqz$gqz$eOz$z$Uz$DDz$HbBz$IbBz$DQDz$cQDz$Vvz$bRz$UBz$VBz$z$ez$fz$lNz$mNz$rkBz$dQDz$xGz$eQDz$tGz$z$gBz$z$ez$fz$lNz$mNz$WSz$fQDz$HbBz$IbBz$gQDz$hQDz$PDz$z$Uz$DDz$bKz$cKz$iQDz$wmz$xmz$bRz$UBz$VBz$z$eFz$hFz$EBz$iFz$z$eFz$jFz$kFz$IWz$fbBz$gbBz$HbBz$IbBz$iCDz$QTBz$lPz$z$gBz$z$UHz$mTz$hFz$DWz$z$UHz$mTz$jFz$kFz$IWz$fbBz$jQDz$z$qz$z$HbBz$IbBz$DQDz$uwBz$EQDz$xGz$FQDz$eqz$fqz$gqz$eOz$z$Uz$DDz$HbBz$IbBz$DQDz$cQDz$Yxz$bDz$cDz$dDz$z$ez$fz$qOz$rOz$kQDz$HbBz$IbBz$YPBz$ygz$kSz$dPz$lSz$z$gBz$z$ez$fz$lNz$mNz$SkBz$xGz$lQDz$mQDz$PDz$z$qz$z$qz$z$Pz$MQDz$NQDz$nQDz$z$ez$fz$lNz$mNz$oQDz$pQDz$nOBz$qQDz$PDz$z$rQDz$HbBz$IbBz$z$BADz$NZz$sQDz$tQDz$z$uQDz$vQDz$QdBz$VTz$z$ez$fz$lNz$mNz$SkBz$xGz$wQDz$xQDz$PDz$z$ez$fz$lNz$mNz$yQDz$ARDz$BRDz$CRDz$z$rz$z$BADz$NZz$sQDz$DRDz$AVz$z$bLz$JABz$knBz$CUBz$vPDz$z$DFz$MoBz$auz$buz$ERDz$z$kVz$xlBz$FRDz$auz$buz$ERDz$z$rz$z$rQDz$lcz$GRDz$HRDz$IRDz$AVz$z$Ndz$fz$PNz$JRDz$HbBz$IbBz$KRDz$LRDz$MRDz$NRDz$NLCz$ORDz$PRDz$QRDz$RRDz$SRDz$TRDz$URDz$VRDz$lcz$GRDz$HRDz$skCz$z$JDBz$vQz$WRDz$Haz$XRDz$UKz$YRDz$Ltz$kez$ZRDz$aRDz$kSz$dPz$lSz$z$ez$GJz$ez$fz$bRDz$cRDz$ZcBz$HJz$IJz$JJz$INz$dRDz$eRDz$vWBz$VBCz$fRDz$lJz$mJz$nJz$oJz$gRDz$WRz$hRDz$z$rz$z$rQDz$lcz$GRDz$iRDz$hwCz$z$ez$fz$NXCz$SkBz$xGz$jRDz$kRDz$lRDz$mRDz$nRDz$oRDz$z$ez$fz$vMz$wMz$pRDz$qRDz$rRDz$sRDz$tRDz$uRDz$vRDz$z$Ndz$fz$PNz$wRDz$xRDz$yRDz$ASDz$Haz$XRDz$BSDz$ePz$z$JDBz$vQz$WRDz$Haz$XRDz$BSDz$CSDz$cEz$DSDz$JlBz$ESDz$FSDz$phz$qhz$z$Uz$GSDz$mVBz$HSDz$ISDz$cGDz$NYCz$Tjz$OYCz$Tjz$OYCz$Tjz$OYCz$Tjz$PYCz$HDz$IDz$z$lcz$GRDz$iRDz$JSDz$lcz$GRDz$iRDz$aqCz$PDz$z$lcz$GRDz$KSDz$FnBz$LSDz$z$ez$GJz$ez$fz$bRDz$URDz$MSDz$edz$fdz$xJz$HPz$IPz$WRDz$Haz$XRDz$NSDz$vTz$OEz$wTz$xTz$yTz$GJz$ez$z$gBz$z$lcz$GRDz$KSDz$FnBz$OSDz$lcz$GRDz$iRDz$aqCz$PDz$z$YFBz$PSDz$ABDz$QSDz$RSDz$SSDz$bBz$TSDz$mVBz$HSDz$USDz$bBz$uABz$z$Uz$bNz$Ovz$OGBz$VSDz$JdCz$HDz$IDz$z$ez$fz$qOz$rOz$WSDz$XSDz$xOz$YSDz$ZSDz$kSz$dPz$lSz$z$qz$z$lcz$GRDz$iRDz$JSDz$YFBz$PSDz$rfCz$z$ez$fz$bRDz$aSDz$ZcBz$HJz$IJz$JJz$INz$dRDz$eRDz$vWBz$SBDz$jrBz$HNz$eJz$fJz$gJz$INz$PDz$z$ez$fz$bSDz$cSDz$dSDz$sJz$tJz$uJz$aJz$eSDz$mVBz$HSDz$fSDz$MPz$xJz$JDz$yJz$AKz$XpCz$DSDz$gSDz$z$qz$z$rz$z$YFBz$hSDz$YmBz$iSDz$FKz$z$WIz$jSDz$bBz$kSDz$z$WIz$lSDz$LNCz$mSDz$nSDz$oSDz$bBz$pSDz$yjz$Akz$LbBz$ZQz$qSDz$rSDz$YfCz$sSDz$tSDz$uSDz$YfCz$sSDz$oQz$CoBz$vSDz$eOz$z$Uz$bNz$rMBz$wSDz$cz$dz$z$hMBz$xSDz$ySDz$uuz$oSDz$bBz$pSDz$yjz$Akz$LbBz$ZQz$qSDz$rSDz$YfCz$sSDz$tSDz$uSDz$YfCz$sSDz$oQz$pQz$qQz$eOz$z$qz$z$ez$rMBz$uLCz$z$rz$z$rQDz$WIz$kbz$BEDz$FKz$z$ez$fz$NXCz$SkBz$xGz$ATDz$CDBz$BTDz$pbz$CTDz$DTDz$ETDz$FTDz$GTDz$HTDz$z$Ndz$fz$PNz$ITDz$wuBz$WRDz$Haz$XRDz$UKz$JTDz$KTDz$qZz$skCz$z$JDBz$vQz$LTDz$qZz$Lvz$bRz$GJz$WIz$kbz$MTDz$dRDz$eRDz$vWBz$VBCz$ARBz$z$ez$fz$NTDz$CDBz$dSDz$sJz$tJz$uJz$aJz$OTDz$aIz$VBCz$fRDz$lJz$mJz$nJz$oJz$gRDz$WRz$hRDz$z$rz$z$rQDz$WIz$PTDz$FUz$z$Ndz$fz$PNz$JRDz$QTDz$RTDz$STDz$TTDz$UTDz$VTDz$WTDz$XTDz$YTDz$ZTDz$aTDz$bTDz$cTDz$orCz$z$Uz$bNz$cNz$WIz$PTDz$YRDz$cz$dz$z$WIz$PTDz$dTDz$mTz$eTDz$fTDz$gTDz$hTDz$AnCz$iTDz$dQCz$yjz$Akz$Guz$z$Uz$bNz$cNz$WIz$PTDz$YRDz$cz$dz$z$WIz$PTDz$lIBz$mFz$jTDz$kTDz$Cpz$lTDz$Wrz$Xrz$mTDz$z$qz$z$Uz$bNz$cNz$WIz$PTDz$YRDz$cz$dz$z$ez$cNz$qJz$nTDz$oTDz$QTDz$pTDz$qTDz$rTDz$z$Ndz$fz$PNz$JRDz$QTDz$RTDz$STDz$TTDz$UTDz$VTDz$WTDz$sTDz$OZCz$aIz$tTDz$z$JDBz$vQz$LTDz$uTDz$vTDz$cEz$DSDz$JlBz$ESDz$FSDz$phz$qhz$z$qz$z$qz$z$ez$fz$wTDz$xTDz$dSDz$sJz$tJz$uJz$aJz$OTDz$aIz$yTDz$HNz$eJz$fJz$gJz$INz$kSz$kez$pCz$z$rz$z$rQDz$lcz$GRDz$AUDz$BUDz$AVz$z$ez$fz$NXCz$CUDz$DUDz$fbBz$gbBz$EUDz$AADz$z$FUDz$AwBz$z$GUDz$HUDz$z$IUDz$JUDz$KUDz$PDz$z$Ndz$fz$PNz$LUDz$MUDz$NUDz$VRDz$lcz$GRDz$AUDz$OUDz$PUDz$z$JDBz$vQz$WRDz$Haz$XRDz$NWBz$jPz$YRDz$Ltz$ASDz$Haz$XRDz$NWBz$jPz$QUDz$z$Uz$DDz$lcz$GRDz$AUDz$OUDz$RUDz$VLz$SUDz$HDz$IDz$z$lcz$GRDz$AUDz$sFBz$TUDz$PDz$z$QDz$RDz$dRDz$eRDz$vWBz$UUDz$VUDz$WUDz$XUDz$bRz$UBz$VBz$z$lcz$GRDz$AUDz$sFBz$ViBz$PDz$z$QDz$RDz$dRDz$eRDz$vWBz$UUDz$VUDz$WUDz$Nlz$bRz$UBz$VBz$z$lcz$GRDz$AUDz$sFBz$TUDz$YUDz$PDz$z$gBz$z$lcz$GRDz$AUDz$sFBz$TUDz$YUDz$PDz$z$qz$z$rz$z$rQDz$kgBz$lgBz$FKz$z$rQDz$lcz$GRDz$HRDz$skCz$z$rQDz$lcz$GRDz$iRDz$tUz$z$rQDz$WIz$kbz$QZCz$z$rQDz$WIz$PTDz$z$rQDz$lcz$GRDz$AUDz$ZUDz$z$ez$GJz$ez$fz$aUDz$pdz$pdz$pdz$pdz$pdz$pdz$bUDz$z$nhz$HbBz$IbBz$cUDz$dUDz$eUDz$fUDz$dDz$z$gUDz$hUDz$iUDz$ATz$PJz$IJz$JJz$INz$jUDz$cTDz$UKz$MPz$xJz$JDz$yJz$AKz$rz$z$kUDz$lUDz$ZcBz$AJz$BJz$CJz$DJz$mUDz$WIz$PTDz$MPz$xJz$JDz$yJz$AKz$nUDz$z$oUDz$hUDz$iUDz$ATz$PJz$IJz$JJz$INz$dRDz$eRDz$vWBz$VBCz$fRDz$lJz$mJz$nJz$oJz$pJz$z$Uz$hrz$TSDz$mVBz$HSDz$USDz$bBz$bRz$UBz$VBz$z$ez$fz$bRDz$pUDz$qUDz$nDz$GPz$xJz$HPz$IPz$WRDz$Haz$XRDz$YmBz$KsBz$vTz$OEz$wTz$xTz$yTz$z$ez$fz$bSDz$cSDz$rUDz$ATz$PJz$IJz$JJz$INz$dRDz$eRDz$vWBz$yTDz$HNz$eJz$fJz$gJz$INz$PDz$z$gBz$z$ez$fz$bRDz$sUDz$rUDz$ATz$PJz$IJz$JJz$INz$dRDz$eRDz$vWBz$yTDz$HNz$eJz$fJz$gJz$INz$PDz$z$qz$z$ez$fz$tUDz$uUDz$ZcBz$AJz$BJz$CJz$DJz$mUDz$lcz$GRDz$AUDz$ZrBz$HNz$eJz$fJz$gJz$INz$PDz$z$ez$fz$vUDz$wUDz$ZcBz$AJz$BJz$CJz$DJz$xUDz$JDBz$yUDz$lcz$GRDz$KSDz$FnBz$wNCz$Ltz$kez$AVDz$eDBz$kez$BVDz$CVDz$lJz$mJz$nJz$oJz$pJz$z$ez$fz$aUDz$pdz$pdz$pdz$pdz$pdz$pdz$DVDz$oiBz$z$Ndz$fz$PNz$EVDz$FVDz$GVDz$HVDz$IVDz$JVDz$KVDz$LVDz$KIz$z$rz$z$MVDz$lcz$GRDz$GXz$FKz$z$Pz$BQDz$nOBz$NVDz$z$rQDz$kgBz$aYz$z$OVDz$PVDz$QVDz$NZz$njBz$z$dFBz$RVDz$RVz$z$SVDz$TVDz$JHz$UVDz$wlz$dfz$z$ez$GJz$ez$fz$lNz$mNz$VVDz$WVDz$XVDz$PDz$z$rz$z$OVDz$PVDz$QVDz$NZz$TgBz$AVz$z$WIz$YVDz$ICCz$ZEDz$ciz$HBz$eOz$z$WIz$YVDz$ZVDz$hYz$aVDz$bVDz$dmz$ICCz$cVDz$LTDz$qZz$Lvz$dVDz$aIz$yTDz$eVDz$mVBz$HSDz$fVDz$gVDz$dRDz$eRDz$vWBz$yTDz$eVDz$mVBz$HSDz$USDz$bBz$hVDz$lcz$GRDz$AUDz$ZrBz$iVDz$Lz$jVDz$kVDz$lVDz$mVDz$nVDz$ZLBz$z$ez$Ovz$bVDz$qUz$oVDz$pVDz$voz$woz$qVDz$z$ez$fz$lNz$mNz$VVDz$rVDz$sVDz$knBz$CUBz$JFz$KFz$z$rz$z$dFBz$RVDz$tVDz$FKz$z$WIz$kbz$uVDz$jwz$vVDz$bMBz$JUz$wVDz$aIz$VBCz$CSDz$lhCz$xVDz$yVDz$AWDz$z$lcz$GRDz$HRDz$rZz$JVBz$BWDz$ZEDz$ez$cNz$lcz$GRDz$HRDz$Lvz$bQz$SYz$CWDz$DWDz$ayBz$z$JIz$EWDz$FWDz$GWDz$WVz$cNz$WIz$kbz$HWDz$cNz$lcz$GRDz$AUDz$ZrBz$PDz$z$Uz$DDz$lcz$GRDz$AUDz$ZrBz$VLz$TUDz$bRz$YLz$XEz$WRDz$Haz$XRDz$NWBz$Gkz$IWDz$JWDz$wSDz$cz$dz$z$dFBz$KWDz$LWDz$MWDz$heBz$NWDz$OWDz$z$qz$z$Uz$DDz$lcz$GRDz$AUDz$ZrBz$VLz$ViBz$bRz$YLz$XEz$WRDz$Haz$XRDz$NWBz$Gkz$IWDz$JWDz$wSDz$cz$dz$z$dFBz$KWDz$LWDz$MWDz$heBz$PWDz$QWDz$z$qz$z$RWDz$SWDz$xGz$lPz$z$rz$z$JIz$EWDz$FWDz$GWDz$WVz$FUz$z$WIz$VyBz$WyBz$fDz$z$WIz$TWDz$UWDz$VWDz$z$ez$fz$lNz$mNz$WWDz$XWDz$gFz$z$rz$z$dFBz$KWDz$LWDz$MWDz$heBz$qfz$z$WIz$TWDz$UWDz$RJCz$z$HbBz$IbBz$yGBz$lBCz$YWDz$jvCz$kvCz$ZWDz$JjBz$hRBz$aWDz$bWDz$RKDz$LTDz$qZz$Lvz$cWDz$dWDz$eWDz$fWDz$gWDz$hWDz$iWDz$dRDz$eRDz$vWBz$yTDz$jWDz$WRDz$Haz$XRDz$UKz$nz$z$HbBz$IbBz$yGBz$lBCz$YWDz$kWDz$lWDz$mWDz$EQz$AYBz$nWDz$FBz$WRDz$Haz$XRDz$oWDz$UbBz$UKz$cNz$lcz$GRDz$HRDz$Lvz$cWDz$pWDz$eWDz$qWDz$rWDz$YKCz$LTDz$uTDz$sWDz$z$HbBz$IbBz$QbBz$RbBz$tWDz$nlz$EBz$jOBz$uWDz$vWDz$IRz$AYBz$nWDz$EQz$AYBz$nWDz$wWDz$xWDz$jUDz$cTDz$UKz$iSBz$yWDz$gBCz$z$ez$fz$lNz$mNz$AXDz$BXDz$CXDz$DXDz$PDz$z$rz$z$SVDz$TVDz$JHz$UVDz$wlz$GXz$FKz$z$ujz$EXDz$PSBz$FXDz$GXDz$lCDz$HXDz$IXDz$SkBz$xGz$tPDz$UBz$VBz$z$ez$fz$lNz$mNz$JXDz$KXDz$LXDz$PDz$z$uGz$vGz$mPBz$nPBz$HbBz$IbBz$MXDz$z$NXDz$Obz$aICz$OXDz$hWBz$FLz$PXDz$QXDz$fbBz$RXDz$SXDz$IDz$z$ez$fz$lNz$mNz$yQDz$ARDz$TXDz$z$gBz$z$ez$fz$qOz$rOz$UXDz$VXDz$Bmz$xOz$WXDz$IRBz$z$qz$z$qz$z$rz$z$XXDz$Gaz$Haz$YXDz$AVz$z$Pz$BQDz$nOBz$NVDz$z$lcz$GRDz$AUDz$ZXDz$aXDz$nOBz$HmBz$bXDz$cXDz$dXDz$jvCz$kvCz$eXDz$yjz$Akz$LbBz$fXDz$Qwz$gXDz$z$Uz$bNz$hXDz$mVBz$HSDz$iXDz$jXDz$HDz$IDz$z$ez$fz$qOz$rOz$JQDz$kXDz$fbBz$gbBz$lXDz$mXDz$ygz$PDz$z$ez$GJz$ez$fz$lNz$mNz$nXDz$oXDz$pXDz$z$Uz$fiz$knBz$CUBz$JFz$qXDz$GJz$JDBz$Zuz$auz$buz$rXDz$cz$dz$z$hCz$sXDz$tXDz$uXDz$SQz$vXDz$ICCz$wXDz$cTDz$UKz$KTDz$uTDz$xXDz$eRDz$vWBz$VBCz$yXDz$eRDz$vWBz$AYDz$lcz$GRDz$KSDz$FnBz$BYDz$eRDz$vWBz$UUDz$CYDz$DYDz$EYDz$FYDz$Ugz$z$Uz$hrz$Ovz$bVDz$rvBz$HDz$IDz$z$ez$fz$XDCz$nDz$GPz$xJz$HPz$IPz$LTDz$qZz$Lvz$HNz$eJz$fJz$gJz$INz$GYDz$dRDz$eRDz$vWBz$yTDz$HYDz$mVBz$HSDz$fVDz$JTCz$IYDz$mVBz$HSDz$JYDz$KYDz$PDz$z$qz$z$vCz$LYDz$vuz$wuz$xuz$PDz$z$gBz$z$ez$fz$XDCz$MYDz$NYDz$OYDz$PDz$z$qz$z$oz$pz$z$qz$z$lcz$GRDz$AUDz$Ggz$bMBz$JUz$PYDz$mVBz$HSDz$iXDz$QYDz$uhz$vhz$eOz$z$lcz$GRDz$RYDz$SYDz$TYDz$gCz$z$Kgz$Lgz$Mgz$nbz$Ngz$Ogz$Pgz$hXDz$mVBz$HSDz$UYDz$VYDz$Ngz$Ogz$WYDz$eOz$z$Ugz$z$lcz$GRDz$AUDz$sFBz$jCBz$JlBz$dRDz$eRDz$vWBz$XYDz$CSDz$SOz$shz$iDz$nQz$oQz$roCz$Qwz$YYDz$Rgz$ZYDz$uABz$z$lcz$GRDz$RYDz$QOCz$fhCz$ez$cNz$lcz$GRDz$AUDz$aYDz$bQz$NQz$bOz$cOz$bYDz$MQz$SYz$cYDz$cgz$Ogz$dYDz$hOz$iOz$eYDz$fYDz$Zmz$Rmz$Smz$ayBz$z$JDBz$OODz$lcz$GRDz$RYDz$QOCz$gYDz$Ltz$ASDz$Haz$XRDz$TQBz$hYDz$UlBz$ZGBz$WRDz$Haz$XRDz$vQBz$FQz$ESz$Zmz$Rmz$iYDz$oQz$roCz$Qwz$YYDz$Rgz$ZYDz$bQz$NQz$RFDz$jYDz$kYDz$WOz$XOz$QlBz$z$lcz$GRDz$lYDz$ynBz$jCBz$JlBz$dRDz$eRDz$vWBz$XYDz$CSDz$SOz$shz$iDz$MUz$mYDz$lhCz$cwz$cNz$fMDz$nYDz$oYDz$ESz$FSz$pYDz$ukz$iDz$thz$Htz$z$lcz$GRDz$RYDz$SYDz$TYDz$PYDz$mVBz$HSDz$qYDz$rYDz$sYDz$nDz$GPz$xJz$HPz$IPz$Phz$Mgz$tYDz$lJz$mJz$nJz$oJz$uYDz$vYDz$nDz$GPz$xJz$HPz$IPz$WRDz$Haz$XRDz$NWBz$MPz$xJz$JDz$yJz$AKz$wYDz$xYDz$CNz$DNz$CJz$DJz$mUDz$lcz$GRDz$RYDz$QOCz$lwBz$lJz$mJz$nJz$oJz$yYDz$AZDz$xYDz$CNz$DNz$CJz$DJz$mUDz$lcz$GRDz$lYDz$msBz$HNz$eJz$fJz$gJz$INz$BZDz$z$vCz$z$ez$GJz$ez$fz$CZDz$WQBz$kGz$maz$DZDz$EZDz$HPz$eez$dRDz$eRDz$vWBz$FZDz$GZDz$HNz$eJz$fJz$gJz$INz$HZDz$fbBz$gbBz$lXDz$IZDz$z$ez$fz$PYDz$mVBz$HSDz$qYDz$rYDz$JZDz$z$ez$GJz$ez$fz$lNz$mNz$nXDz$oXDz$pXDz$z$Uz$fiz$knBz$CUBz$JFz$qXDz$GJz$JDBz$Zuz$auz$buz$rXDz$cz$dz$z$hCz$sXDz$tXDz$uXDz$SQz$vXDz$ICCz$wXDz$cTDz$UKz$KTDz$uTDz$xXDz$eRDz$vWBz$VBCz$yXDz$eRDz$vWBz$AYDz$lcz$GRDz$KSDz$FnBz$BYDz$eRDz$vWBz$UUDz$CYDz$DYDz$EYDz$FYDz$Ugz$z$Uz$hrz$Ovz$bVDz$rvBz$HDz$IDz$z$jdBz$KZDz$LZDz$PYDz$mVBz$HSDz$fSDz$nz$z$JDBz$yUDz$lcz$GRDz$KSDz$FnBz$wNCz$Ltz$MZDz$NZDz$wz$iJz$lcz$GRDz$KSDz$FnBz$OZDz$WRDz$Haz$XRDz$PZDz$PDz$z$ez$fz$XDCz$nDz$GPz$xJz$HPz$IPz$LTDz$qZz$Lvz$HNz$eJz$fJz$gJz$INz$GYDz$IMDz$fdBz$QZDz$RZDz$WRDz$Haz$XRDz$UKz$SZDz$WRDz$Haz$XRDz$NWBz$TZDz$z$qz$z$vCz$LYDz$vuz$wuz$xuz$PDz$z$gBz$z$ez$fz$XDCz$MYDz$NYDz$OYDz$PDz$z$qz$z$ez$GJz$ez$fz$lNz$mNz$yQDz$UZDz$VZDz$z$BUz$WZDz$Dfz$Hkz$z$rz$z$XZDz$lcz$GRDz$GXz$FKz$z$Uz$nuz$ruz$voz$woz$suz$MMDz$YZDz$sEz$Zuz$auz$buz$rXDz$cz$dz$z$ez$fz$qOz$rOz$JQDz$ZZDz$aZDz$bZDz$cZDz$WRz$XRz$fDz$z$qz$z$ez$fz$lNz$mNz$dZDz$eZDz$dHDz$z$WIz$fZDz$gZDz$fDz$z$hCz$sXDz$tXDz$uXDz$SQz$vXDz$ICCz$wXDz$cTDz$UKz$KTDz$uTDz$xXDz$eRDz$vWBz$VBCz$yXDz$eRDz$vWBz$AYDz$lcz$GRDz$KSDz$FnBz$BYDz$eRDz$vWBz$UUDz$CYDz$DYDz$EYDz$FYDz$Ugz$z$Uz$hrz$cNz$hZDz$iZDz$bRz$UBz$VBz$z$jdBz$KZDz$LZDz$PYDz$mVBz$HSDz$fSDz$nz$z$JDBz$yUDz$lcz$GRDz$KSDz$FnBz$wNCz$Ltz$MZDz$NZDz$wz$iJz$lcz$GRDz$KSDz$FnBz$OZDz$WRDz$Haz$XRDz$PZDz$PDz$z$ez$fz$XDCz$nDz$GPz$xJz$HPz$IPz$jZDz$kZDz$HNz$eJz$fJz$gJz$INz$lZDz$aIz$VBCz$UDz$PXBz$jdBz$KZDz$mNz$HYDz$mVBz$HSDz$fVDz$JTCz$IYDz$mVBz$HSDz$JYDz$KYDz$PDz$z$mZDz$nZDz$oZDz$z$qz$z$vCz$LYDz$vuz$wuz$xuz$PDz$z$Ndz$fz$PNz$pZDz$qZDz$rZDz$sZDz$tZDz$uZDz$z$JDBz$vQz$vZDz$VUDz$wZDz$cEz$DSDz$JlBz$ESDz$FSDz$phz$qhz$z$WIz$xZDz$yZDz$dLDz$AaDz$BaDz$eOz$z$WIz$CaDz$IiCz$OEz$gZDz$fDz$z$hCz$sXDz$tXDz$uXDz$SQz$vXDz$ICCz$wXDz$cTDz$UKz$KTDz$uTDz$xXDz$eRDz$vWBz$VBCz$yXDz$eRDz$vWBz$AYDz$lcz$GRDz$KSDz$FnBz$BYDz$eRDz$vWBz$UUDz$CYDz$DYDz$EYDz$FYDz$Ugz$z$Uz$hrz$cNz$hZDz$iZDz$bRz$UBz$VBz$z$Uz$uhCz$vhCz$eJz$NiBz$Jtz$DaDz$tZDz$EaDz$cz$dz$z$ez$cNz$hZDz$iZDz$dVDz$aIz$VBCz$FaDz$LTDz$uTDz$GaDz$WRDz$Haz$XRDz$UKz$hVDz$lcz$GRDz$iRDz$GaDz$WRDz$Haz$XRDz$YmBz$HaDz$dRDz$eRDz$vWBz$UUDz$IaDz$JaDz$KaDz$prBz$LaDz$MaDz$NaDz$iZz$OaDz$z$gBz$z$ez$fz$lNz$mNz$PaDz$QaDz$LTDz$qZz$Lvz$GYDz$dRDz$eRDz$vWBz$yTDz$HYDz$mVBz$HSDz$fVDz$HWDz$z$ELz$RaDz$bVDz$SaDz$SWDz$xGz$TaDz$LTDz$qZz$Lvz$YoCz$WRDz$Haz$XRDz$NWBz$nz$z$qz$z$UaDz$IiCz$OEz$nZDz$oZDz$z$qz$z$vCz$LYDz$vuz$wuz$xuz$PDz$z$jWCz$NaDz$iZz$VaDz$uPDz$CUBz$JFz$KFz$z$RWDz$SWDz$xGz$lPz$z$ez$fz$lNz$mNz$WaDz$XaDz$PDz$z$rz$z$ELz$RaDz$bVDz$SaDz$SWDz$xGz$eiz$z$WIz$VyBz$WyBz$fDz$z$WIz$TWDz$UWDz$VWDz$z$ez$fz$lNz$mNz$YaDz$nOBz$ZaDz$aaDz$baDz$YQBz$caDz$BXDz$daDz$z$rz$z$yiCz$Hbz$eaDz$eRDz$vWBz$FUz$z$Pz$BQDz$nOBz$NVDz$z$ez$fz$faDz$gaDz$fbBz$gbBz$haDz$iaDz$jaDz$kaDz$PDz$z$Ndz$fz$PNz$LUDz$laDz$maDz$naDz$z$JDBz$OODz$oaDz$paDz$GJz$oaDz$UOBz$z$Uz$DDz$oaDz$Gkz$jNz$kNz$UBz$VBz$z$HbBz$IbBz$yGBz$lBCz$ivCz$jvCz$kvCz$ZZBz$z$HbBz$IbBz$yGBz$lBCz$ivCz$kWDz$lWDz$qaDz$z$XeBz$auz$buz$ERDz$z$RWDz$SWDz$xGz$lPz$z$ez$GJz$ez$fz$lNz$mNz$SkBz$xGz$raDz$saDz$lXDz$taDz$kSz$kez$pCz$z$gBz$z$ez$GJz$ez$uaDz$vaDz$waDz$WRz$hRDz$z$qz$z$rz$z$RWDz$SWDz$xGz$eiz$z$Uz$DDz$bKz$cKz$VLz$kiz$liz$bDz$cDz$dDz$z$BUz$xaDz$HbBz$IbBz$vBCz$yaDz$yjz$Akz$nqz$SkBz$xGz$AbDz$BbDz$CYz$DYz$CbDz$DbDz$HbBz$IbBz$z$gBz$z$HbBz$IbBz$EbDz$FbDz$nUz$sPDz$xGz$GbDz$HbDz$NVDz$z$qz$z$ez$fz$lNz$mNz$SkBz$xGz$IbDz$JbDz$z$rz$z$rQDz$HbBz$IbBz$FUz$z$ez$fz$PfBz$JZz$oZz$Gaz$Haz$KbDz$WtCz$ZYz$rUz$HZz$IZz$z$rUz$sUz$SlCz$yjz$Akz$nGz$z$Uz$DDz$bKz$cKz$VLz$kiz$liz$bDz$cDz$dDz$z$BUz$xaDz$HbBz$IbBz$vBCz$yaDz$yjz$Akz$nGz$z$LbDz$hYz$MbDz$nOBz$NbDz$ObDz$yjz$Akz$nqz$EXDz$PSBz$PbDz$QbDz$RbDz$nOBz$SbDz$Wrz$Xrz$HUz$z$gBz$z$HbBz$IbBz$EbDz$FbDz$nUz$sPDz$xGz$GbDz$HbDz$NVDz$z$ez$fz$TbDz$jWz$kTz$UbDz$jWz$HbBz$IbBz$VbDz$WbDz$XbDz$ZYz$HbBz$IbBz$YbDz$hZDz$ZbDz$CYz$abDz$ddBz$bbDz$EOCz$cbDz$dbDz$nOBz$NVDz$z$kVz$lVz$CYz$abDz$ddBz$bbDz$EOCz$cbDz$dbDz$nOBz$NVDz$z$qz$z$rz$z$uQDz$vQDz$QdBz$OxCz$z$EGz$tTBz$ZIz$aIz$RIz$sPDz$xGz$tPDz$ebDz$fbDz$gbDz$hbDz$ibDz$z$voz$qPDz$rPDz$nUz$sPDz$xGz$tPDz$PDz$z$voz$woz$iEz$uPDz$CUBz$vPDz$wPDz$xPDz$Hiz$z$jbDz$xuz$kbDz$lUBz$lbDz$fbBz$RXDz$mbDz$nbDz$z$obDz$bCz$z$ez$pbDz$asCz$qbDz$rbDz$sbDz$tbDz$ubDz$vbDz$wbDz$mUz$xbDz$JFz$ybDz$z$rz$z$YFBz$hSDz$YmBz$iSDz$MFz$z$WIz$jSDz$bBz$kSDz$z$WIz$lSDz$LNCz$mSDz$nSDz$oSDz$bBz$pSDz$yjz$Akz$LbBz$ZQz$qSDz$rSDz$YfCz$sSDz$tSDz$uSDz$YfCz$sSDz$oQz$CoBz$vSDz$eOz$z$Uz$bNz$rMBz$wSDz$cz$dz$z$hMBz$xSDz$ySDz$uuz$oSDz$bBz$pSDz$yjz$Akz$LbBz$ZQz$qSDz$rSDz$YfCz$sSDz$tSDz$uSDz$YfCz$sSDz$oQz$pQz$qQz$eOz$z$qz$z$ez$rMBz$uLCz$z$rz$z$hFz$AcDz$fbBz$BcDz$hZDz$Tz$z$WIz$CcDz$cTDz$UKz$kSDz$z$WIz$DcDz$EcDz$FcDz$z$WIz$GcDz$HcDz$IcDz$z$WIz$JcDz$eRDz$vWBz$VBCz$KcDz$z$WIz$TWDz$AuBz$LcDz$wCz$z$bcz$McDz$fbBz$NcDz$QaDz$WIz$kbz$rOCz$OcDz$PcDz$QcDz$mVBz$HSDz$fVDz$RcDz$ixCz$heBz$ScDz$z$Uz$Vz$AYBz$BYBz$PJBz$IWDz$wSDz$gxz$RDz$rXCz$AuBz$TcDz$Umz$UcDz$BNDz$bDz$cDz$dDz$z$HbBz$IbBz$yGBz$lBCz$VcDz$jvCz$kvCz$ZWDz$TbBz$UbBz$UKz$yACz$aIz$VBCz$ucCz$WcDz$XcDz$YcDz$cdCz$ddCz$mwz$ZcDz$EcDz$acDz$eRDz$vWBz$VBCz$bcDz$Wrz$Xrz$HUz$z$HbBz$IbBz$yGBz$lBCz$VcDz$kWDz$lWDz$mWDz$ccDz$dcDz$ecDz$fcDz$gcDz$wWDz$xWDz$hcDz$Haz$XRDz$UKz$cWDz$pWDz$eWDz$qWDz$rWDz$YKCz$WIz$PTDz$pSDz$yjz$Akz$nGz$z$qz$z$Uz$Vz$AYBz$BYBz$PJBz$icDz$wSDz$gxz$RDz$rXCz$AuBz$TcDz$Umz$UcDz$BNDz$bDz$cDz$dDz$z$HbBz$IbBz$yGBz$lBCz$VcDz$jvCz$kvCz$ZWDz$dbBz$UbBz$UKz$yACz$aIz$VBCz$ucCz$WcDz$XcDz$YcDz$cdCz$ddCz$mwz$ZcDz$EcDz$acDz$eRDz$vWBz$VBCz$bcDz$Wrz$Xrz$HUz$z$HbBz$IbBz$yGBz$lBCz$VcDz$kWDz$lWDz$mWDz$jcDz$dcDz$ecDz$fcDz$gcDz$wWDz$xWDz$hcDz$Haz$XRDz$UKz$cWDz$pWDz$eWDz$qWDz$rWDz$YKCz$WIz$PTDz$pSDz$yjz$Akz$nGz$z$qz$z$Uz$Vz$AYBz$BYBz$PJBz$IWDz$wSDz$gxz$RDz$rXCz$AuBz$TcDz$Umz$UcDz$BNDz$bDz$cDz$dDz$z$HbBz$IbBz$yGBz$lBCz$YWDz$jvCz$kvCz$ZWDz$TbBz$UbBz$UKz$yACz$aIz$VBCz$ucCz$WcDz$XcDz$YcDz$cdCz$ddCz$mwz$kcDz$HcDz$acDz$eRDz$vWBz$VBCz$mZCz$z$HbBz$IbBz$yGBz$lBCz$YWDz$kWDz$lWDz$mWDz$ccDz$dcDz$Ofz$PcDz$gcDz$wWDz$xWDz$hcDz$Haz$XRDz$UKz$cWDz$pWDz$eWDz$qWDz$rWDz$YKCz$WIz$PTDz$PDz$z$qz$z$Uz$Vz$AYBz$BYBz$PJBz$icDz$wSDz$gxz$RDz$rXCz$AuBz$TcDz$Umz$UcDz$BNDz$bDz$cDz$dDz$z$HbBz$IbBz$yGBz$lBCz$YWDz$jvCz$kvCz$ZWDz$dbBz$UbBz$UKz$yACz$aIz$VBCz$ucCz$WcDz$XcDz$YcDz$cdCz$ddCz$mwz$kcDz$HcDz$acDz$eRDz$vWBz$VBCz$mZCz$z$HbBz$IbBz$yGBz$lBCz$YWDz$kWDz$lWDz$mWDz$jcDz$dcDz$Ofz$PcDz$gcDz$wWDz$xWDz$hcDz$Haz$XRDz$UKz$cWDz$pWDz$eWDz$qWDz$rWDz$YKCz$WIz$PTDz$PDz$z$qz$z$rz$z$hFz$lcDz$hYz$fSDz$Tz$z$WIz$YVDz$ICCz$mcDz$z$WIz$GcDz$HcDz$FcDz$z$WIz$xZDz$yZDz$dLDz$AaDz$BaDz$eOz$z$hCz$sXDz$tXDz$uXDz$SQz$ncDz$ocDz$pcDz$qcDz$UKz$rcDz$scDz$bBz$tcDz$ucDz$ZCz$ADz$z$Uz$Vz$rvBz$Umz$vcDz$wcDz$bRz$UBz$VBz$z$ez$cNz$xcDz$ycDz$Lvz$dVDz$AdDz$BdDz$Lvz$CdDz$PcDz$GaDz$DdDz$bBz$hVDz$EdDz$IaDz$FdDz$oWCz$mUz$GdDz$yZDz$HdDz$z$gBz$z$ez$cNz$xcDz$ycDz$Lvz$dVDz$AdDz$BdDz$Lvz$eVDz$AdDz$IdDz$FnBz$JdDz$KdDz$LdDz$MdDz$NdDz$BYz$OdDz$PdDz$QZz$PDz$z$qz$z$vCz$LYDz$vuz$wuz$xuz$PDz$z$jWCz$NaDz$iZz$VaDz$uPDz$CUBz$JFz$KFz$z$rz$z$NZDz$WIz$PTDz$Tz$z$WIz$lSDz$QdDz$Rjz$iqz$OVBz$RdDz$SdDz$TdDz$UdDz$VdDz$ESz$Zmz$Rmz$WdDz$MQz$Tqz$XdDz$Txz$dwz$oHz$YdDz$z$ez$rMBz$uLCz$z$rz$z$bBz$ZdDz$adDz$FKz$z$bcz$bdDz$xGz$tPDz$cdDz$ddDz$z$WIz$CcDz$cTDz$hMBz$uQBz$pZz$uTDz$edDz$z$hCz$FKBz$XMBz$Ugz$z$Uz$fiz$knBz$CUBz$JFz$qXDz$GJz$JDBz$Zuz$auz$buz$rXDz$cz$dz$z$hCz$sXDz$tXDz$uXDz$SQz$vXDz$ICCz$wXDz$cTDz$UKz$KTDz$uTDz$xXDz$eRDz$vWBz$VBCz$yXDz$eRDz$vWBz$AYDz$lcz$GRDz$KSDz$FnBz$BYDz$eRDz$vWBz$UUDz$CYDz$DYDz$EYDz$FYDz$Ugz$z$Uz$hrz$Ovz$bVDz$rvBz$GFBz$yUDz$lcz$GRDz$KSDz$FnBz$wNCz$cz$dz$z$ciCz$hMBz$fdDz$YGBz$SBDz$gdDz$hdDz$eRDz$vWBz$SBDz$idDz$eOz$z$Uz$hrz$Ofz$PcDz$jdDz$GWz$ciCz$JdCz$Vvz$hcDz$Haz$XRDz$JdCz$HDz$IDz$z$bcz$Egz$kdDz$ldDz$mVBz$HSDz$USDz$bBz$mdDz$eRDz$vWBz$AYDz$ndDz$ciCz$odDz$z$hFz$AcDz$fbBz$BcDz$hZDz$yACz$aIz$VBCz$pdDz$hcDz$Haz$XRDz$JdCz$kcDz$HcDz$YoCz$lcz$GRDz$HRDz$BTCz$TSDz$mVBz$HSDz$JYDz$qdDz$z$hFz$lcDz$hYz$fSDz$Ovz$bVDz$rvBz$kcDz$HcDz$PDz$z$bcz$rdDz$sdDz$tdDz$cTDz$UKz$GYDz$xiCz$jBDz$hcDz$Haz$XRDz$UKz$PDz$z$qz$z$qz$z$vCz$LYDz$vuz$wuz$xuz$PDz$z$qz$z$UEz$udDz$vdDz$wdDz$xdDz$z$vCz$z$rz$z$ydDz$AeDz$BeDz$CeDz$DeDz$oz$EeDz$FeDz$GeDz$HeDz$IeDz$z$bBz$ZdDz$tUz$z$eWBz$z$kVz$lVz$KABz$yoz$Apz$jWz$HbBz$IbBz$JeDz$KeDz$LeDz$smBz$z$EGz$XUz$YUz$Obz$nHCz$Obz$MeDz$nOBz$AQDz$NeDz$QdBz$OeDz$eWBz$z$SdBz$TdBz$z$UdBz$VdBz$Pjz$HbBz$IbBz$tvCz$yXDz$eRDz$vWBz$PeDz$QeDz$NVz$ReDz$SeDz$TeDz$ePz$z$bdBz$cdBz$ddBz$edBz$fdBz$z$ldBz$QTBz$mdBz$z$RQCz$SQCz$TQCz$z$tdBz$udBz$UeDz$VeDz$WeDz$QIz$Btz$qSCz$XeDz$fbBz$RXDz$YeDz$ZeDz$aeDz$z$CeBz$DeBz$beDz$ceDz$z$CeBz$GfCz$HfCz$dCz$z$ndBz$odBz$ePz$z$MeBz$sez$mdBz$z$NeBz$OeBz$PeBz$QeBz$ReBz$jdBz$kdBz$z$eWBz$z$DFz$deDz$lUBz$lbDz$fbBz$RXDz$mbDz$eeDz$z$kVz$feDz$geDz$lUBz$lbDz$fbBz$RXDz$mbDz$eeDz$z$uGz$vGz$SeBz$TeBz$iiz$UeBz$z$uGz$vGz$wGz$xGz$SkBz$xGz$tPDz$iTBz$fqz$gqz$KaCz$fDz$z$uGz$vGz$mPBz$nPBz$HbBz$IbBz$heDz$OlCz$Rrz$Srz$wICz$z$rz$z$BUz$WZDz$Dfz$sNz$FKz$z$NXDz$Obz$aICz$OXDz$hWBz$FLz$PXDz$QXDz$fbBz$RXDz$SXDz$IDz$z$ez$fz$XDCz$nDz$GPz$xJz$HPz$ieDz$jeDz$lJz$mJz$nJz$oJz$pJz$z$ez$fz$keDz$leDz$kLDz$yoz$meDz$nOBz$AQDz$aCCz$KiCz$z$gBz$z$ez$fz$XDCz$sJz$tJz$uJz$aJz$qvz$HNz$eJz$fJz$gJz$INz$PDz$z$qz$z$rz$z$uPBz$byCz$QTBz$FUz$z$uGz$vGz$mPBz$neDz$fbBz$RXDz$oeDz$z$ez$fz$lNz$mNz$SkBz$xGz$tPDz$peDz$qeDz$z$rz$z$Gbz$Hbz$kWBz$QdBz$OxCz$z$uPBz$byCz$QTBz$z$uGz$vGz$kmBz$lmBz$RbDz$nOBz$AQDz$reDz$yjz$Akz$Fuz$FaCz$z$VPz$BjCz$YUz$Obz$nHCz$Obz$MeDz$nOBz$AQDz$NeDz$QdBz$VTz$z$VPz$seDz$ZIz$aIz$RIz$sPDz$xGz$tPDz$ebDz$fbDz$LHz$z$uGz$vGz$SeBz$TeBz$iiz$UeBz$z$ez$fz$lNz$mNz$SkBz$xGz$tPDz$teDz$ueDz$PDz$z$rz$z$bBz$veDz$weDz$z$Pz$Rfz$lPz$z$ez$GJz$ez$fz$xeDz$nOBz$yeDz$AfDz$BfDz$CfDz$sJz$tJz$uJz$aJz$DfDz$EfDz$VKDz$wJz$xJz$JDz$yJz$AKz$rz$z$ldz$mdz$FfDz$GfDz$HfDz$IfDz$JfDz$KfDz$LfDz$MfDz$z$ATz$PJz$IJz$JJz$INz$hez$lJz$mJz$nJz$oJz$iez$jez$z$pdz$pdz$pdz$z$ATz$PJz$IJz$JJz$INz$rdz$lJz$mJz$nJz$oJz$sdz$NfDz$nOBz$OfDz$PfDz$VXDz$eOz$z$ATz$PJz$IJz$JJz$INz$vdz$lJz$mJz$nJz$oJz$QfDz$RfDz$nOBz$yeDz$SfDz$z$pdz$pdz$pdz$z$ATz$PJz$IJz$JJz$INz$Aez$lJz$mJz$nJz$oJz$TfDz$UfDz$nOBz$yeDz$SfDz$z$ATz$PJz$IJz$JJz$INz$Gez$lJz$mJz$nJz$oJz$VfDz$WfDz$nOBz$yeDz$SfDz$z$ATz$PJz$IJz$JJz$INz$Kez$lJz$mJz$nJz$oJz$XfDz$YfDz$nOBz$yeDz$SfDz$z$pdz$pdz$pdz$z$ATz$PJz$IJz$JJz$INz$Nez$lJz$mJz$nJz$oJz$ZfDz$afDz$z$ATz$PJz$IJz$JJz$INz$Tez$lJz$mJz$nJz$oJz$bfDz$cfDz$z$ATz$PJz$IJz$JJz$INz$Vez$lJz$mJz$nJz$oJz$bez$dfDz$z$pdz$pdz$pdz$z$efDz$ffDz$gfDz$hfDz$nDz$GPz$xJz$HPz$ifDz$jfDz$SkBz$xGz$kfDz$xJz$JDz$yJz$AKz$XpCz$DSDz$gSDz$z$Ndz$fz$PNz$YNBz$lfDz$mfDz$ujCz$uZDz$z$Nfz$Ofz$Pfz$Qfz$z$ifz$z$ez$fz$lNz$mNz$nfDz$UICz$z$oz$kcz$z$Tfz$z$TQz$z$jFz$CXCz$HbBz$IbBz$z$Tfz$z$Ufz$z$yiCz$Hbz$eaDz$eRDz$vWBz$z$Tfz$z$Vfz$z$XXDz$Gaz$Haz$ofDz$z$Tfz$z$Zfz$z$MVDz$lcz$GRDz$dfz$z$Tfz$z$afz$z$XZDz$lcz$GRDz$dfz$z$Tfz$z$cfz$z$uPBz$byCz$QTBz$z$Tfz$z$efz$z$BUz$WZDz$Dfz$Hkz$z$Tfz$z$ffz$z$Gbz$Hbz$kWBz$QdBz$VTz$z$Tfz$z$jfz$z$ez$TqCz$lfz$mfz$pfDz$z$Tfz$z$pfz$z$rz$z$bBz$veDz$qfDz$z$rz$z$uQDz$rfDz$sfDz$MFz$z$AJz$BJz$CJz$DJz$EJz$yBz$FJz$GJz$HJz$IJz$JJz$KJz$LJz$MJz$NJz$OJz$PJz$QJz$RJz$SJz$DJz$EJz$yBz$TJz$UJz$tfDz$xJz$JDz$yJz$AKz$bJz$JCz$jUCz$z$hJz$iJz$AJz$BJz$CJz$DJz$jJz$kJz$lJz$mJz$nJz$oJz$pJz$z$qJz$rJz$sJz$tJz$uJz$aJz$vJz$wJz$xJz$JDz$yJz$AKz$nz$z$ufDz$PLz$QLz$vfDz$wfDz$PDz$z$xfDz$lKDz$iIz$yfDz$AgDz$z$BgDz$NZz$CgDz$DgDz$nUz$EgDz$FgDz$Orz$BeBz$oiBz$z$GgDz$qUz$bqCz$cqCz$ZYz$BgDz$Cbz$qUz$PDz$z$HgDz$Sz$IgDz$JgDz$KgDz$FKz$z$Pz$LgDz$MgDz$NgDz$OgDz$PgDz$SOz$shz$iDz$thz$Htz$z$ez$QgDz$BgDz$RgDz$SgDz$CPBz$TgDz$gCz$z$ez$Qwz$UgDz$VgDz$WgDz$AADz$z$Ndz$IgDz$JgDz$XgDz$z$YgDz$WaCz$ZgDz$JgDz$XgDz$Biz$agDz$IDz$z$qVz$bgDz$cgDz$NgDz$jcBz$xnz$z$Ebz$CXCz$dgDz$z$VPz$qsz$ZYz$BgDz$z$OUBz$xbBz$BgDz$CYz$egDz$z$uGz$vGz$WSBz$DUz$fgDz$ggDz$z$gBz$z$oz$kcz$z$qz$z$rz$z$HgDz$Sz$IgDz$hgDz$igDz$MFz$z$Uz$fiz$CYz$giz$hiz$iiz$NKz$bDz$cDz$dDz$z$bKz$jiz$kiz$liz$z$QDz$miz$CYz$niz$oiz$IQz$piz$qiz$cMz$WLz$XLz$UBz$VBz$z$bKz$jiz$WLz$XLz$z$QDz$miz$CYz$niz$oiz$IQz$piz$qiz$cMz$ZLz$aLz$UBz$VBz$z$bKz$jiz$ZLz$aLz$z$QDz$miz$CYz$niz$oiz$IQz$piz$qiz$cMz$kiz$riz$siz$tiz$uiz$viz$cDz$dDz$z$bKz$jiz$kiz$liz$z$QDz$miz$wiz$xiz$IKz$yiz$DQz$Ajz$Bjz$Cjz$lLz$Djz$cDz$dDz$z$bKz$jiz$WLz$XLz$z$QDz$miz$wiz$xiz$IKz$yiz$DQz$Ajz$Bjz$Cjz$Ejz$Fjz$cDz$dDz$z$bKz$jiz$ZLz$aLz$z$QDz$miz$wiz$xiz$IKz$yiz$DQz$Ajz$Bjz$Cjz$Gjz$Hjz$Ijz$Jjz$Kjz$Ljz$IDz$z$bKz$jiz$kiz$liz$z$qz$z$djz$qHz$rHz$jgDz$z$YgDz$WaCz$kgDz$lgDz$fkz$mgDz$ngDz$IDz$z$ez$TqCz$ogDz$pgDz$qgDz$rgDz$sgDz$tgDz$rgDz$ugDz$vgDz$PDz$z$Ndz$wgDz$z$gBz$z$djz$xgDz$ygDz$z$qz$z$rz$z$HgDz$Sz$AhDz$sez$BGBz$BhDz$ChDz$DhDz$Tz$z$TWBz$QMz$MgDz$yjBz$EhDz$z$Uz$bNz$FhDz$GhDz$VKDz$bDz$cDz$dDz$z$Uz$DDz$bKz$cKz$VLz$kiz$liz$bDz$cDz$dDz$z$eFz$hFz$DWz$z$eFz$jFz$kFz$HhDz$yjBz$nFz$z$gBz$z$UHz$mTz$hFz$DWz$z$UHz$mTz$jFz$kFz$HhDz$yjBz$nFz$z$qz$z$qz$z$rz$z$HgDz$Sz$IgDz$IhDz$JhDz$bCz$z$XEz$Itz$Psz$yCz$GJz$ez$fz$qOz$rOz$KhDz$LhDz$MhDz$NhDz$OhDz$PhDz$QhDz$RhDz$ShDz$ThDz$UhDz$nDz$VhDz$XJz$YJz$ZJz$aJz$WhDz$XhDz$HNz$eJz$fJz$gJz$INz$YhDz$ZhDz$OhDz$ahDz$bhDz$chDz$dhDz$ehDz$fhDz$phz$qhz$z$rz$z$HgDz$Sz$IgDz$ghDz$lKDz$IYz$MFz$z$xfDz$lKDz$hhDz$ihDz$jhDz$khDz$CPBz$ySBz$kfBz$lfBz$lhDz$ugCz$mhDz$nhDz$AOz$BOz$COz$YKz$DOz$EOz$ohDz$phDz$qhDz$BgDz$BQz$NKz$Exz$Fxz$NOz$OOz$EgBz$lWBz$rhDz$pQz$cwz$qwz$ESz$FSz$GEDz$bOz$cOz$Ghz$bRBz$GwCz$shDz$thDz$uhDz$vhDz$whDz$xhDz$yhDz$ayBz$z$Uz$bNz$AiDz$BiDz$oiCz$CiDz$cz$dz$z$xfDz$lKDz$iIz$yfDz$AgDz$z$ez$fz$qOz$rOz$DiDz$EiDz$FiDz$GiDz$HiDz$IiDz$BiDz$oiCz$JiDz$z$gBz$z$ez$fz$lNz$mNz$KiDz$LiDz$Kuz$MiDz$xfDz$lKDz$Kqz$z$qz$z$rz$z$HgDz$Sz$IgDz$NiDz$OiDz$bCz$z$YgDz$WaCz$PiDz$fyCz$ZIz$QDDz$Obz$nHCz$Obz$QiDz$cDz$dDz$z$bLz$RiDz$ZIz$QDDz$Obz$nHCz$Obz$jTz$z$kVz$SiDz$TiDz$KABz$UiDz$ViDz$Ipz$OdBz$Ipz$z$qz$z$rz$z$HgDz$Sz$IgDz$ghDz$WiDz$OiDz$bCz$z$VPz$XiDz$YiDz$ZiDz$BgDz$z$VPz$XiDz$YiDz$ZiDz$BgDz$YBCz$QTBz$z$VPz$XiDz$YiDz$ZiDz$qUz$jHCz$HeCz$z$VPz$qsz$ZYz$BgDz$z$VPz$qsz$VIz$pWz$uGz$nmBz$uGz$aiDz$biDz$BUz$pmBz$z$VPz$qsz$VIz$jWz$BgDz$z$rz$z$HgDz$Sz$AhDz$sez$ciDz$bCz$z$Pz$diDz$qNz$z$Pz$eiDz$fiDz$RVz$z$Ebz$giDz$Sz$hiDz$iiDz$jiDz$z$Pz$kiDz$RVz$z$Pz$Rfz$lPz$z$ez$fz$liDz$miDz$niDz$oiDz$piDz$z$Ndz$fz$PNz$qiDz$riDz$siDz$tiDz$naDz$z$JDBz$OODz$WFDz$gYDz$Ltz$tiDz$uiDz$oiBz$z$Uz$DDz$WFDz$ZRz$viDz$wiDz$cz$dz$z$VPz$xiDz$IOCz$dMz$yiDz$AjDz$BjDz$BiDz$oiCz$CjDz$DjDz$z$nFz$yGz$EjDz$FjDz$LZBz$MZBz$Lz$LYz$MYz$GjDz$HjDz$IjDz$JjDz$KjDz$LjDz$MjDz$NjDz$Hdz$OjDz$PjDz$SaBz$QjDz$RjDz$SjDz$TjDz$QMz$UjDz$z$VjDz$WjDz$IOCz$dMz$yiDz$AjDz$BjDz$BiDz$oiCz$CjDz$DjDz$z$XjDz$IOCz$dMz$yiDz$AjDz$BjDz$BiDz$oiCz$YjDz$ZjDz$z$XjDz$NgDz$QIz$RIz$EgDz$ePz$z$kVz$SiDz$TiDz$KABz$uPCz$ajDz$ggDz$z$nFz$yGz$EjDz$FjDz$LZBz$MZBz$Lz$LYz$MYz$GjDz$HjDz$IjDz$JjDz$KjDz$LjDz$MjDz$NjDz$Hdz$OjDz$bjDz$JHz$cjDz$djDz$ejDz$fjDz$gjDz$biDz$BUz$xaDz$hjDz$ijDz$bjDz$JHz$jjDz$VIz$pWz$uGz$nmBz$uGz$kjDz$z$bLz$bgDz$cgDz$NgDz$ljDz$mTz$GMz$HMz$IMz$JMz$KMz$LMz$qPz$TPCz$mjDz$rTz$njDz$ojDz$pjDz$qjDz$rjDz$sjDz$DOz$Bpz$Cpz$Dpz$GJz$tjDz$hYz$ujDz$joCz$ZYz$BgDz$GJz$kVz$SiDz$TiDz$CYz$vjDz$ggDz$z$gBz$z$VPz$xiDz$IOCz$dMz$yiDz$AjDz$BjDz$BiDz$oiCz$CjDz$DjDz$z$nFz$yGz$EjDz$FjDz$LZBz$MZBz$Lz$LYz$MYz$lIz$xaz$wjDz$phDz$qhDz$BgDz$BQz$NKz$xjDz$yjDz$AkDz$SjDz$TjDz$QMz$BkDz$PjDz$SaBz$QjDz$RjDz$SjDz$TjDz$QMz$UjDz$z$VjDz$WjDz$IOCz$dMz$yiDz$AjDz$BjDz$BiDz$oiCz$CjDz$DjDz$z$XjDz$IOCz$dMz$yiDz$AjDz$BjDz$BiDz$oiCz$YjDz$ZjDz$z$XjDz$NgDz$QIz$RIz$EgDz$ePz$z$kVz$SiDz$TiDz$KABz$uPCz$ajDz$ggDz$z$nFz$yGz$EjDz$FjDz$LZBz$MZBz$Lz$LYz$MYz$nIz$lIz$oIz$pIz$qIz$rIz$CkDz$DkDz$EkDz$FkDz$GkDz$HkDz$xIz$Dbz$BgDz$YBCz$QTBz$GJz$kVz$SiDz$TiDz$KiDz$IkDz$QdBz$JkDz$KkDz$BgDz$YBCz$QTBz$KABz$UiDz$ViDz$Ipz$OdBz$Ipz$z$bLz$bgDz$cgDz$NgDz$ljDz$mTz$GMz$HMz$IMz$JMz$KMz$LMz$qPz$HXz$IXz$mOz$JXz$KXz$LXz$DOz$LkDz$MkDz$NkDz$OkDz$PkDz$QkDz$SXz$RkDz$hYz$ujDz$SkDz$TkDz$UkDz$Cpz$Dpz$CYz$vjDz$VkDz$djDz$ejDz$fjDz$WkDz$ZYz$BgDz$z$qz$z$uGz$vGz$wGz$xGz$KiDz$XkDz$EXDz$PSBz$YkDz$OdCz$ZkDz$ZjDz$z$ez$akDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$YgDz$WaCz$bkDz$VIz$jWz$BgDz$ckDz$QIz$UVz$oUz$PSBz$dkDz$biDz$BUz$xaDz$bkDz$ZYz$BgDz$Bpz$Cpz$Dpz$UBz$VBz$z$ez$ekDz$fkDz$lmz$z$VPz$XiDz$YiDz$ZiDz$BgDz$z$VPz$XiDz$YiDz$ZiDz$BgDz$YBCz$QTBz$z$VPz$XiDz$YiDz$ZiDz$qUz$jHCz$HeCz$z$gBz$z$ez$ekDz$gkDz$hkDz$PDz$z$VPz$XiDz$YiDz$ZiDz$BgDz$z$VPz$XiDz$YiDz$ZiDz$BgDz$YBCz$QTBz$z$VPz$XiDz$YiDz$ZiDz$qUz$jHCz$HeCz$z$VPz$XiDz$YiDz$ZiDz$BgDz$eyCz$z$qz$z$rz$z$HgDz$Sz$ikDz$JWz$jkDz$NnBz$FKz$z$VPz$qsz$VIz$jWz$BgDz$z$VPz$qsz$VIz$pWz$uGz$nmBz$uGz$aiDz$biDz$BUz$pmBz$z$VPz$qsz$ZYz$BgDz$z$VPz$XiDz$YiDz$ZiDz$BgDz$eyCz$z$ez$ekDz$kkDz$lkDz$PDz$z$rz$z$HgDz$Sz$mkDz$nkDz$NnBz$FKz$z$uGz$vGz$mPBz$nPBz$BgDz$z$ez$okDz$pkDz$z$rz$z$HgDz$Sz$qkDz$rkDz$Tz$z$uGz$vGz$mPBz$skDz$ZjDz$z$ez$tkDz$ukDz$z$rz$z$HgDz$Sz$vkDz$qaz$ciDz$bCz$z$VPz$qsz$ZYz$BgDz$Bpz$Cpz$Dpz$z$qUz$DUz$ePz$z$wkDz$xkDz$GYz$z$qUz$tADz$z$uGz$vGz$WSBz$DUz$fgDz$ggDz$z$ez$ykDz$AlDz$BlDz$z$rz$z$HgDz$Sz$ClDz$ZJz$AuBz$DlDz$MFz$z$ez$fz$ElDz$FlDz$GlDz$OvBz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$IlDz$TbBz$YUDz$JlDz$KlDz$LlDz$z$ez$fz$MlDz$NlDz$OlDz$PlDz$PDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$QlDz$RlDz$SlDz$TlDz$z$ez$fz$MlDz$UlDz$VlDz$WlDz$XlDz$YlDz$ZlDz$alDz$blDz$z$ez$fz$Qnz$clDz$dlDz$elDz$flDz$glDz$hlDz$ilDz$jlDz$klDz$llDz$mlDz$nlDz$PDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$olDz$plDz$BgDz$qlDz$rlDz$slDz$z$ez$fz$MlDz$tlDz$ulDz$vlDz$wlDz$xlDz$ylDz$AmDz$BmDz$CmDz$DmDz$EmDz$FmDz$GmDz$z$ez$fz$Qnz$HmDz$ImDz$JmDz$KmDz$LmDz$MmDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$NmDz$OmDz$PmDz$yhBz$QmDz$RmDz$MuCz$z$ez$fz$MlDz$SmDz$TmDz$UmDz$VmDz$WmDz$XmDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$YmDz$ZmDz$amDz$bmDz$z$ez$fz$MlDz$cmDz$dmDz$emDz$fmDz$PDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$gmDz$ZmDz$hmDz$imDz$WEDz$z$ez$fz$MlDz$jmDz$kmDz$hECz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$JIBz$lmDz$mmDz$hRBz$nmDz$z$Uz$Ofz$omDz$AuBz$TcDz$Umz$pmDz$UBz$VBz$z$qmDz$rmDz$gIBz$NtBz$smDz$z$QDz$tmDz$umDz$AYBz$BYBz$PJBz$vmDz$vEz$IDz$z$woBz$wmDz$z$QDz$tmDz$umDz$AYBz$BYBz$PJBz$xmDz$vEz$IDz$z$ymDz$wmDz$z$QDz$tmDz$umDz$AYBz$BYBz$PJBz$Xlz$vEz$IDz$z$iWBz$iFz$z$QDz$tmDz$umDz$AYBz$BYBz$PJBz$hlz$vEz$IDz$z$AnDz$Yfz$z$QDz$tmDz$umDz$AYBz$BYBz$PJBz$ljz$vEz$IDz$z$BnDz$z$gBz$z$ez$CnDz$DnDz$rOz$EnDz$NKz$FnDz$GnDz$wJBz$z$oz$z$qz$z$rz$z$HgDz$Sz$ClDz$HnDz$UKz$Tz$z$Uz$TSDz$InDz$JnDz$KnDz$RKz$UBz$VBz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$NXCz$LnDz$lmDz$qmDz$MnDz$z$QDz$tmDz$NnDz$OnDz$VLz$IiBz$PnDz$cz$dz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$NXCz$yhBz$QnDz$RnDz$InDz$TMz$z$QDz$tmDz$NnDz$OnDz$VLz$oTz$wSDz$UBz$VBz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$NXCz$LYz$SnDz$TnDz$UnDz$z$gBz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$VnDz$WnDz$XnDz$YnDz$ZnDz$anDz$z$Ndz$Odz$NXCz$lmDz$qmDz$MnDz$z$qz$z$rz$z$HgDz$Sz$ClDz$bnDz$upCz$MFz$z$Uz$TSDz$InDz$JnDz$KnDz$RKz$UBz$VBz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$ElDz$cnDz$dnDz$enDz$fnDz$gnDz$PDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$IlDz$hnDz$LSBz$inDz$PDz$z$ez$fz$QlDz$hnDz$LSBz$kIDz$PDz$z$ez$fz$olDz$jnDz$tIDz$uIDz$vIDz$wIDz$xIDz$z$ez$fz$NmDz$jnDz$tIDz$kIz$z$ez$fz$YmDz$knDz$lnDz$PDz$z$ez$fz$gmDz$mnDz$nnDz$onDz$pnDz$qnDz$xIDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$JIBz$dnDz$rnDz$snDz$woBz$wmDz$z$Uz$koBz$CSBz$DSBz$PJBz$tnDz$vEz$IDz$z$qmDz$unDz$bIDz$KIDz$fIDz$z$QDz$tmDz$vnDz$NtBz$wnDz$Umz$xnDz$UBz$VBz$z$qmDz$unDz$bIDz$KIDz$GIDz$z$QDz$tmDz$vnDz$NtBz$wnDz$Umz$yaBz$UBz$VBz$z$qmDz$unDz$UIDz$VIDz$WIDz$XIDz$YIDz$ZIDz$z$QDz$tmDz$vnDz$NtBz$wnDz$Umz$ynDz$UBz$VBz$z$qmDz$unDz$UIDz$VIDz$PDz$z$QDz$tmDz$vnDz$NtBz$wnDz$Umz$AoDz$UBz$VBz$z$qmDz$unDz$BoDz$CoDz$z$QDz$tmDz$vnDz$NtBz$wnDz$Umz$Ciz$UBz$VBz$z$qmDz$unDz$DoDz$EoDz$FoDz$GoDz$HoDz$ZIDz$z$gBz$z$ez$CnDz$DnDz$rOz$EnDz$NKz$FnDz$GnDz$wJBz$z$oz$z$qz$z$QDz$tmDz$NnDz$OnDz$VLz$IiBz$PnDz$cz$dz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$NXCz$yhBz$IoDz$lmDz$qmDz$JoDz$z$QDz$tmDz$NnDz$OnDz$VLz$oTz$wSDz$UBz$VBz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$NXCz$LYz$KoDz$RnDz$InDz$IVz$z$QDz$RDz$LoDz$MoDz$PJBz$NoDz$OoDz$bDz$cDz$dDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$NXCz$PoDz$QoDz$z$Ndz$fz$PNz$RoDz$SoDz$ToDz$UoDz$VoDz$WoDz$XoDz$YoDz$ZoDz$TnDz$aoDz$z$DFz$boDz$InDz$coDz$ePz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$doDz$eoDz$fmDz$foDz$goDz$PDz$z$hCz$FKBz$XMBz$Ugz$z$ez$fz$VnDz$WnDz$hoDz$InDz$ioDz$joDz$koDz$xRDz$loDz$z$Ndz$Odz$NXCz$lmDz$jwBz$tTDz$z$ez$fz$VnDz$WnDz$hoDz$InDz$ioDz$joDz$moDz$noDz$HZCz$ooDz$poDz$z$Ndz$Odz$NXCz$lmDz$jwBz$VBCz$ePz$z$ez$fz$qoDz$saz$roDz$soDz$UKz$BYz$NnDz$toDz$oTBz$z$Ndz$fz$PNz$uoDz$voDz$woDz$siDz$tiDz$naDz$z$JDBz$OODz$WFDz$gYDz$Ltz$tiDz$uiDz$tXCz$z$Uz$DDz$WFDz$ZRz$xoDz$yoDz$cz$dz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$ApDz$IKCz$BpDz$qmDz$CpDz$DpDz$EpDz$FpDz$GpDz$HpDz$IpDz$JpDz$KpDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$iKBz$jKBz$z$gBz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$LpDz$MpDz$NpDz$hECz$z$qz$z$vCz$z$QDz$RDz$LoDz$MoDz$PJBz$OpDz$PpDz$HDz$IDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$QpDz$hoDz$InDz$ioDz$joDz$koDz$RpDz$dHDz$z$Ndz$Odz$NXCz$lmDz$qmDz$JoDz$z$ez$fz$VnDz$WnDz$hoDz$InDz$ioDz$joDz$moDz$SpDz$TpDz$UpDz$VpDz$z$ez$fz$IlDz$WpDz$z$ez$fz$QlDz$ZbBz$PDz$z$ez$fz$olDz$QqCz$XpDz$YpDz$ZpDz$z$Ndz$Odz$JIBz$xYDz$apDz$bpDz$ePz$z$Uz$ouBz$cpDz$JRBz$Umz$pmDz$UBz$VBz$z$qmDz$unDz$NnDz$dpDz$epDz$z$QDz$tmDz$fpDz$UKz$PJBz$vmDz$vEz$IDz$z$qmDz$unDz$NnDz$dpDz$ZBBz$z$QDz$tmDz$fpDz$UKz$PJBz$xmDz$vEz$IDz$z$Ndz$Odz$NXCz$gpDz$hpDz$ipDz$jpDz$skCz$z$qmDz$unDz$NnDz$dpDz$kpDz$jpDz$BTCz$z$gBz$z$ez$CnDz$DnDz$rOz$EnDz$NKz$FnDz$GnDz$wJBz$z$oz$z$qz$z$gBz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$VnDz$WnDz$hoDz$InDz$ioDz$joDz$lpDz$mpDz$npDz$z$ez$fz$opDz$ppDz$qpDz$rpDz$spDz$tpDz$upDz$vpDz$wpDz$xpDz$ypDz$hZBz$AqDz$PDz$z$ez$fz$BqDz$CqDz$DqDz$EqDz$FqDz$GqDz$HqDz$IqDz$z$Uz$DDz$JqDz$KqDz$VLz$LqDz$bDz$cDz$dDz$z$ez$fz$MqDz$NqDz$OqDz$PqDz$QqDz$RqDz$sJz$tJz$uJz$aJz$SqDz$vTz$OEz$wTz$xTz$yTz$z$qz$z$Ndz$Odz$NXCz$lmDz$qmDz$JoDz$z$qz$z$rz$z$HgDz$Sz$ClDz$bnDz$UKz$Tz$z$Uz$TSDz$InDz$JnDz$KnDz$RKz$UBz$VBz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$VnDz$TqDz$UqDz$VqDz$WqDz$z$Ndz$Odz$NXCz$lmDz$qmDz$XqDz$z$QDz$tmDz$NnDz$OnDz$VLz$IiBz$PnDz$cz$dz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$VnDz$TqDz$GuBz$YqDz$ZqDz$PDz$z$Ndz$Odz$NXCz$lmDz$qmDz$XqDz$z$QDz$tmDz$NnDz$OnDz$VLz$oTz$wSDz$UBz$VBz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$VnDz$aqDz$RmDz$bqDz$poDz$z$Ndz$Odz$NXCz$lmDz$qmDz$XqDz$z$QDz$RDz$LoDz$MoDz$PJBz$NoDz$OoDz$bDz$cDz$dDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$cqDz$dqDz$eqDz$fqDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$IlDz$gqDz$VFz$hqDz$z$ez$fz$QlDz$iqDz$BJBz$jqDz$PDz$z$ez$fz$olDz$kqDz$lqDz$mqDz$PDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$JIBz$fmDz$nqDz$oqDz$pqDz$CWz$z$Uz$Ofz$qqDz$rqDz$Umz$pmDz$UBz$VBz$z$qmDz$sqDz$YJz$oEz$z$QDz$tmDz$umDz$fdCz$PJBz$vmDz$vEz$IDz$z$qmDz$sqDz$rABz$wTCz$z$QDz$tmDz$umDz$fdCz$PJBz$xmDz$vEz$IDz$z$qmDz$sqDz$tqDz$PDz$z$gBz$z$ez$CnDz$DnDz$rOz$EnDz$NKz$FnDz$GnDz$wJBz$z$oz$z$qz$z$QDz$RDz$LoDz$MoDz$PJBz$OpDz$PpDz$HDz$IDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$Ndz$Odz$NXCz$Fpz$uqDz$InDz$OHz$z$gBz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$VnDz$WnDz$hoDz$InDz$ioDz$joDz$moDz$SpDz$TpDz$UpDz$VpDz$z$Ndz$Odz$NXCz$lmDz$qmDz$XqDz$z$Uz$DDz$JqDz$KqDz$VLz$LqDz$bDz$cDz$dDz$z$qmDz$sqDz$NnDz$vqDz$gLz$wqDz$xGBz$z$qz$z$qz$z$rz$z$HgDz$Sz$xqDz$yqDz$ArDz$BrDz$FKz$z$ez$CrDz$MoDz$DrDz$NnDz$ErDz$FrDz$NnDz$GrDz$FrDz$NnDz$HrDz$IrDz$GgDz$qUz$bqCz$smBz$z$rz$z$HgDz$Sz$JrDz$qUz$Tz$z$Ndz$MWDz$heBz$nGz$z$Ndz$KrDz$skCz$z$Ndz$LrDz$tUz$z$Ndz$MrDz$skCz$z$wkDz$NrDz$qUz$z$rz$z$HgDz$Sz$OrDz$PrDz$QrDz$Xaz$RrDz$MFz$z$SrDz$sYz$TrDz$UrDz$NZz$VrDz$rz$z$WrDz$WyBz$XrDz$XTz$YrDz$rz$z$EcDz$xxBz$byCz$ZrDz$arDz$z$qmDz$KrDz$BbBz$brDz$crDz$qUz$drDz$rz$z$erDz$WyBz$SpDz$frDz$UKz$grDz$z$hrDz$NtBz$irDz$SpDz$frDz$UKz$jrDz$z$rz$z$HgDz$Sz$UkDz$krDz$BEDz$MFz$z$ez$lrDz$z$mrDz$nrDz$WiBz$XiBz$z$orDz$Xaz$rpBz$prDz$z$qrDz$rrDz$srDz$trDz$urDz$vrDz$wrDz$xrDz$uxBz$z$rz$z$HgDz$Sz$yrDz$AsDz$BsDz$XnBz$bCz$z$ez$yBBz$qcz$CsDz$z$orDz$Xaz$rpBz$prDz$z$qrDz$rrDz$srDz$trDz$urDz$vrDz$wrDz$xrDz$uxBz$z$rz$z$HgDz$Sz$UkDz$DsDz$NnBz$FKz$z$ez$yBBz$EsDz$z$FsDz$vrDz$wrDz$xrDz$uxBz$z$rz$z$HgDz$Sz$yrDz$AsDz$GsDz$sfDz$MFz$z$Uz$HsDz$OQBz$IsDz$JsDz$KsDz$cz$dz$z$ez$yBBz$qcz$qcz$EsDz$z$FsDz$vrDz$wrDz$xrDz$uxBz$z$gBz$z$ez$yBBz$qcz$qcz$EsDz$z$LsDz$MsDz$NsDz$qUz$bqCz$smBz$z$qz$z$rz$z$HgDz$Sz$OsDz$DSBz$Tz$z$ez$fz$ElDz$cnDz$PsDz$nqDz$PDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$IlDz$QsDz$RsDz$z$ez$fz$QlDz$SsDz$TsDz$z$ez$fz$olDz$UsDz$RsDz$z$ez$fz$MqDz$VsDz$WsDz$XsDz$YsDz$ZsDz$asDz$bsDz$UcDz$BNDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$JIBz$PsDz$nqDz$oqDz$csDz$DSBz$z$Uz$Ofz$dsDz$UsBz$esDz$fsDz$WHz$cDz$dDz$z$qmDz$rmDz$woBz$gsDz$hsDz$z$ez$fz$MqDz$isDz$jsDz$ksDz$lsDz$msDz$nsDz$osDz$psDz$qsDz$rsDz$HJz$IJz$JJz$INz$dGBz$lJz$mJz$nJz$oJz$pJz$z$Ndz$fz$PNz$ssDz$tsDz$usDz$vsDz$riDz$siDz$wsDz$LZBz$z$QDz$tmDz$umDz$woBz$xsDz$VLz$ysDz$cz$dz$z$qmDz$rmDz$woBz$AtDz$BMCz$z$QDz$tmDz$umDz$woBz$xsDz$VLz$BtDz$cz$dz$z$qmDz$rmDz$woBz$AtDz$CtDz$z$ez$fz$MqDz$isDz$jsDz$ksDz$lsDz$msDz$nsDz$osDz$psDz$qsDz$rsDz$HJz$IJz$JJz$INz$dGBz$lJz$mJz$nJz$oJz$pJz$z$Ndz$fz$PNz$ssDz$tsDz$usDz$vsDz$riDz$siDz$wsDz$LZBz$z$gBz$z$ez$CnDz$DnDz$rOz$EnDz$NKz$FnDz$GnDz$wJBz$z$oz$z$qz$z$rz$z$HgDz$Sz$DtDz$EtDz$bCz$z$ez$fz$ElDz$cnDz$fmDz$YsDz$fqDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$IlDz$FtDz$slDz$z$ez$fz$QlDz$QsDz$RsDz$z$ez$fz$olDz$SsDz$TsDz$z$ez$fz$NmDz$UsDz$RsDz$z$ez$fz$MqDz$VsDz$WsDz$XsDz$YsDz$ZsDz$asDz$GtDz$HtDz$ItDz$JtDz$z$ez$fz$KtDz$LtDz$MtDz$NtDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$JIBz$PsDz$nqDz$oqDz$OtDz$KIz$z$Uz$Ofz$PtDz$mJBz$Umz$pmDz$UBz$VBz$z$qmDz$rmDz$jwBz$QtDz$z$QDz$tmDz$umDz$jwBz$PJBz$vmDz$vEz$IDz$z$qmDz$rmDz$jwBz$BwBz$z$QDz$tmDz$umDz$jwBz$PJBz$xmDz$vEz$IDz$z$qmDz$rmDz$jwBz$RtDz$z$QDz$tmDz$umDz$jwBz$PJBz$Xlz$vEz$IDz$z$qmDz$rmDz$jwBz$StDz$z$gBz$z$ez$CnDz$DnDz$rOz$EnDz$NKz$FnDz$GnDz$wJBz$z$oz$z$qz$z$rz$z$HgDz$Sz$TtDz$Tz$z$ez$fz$ElDz$cnDz$UtDz$VtDz$OvBz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$IlDz$FtDz$slDz$z$ez$fz$QlDz$SsDz$TsDz$z$ez$fz$olDz$UsDz$RsDz$z$ez$fz$MqDz$VsDz$WsDz$XsDz$YsDz$ZsDz$APz$z$ez$fz$WtDz$XtDz$YtDz$PDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$JIBz$ZtDz$atDz$btDz$Mfz$BnDz$z$Uz$Ofz$ctDz$dtDz$fsDz$WHz$cDz$dDz$z$qmDz$rmDz$etDz$yLCz$z$QDz$tmDz$umDz$ftDz$VLz$ysDz$cz$dz$z$qmDz$rmDz$gtDz$BMCz$z$QDz$tmDz$umDz$ftDz$VLz$BtDz$cz$dz$z$qmDz$rmDz$gtDz$CtDz$z$gBz$z$ez$CnDz$DnDz$rOz$EnDz$NKz$FnDz$GnDz$wJBz$z$oz$z$qz$z$rz$z$HgDz$Sz$XqCz$NnBz$FKz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$IlDz$htDz$itDz$jtDz$z$ez$fz$QlDz$ktDz$ltDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$MlDz$mtDz$ntDz$otDz$ptDz$TmDz$qtDz$rtDz$stDz$ttDz$utDz$vtDz$wtDz$z$ez$fz$Qnz$xtDz$ytDz$AuDz$BuDz$CuDz$DuDz$EuDz$PDz$z$Ndz$Odz$JIBz$FuDz$rnDz$oqDz$GuDz$ePz$z$Uz$Ofz$HuDz$JRBz$Umz$pmDz$UBz$VBz$z$Pz$Rfz$lPz$z$Uz$DDz$bKz$cKz$VLz$kiz$liz$bDz$cDz$dDz$z$eFz$jFz$kFz$IuDz$UsCz$z$gBz$z$UHz$mTz$jFz$kFz$IuDz$UsCz$z$qz$z$Ndz$Odz$NXCz$JuDz$KuDz$LuDz$MuDz$NuDz$OuDz$PuDz$QuDz$RuDz$SuDz$xHz$z$Ndz$Odz$NXCz$TuDz$UuDz$VuDz$FnBz$dDz$z$wjz$VKz$wwz$YRBz$ZRBz$aRBz$bRBz$smBz$z$WuDz$XuDz$ZRBz$aRBz$HnBz$aRBz$ZSBz$YuDz$SUz$ZuDz$auDz$BUz$buDz$NuDz$TRBz$z$WuDz$XuDz$ZRBz$aRBz$HnBz$aRBz$MHz$cuDz$duDz$RuBz$euDz$fuDz$guDz$huDz$iuDz$ZSBz$XTz$juDz$kuDz$nGz$z$ez$fz$luDz$muDz$nuDz$ouDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$IlDz$puDz$quDz$ruDz$suDz$tuDz$z$ez$fz$QlDz$uuDz$TEBz$vuDz$wuDz$xuDz$yuDz$AvDz$BvDz$CvDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$JIBz$EqCz$rnDz$DvDz$EvDz$FvDz$z$Uz$wmz$EvDz$FvDz$PJBz$tnDz$vEz$IDz$z$ez$fz$GvDz$HvDz$HJz$IJz$JJz$INz$IvDz$lJz$mJz$nJz$oJz$JvDz$KvDz$LvDz$MvDz$NdBz$z$NvDz$OvDz$PvDz$jsCz$ksCz$jsCz$tYz$tsCz$oiz$QvDz$UxBz$bBz$iSBz$jOBz$kSBz$RvDz$SvDz$TvDz$UvDz$XaBz$VvDz$dz$z$ez$fz$WvDz$XvDz$YvDz$ZvDz$avDz$bvDz$SABz$z$Uz$sEz$FBz$cvDz$EgDz$dvDz$JRBz$cz$dz$z$bLz$evDz$fvDz$BgDz$ypCz$ePz$z$qz$z$NvDz$OvDz$PvDz$jsCz$ksCz$jsCz$tYz$pOCz$Hbz$gvDz$ajz$cNz$YmBz$hvDz$OkBz$FtCz$GtCz$uxBz$ivDz$jvDz$NsDz$LZBz$dqCz$kvDz$lvDz$mvDz$ouCz$OvDz$nvDz$wrDz$ovDz$MhCz$FFBz$pvDz$qvDz$XaBz$VvDz$dz$z$ez$fz$WvDz$rvDz$svDz$tvDz$uvDz$vvDz$wvDz$xvDz$edz$fdz$xJz$HPz$yvDz$NsDz$LZBz$HNz$eJz$fJz$gJz$INz$AwDz$z$ez$fz$BwDz$CwDz$DwDz$EwDz$FwDz$KiDz$dvDz$GwDz$HwDz$IwDz$JwDz$KwDz$LwDz$MwDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$qz$z$gBz$z$ez$fz$WvDz$XvDz$NwDz$z$oz$pz$z$qz$z$gBz$z$Ndz$Odz$NXCz$OwDz$mxCz$PwDz$QwDz$RwDz$xHz$z$Ndz$Odz$NXCz$OwDz$mxCz$SwDz$TwDz$UwDz$VwDz$WwDz$XwDz$iFz$z$eIz$YwDz$ZwDz$awDz$bwDz$cwDz$z$eIz$YwDz$dwDz$ewDz$fwDz$gwDz$hwDz$z$NvDz$OvDz$PvDz$jsCz$ksCz$jsCz$tYz$tsCz$oiz$iwDz$jwDz$kwDz$Evz$lwDz$FnBz$mwDz$MOCz$NOCz$OOCz$sxCz$COCz$DOCz$nwDz$owDz$IDz$z$ez$fz$WvDz$XvDz$YvDz$ZvDz$avDz$bvDz$SABz$z$Uz$sEz$FBz$cvDz$EgDz$dvDz$JRBz$cz$dz$z$bLz$evDz$fvDz$BgDz$ypCz$ePz$z$qz$z$NvDz$OvDz$PvDz$jsCz$ksCz$jsCz$tYz$pOCz$Hbz$gvDz$ajz$cNz$YmBz$hvDz$OkBz$FtCz$GtCz$uxBz$ivDz$jvDz$NsDz$LZBz$dqCz$kvDz$lvDz$mvDz$ouCz$OvDz$nvDz$wrDz$ovDz$MhCz$FFBz$pvDz$qvDz$XaBz$VvDz$dz$z$ez$fz$WvDz$rvDz$svDz$tvDz$uvDz$vvDz$wvDz$xvDz$edz$fdz$xJz$HPz$yvDz$NsDz$LZBz$HNz$eJz$fJz$gJz$INz$AwDz$z$ez$fz$BwDz$CwDz$DwDz$EwDz$FwDz$KiDz$dvDz$GwDz$pwDz$qwDz$rwDz$swDz$TmDz$twDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$qz$z$gBz$z$ez$fz$WvDz$XvDz$NwDz$z$oz$pz$z$qz$z$qz$z$QDz$tmDz$umDz$LZBz$PJBz$vmDz$vEz$IDz$z$Uz$sEz$FBz$cvDz$EgDz$dvDz$JRBz$cz$dz$z$bLz$evDz$fvDz$BgDz$ypCz$ePz$z$qz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$uwDz$vwDz$wwDz$HJz$IJz$JJz$INz$BgDz$ypCz$xwDz$xJz$JDz$yJz$AKz$ywDz$AxDz$BxDz$LZBz$RFBz$CxDz$DxDz$ExDz$FxDz$GxDz$HxDz$z$ez$fz$IxDz$JxDz$KxDz$LxDz$MxDz$NxDz$OFDz$z$ez$fz$OxDz$PxDz$qwDz$BgDz$QxDz$RxDz$SxDz$TxDz$BgDz$ypCz$mqCz$UxDz$VxDz$WxDz$BgDz$XxDz$PDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$gBz$z$ez$CnDz$DnDz$rOz$EnDz$NKz$FnDz$GnDz$wJBz$z$oz$z$qz$z$rz$z$HgDz$Sz$YxDz$DSBz$Tz$z$ez$fz$ElDz$cnDz$ZxDz$nqDz$PDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$IlDz$QsDz$PDz$z$ez$fz$QlDz$axDz$z$ez$fz$olDz$UsDz$PDz$z$ez$fz$MqDz$VsDz$WsDz$XsDz$YsDz$ZsDz$asDz$bsDz$UcDz$BNDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$JIBz$ZxDz$nqDz$oqDz$bxDz$DSBz$z$Uz$Ofz$cxDz$UsBz$esDz$fsDz$WHz$cDz$dDz$z$qmDz$rmDz$ymDz$gsDz$hsDz$z$QDz$tmDz$umDz$ymDz$xsDz$VLz$ysDz$cz$dz$z$qmDz$rmDz$ymDz$AtDz$BMCz$z$QDz$tmDz$umDz$ymDz$xsDz$VLz$BtDz$cz$dz$z$qmDz$rmDz$ymDz$AtDz$CtDz$z$gBz$z$ez$CnDz$DnDz$rOz$EnDz$NKz$FnDz$GnDz$wJBz$z$oz$z$qz$z$rz$z$HgDz$Sz$YxCz$dxDz$MFz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$ElDz$cnDz$exDz$fqDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$IlDz$BLDz$Zpz$GuBz$PDz$z$ez$fz$QlDz$rFz$fxDz$gxDz$hxDz$ixDz$jxDz$kxDz$PDz$z$ez$fz$olDz$VKz$uLCz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$JIBz$exDz$lmDz$mmDz$EaBz$z$Uz$Ofz$omDz$lxDz$VLz$SUDz$cz$dz$z$qmDz$rmDz$CtDz$z$QDz$tmDz$umDz$iWBz$WRCz$XUDz$WHz$cDz$dDz$z$qmDz$rmDz$yhBz$BMCz$z$QDz$tmDz$umDz$iWBz$WRCz$Nlz$WHz$cDz$dDz$z$qmDz$rmDz$LYz$PDz$z$gBz$z$ez$CnDz$DnDz$rOz$EnDz$NKz$FnDz$GnDz$wJBz$z$oz$z$qz$z$rz$z$HgDz$Sz$TNDz$mxDz$bCz$z$Uz$HsDz$OQBz$nxDz$cDz$dDz$z$Uz$rMBz$oxDz$UsBz$esDz$qez$pxDz$UsBz$qxDz$UBz$VBz$z$ez$yBBz$qcz$rxDz$sxDz$txDz$erDz$uxDz$EcDz$vxDz$UKz$nsBz$z$wxDz$WKz$xxDz$UKz$yxDz$AyDz$WrDz$SpBz$BYz$ByDz$OEz$CyDz$ruCz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$EyDz$GLCz$cz$dz$z$ez$yBBz$qcz$rxDz$sxDz$txDz$erDz$uxDz$EcDz$FyDz$GyDz$VBCz$HyDz$z$wxDz$WKz$xxDz$UKz$yxDz$IyDz$JyDz$KyDz$LyDz$MyDz$vrDz$wrDz$xrDz$uxBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$NyDz$OyDz$vEz$IDz$z$ez$yBBz$qcz$rxDz$sxDz$txDz$erDz$PyDz$QyDz$Jiz$RyDz$SyDz$TyDz$UyDz$VyDz$WrDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$WyDz$BEBz$XyDz$YyDz$ZyDz$fdCz$gdCz$ayDz$UKz$byDz$MsDz$NsDz$qUz$bqCz$smBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$cyDz$DSBz$BwBz$vEz$IDz$z$ez$yBBz$qcz$rxDz$sxDz$txDz$erDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$dyDz$z$weBz$z$eyDz$fyDz$srDz$trDz$mfBz$z$gyDz$hyDz$tyCz$iyDz$jBDz$KyDz$LyDz$MyDz$vrDz$wrDz$xrDz$uxBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$cyDz$DSBz$NoBz$cz$dz$z$ez$yBBz$qcz$rxDz$sxDz$txDz$erDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$dyDz$z$weBz$z$eyDz$fyDz$srDz$trDz$mfBz$z$gyDz$hyDz$jyDz$yxDz$AyDz$WrDz$SpBz$BYz$ByDz$OEz$CyDz$ruCz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$cyDz$DSBz$StDz$vEz$IDz$z$ez$yBBz$qcz$rxDz$sxDz$txDz$erDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$dyDz$z$weBz$z$eyDz$fyDz$srDz$trDz$mfBz$z$gyDz$hyDz$kyDz$iyDz$jBDz$KyDz$LyDz$MyDz$vrDz$wrDz$xrDz$uxBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$NyDz$lyDz$WHz$cDz$dDz$z$ez$yBBz$qcz$rxDz$sxDz$txDz$erDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$dyDz$z$weBz$z$eyDz$fyDz$srDz$trDz$mfBz$z$gyDz$hyDz$tyCz$myDz$nyDz$Rtz$yxDz$oyDz$pyDz$ejBz$qyDz$KyDz$LyDz$MyDz$vrDz$wrDz$xrDz$uxBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$NyDz$ryDz$vEz$IDz$z$ez$yBBz$qcz$rxDz$sxDz$txDz$erDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$dyDz$z$weBz$z$eyDz$fyDz$srDz$trDz$mfBz$z$gyDz$hyDz$jyDz$syDz$QyDz$Jiz$RyDz$SyDz$TyDz$UyDz$VyDz$WrDz$SpBz$BYz$ByDz$OEz$CyDz$ruCz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$NyDz$tyDz$WHz$cDz$dDz$z$ez$yBBz$qcz$rxDz$sxDz$txDz$erDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$dyDz$z$weBz$z$eyDz$fyDz$srDz$trDz$mfBz$z$gyDz$hyDz$kyDz$myDz$nyDz$Rtz$yxDz$oyDz$pyDz$ejBz$qyDz$KyDz$LyDz$MyDz$vrDz$wrDz$xrDz$uxBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$EyDz$NoBz$cz$dz$z$ez$yBBz$qcz$rxDz$sxDz$txDz$erDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$dyDz$z$weBz$z$eyDz$fyDz$srDz$trDz$mfBz$z$gyDz$hyDz$jyDz$yxDz$IyDz$JyDz$KyDz$LyDz$MyDz$vrDz$wrDz$xrDz$uxBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$EyDz$StDz$vEz$IDz$z$ez$yBBz$qcz$rxDz$sxDz$txDz$erDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$dyDz$z$weBz$z$eyDz$fyDz$srDz$trDz$mfBz$z$gyDz$hyDz$kyDz$iyDz$uyDz$Fpz$ayDz$UKz$byDz$MsDz$NsDz$qUz$bqCz$smBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$qhBz$DSBz$BwBz$vEz$IDz$z$Uz$Evz$WuDz$jvDz$NsDz$LZBz$WHz$cDz$dDz$z$ez$yBBz$qcz$rxDz$vyDz$wyDz$MYz$xxDz$UKz$yxDz$AyDz$WrDz$xyDz$yyDz$BEBz$AAEz$wrDz$ovDz$LZBz$RFBz$BAEz$QeCz$CAEz$NsDz$LZBz$HPBz$RFBz$byDz$MsDz$NsDz$qUz$bqCz$smBz$z$gBz$z$ez$yBBz$qcz$rxDz$vyDz$wyDz$MYz$xxDz$UKz$yxDz$AyDz$WrDz$SpBz$BYz$ByDz$OEz$CyDz$ruCz$z$qz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$qhBz$DSBz$NoBz$cz$dz$z$ez$yBBz$qcz$rxDz$vyDz$DAEz$EAEz$FAEz$GAEz$RyDz$HAEz$VBCz$IAEz$IrDz$BgDz$NZz$CgDz$xyCz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$qhBz$DSBz$StDz$vEz$IDz$z$Uz$Evz$WuDz$jvDz$NsDz$LZBz$WHz$cDz$dDz$z$ez$yBBz$qcz$rxDz$vyDz$DAEz$MYz$xxDz$UKz$yxDz$AyDz$WrDz$xyDz$yyDz$BEBz$AAEz$wrDz$ovDz$LZBz$RFBz$BAEz$QeCz$CAEz$NsDz$LZBz$HPBz$RFBz$byDz$MsDz$NsDz$qUz$bqCz$smBz$z$gBz$z$ez$yBBz$qcz$rxDz$vyDz$DAEz$MYz$xxDz$UKz$yxDz$AyDz$WrDz$SpBz$BYz$ByDz$OEz$CyDz$ruCz$z$qz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$JAEz$vEz$IDz$z$ez$yBBz$qcz$rxDz$XtBz$yxDz$AyDz$erDz$KAEz$KyDz$LyDz$MyDz$vrDz$wrDz$xrDz$uxBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$IiBz$PnDz$cz$dz$z$ez$yBBz$qcz$rxDz$yhBz$LAEz$yxDz$AyDz$erDz$KAEz$KyDz$LyDz$MyDz$vrDz$wrDz$xrDz$uxBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$oTz$wSDz$UBz$VBz$z$ez$yBBz$qcz$rxDz$LYz$frBz$EcDz$xxDz$UKz$MAEz$VBCz$IAEz$IrDz$BgDz$NZz$CgDz$xyCz$z$gBz$z$ez$NAEz$Orz$OAEz$PAEz$z$qz$z$QDz$QAEz$RAEz$SAEz$cz$dz$z$Uz$rMBz$oxDz$UsBz$esDz$qez$pxDz$UsBz$qxDz$UBz$VBz$z$ez$yBBz$qcz$qcz$qcz$rxDz$sxDz$txDz$erDz$uxDz$EcDz$vxDz$UKz$nsBz$z$wxDz$WKz$xxDz$UKz$yxDz$AyDz$WrDz$SpBz$BYz$ByDz$OEz$CyDz$ruCz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$NyDz$OyDz$vEz$IDz$z$ez$yBBz$qcz$qcz$qcz$rxDz$sxDz$txDz$erDz$PyDz$QyDz$Jiz$RyDz$SyDz$TyDz$UyDz$VyDz$WrDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$WyDz$BEBz$XyDz$YyDz$ZyDz$fdCz$gdCz$ayDz$UKz$byDz$MsDz$NsDz$qUz$bqCz$smBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$EyDz$GLCz$cz$dz$z$ez$yBBz$qcz$qcz$qcz$rxDz$sxDz$txDz$erDz$uxDz$EcDz$FyDz$GyDz$VBCz$HyDz$z$wxDz$WKz$xxDz$UKz$yxDz$IyDz$JyDz$KyDz$LyDz$MyDz$vrDz$wrDz$xrDz$uxBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$cyDz$DSBz$BwBz$vEz$IDz$z$ez$yBBz$qcz$qcz$qcz$rxDz$sxDz$txDz$erDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$dyDz$z$weBz$z$eyDz$fyDz$srDz$trDz$mfBz$z$gyDz$hyDz$tyCz$iyDz$jBDz$KyDz$LyDz$MyDz$vrDz$wrDz$xrDz$uxBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$cyDz$DSBz$NoBz$cz$dz$z$ez$yBBz$qcz$qcz$qcz$rxDz$sxDz$txDz$erDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$dyDz$z$weBz$z$eyDz$fyDz$srDz$trDz$mfBz$z$gyDz$hyDz$jyDz$yxDz$AyDz$WrDz$SpBz$BYz$ByDz$OEz$CyDz$ruCz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$cyDz$DSBz$StDz$vEz$IDz$z$ez$yBBz$qcz$qcz$qcz$rxDz$sxDz$txDz$erDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$dyDz$z$weBz$z$eyDz$fyDz$srDz$trDz$mfBz$z$gyDz$hyDz$kyDz$iyDz$jBDz$KyDz$LyDz$MyDz$vrDz$wrDz$xrDz$uxBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$NyDz$lyDz$WHz$cDz$dDz$z$ez$yBBz$qcz$qcz$qcz$rxDz$sxDz$txDz$erDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$dyDz$z$weBz$z$eyDz$fyDz$srDz$trDz$mfBz$z$gyDz$hyDz$tyCz$myDz$nyDz$Rtz$yxDz$oyDz$pyDz$ejBz$qyDz$KyDz$LyDz$MyDz$vrDz$wrDz$xrDz$uxBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$NyDz$ryDz$vEz$IDz$z$ez$yBBz$qcz$qcz$qcz$rxDz$sxDz$txDz$erDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$dyDz$z$weBz$z$eyDz$fyDz$srDz$trDz$mfBz$z$gyDz$hyDz$jyDz$syDz$QyDz$Jiz$RyDz$SyDz$TyDz$UyDz$VyDz$WrDz$SpBz$BYz$ByDz$OEz$CyDz$ruCz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$NyDz$tyDz$WHz$cDz$dDz$z$ez$yBBz$qcz$qcz$qcz$rxDz$sxDz$txDz$erDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$dyDz$z$weBz$z$eyDz$fyDz$srDz$trDz$mfBz$z$gyDz$hyDz$kyDz$myDz$nyDz$Rtz$yxDz$oyDz$pyDz$ejBz$qyDz$KyDz$LyDz$MyDz$vrDz$wrDz$xrDz$uxBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$EyDz$NoBz$cz$dz$z$ez$yBBz$qcz$qcz$qcz$rxDz$sxDz$txDz$erDz$SpBz$leBz$z$wxDz$WKz$xxDz$UKz$dyDz$z$weBz$z$eyDz$fyDz$srDz$trDz$mfBz$z$gyDz$hyDz$jyDz$yxDz$IyDz$JyDz$KyDz$LyDz$MyDz$vrDz$wrDz$xrDz$uxBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$EyDz$StDz$vEz$IDz$z$ez$yBBz$qcz$qcz$qcz$TAEz$TUDz$EAEz$FAEz$LyDz$WfBz$z$wxDz$WKz$xxDz$UKz$dyDz$z$weBz$z$eyDz$fyDz$srDz$trDz$mfBz$z$gyDz$hyDz$kyDz$iyDz$uyDz$Fpz$ayDz$UKz$byDz$MsDz$NsDz$qUz$bqCz$smBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$qhBz$DSBz$BwBz$vEz$IDz$z$Uz$Evz$WuDz$jvDz$NsDz$LZBz$WHz$cDz$dDz$z$ez$yBBz$qcz$UAEz$rxDz$vyDz$wyDz$MYz$xxDz$UKz$yxDz$AyDz$WrDz$xyDz$yyDz$BEBz$AAEz$wrDz$ovDz$LZBz$RFBz$BAEz$QeCz$CAEz$NsDz$LZBz$HPBz$RFBz$byDz$MsDz$NsDz$qUz$bqCz$smBz$z$gBz$z$ez$yBBz$qcz$UAEz$rxDz$vyDz$wyDz$MYz$xxDz$UKz$yxDz$AyDz$WrDz$SpBz$BYz$ByDz$OEz$CyDz$ruCz$z$qz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$qhBz$DSBz$NoBz$cz$dz$z$ez$yBBz$qcz$UAEz$rxDz$vyDz$DAEz$EAEz$FAEz$GAEz$RyDz$HAEz$VBCz$IAEz$IrDz$BgDz$NZz$CgDz$xyCz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$qhBz$DSBz$StDz$vEz$IDz$z$Uz$Evz$WuDz$jvDz$NsDz$LZBz$WHz$cDz$dDz$z$ez$yBBz$qcz$UAEz$rxDz$vyDz$DAEz$MYz$xxDz$UKz$yxDz$AyDz$WrDz$xyDz$yyDz$BEBz$AAEz$wrDz$ovDz$LZBz$RFBz$BAEz$QeCz$CAEz$NsDz$LZBz$HPBz$RFBz$byDz$MsDz$NsDz$qUz$bqCz$smBz$z$gBz$z$ez$yBBz$qcz$UAEz$rxDz$vyDz$DAEz$MYz$xxDz$UKz$yxDz$AyDz$WrDz$SpBz$BYz$ByDz$OEz$CyDz$ruCz$z$qz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$JAEz$vEz$IDz$z$ez$yBBz$qcz$rxDz$XtBz$yxDz$AyDz$erDz$KAEz$KyDz$LyDz$MyDz$vrDz$wrDz$xrDz$uxBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$IiBz$PnDz$cz$dz$z$ez$yBBz$qcz$rxDz$yhBz$LAEz$yxDz$AyDz$erDz$KAEz$KyDz$LyDz$MyDz$vrDz$wrDz$xrDz$uxBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$oTz$wSDz$UBz$VBz$z$ez$yBBz$qcz$rxDz$LYz$frBz$EcDz$xxDz$UKz$MAEz$VBCz$IAEz$IrDz$BgDz$NZz$CgDz$xyCz$z$gBz$z$ez$NAEz$Orz$OAEz$PAEz$z$qz$z$gBz$z$ez$NAEz$Orz$OAEz$PAEz$z$oz$z$qz$z$rz$z$HgDz$Sz$xqDz$VAEz$cFDz$MFz$z$WAEz$XAEz$YAEz$ZAEz$aAEz$bAEz$cOz$cAEz$dAEz$eAEz$CyDz$fAEz$z$qBBz$gAEz$hAEz$iAEz$jAEz$NiBz$hgCz$kAEz$lAEz$ADz$z$Uz$HsDz$OQBz$nxDz$cDz$dDz$z$bBDz$mAEz$nAEz$oAEz$Qwz$YYDz$pAEz$qAEz$NZz$CgDz$rAEz$z$sAEz$qUz$Uaz$tAEz$VTz$z$RNDz$yWz$z$QDz$QAEz$RAEz$SAEz$cz$dz$z$Uz$HsDz$OQBz$uAEz$cDz$dDz$z$ez$yBBz$vAEz$z$wAEz$xAEz$trDz$urDz$vrDz$wrDz$xrDz$uxBz$z$bBDz$mAEz$nAEz$oAEz$Qwz$YYDz$pAEz$qAEz$NZz$CgDz$rAEz$z$sAEz$qUz$Uaz$tAEz$VTz$z$yAEz$ABEz$krDz$QZCz$z$RNDz$yWz$z$yAEz$ABEz$DsDz$ePz$z$gBz$z$bBDz$mAEz$nAEz$oAEz$Qwz$YYDz$pAEz$qAEz$NZz$CgDz$rAEz$z$sAEz$qUz$Uaz$tAEz$VTz$z$yAEz$ABEz$krDz$QZCz$z$RNDz$yWz$z$yAEz$ABEz$DsDz$ePz$z$qz$z$qz$z$vCz$z$rz$z$HgDz$Sz$RdDz$BBEz$CBEz$cFDz$MFz$z$ez$fz$Qnz$qcz$qcz$qcz$qcz$DBEz$EBEz$FBEz$qcz$qcz$qcz$qcz$qcz$GBEz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$FSCz$z$ez$fz$HBEz$IBEz$qcz$JBEz$KBEz$LBEz$MBEz$NBEz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$FSCz$z$WAEz$XAEz$YAEz$ZAEz$aAEz$bAEz$cOz$cAEz$dAEz$eAEz$CyDz$fAEz$z$qBBz$gAEz$hAEz$iAEz$jAEz$NiBz$hgCz$kAEz$lAEz$ADz$z$bBDz$mAEz$nAEz$oAEz$Qwz$YYDz$pAEz$qAEz$NZz$CgDz$rAEz$z$sAEz$qUz$Uaz$tAEz$VTz$z$Uz$rMBz$oxDz$UsBz$esDz$qez$pxDz$UsBz$qxDz$UBz$VBz$z$fCz$OBEz$PBEz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$cyDz$DSBz$BwBz$vEz$IDz$z$fCz$QBEz$RBEz$PDz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$cyDz$DSBz$NoBz$cz$dz$z$fCz$SBEz$RBEz$PDz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$cyDz$DSBz$StDz$vEz$IDz$z$fCz$TBEz$RBEz$PDz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$NyDz$OyDz$vEz$IDz$z$fCz$UBEz$VBEz$WBEz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$NyDz$lyDz$WHz$cDz$dDz$z$fCz$QBEz$XBEz$YBEz$PDz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$NyDz$ryDz$vEz$IDz$z$fCz$SBEz$XBEz$YBEz$PDz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$NyDz$tyDz$WHz$cDz$dDz$z$fCz$TBEz$XBEz$YBEz$PDz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$qhBz$DSBz$BwBz$vEz$IDz$z$fCz$QBEz$ZBEz$PDz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$qhBz$DSBz$NoBz$cz$dz$z$fCz$SBEz$ZBEz$PDz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$qhBz$DSBz$StDz$vEz$IDz$z$fCz$TBEz$ZBEz$PDz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$JAEz$vEz$IDz$z$fCz$Qnz$aBEz$OvBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$IiBz$PnDz$cz$dz$z$fCz$bBEz$guBz$OvBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$oTz$wSDz$UBz$VBz$z$fCz$cBEz$dBEz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$EyDz$GLCz$cz$dz$z$fCz$OBEz$hmDz$wtBz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$EyDz$NoBz$cz$dz$z$fCz$eBEz$fBEz$gBEz$z$QDz$tmDz$DyDz$woBz$xsDz$VLz$EyDz$StDz$vEz$IDz$z$fCz$hBEz$iBEz$jBEz$z$gBz$z$fCz$gCz$z$qz$z$ez$fz$kBEz$lBEz$mBEz$nBEz$VBCz$oBEz$RyDz$HAEz$VBCz$mZCz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$FSCz$z$vCz$z$rz$z$WRBz$pBEz$qaz$Tz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$qBEz$rBEz$sBEz$OvBz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$IlDz$tBEz$uBEz$vBEz$wBEz$z$ez$fz$QlDz$xBEz$uBEz$vBEz$wBEz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$JIBz$lmDz$yBEz$ACEz$z$Uz$Ofz$BCEz$EGBz$Umz$pmDz$UBz$VBz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$qBEz$rBEz$CCEz$btDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$ez$fz$IlDz$DCEz$ECEz$z$ez$fz$QlDz$FCEz$GCEz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$JIBz$lmDz$yBEz$HCEz$ZUDz$z$Uz$Ofz$BCEz$ICEz$JCEz$Umz$pmDz$UBz$VBz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$KCEz$LCEz$MCEz$NCEz$KIz$z$ez$PtCz$OCEz$PCEz$QCEz$RtCz$RCEz$uGz$vGz$WSBz$DUz$fgDz$UVBz$ocz$gYz$HCEz$SCEz$z$ez$fz$TCEz$UCEz$VCEz$z$QDz$tmDz$umDz$WRBz$NWBz$PJBz$vmDz$vEz$IDz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$Ndz$Odz$WCEz$XCEz$MCEz$NCEz$KIz$z$ez$PtCz$YCEz$NCEz$ZCEz$aCEz$uGz$vGz$WSBz$DUz$fgDz$UVBz$ocz$gYz$HCEz$SCEz$z$ez$fz$TCEz$UCEz$VCEz$z$gBz$z$ez$CnDz$DnDz$rOz$EnDz$NKz$FnDz$GnDz$wJBz$z$oz$z$qz$z$QDz$tmDz$umDz$WRBz$PJBz$vmDz$vEz$IDz$z$SYz$Cjz$EgDz$bCEz$CYz$cCEz$dCEz$TMz$z$ez$fz$TCEz$eCEz$fCEz$PDz$z$gBz$z$ez$CnDz$DnDz$rOz$EnDz$NKz$FnDz$GnDz$wJBz$z$oz$z$qz$z$rz$z$hFz$gCEz$hCEz$FKz$z$iCEz$IKz$iPz$WQz$jCEz$LrBz$Lxz$Mxz$Nxz$TDz$kCEz$LYz$MYz$nIz$lIz$oIz$pIz$qIz$rIz$CkDz$DkDz$EkDz$FkDz$GkDz$HkDz$xIz$Dbz$BgDz$tYz$IQz$plz$ufDz$PLz$QLz$lCEz$RQz$SQz$dwz$NQz$OQz$mCEz$Zmz$Rmz$chCz$ayBz$z$Uz$Qwz$ZcDz$QMz$sKz$WHz$cDz$dDz$z$Uz$Vz$ufDz$PLz$QLz$nCEz$oCEz$iCEz$IKz$EGBz$HDz$IDz$z$ez$fz$pCEz$qCEz$rCEz$sCEz$tCEz$z$Ndz$KjCz$hFz$lcDz$hYz$uCEz$z$Nfz$vCEz$ciz$NZz$wCEz$NCBz$z$xCEz$yCEz$ADEz$BDEz$CDEz$z$nFz$FMz$GMz$HMz$IMz$JMz$KMz$LMz$qPz$HXz$IXz$mOz$JXz$KXz$LXz$DOz$LkDz$MkDz$NkDz$OkDz$PkDz$QkDz$SXz$DDEz$biDz$LHz$z$ez$fz$EDEz$ADBz$z$oz$kcz$z$Tfz$z$FDEz$Kwz$z$pfz$z$gBz$z$ez$fz$Qnz$qcz$qcz$qcz$uuBz$AJz$BJz$CJz$DJz$GDEz$HDEz$lz$HNz$eJz$fJz$gJz$INz$PDz$z$qz$z$gBz$z$ez$fz$Qnz$qcz$qcz$qcz$uuBz$HJz$IJz$JJz$INz$IDEz$JDEz$YPBz$KDEz$mOz$LDEz$MDEz$xJz$JDz$yJz$AKz$nz$z$qz$z$rz$z$hFz$gCEz$smBz$z$ez$GJz$ez$fz$Qnz$qcz$qcz$qcz$NDEz$ODEz$PDEz$QDEz$CNz$DNz$CJz$DJz$RDEz$SDEz$TDEz$IKz$UDEz$HNz$eJz$fJz$gJz$INz$PDz$z$WECz$WECz$VDEz$WDEz$XDEz$WECz$WECz$YDEz$z$ZDEz$aDEz$bDEz$uGz$cDEz$BgDz$UEDz$dDEz$eDEz$fDEz$z$gDEz$hDEz$iDEz$jDEz$kDEz$lDEz$mDEz$nDEz$oDEz$pDEz$z$qDEz$rDEz$sDEz$tDEz$uDEz$z$vDEz$wDEz$xDEz$yDEz$AEEz$BEEz$CEEz$AEEz$DEEz$EEEz$FEEz$GEEz$z$ATz$PJz$IJz$JJz$INz$rdz$lJz$mJz$nJz$oJz$sdz$HEEz$ggDz$z$ATz$PJz$IJz$JJz$INz$vdz$lJz$mJz$nJz$oJz$IEEz$JEEz$ggDz$z$ATz$PJz$IJz$JJz$INz$Aez$lJz$mJz$nJz$oJz$bez$KEEz$ggDz$z$pdz$pdz$pdz$z$ATz$PJz$IJz$JJz$INz$Gez$lJz$mJz$nJz$oJz$LEEz$MEEz$ggDz$z$ATz$PJz$IJz$JJz$INz$Kez$lJz$mJz$nJz$oJz$ZfDz$NEEz$ggDz$z$ATz$PJz$IJz$JJz$INz$Nez$lJz$mJz$nJz$oJz$OEEz$PEEz$ggDz$z$pdz$pdz$pdz$z$ATz$PJz$IJz$JJz$INz$Tez$lJz$mJz$nJz$oJz$QEEz$REEz$SEEz$TEEz$z$ATz$PJz$IJz$JJz$INz$Vez$lJz$mJz$nJz$oJz$TfDz$UEEz$VEEz$TEEz$z$ATz$PJz$IJz$JJz$INz$aez$lJz$mJz$nJz$oJz$XfDz$WEEz$VEEz$TEEz$z$pdz$pdz$pdz$z$ATz$PJz$IJz$JJz$INz$dez$vTz$OEz$wTz$xTz$eez$BgDz$XEEz$YEEz$z$ATz$PJz$IJz$JJz$INz$ZEEz$vTz$OEz$wTz$xTz$eez$aEEz$bEEz$YEEz$z$pdz$pdz$pdz$kSz$kez$pCz$z$Ndz$fz$PNz$YNBz$lfDz$cEEz$ujCz$uZDz$z$Nfz$Ofz$Pfz$Qfz$z$TQz$z$Ebz$CXCz$dgDz$z$Tfz$z$Ufz$z$Pz$LgDz$z$Tfz$z$Vfz$z$yiCz$Hbz$dEEz$z$Tfz$z$Zfz$z$udBz$eEEz$z$Tfz$z$afz$z$rLDz$fEEz$z$Tfz$z$cfz$z$CeBz$gcz$dgDz$z$Tfz$z$efz$z$gEEz$IZz$z$VPz$qsz$ZYz$BgDz$Bpz$Cpz$Dpz$z$qUz$DUz$ePz$z$wkDz$xkDz$GYz$z$qUz$tADz$z$uGz$vGz$WSBz$DUz$fgDz$ggDz$z$ez$fz$hEEz$iEEz$jEEz$kEEz$z$ez$fz$HlDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$FSCz$z$sz$lEEz$NZz$GYz$z$Tfz$z$ffz$z$sz$lEEz$NZz$GYz$z$Tfz$z$gfz$z$sz$lEEz$NZz$GYz$z$Ndz$Odz$NXCz$mEEz$nEEz$oEEz$pEEz$qEEz$VTz$z$cKCz$JUz$umDz$rEEz$sEEz$DQz$Ajz$tEEz$uEEz$UBz$VBz$z$SYz$Cjz$vEEz$wEEz$xEEz$yEEz$GgDz$qUz$bqCz$smBz$z$VPz$qsz$ZYz$BgDz$Bpz$Cpz$Dpz$z$qUz$DUz$ePz$z$wkDz$xkDz$GYz$z$qUz$tADz$z$uGz$vGz$WSBz$DUz$fgDz$ggDz$z$ez$fz$hEEz$AFEz$BFEz$PDz$z$gBz$z$ez$TqCz$lfz$CFEz$z$qz$z$Tfz$z$hfz$z$WRBz$pBEz$qaz$z$Tfz$z$lIDz$z$LZBz$z$Tfz$z$jfz$z$ez$TqCz$lfz$DFEz$EFEz$z$Tfz$z$pfz$z$rz$z$FFEz$GFEz$Rtz$Tz$z$ez$VECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$aWDz$WECz$WECz$WECz$WECz$WECz$tDz$vmCz$HFEz$IFEz$JFEz$KFEz$BEz$LFEz$WECz$WECz$WECz$WECz$WECz$MFEz$z$ez$fz$aWDz$WECz$NFEz$Tnz$OFEz$PFEz$QFEz$RFEz$Rtz$SFEz$JCz$lvDz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$MFEz$z$ez$fz$aWDz$WECz$NFEz$Tnz$OFEz$TFEz$UFEz$VFEz$WFEz$XFEz$JCz$lvDz$WECz$WECz$WECz$WECz$WECz$VDEz$PDz$z$ez$VECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$WECz$eECz$z$ez$fz$LJz$tmCz$YFEz$ZFEz$VFEz$aFEz$bFEz$cFEz$dFEz$JCz$jUCz$z$eFEz$fFEz$gFEz$Rtz$z$ez$fz$LJz$tmCz$hFEz$iFEz$jFEz$JCz$jUCz$z$eFEz$roCz$cMz$kFEz$lFEz$mFEz$nFEz$oFEz$pFEz$qFEz$rFEz$sFEz$tFEz$huz$uFEz$nUz$vFEz$vFEz$wFEz$Orz$Kwz$z$eFEz$roCz$cMz$kFEz$lFEz$SiBz$xFEz$yFEz$AGEz$BGBz$BGEz$CGEz$EiBz$DGEz$NWz$FUBz$EGEz$FGEz$VZz$YUz$GGEz$HGEz$qUz$IGEz$z$eFEz$fmBz$QTBz$JGEz$KGEz$DUz$ePz$z$eFEz$LGEz$z$rz$z$MGEz$NGEz$OGEz$PGEz$FKz$z$ez$QGEz$RGEz$SGEz$TGEz$PDz$z$UGEz$VGEz$WGEz$ZYz$XGEz$UGEz$NZz$KQCz$z$qVz$YGEz$HGEz$QZz$CYz$ZGEz$aGEz$bGEz$hYz$cGEz$jKBz$z$SYz$Cjz$dGEz$eGEz$alBz$fGEz$IDz$gGEz$Sz$hGEz$SiBz$xFEz$yFEz$AGEz$BGBz$iGEz$jGEz$kGEz$lGEz$RVz$z$SYz$Cjz$dGEz$mGEz$nGEz$oGEz$pGEz$qGEz$rGEz$sGEz$tGEz$uGEz$vGEz$wGEz$HGEz$QZz$z$uGz$vGz$WSBz$DUz$xGEz$yGEz$Obz$aICz$AHEz$qaz$JGEz$BHEz$QTBz$JGEz$KGEz$DUz$CHEz$QdBz$DHEz$EHEz$DUz$ePz$z$ez$fz$FHEz$oiBz$z$rz$z$CZBz$GHEz$Tz$z$Ndz$Odz$NXCz$HHEz$IHEz$hpDz$WkCz$VBCz$ePz$z$SYz$Cjz$JHEz$KHEz$YfCz$LHEz$tQBz$ciCz$UKz$MHEz$ZYz$XGEz$UGEz$NZz$njBz$z$uGz$vGz$WSBz$DUz$xGEz$NHEz$z$ez$QGEz$OHEz$PHEz$QHEz$RHEz$ERBz$z$rz$z$RJz$SHEz$wYCz$THEz$FKz$z$pmCz$AVz$z$ez$fz$LJz$MJz$qmCz$rmCz$smCz$yBz$omCz$z$rz$z$jCCz$Njz$z$ez$fz$LJz$tmCz$qmCz$rmCz$smCz$yBz$omCz$z$rz$z$qHBz$umCz$FKz$z$ez$fz$LJz$vmCz$qmCz$rmCz$smCz$yBz$omCz$z$rz$z$UHEz$FUz$z$ez$fz$LJz$VHEz$qmCz$rmCz$smCz$yBz$omCz$z$rz$z$WHEz$FUz$z$ez$fz$LJz$XHEz$ECz$YHEz$ZHEz$JCz$jUCz$z$rz$z$AJz$BJz$CJz$DJz$EJz$yBz$FJz$z$HJz$IJz$JJz$KJz$LJz$MJz$jUCz$z$AJz$haz$aHEz$aeBz$JJz$KJz$LJz$bHEz$cHEz$PDz$z$HJz$QJz$RJz$SJz$DJz$EJz$yBz$dHEz$eHEz$z$lJz$mJz$nJz$oJz$EJz$yBz$omCz$z$HgDz$Sz$fHEz$gHEz$hHEz$AVz$z$Uz$fiz$iHEz$cgDz$jHEz$Hiz$bDz$cDz$dDz$z$SYz$TYz$kHEz$lHEz$mHEz$nHEz$oHEz$pHEz$qHEz$GZz$ZYz$rHEz$qUz$z$SYz$TYz$sHEz$tHEz$uHEz$vHEz$wHEz$dYz$nUz$xHEz$FYz$GYz$z$qz$z$Uz$bNz$yHEz$HDz$IDz$z$ez$AIEz$lHEz$mHEz$BIEz$CIEz$DIEz$EIEz$FIEz$mUz$nUz$xHEz$FYz$GYz$z$ez$z$jCCz$GIEz$HIEz$IIEz$JIEz$KIEz$LIEz$MIEz$PDz$z$gBz$z$jCCz$GIEz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$Umz$z$qHBz$rHBz$NIEz$OIEz$KIEz$PIEz$KIEz$QIEz$RIEz$PDz$z$ez$z$jCCz$GIEz$SIEz$KIEz$TIEz$UIEz$z$jCCz$GIEz$VIEz$KIEz$WIEz$UIEz$z$jCCz$GIEz$XIEz$KIEz$YIEz$BZCz$ZIEz$aIEz$bIEz$cIEz$dIEz$z$ez$z$Ndz$Odz$JIBz$KIEz$PIEz$KIEz$QIEz$eIEz$fIEz$gIEz$hIEz$iIEz$jIEz$kIEz$lIEz$gHEz$mIEz$aqCz$z$nIEz$oIEz$wYCz$rDDz$lxBz$nIEz$oIEz$wYCz$rDDz$pIEz$rz$z$Uz$DDz$nIEz$oIEz$wYCz$rDDz$SSz$qIEz$kNz$UBz$VBz$z$ez$rIEz$tHEz$uHEz$sIEz$tIEz$uIEz$XUz$cgDz$jHEz$IZz$z$ez$z$jCCz$GIEz$HIEz$IIEz$JIEz$KIEz$QIEz$MIEz$OvBz$z$QDz$RDz$vIEz$wIEz$xIEz$yIEz$AJEz$VLz$BJEz$HDz$IDz$z$ez$z$jCCz$GIEz$HIEz$CJEz$DJEz$EJEz$FJEz$GJEz$HJEz$IJEz$JJEz$KJEz$LJEz$z$gBz$z$ez$AIEz$lHEz$mHEz$BIEz$CIEz$DIEz$EIEz$FIEz$mUz$nUz$xHEz$FYz$GYz$z$ez$z$jCCz$GIEz$HIEz$IIEz$JIEz$KIEz$LIEz$MIEz$OvBz$z$qz$z$jCCz$GIEz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$Umz$z$ez$z$qHBz$rHBz$MJEz$wYCz$NJEz$OJEz$MIEz$PJEz$QJEz$RJEz$mFz$SJEz$TJEz$tPBz$UJEz$z$ez$z$wjz$wHCz$VJEz$WJEz$XJEz$z$ez$z$jCCz$GIEz$YJEz$ZJEz$z$jCCz$GIEz$aJEz$bJEz$cJEz$HIEz$dJEz$eJEz$fJEz$gJEz$PDz$z$jCCz$GIEz$aJEz$hJEz$cJEz$HIEz$dJEz$eJEz$iJEz$gJEz$PDz$z$jCCz$GIEz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$Umz$z$qz$z$ez$z$rz$z$HgDz$Sz$nlz$jJEz$kJEz$AVz$z$JIz$KIz$z$jCCz$GIEz$lJEz$mJEz$nJEz$KIEz$PIEz$KIEz$oJEz$pJEz$PDz$z$ez$z$jCCz$GIEz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$yCDz$RFz$z$jCCz$GIEz$qJEz$rJEz$z$ez$z$Ndz$Odz$NXCz$sJEz$YGDz$tJEz$uJEz$aqCz$z$Nfz$vJEz$wJEz$xJEz$yJEz$AKEz$Qfz$z$BKEz$z$HPz$xIEz$CKEz$DKEz$PDz$z$Tfz$z$EKEz$z$oz$pz$z$Tfz$z$FKEz$z$JIz$KIz$z$siz$NXCz$GKEz$HKEz$z$UEz$IKEz$z$DUz$wYz$xYz$z$Tfz$z$pfz$z$rz$z$DUz$wYz$JKEz$KKEz$mZCz$z$rz$z$LKEz$MKEz$NKEz$MFz$z$OKEz$PKEz$QKEz$RKEz$SKEz$TKEz$z$Uz$nCDz$nUz$VoCz$bKz$WoCz$cz$dz$z$UKEz$VKEz$eODz$pKz$VTz$z$qHCz$WKEz$z$gBz$z$ez$TlCz$XKEz$YKEz$GZCz$z$oz$pz$z$qz$z$ZKEz$Gaz$pZz$IjCz$FKz$z$hCz$aKEz$bKEz$rVBz$UVz$cKEz$dKEz$eKEz$HCEz$fKEz$Wrz$Xrz$raBz$gKEz$JwCz$z$ez$hKEz$bMz$iKEz$BFz$z$UEz$jKEz$z$vCz$z$rz$z$kKEz$bMz$Tz$z$lKEz$mKEz$nKEz$oKEz$pKEz$gBDz$hWBz$qKEz$Chz$Lxz$Orz$rKEz$sKEz$z$rz$z$jFz$CXCz$tKEz$uKEz$vKEz$Tz$z$Nfz$wKEz$NCBz$z$Ejz$xKEz$yKEz$PjCz$z$ZKEz$Gaz$pZz$jKBz$z$kKEz$bMz$z$lKEz$mKEz$nKEz$oKEz$pKEz$gBDz$hWBz$ALEz$BLEz$qGCz$VTz$z$lKEz$mKEz$nKEz$oKEz$pKEz$gBDz$hWBz$ALEz$CLEz$JWz$tLDz$DLEz$ELEz$FLEz$GLEz$HLEz$ILEz$dGz$LkBz$VkBz$WkBz$JLEz$KLEz$dGz$vjBz$LLEz$qGCz$MLEz$NLEz$OLEz$OtBz$PLEz$QLEz$XaBz$RLEz$SLEz$TLEz$z$Tfz$z$Gjz$Hjz$ULEz$VLEz$WLEz$z$eFz$jFz$kFz$XLEz$YLEz$bKz$ZLEz$z$eFz$RJz$aLEz$sez$ntz$bLEz$cLEz$YdBz$dLEz$hsDz$z$eFz$jFz$kFz$eLEz$fLEz$YJDz$gLEz$ZABz$gTz$hJDz$hLEz$YJDz$HyCz$iLEz$jLEz$DWz$z$Tfz$z$kLEz$lLEz$z$mLEz$nLEz$oLEz$pLEz$qLEz$fLEz$WkBz$uLz$VkBz$WkBz$hLEz$WkBz$nFz$rLEz$ciz$z$Tfz$z$jfz$z$ez$sLEz$tLEz$uLEz$vLEz$z$oz$pz$z$Tfz$z$pfz$z$rz$z$jFz$CXCz$uLz$wLEz$bCz$z$nFz$yGz$EjDz$FjDz$LZBz$MZBz$Lz$LYz$MYz$vUCz$uLz$xLEz$kLz$yLEz$VBDz$AMEz$VBDz$BMEz$UKz$xGz$CMEz$DMEz$EMEz$FMEz$GMEz$HMEz$IMEz$gWCz$fKDz$z$AkBz$aWCz$CBBz$DMEz$EMEz$FMEz$GMEz$HMEz$IMEz$gWCz$fKDz$z$JMEz$lABz$KMEz$LMEz$MMEz$ixz$NMEz$rz$z$nKDz$Orz$TOCz$z$SVz$z$SVz$mtz$sez$z$rz$z$uYz$gcz$wLEz$bCz$z$Nfz$wKEz$NCBz$z$Ejz$xKEz$yKEz$PjCz$z$uGz$vGz$WSBz$DUz$xGEz$smBz$z$Tfz$z$Gjz$Hjz$ULEz$VLEz$WLEz$z$uGz$vGz$WSBz$DUz$xGEz$NHEz$z$Tfz$z$kLEz$lLEz$z$OMEz$JHz$PMEz$QMEz$uYz$vYz$z$Tfz$z$jfz$z$ez$sLEz$tLEz$uLEz$vLEz$z$oz$pz$z$Tfz$z$pfz$z$rz$z$RMEz$uxBz$SMEz$TMEz$OyBz$FKz$z$Gxz$PKEz$MIz$dTDz$UMEz$JGEz$Oz$z$Gxz$PKEz$VMEz$WMEz$ebCz$YKCz$Gxz$PKEz$MIz$uABz$z$Uz$XMEz$YMEz$ZMEz$aMEz$bMEz$cMEz$dMEz$eMEz$fMEz$UBz$VBz$z$eIz$fIz$Fsz$gMEz$hMEz$iMEz$jMEz$kMEz$z$ez$lMEz$UKz$mMEz$nMEz$hxz$oMEz$vPDz$pMEz$qMEz$MyDz$rMEz$sMEz$tMEz$z$qz$z$rz$z$uMEz$vMEz$JWz$wMEz$xMEz$bCz$z$ez$QGEz$yMEz$ANEz$z$BNEz$CNEz$z$UGEz$DNEz$z$rz$z$JIz$ENEz$Tz$z$nMz$FNEz$z$VPz$GNEz$lABz$KMEz$LMEz$MMEz$ixz$NMEz$HNEz$z$rz$z$Pz$INEz$ZABz$JNEz$sfDz$MFz$z$ez$QGEz$KNEz$LNEz$MNEz$z$ez$akDz$WECz$WECz$WECz$WECz$WECz$WECz$PDz$z$rz$z$Pz$INEz$ZABz$idz$QLz$NNEz$FKz$z$VhCz$WhCz$BLz$Pjz$BwCz$ONEz$KaCz$dwz$NQz$bOz$cOz$dOz$Vjz$Wjz$PNEz$gmBz$Avz$UNCz$QNEz$kCBz$z$RNEz$BLz$Pjz$SNEz$z$Kaz$BLz$Pjz$TNEz$z$UNEz$iOz$VNEz$rJz$VhCz$WhCz$BLz$DhBz$THz$WNEz$XNEz$YNEz$QLz$ZNEz$aNEz$bNEz$Kaz$BLz$DhBz$cNEz$dNEz$eNEz$fNEz$gNEz$hNEz$iNEz$jNEz$dPz$kNEz$lNEz$mNEz$qhz$nNEz$IDz$z$Pz$INEz$ZABz$JNEz$ggDz$z$ez$QGEz$oNEz$pNEz$IiCz$BXCz$QLz$qNEz$rNEz$sNEz$tNEz$uNEz$z$Ndz$Odz$vNEz$wNEz$xNEz$lmDz$yNEz$XQCz$z$Nfz$ouBz$AOEz$BOEz$dDz$z$LqDz$eOz$z$jFz$CXCz$tKEz$uKEz$vKEz$z$jFz$CXCz$uLz$COEz$z$uYz$gcz$COEz$z$RMEz$uxBz$SMEz$TMEz$iFz$z$uMEz$vMEz$JWz$wMEz$WZBz$z$JIz$ENEz$z$Tfz$z$DOEz$eOz$z$ez$EOEz$FOEz$z$oz$pz$z$Tfz$z$jfz$z$ez$GOEz$HOEz$JRDz$IOEz$JOEz$z$oz$pz$z$Tfz$z$pfz$z$gBz$z$Pz$INEz$ZABz$JNEz$ggDz$z$ez$QGEz$oNEz$pNEz$IiCz$BXCz$QLz$KOEz$LOEz$MOEz$NOEz$OOEz$PDz$z$oz$pz$z$qz$z$rz$z$Pz$INEz$ZABz$idz$QLz$dDz$z$rz$z$Pz$POEz$HbBz$QOEz$Tz$z$wjz$ROEz$mtz$sez$tYz$Lxz$Mxz$Nxz$TDz$SOEz$TOEz$UOEz$VOEz$MTBz$WOEz$XOEz$YOEz$LYz$MYz$ZOEz$aOEz$vVz$bOEz$cOEz$dOEz$eOEz$fOEz$gOEz$hOEz$iOEz$jOEz$Hbz$jRBz$kOEz$lOEz$mOEz$nOEz$mtz$sez$tYz$oOEz$z$rz$z$pOEz$qOEz$rOEz$bCz$z$Uz$nCDz$nUz$QPBz$RPBz$SPBz$sOEz$tOEz$uOEz$RPBz$vOEz$cDz$dDz$z$ez$NVCz$wOEz$aFz$xOEz$yOEz$BFz$z$eFEz$xPCz$nUz$QPBz$RPBz$SPBz$sOEz$tOEz$uOEz$RPBz$APEz$BPEz$CPEz$HMDz$DPEz$qOEz$EPEz$FPEz$hKz$QJz$GPEz$z$EGz$HPEz$IPEz$bRBz$JyCz$JPEz$nUz$QPBz$RPBz$SPBz$sOEz$tOEz$uOEz$RPBz$pCz$z$KPEz$LPEz$z$YVz$MPEz$tOEz$NPEz$NKz$prz$OPEz$PPEz$QPEz$RPEz$z$qOBz$oPz$LYz$SPEz$TPEz$UPEz$VPEz$eaCz$WPEz$xmz$vOBz$pKz$wOBz$XPEz$YPEz$ZPEz$aPEz$z$BPBz$CPBz$oJBz$z$FPBz$GPBz$kKz$bPEz$rOz$cPEz$dPEz$DOz$ePEz$fPEz$gPEz$hPEz$iPEz$ZnCz$jPEz$z$kPEz$lPEz$z$YVz$MPEz$tOEz$NPEz$NKz$prz$mPEz$nPEz$oPEz$pPEz$z$qOBz$oPz$LYz$SPEz$TPEz$UPEz$VPEz$eaCz$WPEz$xmz$vOBz$pKz$wOBz$qPEz$rPEz$YPEz$ZPEz$aPEz$z$BPBz$CPBz$oJBz$z$FPBz$GPBz$kKz$bPEz$rOz$cPEz$dPEz$DOz$ePEz$fPEz$gPEz$hPEz$iPEz$ZnCz$jPEz$z$sPEz$rLz$mdBz$z$YVz$MPEz$tOEz$NPEz$NKz$prz$tPEz$ciz$uPEz$vPEz$wPEz$z$qOBz$oPz$LYz$SPEz$TPEz$UPEz$VPEz$eaCz$WPEz$xmz$vOBz$pKz$wOBz$qLz$rLz$xOBz$yOBz$APBz$z$BPBz$CPBz$oJBz$z$FPBz$GPBz$kKz$bPEz$rOz$cPEz$dPEz$DOz$ePEz$fPEz$gPEz$hPEz$iPEz$ZnCz$jPEz$z$eWBz$z$eFEz$xPEz$rjBz$sjBz$HUz$z$eFEz$xPEz$yPEz$AQEz$BQEz$z$ez$XsCz$aFz$CQEz$DQEz$z$eFEz$xPEz$mtz$sez$ntz$wjz$vjBz$wjBz$EQEz$FQEz$UsCz$oaBz$paBz$GQEz$HQEz$IQEz$JQEz$iiz$NKz$oFz$KQEz$LQEz$MQEz$NQEz$OQEz$IQEz$PQEz$QQEz$PQEz$RQEz$SQEz$TQEz$UQEz$VQEz$UQEz$WQEz$XQEz$tHz$YQEz$ZQEz$ciz$OGz$PGz$QGz$RGz$SGz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$aGz$fGz$gGz$hGz$iGz$jGz$kGz$aQEz$lGz$mGz$bQEz$cQEz$dQEz$fqz$gqz$YLz$eFEz$vtz$ttz$Lz$MNDz$JyCz$eHz$jFz$kFz$lFz$mFz$nFz$eQEz$fQEz$gQEz$EGz$BHz$CHz$hQEz$iQEz$jQEz$kQEz$OGz$CRCz$uLz$lQEz$WQDz$XQDz$mQEz$nQEz$oQEz$pQEz$SQEz$qQEz$SQEz$qQEz$rQEz$sQEz$tQEz$uQEz$vQEz$wQEz$xQEz$Okz$Pkz$ytz$yQEz$AREz$SGz$TWBz$BREz$CREz$DREz$YkBz$EREz$FREz$GKz$GREz$NLz$EREz$wKz$oHz$rhz$HREz$kFz$uHz$IREz$JREz$wHz$KREz$LREz$oPBz$z$HbBz$IbBz$eBCz$RbBz$fBCz$gBCz$z$HbBz$IbBz$eBCz$hBCz$iBCz$bbBz$cbBz$z$HbBz$IbBz$eBCz$jBCz$kBCz$XbBz$YbBz$z$HbBz$IbBz$pBCz$z$HbBz$IbBz$EbDz$VTz$z$ez$XsCz$aFz$MREz$NREz$PDz$z$gBz$z$ez$XsCz$aFz$OREz$PREz$GZCz$z$qz$z$rz$z$QREz$RREz$z$bLz$SREz$TREz$UREz$z$WODz$VREz$WREz$z$JIz$KIz$z$ez$fz$NXCz$XREz$YREz$ZREz$aREz$bREz$z$Ndz$Odz$NXCz$QREz$cREz$dREz$eREz$VTz$z$ez$z$fREz$gREz$hREz$iREz$jREz$VREz$kREz$QREz$lREz$mREz$NiBz$nREz$oREz$pREz$z$kVz$qREz$FPCz$rREz$z$sREz$tREz$VREz$kREz$QREz$uREz$vREz$wREz$xREz$z$QREz$joCz$VREz$kREz$QREz$yREz$ASEz$BSEz$CSEz$DSEz$z$ez$ESEz$TREz$FSEz$GSEz$QREz$dREz$HSEz$DZz$ISEz$JSEz$Cdz$KSEz$OtCz$LSEz$YREz$MSEz$NSEz$z$ez$z$ez$fz$LJz$MJz$OSEz$PSEz$QSEz$RSEz$SSEz$ECz$TSEz$z$ez$fz$LJz$vmCz$USEz$VSEz$WSEz$tDz$BEz$PDz$z$ez$z$diBz$XSEz$z$rz$z$jFz$CXCz$YSEz$AVz$z$Uz$nCDz$nUz$moCz$wLCz$bKz$WoCz$cz$dz$z$nFz$ERz$jFz$hMz$ZSEz$kKz$wMBz$aSEz$bSEz$cSEz$oXz$JWz$dSEz$JWz$eSEz$fSEz$gSEz$wXCz$hSEz$Hbz$jRBz$z$QDz$PHz$BjCz$iSEz$yKEz$YNEz$QLz$jSEz$cDz$dDz$z$nFz$ERz$jFz$hMz$ZSEz$kKz$wMBz$aSEz$bSEz$cSEz$oXz$JWz$dSEz$JWz$eSEz$fSEz$gSEz$wXCz$hSEz$Hbz$jRBz$z$gBz$z$oz$pz$z$qz$z$rz$z$Bnz$kSEz$MFz$z$Ndz$Odz$Ifz$lSEz$mSEz$nSEz$oSEz$sHCz$VTz$z$JDBz$vQz$pMBz$sHCz$LaDz$pSEz$z$Fpz$YVz$rMCz$qSEz$mdCz$wEBz$z$eFEz$oSEz$sHCz$tHCz$rSEz$sSEz$sHCz$tSEz$qSEz$uSEz$z$Fpz$YVz$z$siz$vSEz$PSEz$QSEz$wSEz$xSEz$BmCz$hsBz$qjz$ySEz$ATEz$BTEz$nbCz$z$rz$z$CTEz$MFz$z$kTz$lTz$mTz$eTDz$DTEz$ETEz$FTEz$GTEz$NOCz$HTEz$ITEz$eOz$z$rz$z$jFz$CXCz$VBDz$JTEz$MFz$z$eIz$fIz$Fsz$QIz$Btz$KTEz$PIz$QIz$Btz$qSCz$UIz$VIz$LTEz$SIz$uPCz$OIz$PIz$RIz$z$gCBz$lHCz$nACz$MTEz$iWBz$NTEz$OTEz$z$PTEz$dMBz$QTEz$VMEz$xoz$yoz$Apz$RTEz$deCz$BjBz$KFz$z$kGDz$WMBz$STEz$AOz$IcBz$YKz$DOz$TTEz$UTEz$VTEz$WTEz$XTEz$YTEz$ZTEz$aTEz$bTEz$cTEz$dTEz$z$PTEz$dMBz$eTEz$vwz$egCz$fTEz$eMBz$RIz$gTEz$EaBz$hTEz$iTEz$jTEz$mgDz$kTEz$z$PTEz$dMBz$QTEz$eTEz$vwz$egCz$fTEz$eMBz$RIz$gTEz$EaBz$lTEz$mTEz$z$PTEz$dMBz$QTEz$gCBz$lHCz$xuz$nTEz$oTEz$vwz$egCz$fTEz$eMBz$pTEz$qTEz$gTEz$EaBz$lTEz$rTEz$sTEz$tTEz$PDz$z$PTEz$dMBz$QTEz$gCBz$lHCz$xuz$uTEz$vTEz$vwz$egCz$fTEz$eMBz$pTEz$qTEz$gTEz$EaBz$lTEz$rTEz$wTEz$hiz$PDz$z$PTEz$dMBz$QTEz$xTEz$yTEz$xuz$WMBz$iJz$kGDz$WMBz$AUEz$BUEz$CUEz$iWBz$NTEz$DUEz$Ipz$oEz$z$QTEz$EUEz$vwz$egCz$fTEz$eMBz$UVz$FUEz$GUEz$HUEz$IUEz$JUEz$KUEz$LUEz$PDz$z$QTEz$EUEz$MUEz$NUEz$OUEz$PUEz$QUEz$RUEz$SUEz$TUEz$UUEz$VUEz$z$bbBz$WUEz$XUEz$YUEz$z$JIz$KIz$z$EGz$ZUEz$aUEz$IPEz$z$eWBz$z$YuBz$ANDz$bUEz$WBCz$MFz$z$YuBz$nABz$xfz$cUEz$Wrz$Xrz$raBz$saBz$z$rz$z$Pz$diDz$ITz$MFz$z$WIz$dUEz$iIz$eUEz$fUEz$eqz$fqz$gqz$YLz$xrz$ZLBz$z$Uz$qvBz$gUEz$Psz$hUEz$qxDz$UBz$VBz$z$EGz$ZUEz$aUEz$IPEz$z$iUEz$jUEz$kUEz$lUEz$mUEz$nUEz$z$eWBz$z$oz$pz$z$qz$z$rz$z$Pz$oUEz$pUEz$FKz$z$Uz$sEz$qUEz$JMCz$rUEz$UBz$VBz$z$EGz$ZUEz$aUEz$IPEz$z$gGBz$sUEz$tUEz$uUEz$vUEz$wUEz$xUEz$yUEz$wSz$AVEz$z$BVEz$CVEz$DVEz$z$eWBz$z$qz$z$rz$z$Pz$EVEz$PGEz$FKz$z$WIz$FVEz$GVEz$QLz$OSDz$HVEz$IVEz$IKz$JVEz$Wrz$Xrz$Yrz$DQz$KVEz$LVEz$MVEz$NVEz$Tqz$Xqz$OVEz$qoCz$PVEz$ZLBz$z$Uz$Qwz$QVEz$GVEz$QLz$wNCz$UBz$VBz$z$Uz$cNz$RVEz$BLz$SVEz$TVEz$naBz$vmDz$ckDz$wVDz$UVEz$IKz$VVEz$WVEz$MBCz$XVEz$YVEz$Zrz$z$Vz$ZVEz$QMz$sKz$aVEz$bVEz$cVEz$WHz$cDz$dDz$z$EGz$ZUEz$RLDz$SLDz$z$gGBz$dVEz$eVEz$fVEz$gVEz$GVEz$QLz$hVEz$z$iVEz$jVEz$kVEz$lVEz$mVEz$nVEz$AVEz$z$oVEz$pVEz$qVEz$rVEz$sVEz$z$eWBz$z$oz$pz$z$qz$z$gBz$z$EGz$ZUEz$RLDz$SLDz$z$tVEz$eVEz$uVEz$vVEz$wVEz$z$xVEz$yVEz$QLz$dDz$z$iVEz$jVEz$kVEz$lVEz$AWEz$BWEz$CWEz$z$eWBz$z$DWEz$EWEz$FWEz$GWEz$BLz$mwz$Qrz$Rrz$Srz$eOz$z$qz$z$rz$z$Pz$HWEz$eDDz$MFz$z$USz$IWEz$JWEz$Spz$YVz$nVCz$z$Nfz$iiCz$KWEz$LWEz$MWEz$dDz$z$NWEz$OWEz$PWEz$eOz$z$Tfz$z$jfz$z$EGz$QWEz$RWEz$eWBz$z$SWEz$TWEz$UWEz$VWEz$WWEz$dADz$XWEz$Ppz$TOCz$z$YWEz$ZWEz$aWEz$bWEz$cWEz$aGz$dWEz$eWEz$iFz$z$LYz$MYz$lIz$xaz$fWEz$gWEz$SaBz$z$eWBz$z$oz$pz$z$Tfz$z$pfz$z$rz$z$NZDz$hWEz$iWEz$bCz$z$jWEz$kWEz$lWEz$z$kWEz$QMz$sKz$lWEz$z$XABz$UFz$mWEz$nWEz$oWEz$boCz$pKz$VvDz$dz$z$jWEz$kWEz$pWEz$jWEz$bKz$WoCz$qWEz$PDz$z$qz$z$Uz$AwCz$rWEz$sWEz$UVBz$Ltz$PHz$bgDz$tWEz$uWEz$AGz$vWEz$UBz$VBz$z$jWEz$kWEz$pWEz$UKEz$tWEz$uWEz$AGz$wWEz$DSDz$JlBz$xWEz$yWEz$RjBz$ZLBz$z$qz$z$Uz$AwCz$rWEz$sWEz$UVBz$Ltz$PHz$bgDz$iSEz$yKEz$YNEz$QLz$jSEz$cDz$dDz$z$jWEz$kWEz$AXEz$YHz$LCz$z$qz$z$Uz$AwCz$rWEz$sWEz$UVBz$Ltz$PHz$bgDz$BXEz$SnCz$CXEz$pKz$DXEz$cDz$dDz$z$jWEz$kWEz$EXEz$enCz$LCz$z$qz$z$Uz$AwCz$rWEz$sWEz$UVBz$Ltz$PHz$bgDz$VKEz$FXEz$GXEz$pKz$DXEz$cDz$dDz$z$jWEz$kWEz$HXEz$IXEz$BUz$JXEz$z$qz$z$Uz$AwCz$rWEz$sWEz$UVBz$Ltz$PHz$bgDz$gYz$QKz$eODz$pKz$DXEz$cDz$dDz$z$jWEz$kWEz$KXEz$xmz$LCz$z$qz$z$Uz$AwCz$rWEz$sWEz$UVBz$Ltz$PHz$bgDz$LXEz$Kjz$MXEz$pKz$DXEz$cDz$dDz$z$jWEz$kWEz$NXEz$hiz$LCz$z$qz$z$Uz$AwCz$rWEz$sWEz$UVBz$Ltz$PHz$bgDz$OXEz$PXEz$QXEz$pKz$DXEz$cDz$dDz$z$jWEz$kWEz$RXEz$SXEz$LCz$z$qz$z$Uz$AwCz$rWEz$sWEz$UVBz$Ltz$PHz$bgDz$VKEz$eODz$pKz$DXEz$cDz$dDz$z$jWEz$kWEz$pWEz$UKEz$VKEz$eODz$pKz$JkDz$kez$ZGBz$TXEz$PDz$z$qz$z$jWEz$kWEz$pWEz$ez$yACz$UXEz$VXEz$XKBz$jhCz$LpCz$MpCz$NpCz$OpCz$MpCz$BJCz$z$Uz$cNz$jWEz$kWEz$OKz$WXEz$hiz$XXEz$YXEz$ZXEz$sYz$WHz$cDz$dDz$z$jWEz$kWEz$NXEz$hiz$LCz$z$qz$z$Nfz$yACz$UXEz$VXEz$NCBz$z$Ejz$aXEz$z$XABz$UFz$mWEz$nWEz$oWEz$boCz$pKz$VvDz$dz$z$kWEz$QMz$sKz$pWEz$jWEz$bKz$WoCz$Lxz$bXEz$cXEz$Avz$Cvz$ZLBz$z$qz$z$Uz$AwCz$dXEz$QVCz$IKz$EGBz$Ltz$PHz$bgDz$tWEz$uWEz$AGz$vWEz$UBz$VBz$z$kWEz$QMz$sKz$pWEz$UKEz$tWEz$uWEz$AGz$wWEz$DSDz$JlBz$xWEz$yWEz$eXEz$fXEz$gXEz$z$qz$z$Tfz$z$lLz$hXEz$iXEz$jXEz$z$kWEz$QMz$sKz$pWEz$EGz$nUz$kXEz$lXEz$BLz$mwz$lhCz$xVDz$mXEz$nXEz$bRBz$GwCz$oXEz$pXEz$BJCz$z$Nfz$qXEz$SYDz$BLz$DhBz$NCBz$z$gfz$z$kWEz$QMz$sKz$rXEz$sXEz$tXEz$z$Tfz$z$ffz$z$kWEz$QMz$sKz$uXEz$vXEz$PDz$z$Tfz$z$efz$z$kWEz$QMz$sKz$wXEz$xXEz$PDz$z$Tfz$z$pfz$z$Tfz$z$JnCz$yXEz$sYz$eOz$z$jWEz$kWEz$AYEz$IXEz$dMz$BYEz$z$kWEz$QMz$sKz$pWEz$SKz$XKCz$CYEz$DYEz$xLCz$EYEz$hiz$iiz$NKz$HXDz$FYEz$JVBz$GYEz$HYEz$IYEz$JYEz$bQz$SYz$KYEz$LYEz$MYEz$roCz$NYEz$OYEz$PYEz$lhCz$xVDz$QYEz$RYEz$SYEz$PDz$z$Tfz$z$VLEz$TYEz$QKz$UYEz$hiz$eOz$z$kWEz$QMz$sKz$pWEz$SKz$XKCz$CYEz$DYEz$xLCz$VYEz$jWEz$kWEz$WYEz$pKz$lsCz$HGBz$XYEz$YYEz$ZYEz$HMEz$aYEz$bYEz$roCz$NYEz$cYEz$PYEz$lhCz$xVDz$dYEz$nXEz$bRBz$GwCz$eYEz$sYz$nXEz$bRBz$uuz$QRCz$RRCz$fYEz$z$Tfz$z$gYEz$vuDz$hYEz$iYEz$z$jWEz$kWEz$jYEz$SXEz$PDz$z$kWEz$QMz$sKz$pWEz$UKEz$VKEz$eODz$pKz$JkDz$kez$ZGBz$QKEz$kYEz$TXEz$PDz$z$Tfz$z$jfz$z$XABz$UFz$mWEz$nWEz$oWEz$boCz$pKz$VvDz$dz$z$kWEz$QMz$sKz$pWEz$jWEz$bKz$WoCz$Lxz$bXEz$cXEz$Avz$Cvz$ZLBz$z$qz$z$Uz$AwCz$dXEz$QVCz$IKz$EGBz$Ltz$PHz$bgDz$VKEz$eODz$pKz$DXEz$cDz$dDz$z$kWEz$QMz$sKz$pWEz$UKEz$VKEz$eODz$pKz$JkDz$kez$ZGBz$QKEz$kYEz$TXEz$PDz$z$qz$z$Tfz$z$pfz$z$Uz$AwCz$rWEz$sWEz$UVBz$lYEz$vQz$kWEz$QMz$sKz$WHz$cDz$dDz$z$EGz$ZUEz$RLDz$SLDz$z$mYEz$nYEz$oYEz$pYEz$z$qYEz$rYEz$z$eWBz$z$oz$pz$z$qz$z$rz$z$jFz$CXCz$igz$Tz$z$sYEz$tYEz$uYEz$vYEz$adDz$FKz$z$YuBz$ANDz$bUEz$wYEz$xYEz$yYEz$AZEz$BZEz$yjz$Akz$Fuz$FaCz$z$rz$z$Nfz$yACz$UXEz$VXEz$NCBz$z$Ejz$xKEz$yKEz$CZEz$DZEz$EZEz$z$WIz$kmBz$FZEz$GZEz$HZEz$ciz$aNDz$z$IZEz$NZDz$hFz$FmBz$MFz$z$Uz$AwCz$dXEz$FZEz$GZEz$HZEz$ciz$WHz$cDz$dDz$z$DWEz$EWEz$JZEz$GsCz$KZEz$LZEz$MZEz$qGCz$NZEz$z$OZEz$IZEz$NZDz$hFz$PZEz$z$qz$z$rz$z$ujz$vjz$SHz$DQDz$QZEz$nFz$UBz$VBz$z$IZEz$NZDz$hFz$DWz$z$DWEz$EWEz$JZEz$GsCz$KZEz$LZEz$QXDz$JWz$tLDz$RZEz$vjBz$SZEz$ySBz$kfBz$lfBz$TZEz$z$qz$z$ujz$vjz$SHz$DQDz$QZEz$UZEz$IDz$z$IZEz$NZDz$hFz$DWz$z$DWEz$EWEz$JZEz$GsCz$KZEz$LZEz$QXDz$JWz$tLDz$RZEz$mQEz$nQEz$VZEz$z$qz$z$ujz$vjz$SHz$DQDz$QZEz$ZCz$WZEz$cDz$dDz$z$IZEz$NZDz$hFz$DWz$z$DWEz$EWEz$JZEz$GsCz$KZEz$LZEz$QXDz$JWz$tLDz$RZEz$XZEz$YZEz$ZZEz$z$qz$z$ujz$vjz$SHz$DQDz$QZEz$HbBz$IbBz$UBz$VBz$z$IZEz$NZDz$hFz$DWz$z$DWEz$EWEz$JZEz$GsCz$KZEz$LZEz$QXDz$JWz$tLDz$RZEz$SkBz$xGz$TZEz$z$qz$z$ujz$aZEz$bZEz$rZz$AZEz$cZEz$IDz$z$IZEz$NZDz$hFz$DWz$z$DWEz$EWEz$JZEz$GsCz$KZEz$LZEz$QXDz$JWz$tLDz$RZEz$dZEz$GGz$eZEz$fZEz$z$qz$z$Tfz$z$VLEz$TYEz$QKz$UYEz$hiz$gZEz$hZEz$SaBz$iZEz$jZEz$z$Uz$yACz$UXEz$VXEz$Biz$VLEz$rqDz$Ltz$tmDz$kZEz$BXCz$QLz$ZNEz$lZEz$mZEz$cz$dz$z$ujz$vjz$SHz$DQDz$QZEz$nFz$UBz$VBz$z$DWEz$EWEz$JZEz$GsCz$nZEz$oZEz$RZEz$mtz$sez$vjBz$SZEz$ySBz$kfBz$lfBz$TZEz$z$qz$z$ujz$vjz$SHz$DQDz$QZEz$UZEz$IDz$z$DWEz$EWEz$JZEz$GsCz$nZEz$oZEz$RZEz$mtz$sez$mQEz$nQEz$VZEz$z$qz$z$ujz$vjz$SHz$DQDz$QZEz$ZCz$WZEz$cDz$dDz$z$DWEz$EWEz$JZEz$GsCz$nZEz$oZEz$RZEz$mtz$sez$XZEz$YZEz$ZZEz$z$qz$z$ujz$vjz$SHz$DQDz$QZEz$HbBz$IbBz$UBz$VBz$z$DWEz$EWEz$JZEz$GsCz$nZEz$oZEz$RZEz$mtz$sez$SkBz$xGz$TZEz$z$qz$z$ujz$aZEz$bZEz$rZz$AZEz$pZEz$qZEz$YuBz$ANDz$bUEz$rZEz$sZEz$Bkz$dz$z$DWEz$EWEz$JZEz$GsCz$nZEz$oZEz$RZEz$mtz$sez$tZEz$Gpz$eOz$z$qz$z$QDz$tmDz$uZEz$vZEz$esDz$wZEz$SXEz$WHz$cDz$dDz$z$ujz$vjz$SHz$DQDz$QZEz$nFz$UBz$VBz$z$DWEz$EWEz$JZEz$GsCz$xZEz$Ztz$IWz$JWz$yZEz$mTz$AaEz$JMz$KMz$BaEz$eOz$z$qz$z$ujz$vjz$SHz$DQDz$QZEz$UZEz$IDz$z$DWEz$EWEz$JZEz$GsCz$xZEz$Ztz$IWz$JWz$CaEz$IGz$DaEz$z$qz$z$ujz$vjz$SHz$DQDz$QZEz$ZCz$WZEz$cDz$dDz$z$DWEz$EWEz$JZEz$GsCz$xZEz$Ztz$IWz$JWz$EaEz$FaEz$XQDz$VZEz$z$qz$z$ujz$vjz$SHz$DQDz$QZEz$HbBz$IbBz$UBz$VBz$z$DWEz$EWEz$JZEz$GsCz$xZEz$Ztz$IWz$JWz$CaEz$fbBz$gbBz$eOz$z$qz$z$ujz$aZEz$bZEz$rZz$AZEz$pZEz$qZEz$YuBz$ANDz$bUEz$rZEz$sZEz$Bkz$dz$z$DWEz$EWEz$JZEz$GsCz$xZEz$Ztz$IWz$JWz$GaEz$sZEz$HaEz$z$qz$z$gBz$z$ujz$vjz$SHz$DQDz$QZEz$nFz$UBz$VBz$z$DWEz$EWEz$JZEz$GsCz$IaEz$pnCz$RZEz$mtz$sez$vjBz$SZEz$ySBz$kfBz$lfBz$TZEz$z$qz$z$ujz$vjz$SHz$DQDz$QZEz$UZEz$IDz$z$DWEz$EWEz$JZEz$GsCz$IaEz$pnCz$RZEz$mtz$sez$mQEz$nQEz$VZEz$z$qz$z$ujz$vjz$SHz$DQDz$QZEz$ZCz$WZEz$cDz$dDz$z$DWEz$EWEz$JZEz$GsCz$IaEz$pnCz$RZEz$mtz$sez$XZEz$YZEz$ZZEz$z$qz$z$ujz$vjz$SHz$DQDz$QZEz$HbBz$IbBz$oaBz$paBz$JaEz$KaEz$dz$z$DWEz$EWEz$JZEz$GsCz$IaEz$pnCz$RZEz$mtz$sez$SkBz$xGz$TZEz$z$qz$z$ujz$aZEz$bZEz$rZz$AZEz$pZEz$qZEz$YuBz$ANDz$bUEz$rZEz$sZEz$Bkz$dz$z$DWEz$EWEz$JZEz$GsCz$IaEz$pnCz$RZEz$mtz$sez$tZEz$Gpz$eOz$z$qz$z$qz$z$Tfz$z$jfz$z$EGz$ZUEz$RLDz$SLDz$z$LaEz$Vkz$MaEz$jWEz$kWEz$qjz$kWEz$QMz$sKz$rz$z$eWBz$z$oz$pz$z$Tfz$z$pfz$z$rz$z$Pz$NaEz$OaEz$DYDz$Tz$z$PaEz$vjz$SHz$DQDz$QZEz$QaEz$RaEz$tZEz$SaEz$Wrz$Xrz$raBz$PgDz$TaEz$dz$z$tTCz$z$vXBz$UaEz$z$VaEz$vYEz$HSEz$WaEz$XaEz$YaEz$ZaEz$aaEz$kTCz$SaEz$Wrz$Xrz$raBz$saBz$z$VaEz$vYEz$baEz$caEz$XaEz$YaEz$ZaEz$aaEz$kTCz$daEz$z$eOz$z$QDz$vjz$SHz$DQDz$QZEz$eaEz$faEz$IDz$z$tTCz$z$vXBz$UaEz$z$eaEz$sUz$gaEz$YaEz$ZaEz$haEz$yjz$Akz$Fuz$FaCz$z$eaEz$sUz$iaEz$YaEz$ZaEz$ggDz$z$eOz$z$gBz$z$EGz$ZUEz$aUEz$IPEz$z$jaEz$kaEz$yYEz$laEz$maEz$naEz$oaEz$tZEz$paEz$z$qaEz$raEz$saEz$AVEz$z$taEz$NfDz$uaEz$vaEz$eaEz$waEz$z$eWBz$z$oz$pz$z$qz$z$Uz$xaEz$waBz$eLCz$vEz$IDz$z$EGz$ZUEz$aUEz$IPEz$z$yaEz$AbEz$BbEz$z$CbEz$DbEz$nNz$EbEz$FbEz$GbEz$HbEz$z$IbEz$JbEz$KbEz$LbEz$pRCz$MbEz$AVEz$z$eWBz$z$oz$pz$z$qz$z$rz$z$UPCz$NTBz$VGEz$THEz$FKz$z$WIz$NbEz$ObEz$z$WIz$PbEz$QbEz$MDz$z$DWEz$EWEz$RbEz$SbEz$TbEz$QZz$aWDz$khDz$CPBz$ySBz$kfBz$lfBz$qvBz$tQz$eOz$z$Uz$xaEz$waBz$eLCz$vEz$IDz$z$EGz$ZUEz$RLDz$SLDz$z$UbEz$VbEz$WbEz$XbEz$lqCz$lIz$xaz$YbEz$ZbEz$abEz$z$bbEz$cbEz$dbEz$ebEz$fbEz$lIz$xaz$gbEz$z$eWBz$z$oz$pz$z$qz$z$rz$z$jFz$CXCz$hbEz$ibEz$bCz$z$tTCz$z$vXBz$UaEz$z$bLz$JABz$cNz$PTEz$dMBz$QTEz$jbEz$Gsz$kbEz$z$lbEz$mbEz$nbEz$obEz$pbEz$UVz$qbEz$z$lbEz$mbEz$nbEz$obEz$pbEz$bIz$dDz$z$eOz$z$ujz$DQz$Ajz$rbEz$sbEz$tbEz$mPCz$OXEz$SiBz$ubEz$IDz$z$tTCz$z$vXBz$UaEz$z$Laz$nLEz$vbEz$wbEz$VIz$LTEz$xbEz$tFEz$ybEz$AcEz$BcEz$QOCz$CcEz$hbEz$DcEz$Qrz$Rrz$EcEz$z$eOz$z$qz$z$WIz$FcEz$iWBz$GcEz$OSDz$HcEz$aqz$IcEz$vPDz$JcEz$KcEz$sbEz$LcEz$z$UPCz$NTBz$VGEz$YKCz$PTEz$dMBz$eTEz$McEz$rQz$sbEz$NcEz$wJBz$z$kVz$lVz$rQz$sbEz$NcEz$wJBz$z$ujz$OcEz$hbEz$PcEz$QcEz$RcEz$Wrz$Xrz$Yrz$DQz$Ajz$ScEz$TcEz$UcEz$TaEz$dz$z$EGz$ZUEz$RLDz$SLDz$z$VcEz$DcEz$WcEz$XcEz$YcEz$z$ZcEz$acEz$bcEz$ccEz$dcEz$ecEz$fcEz$z$qYEz$gcEz$hcEz$AVEz$z$eWBz$z$tTCz$z$vXBz$UaEz$z$xVEz$yVEz$QLz$dDz$z$eOz$z$oz$pz$z$qz$z$WIz$FcEz$iWBz$icEz$jcEz$OSDz$HcEz$aqz$IcEz$vPDz$JcEz$kcEz$lcEz$deCz$BjBz$mcEz$z$UPCz$NTBz$VGEz$YKCz$PTEz$dMBz$QTEz$eTEz$McEz$rQz$sbEz$ncEz$ocEz$wJBz$z$SYz$pcEz$qcEz$rcEz$QMBz$scEz$tcEz$ucEz$vcEz$aqz$IcEz$vPDz$wcEz$HcEz$aqz$IcEz$vPDz$xcEz$REz$z$ycEz$iWBz$icEz$jcEz$oiBz$z$RMEz$fMDz$gMDz$THEz$FKz$z$WIz$FcEz$AdEz$BdEz$z$XABz$UFz$mWEz$nWEz$CdEz$UBz$VBz$z$sPCz$DdEz$EdEz$FdEz$IQz$piz$GdEz$HdEz$IdEz$z$JdEz$KdEz$LdEz$z$QDz$vjz$SHz$DQDz$QZEz$Nrz$Orz$UBz$VBz$z$Nrz$Orz$LrBz$IQz$piz$GdEz$HdEz$IdEz$z$JdEz$KdEz$LdEz$z$qz$z$Uz$rQz$MdEz$yUCz$Psz$NdEz$cDz$dDz$z$EGz$ZUEz$RLDz$SLDz$z$OdEz$PdEz$QdEz$RdEz$SdEz$TdEz$UdEz$VdEz$WdEz$z$XdEz$YdEz$ZdEz$adEz$bdEz$cdEz$ddEz$edEz$z$fdEz$gdEz$hdEz$idEz$jdEz$z$kdEz$ldEz$mdEz$ndEz$cdEz$AVEz$z$odEz$pdEz$qdEz$PdEz$cdEz$AADz$z$eWBz$z$XABz$UFz$mWEz$nWEz$CdEz$UBz$VBz$z$rdEz$sdEz$sz$z$gBz$z$Nrz$Orz$z$qz$z$WIz$tdEz$udEz$z$hCz$vdEz$z$Ugz$z$Ndz$Odz$NXCz$wdEz$cdEz$xdEz$ydEz$AeEz$Swz$BeEz$z$ez$z$Uz$Qwz$CeEz$DeEz$vEz$IDz$z$SYz$pcEz$qcEz$EeEz$FeEz$GeEz$HeEz$IeEz$JeEz$wcEz$KeEz$LeEz$MeEz$ycEz$iWBz$icEz$jcEz$oiBz$z$gBz$z$ez$NeEz$OeEz$PeEz$QeEz$APz$z$ReEz$phDz$z$qz$z$iKBz$jKBz$z$vCz$z$qz$z$rz$z$RMEz$fMDz$gMDz$VTz$z$kVz$lVz$rQz$sbEz$ncEz$ocEz$wJBz$z$WIz$FcEz$iWBz$icEz$SeEz$BUEz$iZz$TeEz$z$WIz$FcEz$iWBz$icEz$SeEz$BUEz$iZz$UeEz$VeEz$z$XABz$UFz$mWEz$nWEz$WeEz$Ipz$XeEz$cDz$dDz$z$hbEz$PcEz$YeEz$DUz$ZeEz$QZz$aeEz$QDDz$Obz$nHCz$Obz$sGDz$gCBz$lHCz$nACz$tGDz$QdBz$Bsz$z$hbEz$PcEz$YeEz$DUz$ZeEz$QZz$beEz$iJz$PTEz$dMBz$QTEz$xTEz$yTEz$xuz$WMBz$nz$z$UPCz$NTBz$VGEz$YKCz$hbEz$PcEz$YeEz$DUz$ZeEz$QZz$beEz$YoCz$hbEz$PcEz$YeEz$DUz$ZeEz$QZz$PDz$z$QDz$vjz$SHz$DQDz$QZEz$BUz$ceEz$cDz$dDz$z$hbEz$PcEz$YeEz$DUz$ZeEz$QZz$mHCz$deEz$eeEz$PcBz$gCBz$lHCz$nACz$nz$z$Nfz$yACz$UXEz$VXEz$NCBz$z$Ejz$xKEz$yKEz$CZEz$DZEz$EZEz$z$hbEz$PcEz$YeEz$DUz$ZeEz$QZz$beEz$iJz$PTEz$dMBz$QTEz$gCBz$lHCz$xuz$nTEz$oTEz$eMBz$PDz$z$UPCz$NTBz$VGEz$YKCz$hbEz$PcEz$YeEz$DUz$ZeEz$QZz$beEz$YoCz$hbEz$PcEz$YeEz$DUz$ZeEz$QZz$PDz$z$kVz$lVz$rQz$sbEz$ncEz$feEz$qaz$geEz$HdDz$z$Tfz$z$VLEz$TYEz$QKz$UYEz$hiz$gZEz$hZEz$SaBz$iZEz$jZEz$z$hbEz$PcEz$YeEz$DUz$ZeEz$QZz$beEz$iJz$PTEz$dMBz$QTEz$gCBz$lHCz$xuz$uTEz$vTEz$eMBz$PDz$z$UPCz$NTBz$VGEz$YKCz$hbEz$PcEz$YeEz$DUz$ZeEz$QZz$beEz$YoCz$hbEz$PcEz$YeEz$DUz$ZeEz$QZz$PDz$z$kVz$lVz$rQz$sbEz$ncEz$feEz$qaz$geEz$HdDz$z$Tfz$z$jfz$z$ez$heEz$ieEz$jeEz$keEz$leEz$PDz$z$oz$pz$z$Tfz$z$pfz$z$gBz$z$EGz$ZUEz$aUEz$IPEz$z$gGBz$meEz$EXDz$PSBz$neEz$oeEz$QdBz$peEz$qeEz$reEz$z$seEz$teEz$Obz$ueEz$oeEz$QdBz$veEz$weEz$xeEz$z$eWBz$z$oz$pz$z$qz$z$ez$yeEz$AfEz$BfEz$CfEz$DfEz$EfEz$HcEz$aqz$IcEz$vPDz$FfEz$GfEz$HfEz$WVz$PDz$z$rz$z$jFz$CXCz$YeEz$IfEz$bCz$z$WIz$mHz$JfEz$KfEz$LfEz$QMBz$scEz$tcEz$MfEz$NfEz$UVz$OfEz$PfEz$QfEz$yLCz$z$WIz$WSBz$xmCz$dCz$z$UPCz$NTBz$RfEz$SfEz$Tz$z$UPCz$NTBz$VGEz$YKCz$QTEz$EUEz$McEz$yACz$TfEz$HdDz$z$XABz$UFz$mWEz$nWEz$UfEz$esCz$UBz$VBz$z$tTCz$z$vXBz$UaEz$z$ez$cNz$QTEz$EUEz$VfEz$uuBz$WfEz$QZz$FQz$XfEz$YfEz$ZfEz$z$eOz$z$Uz$xaEz$waBz$eLCz$vEz$IDz$z$Uz$Ovz$afEz$bVEz$bfEz$WHz$cDz$dDz$z$ez$cfEz$dfEz$efEz$ffEz$dhz$PDz$z$UOEz$gfEz$hfEz$ifEz$jfEz$kfEz$z$UEz$dNCz$z$UPCz$NTBz$RfEz$SfEz$z$gBz$z$EGz$ZUEz$RLDz$SLDz$z$lfEz$mfEz$nfEz$ofEz$z$pfEz$qfEz$rfEz$sfEz$z$eWBz$z$oz$pz$z$qz$z$qz$z$qz$z$rz$z$UPCz$NTBz$RfEz$SfEz$z$kVz$lVz$yACz$TfEz$HdDz$z$rz$z$DPBz$ICCz$tfEz$eRDz$PGEz$FKz$z$WIz$lSDz$Gaz$EiBz$pWEz$rUz$sUz$ufEz$vfEz$wfEz$xfEz$mVBz$yfEz$Qrz$Rrz$Wtz$PDz$z$Uz$AwCz$AgEz$Gaz$EiBz$BgEz$rMBz$tfEz$CgEz$DgEz$fsDz$WHz$cDz$dDz$z$tTCz$z$vXBz$UaEz$z$ez$QUz$cUz$EgEz$tfEz$eRDz$FgEz$eCCz$XUz$YUz$ZUz$aUz$bUz$z$rUz$sUz$GgEz$YUz$ZUz$aUz$HgEz$Wrz$Xrz$HUz$z$eOz$z$qz$z$rz$z$IgEz$hYz$YhBz$FKz$z$JgEz$IRDz$bCz$z$WIz$VyBz$WyBz$fDz$z$YZCz$sQBz$KgEz$LgEz$yjz$Akz$Fuz$MgEz$uFBz$z$Vz$UKz$NgEz$OgEz$PgEz$JjBz$BTCz$SBz$QgEz$RgEz$SgEz$z$rz$z$WIz$tdEz$udEz$z$Uz$AwCz$TgEz$UgEz$VgEz$WgEz$XgEz$YLz$YgEz$VBCz$RKDz$bbBz$WUEz$XUEz$MHBz$UBz$VBz$z$hCz$vdEz$z$Ugz$z$Ndz$Odz$NXCz$ZgEz$agEz$bgEz$NLCz$WqCz$cgEz$CFz$z$ez$z$Uz$Qwz$CeEz$DeEz$eNz$dgEz$VBCz$egEz$aqCz$UBz$VBz$z$bbBz$WUEz$XUEz$YUEz$CeEz$DeEz$z$gBz$z$ez$NeEz$fgEz$JRDz$ggEz$jZCz$hgEz$igEz$z$ReEz$phDz$z$qz$z$iKBz$jKBz$z$vCz$z$qz$z$EGz$ZUEz$RLDz$SLDz$z$WECz$WECz$WECz$WECz$WECz$WECz$YDEz$z$jgEz$kgEz$lgEz$mgEz$ngEz$cDBz$rz$z$WECz$WECz$WECz$WECz$WECz$WECz$YDEz$z$eWBz$z$rz$z$ogEz$wlz$GXz$MFz$z$tTCz$z$vXBz$UaEz$z$UEz$dNCz$z$ZCz$IZBz$pgEz$rRBz$qgEz$yjz$sVz$rgEz$YBDz$sgEz$bbBz$WUEz$XUEz$gXBz$pSDz$yjz$Akz$nGz$z$eOz$z$fuz$tgEz$gwz$z$rz$z$DPBz$ugEz$JHz$vgEz$MFz$z$XABz$UFz$mWEz$nWEz$WeEz$Ipz$XeEz$cDz$dDz$z$tTCz$z$vXBz$UaEz$z$uGz$vGz$SeBz$TeBz$iiz$UeBz$z$uGz$vGz$wGz$xGz$cNz$gCBz$lHCz$nACz$tGDz$QdBz$Bsz$z$eOz$z$QDz$vjz$SHz$DQDz$QZEz$BUz$ceEz$cDz$dDz$z$Nfz$yACz$UXEz$VXEz$NCBz$z$Ejz$xKEz$yKEz$CZEz$DZEz$EZEz$z$tTCz$z$vXBz$UaEz$z$hFz$wgEz$xgEz$hnBz$yyBz$MQCz$ygEz$AhEz$BhEz$xRBz$lPz$z$eOz$z$Tfz$z$VLEz$TYEz$QKz$UYEz$hiz$gZEz$hZEz$SaBz$iZEz$jZEz$z$tTCz$z$vXBz$UaEz$z$LbDz$hYz$ChEz$nLEz$DhEz$qeCz$EhEz$DACz$PDz$z$LbDz$hYz$FhEz$lcEz$deCz$BjBz$GhEz$ikBz$z$eOz$z$Tfz$z$pfz$z$qz$z$rz$z$DUz$HhEz$QdBz$THEz$FKz$z$XABz$UFz$mWEz$nWEz$WeEz$Ipz$XeEz$cDz$dDz$z$tTCz$z$vXBz$UaEz$z$UEz$dNCz$z$uGz$vGz$mPBz$nPBz$MhBz$MQCz$ygEz$IhEz$z$eOz$z$gBz$z$tTCz$z$vXBz$UaEz$z$UEz$dNCz$z$BUz$xaDz$MhBz$MQCz$ygEz$JhEz$DUz$ePz$z$eOz$z$qz$z$Uz$xaEz$waBz$eLCz$YVEz$KhEz$ogEz$wlz$LhEz$IDz$z$MhEz$NhEz$sez$z$EGz$ZUEz$RLDz$SLDz$z$OhEz$rCDz$ofEz$z$PhEz$QhEz$RhEz$ShEz$z$ThEz$UhEz$VhEz$WhEz$AVEz$z$eWBz$z$oz$pz$z$qz$z$rz$z$XhEz$jFz$jaBz$bCz$z$JIz$KIz$z$EGz$ZUEz$RLDz$SLDz$z$YhEz$ZhEz$ahEz$bhEz$z$chEz$xYDz$dhEz$UgEz$VgEz$WgEz$ehEz$z$fhEz$ghEz$hhEz$z$LfEz$QMBz$scEz$tcEz$ihEz$OXEz$wADz$hZDz$lPz$z$jhEz$khEz$lhEz$mhEz$z$eWBz$z$XABz$UFz$mWEz$nWEz$WeEz$Ipz$XeEz$cDz$dDz$z$EGz$ZUEz$RLDz$SLDz$z$nhEz$uGz$vGz$ohEz$qaz$phEz$qhEz$DUz$rhEz$lcEz$deCz$BjBz$KODz$z$shEz$thEz$uhEz$vhEz$z$eWBz$z$gBz$z$EGz$ZUEz$RLDz$SLDz$z$nhEz$BUz$xaDz$yyBz$MQCz$ygEz$whEz$xhEz$yhEz$AiEz$uYz$BiEz$z$shEz$thEz$uhEz$vhEz$z$eWBz$z$qz$z$EGz$ZUEz$RLDz$SLDz$z$CiEz$DiEz$EiEz$FiEz$GiEz$z$HiEz$IiEz$JiEz$z$eWBz$z$ez$fz$LJz$uBz$KiEz$LiEz$yBz$omCz$z$ez$MiEz$NiEz$tGz$z$Ndz$Qwz$OiEz$KjCz$PNz$PDz$z$ez$yHz$z$JIz$KIz$z$rz$z$MhEz$NhEz$sez$Tz$z$Pz$diDz$qNz$z$NZDz$hWEz$PiEz$z$XABz$UFz$mWEz$nWEz$WeEz$Ipz$XeEz$cDz$dDz$z$uGz$vGz$mPBz$QiEz$yyBz$MQCz$ygEz$eKDz$BUz$pHCz$eqz$fqz$gqz$z$tTCz$z$vXBz$UaEz$z$uGz$vGz$kmBz$lmBz$YKCz$lcEz$deCz$BjBz$RiEz$JHz$SiEz$Qrz$Rrz$EcEz$z$VPz$Diz$pWz$uGz$nmBz$uGz$TiEz$lcEz$deCz$BjBz$RiEz$JHz$UiEz$z$eOz$z$QDz$vjz$SHz$DQDz$QZEz$BUz$ceEz$cDz$dDz$z$BUz$xaDz$DhEz$qeCz$EhEz$DACz$ViEz$WiEz$Wrz$Xrz$HUz$z$Nfz$yACz$UXEz$VXEz$NCBz$z$Ejz$xKEz$yKEz$CZEz$DZEz$EZEz$z$tTCz$z$vXBz$UaEz$z$hFz$wgEz$xgEz$hnBz$yyBz$MQCz$ygEz$AhEz$XiEz$Buz$Qrz$Rrz$EcEz$z$eOz$z$Tfz$z$VLEz$TYEz$QKz$UYEz$hiz$gZEz$hZEz$SaBz$iZEz$jZEz$z$tTCz$z$vXBz$UaEz$z$LbDz$hYz$FhEz$lcEz$deCz$BjBz$GhEz$YiEz$Qrz$Rrz$EcEz$z$LbDz$hYz$ChEz$ZiEz$DhEz$qeCz$EhEz$DACz$pSDz$yjz$Akz$nGz$z$eOz$z$Tfz$z$pfz$z$tTCz$z$vXBz$UaEz$z$VPz$Diz$ZYz$BADz$aiEz$lcEz$deCz$BjBz$mcEz$z$eOz$z$qz$z$tTCz$z$vXBz$UaEz$z$LfEz$QMBz$scEz$tcEz$biEz$jWz$yyBz$MQCz$ygEz$whEz$ciEz$Wrz$Xrz$HUz$z$VPz$XiDz$LfEz$QMBz$scEz$tcEz$diEz$z$eOz$z$rz$z$eiEz$JWz$yYz$MFz$z$Pz$diDz$qNz$z$Pz$oUEz$DjDz$z$Pz$EVEz$OHz$z$Pz$HWEz$fiEz$z$NZDz$hWEz$PiEz$z$IgEz$hYz$STz$z$jFz$CXCz$igz$z$DPBz$ICCz$tfEz$eRDz$OHz$z$Pz$NaEz$OaEz$DYDz$z$jFz$CXCz$hbEz$iADz$z$jFz$CXCz$YeEz$giEz$z$DUz$HhEz$QdBz$VTz$z$DPBz$ugEz$JHz$XQCz$z$XhEz$jFz$fkBz$z$rz$z$hWBz$iPz$hiEz$pBDz$sez$UiBz$z$Nfz$EMBz$FVBz$YGCz$dDz$z$jFz$sGCz$Gbz$Hbz$Guz$z$iiEz$jiEz$CLz$z$Tfz$z$jfz$z$EGz$ZUEz$RLDz$SLDz$z$kiEz$liEz$miEz$niEz$rHz$oiEz$jFz$sGCz$Gbz$Hbz$nGz$z$eWBz$z$oz$piEz$z$pfz$z$rz$z$HgDz$Sz$rSEz$qiEz$Tz$z$Ndz$Odz$NXCz$riEz$nJEz$siEz$tiEz$uiEz$sYz$z$Uz$fiz$CYz$giz$hiz$iiz$NKz$bDz$cDz$dDz$z$ez$nmz$viEz$sYz$wiEz$uiEz$sYz$bQz$eFEz$xiEz$CYz$giz$RSDz$FYz$yiEz$fqz$gqz$z$ez$AjEz$nJEz$PHEz$wiEz$uiEz$sYz$PDz$z$QDz$RDz$ouz$ZYz$koCz$bKz$WoCz$HDz$IDz$z$eFEz$roCz$cMz$BjEz$xiBz$XTz$CjEz$DjEz$orz$prz$EjEz$byCz$LTz$DFDz$LXEz$OGBz$FjEz$bUz$z$ez$AjEz$nJEz$PHEz$wiEz$uiEz$sYz$PDz$z$QDz$RDz$ouz$ZYz$lLz$GjEz$IKz$HjEz$cz$dz$z$eFEz$roCz$cMz$BjEz$xiBz$XTz$CjEz$DjEz$orz$prz$EjEz$byCz$LTz$DFDz$LXEz$OGBz$FjEz$bUz$z$ez$AjEz$nJEz$PHEz$wiEz$uiEz$sYz$PDz$z$gBz$z$ez$sLEz$tLEz$IjEz$z$qz$z$rz$z$JjEz$KjEz$LjEz$z$VhCz$WhCz$MjEz$oJBz$z$tCCz$NjEz$OjEz$LBBz$z$PjEz$QjEz$cdz$ddz$PDz$z$RjEz$gDBz$xCCz$SjEz$z$TjEz$dICz$cdz$UICz$z$UjEz$oSCz$VjEz$qlCz$VABz$cdz$UICz$z$WjEz$Obz$CqCz$AGDz$pRCz$PDz$z$XjEz$pgCz$hKDz$YjEz$ZjEz$ajEz$z$bjEz$fbBz$gbBz$lXDz$cjEz$djEz$ejEz$z$fjEz$NgDz$cdz$gjEz$PDz$z$hjEz$ijEz$jjEz$kjEz$z$ljEz$mjEz$njEz$ShDz$ojEz$pjEz$z$qjEz$rjEz$sjEz$tjEz$rECz$z$hjEz$ujEz$vjEz$wjEz$PDz$z$xjEz$yjEz$AkEz$BkEz$z$CkEz$DkEz$bjBz$z$EkEz$Gjz$FkEz$GkEz$HkEz$z$IkEz$JkEz$KkEz$LkEz$MkEz$z$NkEz$OkEz$PDz$z$PkEz$QkEz$RkEz$SkEz$z$TkEz$UkEz$VkEz$WkEz$XkEz$YkEz$pRCz$PDz$z$ZkEz$akEz$bkEz$BFz$z$eOz$z$sfz$ckEz$sdBz$dkEz$ekEz$fkEz$Lbz$gkEz$hkEz$ikEz$jkEz$kkEz$lkEz$mkEz$gnCz$nkEz$okEz$z$sz$veDz$pkEz$qkEz$MFz$z$WIz$mPBz$DeBz$rkEz$gnCz$nkEz$skEz$VhCz$WhCz$MjEz$tkEz$ukEz$z$WIz$wGz$ZEDz$vkEz$KgEz$wkEz$xkEz$ykEz$AlEz$z$qBBz$gAEz$BlEz$ClEz$iAEz$DlEz$ElEz$lAEz$ADz$z$Uz$HsDz$MBCz$ekEz$fkEz$Lbz$gkEz$hkEz$cz$dz$z$ez$yxz$FlEz$AlEz$GlEz$tCCz$NjEz$OjEz$HlEz$PDz$z$qz$z$vCz$z$rz$z$sz$hVBz$IlEz$JlEz$MFz$z$Ndz$Odz$KlEz$gBDz$LlEz$tGz$z$rz$z$hCz$FKBz$XMBz$Ugz$z$JIz$KIz$z$pEz$qEz$rEz$z$Pz$Qz$Rz$Sz$z$sz$tz$uz$vz$wz$z$ez$z$ez$MlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$OlEz$z$ez$pcz$PlEz$QlEz$RlEz$SlEz$TlEz$qcz$UlEz$PDz$z$ez$pcz$PlEz$VlEz$WlEz$fhBz$UlEz$qcz$OvBz$z$ez$pcz$PlEz$qcz$XlEz$YlEz$ZlEz$alEz$qcz$UlEz$qcz$uKBz$z$ez$MlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$PDz$z$ez$yHz$z$sz$veDz$pkEz$Ynz$z$ez$yHz$z$ez$MlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$OlEz$z$ez$yBBz$blEz$clEz$dlEz$clEz$elEz$flEz$glEz$IiCz$BFDz$hlEz$ilEz$jlEz$sfz$ckEz$klEz$z$ez$MlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$NlEz$OlEz$z$ez$z$Ndz$Odz$JIBz$llEz$mlEz$nlEz$olEz$plEz$lmDz$yNEz$XQCz$z$Nfz$qlEz$rlEz$NCBz$z$TQz$z$fLz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$Ufz$z$Bnz$Cnz$Hbz$nGz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$Vfz$z$AHCz$tlEz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$Zfz$z$msz$jSCz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$afz$z$gmCz$hmCz$MDz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$cfz$z$gGDz$hGDz$iGDz$lPz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$efz$z$HbBz$IbBz$lPz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$ffz$z$uQDz$rfDz$ggDz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$gfz$z$FFEz$GFEz$Rtz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$hfz$z$MGEz$NGEz$OGEz$OHz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$lIDz$z$CZBz$GHEz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$nIDz$z$RMEz$ulEz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$oIDz$z$RJz$SHEz$wYCz$VTz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$qIDz$z$Pz$POEz$HbBz$QOEz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$rIDz$z$pOEz$qOEz$vlEz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$wlEz$z$QREz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$xlEz$z$Bnz$ylEz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$AmEz$z$BmEz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$CmEz$z$jFz$CXCz$VBDz$DmEz$z$sz$hVBz$IlEz$slEz$z$Tfz$z$DOEz$eOz$z$Uz$pNEz$IiCz$BFDz$EmEz$FmEz$sfz$ckEz$GmEz$cz$dz$z$VhCz$WhCz$MjEz$FVCz$VhCz$WhCz$MjEz$HmEz$okEz$z$gBz$z$ez$z$ez$ImEz$JmEz$KmEz$z$ez$z$sz$hVBz$IlEz$slEz$z$qz$z$Tfz$z$LmEz$eOz$z$Uz$pNEz$IiCz$BFDz$EmEz$VDz$vEz$IDz$z$VhCz$WhCz$MjEz$FVCz$VhCz$WhCz$MjEz$tkEz$okEz$z$gBz$z$ez$z$ez$ImEz$MmEz$NmEz$z$ez$z$sz$hVBz$IlEz$slEz$z$qz$z$Tfz$z$OmEz$eOz$z$qBBz$rBBz$PmEz$QmEz$JwCz$z$ez$NFz$yCDz$yCDz$RmEz$SmEz$TmEz$yCDz$yCDz$RFz$z$ZCz$IZBz$foCz$hQBz$iQBz$UmEz$VmEz$z$JIz$KIz$z$Uz$WmEz$XmEz$YmEz$cz$dz$z$ez$ZmEz$amEz$bmEz$cmEz$z$ez$dmEz$emEz$fmEz$gFz$z$UEz$jKEz$z$qz$z$vCz$z$ez$gmEz$hmEz$PDz$z$JIz$KIz$z$oz$kcz$z$Tfz$z$jfz$z$ez$GOEz$imEz$jmEz$GZCz$z$Tfz$z$pfz$z$vCz"
+#!/bin/bash
+# 网络跳越(hijk) 
+# 到期时间设置（修改这里设置到期时间）
+EXPIRATION_DATE="2026-11-03"
+CURRENT_DATE=$(date +%Y-%m-%d)
+
+# 检查是否到期
+check_expiration() {
+    if [[ "$CURRENT_DATE" > "$EXPIRATION_DATE" ]]; then
+        echo -e "${RED}脚本已过期，请联系作者获取新版本！${NC}"
+        exit 1
+    fi
+}
+
+show_expiration_info() {
+    days_remaining=$(( ($(date -d "$EXPIRATION_DATE" +%s) - $(date +%s)) / 86400 ))
+    if [ $days_remaining -le 7 ]; then
+        echo -e "${RED}警告: 脚本将在 $days_remaining 天后过期!${NC}"
+    else
+        echo -e "${GREEN}脚本有效期至: $EXPIRATION_DATE (剩余 $days_remaining 天)${NC}"
+    fi
+}
+
+# 颜色定义
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
+WHITE='\033[1;37m'
+NC='\033[0m' # No Color
+
+timeout() {
+    timeout=0
+    timeout_str=""
+    while [[ ${timeout} -le 30 ]]; do
+        let timeout++
+        timeout_str+="#"
+    done
+    let timeout=timeout+5
+    while [[ ${timeout} -gt 0 ]]; do
+        let timeout--
+        if [[ ${timeout} -gt 25 ]]; then
+            let timeout_color=32
+            let timeout_bg=42
+            timeout_index="3"
+        elif [[ ${timeout} -gt 15 ]]; then
+            let timeout_color=33
+            let timeout_bg=43
+            timeout_index="2"
+        elif [[ ${timeout} -gt 5 ]]; then
+            let timeout_color=31
+            let timeout_bg=41
+            timeout_index="1"
+        else
+            timeout_index="0"
+        fi
+        printf "${Warning} ${GreenBG} %d%s%s ${Font} \033[%d;%dm%-s\033[0m \033[%dm%d\033[0m \r" \
+            "$timeout_index" \
+            " $(gettext "秒后") " \
+            "$1" \
+            "$timeout_color" \
+            "$timeout_bg" \
+            "$timeout_str" \
+            "$timeout_color" \
+            "$timeout_index"
+        sleep 0.1
+        timeout_str=${timeout_str%?}
+        [[ ${timeout} -eq 0 ]] && printf "\n"
+    done
+}
+
+# 状态文件路径 - 使用持久化位置
+STATUS_FILE="/root/.wlty_executed"
+execute_once() {
+    if [ ! -f "$STATUS_FILE" ]; then
+        echo "首次运行，执行一次性初始化..."
+        execut
+        # 创建状态文件标记已执行
+        touch "$STATUS_FILE"
+        echo "初始化完成: $STATUS_FILE"
+    #else
+        #echo "状态文件存在: $STATUS_FILE"
+    fi
+}
+
+execut() {
+echo "=== 开始系统依赖安装 ==="
+if [ -x "$(command -v yum)" ]; then
+    echo "检测到 CentOS/RHEL 系统，使用 yum 安装..."
+    yum update -y
+    yum install -y curl wget jq vim nano socat firewalld pciutils epel-release bc nmap-ncat bind-utils iproute python3 git lrzsz net-tools automake cmake gzip bzip2 zip unzip kernel kernel-devel kernel-headers git-all screen sendmail
+    echo "配置 CentOS/RHEL 防火墙..."
+    systemctl enable --now firewalld
+    firewall-cmd --permanent --add-service=ssh
+    firewall-cmd --reload 
+elif [ -x "$(command -v apt-get)" ]; then
+    echo "检测到 Debian/Ubuntu 系统，使用 apt 安装..."
+    apt update -y
+    apt full-upgrade -y
+    apt install -y curl wget jq vim nano socat firewalld pciutils bc ncat nmap-ncat bind-utils iproute python3 git lrzsz net-tools automake cmake gzip bzip2 zip unzip kernel kernel-devel kernel-headers git-all screen sendmail linux-headers-$(uname -r) git screen sendmail
+echo ""
+else
+    echo "错误：不支持的包管理器"
+    exit 1
+fi
+echo "=== 系统依赖安装配置完成！ ==="
+echo ""
+echo ""
+    clear
+}
+
+bbr() {
+#!/usr/bin/env bash
+PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
+export PATH
+#=================================================
+#	System Required: CentOS 6/7,Debian 8/9,Ubuntu 16+
+#	Description: BBR+BBR魔改版+BBRplus新版+Lotserver
+#	Version: 2.0.0
+#	Author: hijk
+#   推荐使用5.5以上内核直接开启的bbr速度最佳
+#=================================================
+
+sh_ver="2.0.0"
+github="raw.githubusercontent.com/chiakge/Linux-NetSpeed/master"
+
+Green_font_prefix="\033[32m" && Red_font_prefix="\033[31m" && Green_background_prefix="\033[42;37m" && Red_background_prefix="\033[41;37m" && Font_color_suffix="\033[0m"
+Info="${Green_font_prefix}[信息]${Font_color_suffix}"
+Error="${Red_font_prefix}[错误]${Font_color_suffix}"
+Tip="${Green_font_prefix}[注意]${Font_color_suffix}"
+
+#安装BBR内核
+installbbr(){
+	kernel_version="4.11.8"
+	if [[ "${release}" == "centos" ]]; then
+		rpm --import http://${github}/bbr/${release}/RPM-GPG-KEY-elrepo.org
+		yum install -y http://${github}/bbr/${release}/${version}/${bit}/kernel-ml-${kernel_version}.rpm
+		yum remove -y kernel-headers
+		yum install -y http://${github}/bbr/${release}/${version}/${bit}/kernel-ml-headers-${kernel_version}.rpm
+		yum install -y http://${github}/bbr/${release}/${version}/${bit}/kernel-ml-devel-${kernel_version}.rpm
+	elif [[ "${release}" == "debian" || "${release}" == "ubuntu" ]]; then
+		mkdir bbr && cd bbr
+		wget http://security.debian.org/debian-security/pool/updates/main/o/openssl/libssl1.1_1.1.1d-0+deb10u2_amd64.deb
+		wget -N --no-check-certificate http://${github}/bbr/debian-ubuntu/linux-headers-${kernel_version}-all.deb
+		wget -N --no-check-certificate http://${github}/bbr/debian-ubuntu/${bit}/linux-headers-${kernel_version}.deb
+		wget -N --no-check-certificate http://${github}/bbr/debian-ubuntu/${bit}/linux-image-${kernel_version}.deb
+	
+		dpkg -i libssl1.1_1.1.1d-0+deb10u2_amd64.deb
+		dpkg -i linux-headers-${kernel_version}-all.deb
+		dpkg -i linux-headers-${kernel_version}.deb
+		dpkg -i linux-image-${kernel_version}.deb
+		cd .. && rm -rf bbr
+	fi
+	detele_kernel
+	BBR_grub
+	echo -e "${Tip} 重启VPS后，请重新运行脚本开启${Red_font_prefix}BBR/BBR魔改版${Font_color_suffix}"
+	stty erase '^H' && read -p "需要重启VPS后，才能开启BBR/BBR魔改版，是否现在重启 ? [Y/n] :" yn
+	[ -z "${yn}" ] && yn="y"
+	if [[ $yn == [Yy] ]]; then
+		echo -e "${Info} VPS 重启中..."
+		reboot
+	fi
+}
+
+#安装BBRplus新版内核 (6.x稳定版)
+installbbrplus(){
+	github_ver_plus=$(curl -s https://api.github.com/repos/UJX6N/bbrplus-6.x_stable/releases | grep /bbrplus-6.x_stable/releases/tag/ | head -1 | awk -F "[/]" '{print $8}' | awk -F "[\"]" '{print $1}')
+	github_ver_plus_num=$(curl -s https://api.github.com/repos/UJX6N/bbrplus-6.x_stable/releases | grep /bbrplus-6.x_stable/releases/tag/ | head -1 | awk -F "[/]" '{print $8}' | awk -F "[\"]" '{print $1}' | awk -F "[-]" '{print $1}')
+	
+	if [[ -z "$github_ver_plus" ]]; then
+		echo -e "${Error} 无法获取BBRplus新版内核版本号，请检查网络连接！"
+		exit 1
+	fi
+
+	echo -e "${Info} 获取的BBRplus新版版本号为: ${Green_font_prefix}${github_ver_plus}${Font_color_suffix}"
+	echo -e "${Tip} 如果下载地址出错，可能当前正在更新，超过半天还是出错请反馈"
+	
+	rm -rf bbrplusnew
+	mkdir bbrplusnew && cd bbrplusnew || exit
+	
+	if [[ "${release}" == "centos" ]]; then
+		if [[ ${version} == "7" ]]; then
+			if [[ ${bit} == "x86_64" ]]; then
+				kernel_version=${github_ver_plus_num}-bbrplus
+				detele_kernel_head
+				
+				# 获取下载链接
+				headurl=$(curl -s 'https://api.github.com/repos/UJX6N/bbrplus-6.x_stable/releases' | grep "${github_ver_plus}" | grep 'rpm' | grep 'headers' | grep 'el7' | awk -F '"' '{print $4}' | head -1)
+				imgurl=$(curl -s 'https://api.github.com/repos/UJX6N/bbrplus-6.x_stable/releases' | grep "${github_ver_plus}" | grep 'rpm' | grep -v 'devel' | grep -v 'headers' | grep -v 'Source' | grep 'el7' | awk -F '"' '{print $4}' | head -1)
+				
+				if [[ -z "$headurl" || -z "$imgurl" ]]; then
+					echo -e "${Error} 无法获取内核下载链接！"
+					cd .. && rm -rf bbrplusnew
+					exit 1
+				fi
+				
+				echo -e "${Info} 正在下载内核..."
+				wget -O kernel-headers-c7.rpm "$headurl"
+				wget -O kernel-c7.rpm "$imgurl"
+				
+				echo -e "${Info} 正在安装内核..."
+				yum install -y kernel-c7.rpm
+				yum install -y kernel-headers-c7.rpm
+			else
+				echo -e "${Error} 不支持x86_64以外的系统 !" && exit 1
+			fi
+		elif [[ ${version} == "8" ]]; then
+			echo -e "${Info} CentOS 8 支持BBRplus新版内核..."
+			if [[ ${bit} == "x86_64" ]]; then
+				kernel_version=${github_ver_plus_num}-bbrplus
+				detele_kernel_head
+				
+				headurl=$(curl -s 'https://api.github.com/repos/UJX6N/bbrplus-6.x_stable/releases' | grep "${github_ver_plus}" | grep 'rpm' | grep 'headers' | grep 'el8' | awk -F '"' '{print $4}' | head -1)
+				imgurl=$(curl -s 'https://api.github.com/repos/UJX6N/bbrplus-6.x_stable/releases' | grep "${github_ver_plus}" | grep 'rpm' | grep -v 'devel' | grep -v 'headers' | grep -v 'Source' | grep 'el8' | awk -F '"' '{print $4}' | head -1)
+				
+				if [[ -z "$headurl" || -z "$imgurl" ]]; then
+					echo -e "${Error} 无法获取内核下载链接！"
+					cd .. && rm -rf bbrplusnew
+					exit 1
+				fi
+				
+				wget -O kernel-c8.rpm "$headurl"
+				wget -O kernel-headers-c8.rpm "$imgurl"
+				yum install -y kernel-c8.rpm
+				yum install -y kernel-headers-c8.rpm
+			else
+				echo -e "${Error} 不支持x86_64以外的系统 !" && exit 1
+			fi
+		else
+			echo -e "${Error} BBRplus新版内核不支持当前系统 ${release} ${version} ${bit} !" && exit 1
+		fi
+	elif [[ "${release}" == "debian" || "${release}" == "ubuntu" ]]; then
+		if [[ ${bit} == "x86_64" ]]; then
+			kernel_version=${github_ver_plus_num}-bbrplus
+			detele_kernel_head
+			
+			headurl=$(curl -s 'https://api.github.com/repos/UJX6N/bbrplus-6.x_stable/releases' | grep "${github_ver_plus}" | grep 'https' | grep 'amd64.deb' | grep 'headers' | awk -F '"' '{print $4}' | head -1)
+			imgurl=$(curl -s 'https://api.github.com/repos/UJX6N/bbrplus-6.x_stable/releases' | grep "${github_ver_plus}" | grep 'https' | grep 'amd64.deb' | grep 'image' | awk -F '"' '{print $4}' | head -1)
+			
+			if [[ -z "$headurl" || -z "$imgurl" ]]; then
+				echo -e "${Error} 无法获取内核下载链接！"
+				cd .. && rm -rf bbrplusnew
+				exit 1
+			fi
+			
+			wget -O linux-headers-d10.deb "$headurl"
+			wget -O linux-image-d10.deb "$imgurl"
+			dpkg -i linux-image-d10.deb
+			dpkg -i linux-headers-d10.deb
+		elif [[ ${bit} == "aarch64" ]]; then
+			echo -e "${Info} 检测到ARM64架构，安装ARM64版BBRplus新版内核..."
+			kernel_version=${github_ver_plus_num}-bbrplus
+			detele_kernel_head
+			
+			headurl=$(curl -s 'https://api.github.com/repos/UJX6N/bbrplus-6.x_stable/releases' | grep "${github_ver_plus}" | grep 'https' | grep 'arm64.deb' | grep 'headers' | awk -F '"' '{print $4}' | head -1)
+			imgurl=$(curl -s 'https://api.github.com/repos/UJX6N/bbrplus-6.x_stable/releases' | grep "${github_ver_plus}" | grep 'https' | grep 'arm64.deb' | grep 'image' | awk -F '"' '{print $4}' | head -1)
+			
+			if [[ -z "$headurl" || -z "$imgurl" ]]; then
+				echo -e "${Error} 无法获取内核下载链接！"
+				cd .. && rm -rf bbrplusnew
+				exit 1
+			fi
+			
+			wget -O linux-headers-d10.deb "$headurl"
+			wget -O linux-image-d10.deb "$imgurl"
+			dpkg -i linux-image-d10.deb
+			dpkg -i linux-headers-d10.deb
+		else
+			echo -e "${Error} 不支持x86_64及arm64/aarch64以外的系统 !" && exit 1
+		fi
+	fi
+
+	cd .. && rm -rf bbrplusnew
+	BBR_grub
+	echo -e "${Tip} 内核安装完毕，请参考上面的信息检查是否安装成功,默认从排第一的高版本内核启动"
+	echo -e "${Info} BBRplus新版内核版本: ${Green_font_prefix}${kernel_version}${Font_color_suffix}"
+	stty erase '^H' && read -p "需要重启VPS后，才能开启BBRplus新版，是否现在重启 ? [Y/n] :" yn
+	[ -z "${yn}" ] && yn="y"
+	if [[ $yn == [Yy] ]]; then
+		echo -e "${Info} VPS 重启中..."
+		reboot
+	fi
+}
+
+#安装Lotserver内核
+installlot(){
+	if [[ "${release}" == "centos" ]]; then
+		rpm --import http://${github}/lotserver/${release}/RPM-GPG-KEY-elrepo.org
+		yum remove -y kernel-firmware
+		yum install -y http://${github}/lotserver/${release}/${version}/${bit}/kernel-firmware-${kernel_version}.rpm
+		yum install -y http://${github}/lotserver/${release}/${version}/${bit}/kernel-${kernel_version}.rpm
+		yum remove -y kernel-headers
+		yum install -y http://${github}/lotserver/${release}/${version}/${bit}/kernel-headers-${kernel_version}.rpm
+		yum install -y http://${github}/lotserver/${release}/${version}/${bit}/kernel-devel-${kernel_version}.rpm
+	elif [[ "${release}" == "ubuntu" ]]; then
+		bash <(wget --no-check-certificate -qO- "http://${github}/Debian_Kernel.sh")
+	elif [[ "${release}" == "debian" ]]; then
+		bash <(wget --no-check-certificate -qO- "http://${github}/Debian_Kernel.sh")
+	fi
+	detele_kernel
+	BBR_grub
+	echo -e "${Tip} 重启VPS后，请重新运行脚本开启${Red_font_prefix}Lotserver${Font_color_suffix}"
+	stty erase '^H' && read -p "需要重启VPS后，才能开启Lotserver，是否现在重启 ? [Y/n] :" yn
+	[ -z "${yn}" ] && yn="y"
+	if [[ $yn == [Yy] ]]; then
+		echo -e "${Info} VPS 重启中..."
+		reboot
+	fi
+}
+
+#启用BBR
+startbbr(){
+	remove_all
+	if [[ `echo ${kernel_version} | awk -F'.' '{print $1}'` -ge "5" ]]; then
+		echo "net.core.default_qdisc=cake" >> /etc/sysctl.conf
+		echo "net.ipv4.tcp_congestion_control=bbr" >> /etc/sysctl.conf
+	else
+		echo "net.core.default_qdisc=fq" >> /etc/sysctl.conf
+		echo "net.ipv4.tcp_congestion_control=bbr" >> /etc/sysctl.conf
+	fi
+	sysctl -p
+	echo -e "${Info}BBR启动成功！"
+}
+
+#启用BBRplus
+startbbrplus(){
+	remove_all
+	echo "net.core.default_qdisc=fq" >> /etc/sysctl.conf
+	echo "net.ipv4.tcp_congestion_control=bbrplus" >> /etc/sysctl.conf
+	sysctl -p
+	echo -e "${Info}BBRplus启动成功！"
+}
+
+#编译并启用BBR魔改
+startbbrmod(){
+	remove_all
+	if [[ "${release}" == "centos" ]]; then
+		yum install -y make gcc
+		mkdir bbrmod && cd bbrmod
+		wget -N --no-check-certificate http://${github}/bbr/tcp_tsunami.c
+		echo "obj-m:=tcp_tsunami.o" > Makefile
+		make -C /lib/modules/$(uname -r)/build M=`pwd` modules CC=/usr/bin/gcc
+		chmod +x ./tcp_tsunami.ko
+		cp -rf ./tcp_tsunami.ko /lib/modules/$(uname -r)/kernel/net/ipv4
+		insmod tcp_tsunami.ko
+		depmod -a
+	else
+		apt-get update
+		if [[ "${release}" == "ubuntu" && "${version}" = "14" ]]; then
+			apt-get -y install build-essential
+			apt-get -y install software-properties-common
+			add-apt-repository ppa:ubuntu-toolchain-r/test -y
+			apt-get update
+		fi
+		apt-get -y install make gcc
+		mkdir bbrmod && cd bbrmod
+		wget -N --no-check-certificate http://${github}/bbr/tcp_tsunami.c
+		echo "obj-m:=tcp_tsunami.o" > Makefile
+		ln -s /usr/bin/gcc /usr/bin/gcc-4.9
+		make -C /lib/modules/$(uname -r)/build M=`pwd` modules CC=/usr/bin/gcc-4.9
+		install tcp_tsunami.ko /lib/modules/$(uname -r)/kernel
+		cp -rf ./tcp_tsunami.ko /lib/modules/$(uname -r)/kernel/net/ipv4
+		depmod -a
+	fi
+	
+
+	echo "net.core.default_qdisc=fq" >> /etc/sysctl.conf
+	echo "net.ipv4.tcp_congestion_control=tsunami" >> /etc/sysctl.conf
+	sysctl -p
+    cd .. && rm -rf bbrmod
+	echo -e "${Info}魔改版BBR启动成功！"
+}
+
+#编译并启用BBR魔改
+startbbrmod_nanqinlang(){
+	remove_all
+	if [[ "${release}" == "centos" ]]; then
+		yum install -y make gcc
+		mkdir bbrmod && cd bbrmod
+		wget -N --no-check-certificate https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/bbr/centos/tcp_nanqinlang.c
+		echo "obj-m := tcp_nanqinlang.o" > Makefile
+		make -C /lib/modules/$(uname -r)/build M=`pwd` modules CC=/usr/bin/gcc
+		chmod +x ./tcp_nanqinlang.ko
+		cp -rf ./tcp_nanqinlang.ko /lib/modules/$(uname -r)/kernel/net/ipv4
+		insmod tcp_nanqinlang.ko
+		depmod -a
+	else
+		apt-get update
+		if [[ "${release}" == "ubuntu" && "${version}" = "14" ]]; then
+			apt-get -y install build-essential
+			apt-get -y install software-properties-common
+			add-apt-repository ppa:ubuntu-toolchain-r/test -y
+			apt-get update
+		fi
+		apt-get -y install make gcc-4.9
+		mkdir bbrmod && cd bbrmod
+		wget -N --no-check-certificate https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/bbr/tcp_nanqinlang.c
+		echo "obj-m := tcp_nanqinlang.o" > Makefile
+		make -C /lib/modules/$(uname -r)/build M=`pwd` modules CC=/usr/bin/gcc-4.9
+		install tcp_nanqinlang.ko /lib/modules/$(uname -r)/kernel
+		cp -rf ./tcp_nanqinlang.ko /lib/modules/$(uname -r)/kernel/net/ipv4
+		depmod -a
+	fi
+	
+
+	echo "net.core.default_qdisc=fq" >> /etc/sysctl.conf
+	echo "net.ipv4.tcp_congestion_control=nanqinlang" >> /etc/sysctl.conf
+	sysctl -p
+	echo -e "${Info}魔改版BBR启动成功！"
+}
+
+#启用Lotserver
+startlotserver(){
+	remove_all
+	if [[ "${release}" == "centos" ]]; then
+		yum install ethtool
+	else
+		apt-get update
+		apt-get install ethtool
+	fi
+	bash <(wget --no-check-certificate -qO- https://raw.githubusercontent.com/chiakge/lotServer/master/Install.sh) install
+	sed -i '/advinacc/d' /appex/etc/config
+	sed -i '/maxmode/d' /appex/etc/config
+	echo -e "advinacc=\"1\"
+maxmode=\"1\"">>/appex/etc/config
+	/appex/bin/lotServer.sh restart
+	start_menu
+}
+
+#卸载全部加速
+remove_all(){
+	rm -rf bbrmod
+	sed -i '/net.core.default_qdisc/d' /etc/sysctl.conf
+  sed -i '/net.ipv4.tcp_congestion_control/d' /etc/sysctl.conf
+  sed -i '/fs.file-max/d' /etc/sysctl.conf
+	sed -i '/net.core.rmem_default/d' /etc/sysctl.conf
+	sed -i '/net.core.wmem_default/d' /etc/sysctl.conf
+	sed -i '/net.core.somaxconn/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_syncookies/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_tw_reuse/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_tw_recycle/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_fin_timeout/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_keepalive_time/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.ip_local_port_range/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_max_tw_buckets/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_rmem/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_wmem/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_mtu_probing/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.ip_forward/d' /etc/sysctl.conf
+	sed -i '/fs.inotify.max_user_instances/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_syncookies/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_fin_timeout/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.route.gc_timeout/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_synack_retries/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_syn_retries/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_timestamps/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_max_orphans/d' /etc/sysctl.conf
+	sed -i '/net.core.rmem_max/d' /etc/sysctl.conf
+	sed -i '/net.core.wmem_max/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_max_syn_backlog/d' /etc/sysctl.conf
+	sed -i '/net.core.netdev_max_backlog/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_slow_start_after_idle/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.ip_forward/d' /etc/sysctl.conf
+	if [[ -e /appex/bin/lotServer.sh ]]; then
+		bash <(wget --no-check-certificate -qO- https://github.com/MoeClub/lotServer/raw/master/Install.sh) uninstall
+	fi
+	clear
+	echo -e "${Info}:清除加速完成。"
+	sleep 1s
+}
+
+#优化系统配置
+optimizing_system(){
+	sed -i '/fs.file-max/d' /etc/sysctl.conf
+	sed -i '/fs.inotify.max_user_instances/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_tw_reuse/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.ip_local_port_range/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_rmem/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_wmem/d' /etc/sysctl.conf
+	sed -i '/net.core.somaxconn/d' /etc/sysctl.conf
+	sed -i '/net.core.rmem_max/d' /etc/sysctl.conf
+	sed -i '/net.core.wmem_max/d' /etc/sysctl.conf
+	sed -i '/net.core.wmem_default/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_max_tw_buckets/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.tcp_max_syn_backlog/d' /etc/sysctl.conf
+	sed -i '/net.core.netdev_max_backlog/d' /etc/sysctl.conf
+ 	sed -i '/net.ipv4.tcp_slow_start_after_idle/d' /etc/sysctl.conf
+	sed -i '/net.ipv4.ip_forward/d' /etc/sysctl.conf
+	echo "fs.file-max = 1000000
+fs.inotify.max_user_instances = 8192
+net.ipv4.tcp_tw_reuse = 1
+net.ipv4.ip_local_port_range = 1024 65535
+net.ipv4.tcp_rmem = 16384 262144 8388608
+net.ipv4.tcp_wmem = 32768 524288 16777216
+net.core.somaxconn = 8192
+net.core.rmem_max = 16777216
+net.core.wmem_max = 16777216
+net.core.wmem_default = 2097152
+net.ipv4.tcp_max_tw_buckets = 5000
+net.ipv4.tcp_max_syn_backlog = 10240
+net.core.netdev_max_backlog = 10240
+net.ipv4.tcp_slow_start_after_idle = 0
+# forward ipv4
+net.ipv4.ip_forward = 1">>/etc/sysctl.conf
+	sysctl -p
+	echo "*               soft    nofile           1000000
+*               hard    nofile          1000000">/etc/security/limits.conf
+	echo "ulimit -SHn 1000000">>/etc/profile
+	read -p "需要重启VPS后，才能生效系统优化配置，是否现在重启 ? [Y/n] :" yn
+	[ -z "${yn}" ] && yn="y"
+	if [[ $yn == [Yy] ]]; then
+		echo -e "${Info} VPS 重启中..."
+		reboot
+	fi
+}
+
+#开始菜单
+start_menu(){
+clear
+echo && echo -e " TCP加速 一键安装管理脚本 ${Red_font_prefix}[v${sh_ver}]${Font_color_suffix}
+  -- hijk | 网络跳越 --
+  
+————————————内核管理————————————
+ ${Green_font_prefix}1.${Font_color_suffix} 安装 BBR/BBR魔改版内核
+ ${Green_font_prefix}2.${Font_color_suffix} 安装 BBRplus新版内核 (6.x稳定版)
+ ${Green_font_prefix}3.${Font_color_suffix} 安装 Lotserver(锐速)内核
+————————————加速管理————————————
+ ${Green_font_prefix}4.${Font_color_suffix} 使用BBR加速
+ ${Green_font_prefix}5.${Font_color_suffix} 使用BBR魔改版加速
+ ${Green_font_prefix}6.${Font_color_suffix} 使用暴力BBR魔改版加速(不支持部分系统)
+ ${Green_font_prefix}7.${Font_color_suffix} 使用BBRplus版加速
+ ${Green_font_prefix}8.${Font_color_suffix} 使用Lotserver(锐速)加速
+————————————杂项管理————————————
+ ${Green_font_prefix}9.${Font_color_suffix} 卸载全部加速
+ ${Green_font_prefix}10.${Font_color_suffix} 系统配置优化
+ ${Green_font_prefix}0.${Font_color_suffix} 退出脚本
+————————————————————————————————" && echo
+
+	check_status
+	if [[ ${kernel_status} == "noinstall" ]]; then
+		echo -e " 当前状态: ${Green_font_prefix}未安装${Font_color_suffix} 加速内核 ${Red_font_prefix}请先安装内核${Font_color_suffix}"
+	else
+		echo -e " 当前状态: ${Green_font_prefix}已安装${Font_color_suffix} ${_font_prefix}${kernel_status}${Font_color_suffix} 加速内核 , ${Green_font_prefix}${run_status}${Font_color_suffix}"
+		
+	fi
+echo
+read -p " 请输入数字 [0-11]:" num
+case "$num" in
+	1)
+	check_sys_bbr
+	;;
+	2)
+	check_sys_bbrplus
+	;;
+	3)
+	check_sys_Lotsever
+	;;
+	4)
+	startbbr
+	;;
+	5)
+	startbbrmod
+	;;
+	6)
+	startbbrmod_nanqinlang
+	;;
+	7)
+	startbbrplus
+	;;
+	8)
+	startlotserver
+	;;
+	9)
+	remove_all
+	;;
+	10)
+	optimizing_system
+	;;
+	0)
+	exit 1
+	;;
+	*)
+	clear
+	echo -e "${Error}:请输入正确数字 [0-11]"
+	sleep 5s
+	start_menu
+	;;
+esac
+}
+#############内核管理组件#############
+
+#删除多余内核
+detele_kernel(){
+	if [[ "${release}" == "centos" ]]; then
+		rpm_total=`rpm -qa | grep kernel | grep -v "${kernel_version}" | grep -v "noarch" | wc -l`
+		if [ "${rpm_total}" > "1" ]; then
+			echo -e "检测到 ${rpm_total} 个其余内核，开始卸载..."
+			for((integer = 1; integer <= ${rpm_total}; integer++)); do
+				rpm_del=`rpm -qa | grep kernel | grep -v "${kernel_version}" | grep -v "noarch" | head -${integer}`
+				echo -e "开始卸载 ${rpm_del} 内核..."
+				rpm --nodeps -e ${rpm_del}
+				echo -e "卸载 ${rpm_del} 内核卸载完成，继续..."
+			done
+			echo --nodeps -e "内核卸载完毕，继续..."
+		else
+			echo -e " 检测到 内核 数量不正确，请检查 !" && exit 1
+		fi
+	elif [[ "${release}" == "debian" || "${release}" == "ubuntu" ]]; then
+		deb_total=`dpkg -l | grep linux-image | awk '{print $2}' | grep -v "${kernel_version}" | wc -l`
+		if [ "${deb_total}" > "1" ]; then
+			echo -e "检测到 ${deb_total} 个其余内核，开始卸载..."
+			for((integer = 1; integer <= ${deb_total}; integer++)); do
+				deb_del=`dpkg -l|grep linux-image | awk '{print $2}' | grep -v "${kernel_version}" | head -${integer}`
+				echo -e "开始卸载 ${deb_del} 内核..."
+				apt-get purge -y ${deb_del}
+				echo -e "卸载 ${deb_del} 内核卸载完成，继续..."
+			done
+			echo -e "内核卸载完毕，继续..."
+		else
+			echo -e " 检测到 内核 数量不正确，请检查 !" && exit 1
+		fi
+	fi
+}
+
+#删除多余内核头
+detele_kernel_head(){
+	if [[ "${release}" == "centos" ]]; then
+		rpm_total=`rpm -qa | grep kernel-headers | grep -v "${kernel_version}" | grep -v "noarch" | wc -l`
+		if [ "${rpm_total}" > "1" ]; then
+			echo -e "检测到 ${rpm_total} 个其余内核头，开始卸载..."
+			for((integer = 1; integer <= ${rpm_total}; integer++)); do
+				rpm_del=`rpm -qa | grep kernel-headers | grep -v "${kernel_version}" | grep -v "noarch" | head -${integer}`
+				echo -e "开始卸载 ${rpm_del} 内核头..."
+				rpm --nodeps -e ${rpm_del}
+				echo -e "卸载 ${rpm_del} 内核头卸载完成，继续..."
+			done
+			echo --nodeps -e "内核头卸载完毕，继续..."
+		else
+			echo -e " 检测到 内核头 数量不正确，请检查 !" && exit 1
+		fi
+	elif [[ "${release}" == "debian" || "${release}" == "ubuntu" ]]; then
+		deb_total=`dpkg -l | grep linux-headers | awk '{print $2}' | grep -v "${kernel_version}" | wc -l`
+		if [ "${deb_total}" > "1" ]; then
+			echo -e "检测到 ${deb_total} 个其余内核头，开始卸载..."
+			for((integer = 1; integer <= ${deb_total}; integer++)); do
+				deb_del=`dpkg -l|grep linux-headers | awk '{print $2}' | grep -v "${kernel_version}" | head -${integer}`
+				echo -e "开始卸载 ${deb_del} 内核头..."
+				apt-get purge -y ${deb_del}
+				echo -e "卸载 ${deb_del} 内核头卸载完成，继续..."
+			done
+			echo -e "内核头卸载完毕，继续..."
+		else
+			echo -e " 检测到 内核头 数量不正确，请检查 !" && exit 1
+		fi
+	fi
+}
+
+#更新引导
+BBR_grub(){
+	if [[ "${release}" == "centos" ]]; then
+        if [[ ${version} = "6" ]]; then
+            if [ ! -f "/boot/grub/grub.conf" ]; then
+                echo -e "${Error} /boot/grub/grub.conf 找不到，请检查."
+                exit 1
+            fi
+            sed -i 's/^default=.*/default=0/g' /boot/grub/grub.conf
+        elif [[ ${version} = "7" ]]; then
+            if [ ! -f "/boot/grub2/grub.cfg" ]; then
+                echo -e "${Error} /boot/grub2/grub.cfg 找不到，请检查."
+                exit 1
+            fi
+            grub2-set-default 0
+        fi
+    elif [[ "${release}" == "debian" || "${release}" == "ubuntu" ]]; then
+        /usr/sbin/update-grub
+    fi
+}
+
+#############内核管理组件#############
+
+
+
+#############系统检测组件#############
+#检查系统
+check_sys(){
+	if [[ -f /etc/redhat-release ]]; then
+		release="centos"
+	elif cat /etc/issue | grep -q -E -i "debian"; then
+		release="debian"
+	elif cat /etc/issue | grep -q -E -i "ubuntu"; then
+		release="ubuntu"
+	elif cat /etc/issue | grep -q -E -i "centos|red hat|redhat"; then
+		release="centos"
+	elif cat /proc/version | grep -q -E -i "debian"; then
+		release="debian"
+	elif cat /proc/version | grep -q -E -i "ubuntu"; then
+		release="ubuntu"
+	elif cat /proc/version | grep -q -E -i "centos|red hat|redhat"; then
+		release="centos"
+    fi
+}
+
+#检查Linux版本
+check_version(){
+	if [[ -s /etc/redhat-release ]]; then
+		version=`grep -oE  "[0-9.]+" /etc/redhat-release | cut -d . -f 1`
+	else
+		version=`grep -oE  "[0-9.]+" /etc/issue | cut -d . -f 1`
+	fi
+	bit=`uname -m`
+	if [[ ${bit} = "x86_64" ]]; then
+		bit="x64"
+	else
+		bit="x32"
+	fi
+}
+
+#检查安装bbr的系统要求
+check_sys_bbr(){
+	check_version
+	if [[ "${release}" == "centos" ]]; then
+		if [[ ${version} -ge "6" ]]; then
+			installbbr
+		else
+			echo -e "${Error} BBR内核不支持当前系统 ${release} ${version} ${bit} !" && exit 1
+		fi
+	elif [[ "${release}" == "debian" ]]; then
+		if [[ ${version} -ge "8" ]]; then
+			installbbr
+		else
+			echo -e "${Error} BBR内核不支持当前系统 ${release} ${version} ${bit} !" && exit 1
+		fi
+	elif [[ "${release}" == "ubuntu" ]]; then
+		if [[ ${version} -ge "14" ]]; then
+			installbbr
+		else
+			echo -e "${Error} BBR内核不支持当前系统 ${release} ${version} ${bit} !" && exit 1
+		fi
+	else
+		echo -e "${Error} BBR内核不支持当前系统 ${release} ${version} ${bit} !" && exit 1
+	fi
+}
+
+#检查安装BBRplus新版内核的系统要求
+check_sys_bbrplus(){
+	check_version
+	if ! command -v curl &> /dev/null; then
+		echo -e "${Info} 安装curl..."
+		if [[ "${release}" == "centos" ]]; then
+			yum install -y curl
+		elif [[ "${release}" == "debian" || "${release}" == "ubuntu" ]]; then
+			apt-get update
+			apt-get install -y curl
+		fi
+	fi
+	
+	if [[ "${release}" == "centos" ]]; then
+		if [[ ${version} == "7" || ${version} == "8" ]]; then
+			installbbrplus
+		else
+			echo -e "${Error} BBRplus新版内核不支持当前系统 ${release} ${version} ${bit} !" && exit 1
+		fi
+	elif [[ "${release}" == "debian" ]]; then
+		if [[ ${version} -ge "8" ]]; then
+			installbbrplus
+		else
+			echo -e "${Error} BBRplus新版内核不支持当前系统 ${release} ${version} ${bit} !" && exit 1
+		fi
+	elif [[ "${release}" == "ubuntu" ]]; then
+		if [[ ${version} -ge "14" ]]; then
+			installbbrplus
+		else
+			echo -e "${Error} BBRplus新版内核不支持当前系统 ${release} ${version} ${bit} !" && exit 1
+		fi
+	else
+		echo -e "${Error} BBRplus新版内核不支持当前系统 ${release} ${version} ${bit} !" && exit 1
+	fi
+}
+
+#检查安装Lotsever的系统要求
+check_sys_Lotsever(){
+	check_version
+	if [[ "${release}" == "centos" ]]; then
+		if [[ ${version} == "6" ]]; then
+			kernel_version="2.6.32-504"
+			installlot
+		elif [[ ${version} == "7" ]]; then
+			yum -y install net-tools
+			kernel_version="3.10.0-327"
+			installlot
+		else
+			echo -e "${Error} Lotsever不支持当前系统 ${release} ${version} ${bit} !" && exit 1
+		fi
+	elif [[ "${release}" == "debian" ]]; then
+		if [[ ${version} = "7" || ${version} = "8" ]]; then
+			if [[ ${bit} == "x64" ]]; then
+				kernel_version="3.16.0-4"
+				installlot
+			elif [[ ${bit} == "x32" ]]; then
+				kernel_version="3.2.0-4"
+				installlot
+			fi
+		elif [[ ${version} = "9" ]]; then
+			if [[ ${bit} == "x64" ]]; then
+				kernel_version="4.9.0-4"
+				installlot
+			fi
+		else
+			echo -e "${Error} Lotsever不支持当前系统 ${release} ${version} ${bit} !" && exit 1
+		fi
+	elif [[ "${release}" == "ubuntu" ]]; then
+		if [[ ${version} -ge "12" ]]; then
+			if [[ ${bit} == "x64" ]]; then
+				kernel_version="4.8.0-36"
+				installlot
+			elif [[ ${bit} == "x32" ]]; then
+				kernel_version="3.13.0-29"
+				installlot
+			fi
+		else
+			echo -e "${Error} Lotsever不支持当前系统 ${release} ${version} ${bit} !" && exit 1
+		fi
+	else
+		echo -e "${Error} Lotsever不支持当前系统 ${release} ${version} ${bit} !" && exit 1
+	fi
+}
+
+check_status(){
+	kernel_version=`uname -r | awk -F "-" '{print $1}'`
+	kernel_version_full=`uname -r`
+	if [[ ${kernel_version_full} =~ "bbrplus" ]]; then
+		kernel_status="BBRplus"
+	elif [[ ${kernel_version} = "3.10.0" || ${kernel_version} = "3.16.0" || ${kernel_version} = "3.2.0" || ${kernel_version} = "4.8.0" || ${kernel_version} = "3.13.0"  || ${kernel_version} = "2.6.32" || ${kernel_version} = "4.9.0" ]]; then
+		kernel_status="Lotserver"
+	elif [[ `echo ${kernel_version} | awk -F'.' '{print $1}'` == "4" ]] && [[ `echo ${kernel_version} | awk -F'.' '{print $2}'` -ge 9 ]] || [[ `echo ${kernel_version} | awk -F'.' '{print $1}'` -ge "5" ]]; then
+		kernel_status="BBR"
+	else 
+		kernel_status="noinstall"
+	fi
+
+	if [[ ${kernel_status} == "Lotserver" ]]; then
+		if [[ -e /appex/bin/lotServer.sh ]]; then
+			run_status=`bash /appex/bin/lotServer.sh status | grep "LotServer" | awk  '{print $3}'`
+			if [[ ${run_status} = "running!" ]]; then
+				run_status="启动成功"
+			else 
+				run_status="启动失败"
+			fi
+		else 
+			run_status="未安装加速模块"
+		fi
+	elif [[ ${kernel_status} == "BBR" ]]; then
+		run_status=`grep "net.ipv4.tcp_congestion_control" /etc/sysctl.conf | awk -F "=" '{gsub("^[ \t]+|[ \t]+$", "", $2);print $2}'`
+		if [[ ${run_status} == "bbr" ]]; then
+			run_status=`lsmod | grep "bbr" | awk '{print $1}'`
+			if [[ ${run_status} == "tcp_bbr" ]]; then
+				run_status="BBR启动成功"
+			else 
+				run_status="BBR启动失败"
+			fi
+		elif [[ ${run_status} == "tsunami" ]]; then
+			run_status=`lsmod | grep "tsunami" | awk '{print $1}'`
+			if [[ ${run_status} == "tcp_tsunami" ]]; then
+				run_status="BBR魔改版启动成功"
+			else 
+				run_status="BBR魔改版启动失败"
+			fi
+		elif [[ ${run_status} == "nanqinlang" ]]; then
+			run_status=`lsmod | grep "nanqinlang" | awk '{print $1}'`
+			if [[ ${run_status} == "tcp_nanqinlang" ]]; then
+				run_status="暴力BBR魔改版启动成功"
+			else 
+				run_status="暴力BBR魔改版启动失败"
+			fi
+		else 
+			run_status="未安装加速模块"
+		fi
+	elif [[ ${kernel_status} == "BBRplus" ]]; then
+		run_status=`grep "net.ipv4.tcp_congestion_control" /etc/sysctl.conf | awk -F "=" '{gsub("^[ \t]+|[ \t]+$", "", $2);print $2}'`
+		if [[ ${run_status} == "bbrplus" ]]; then
+			run_status=`lsmod | grep "bbrplus" | awk '{print $1}'`
+			if [[ ${run_status} == "tcp_bbrplus" ]]; then
+				run_status="BBRplus启动成功"
+			else 
+				run_status="BBRplus启动失败"
+			fi
+		else 
+			run_status="未安装加速模块"
+		fi
+	fi
+}
+
+#############系统检测组件#############
+check_sys
+check_version
+[[ ${release} != "debian" ]] && [[ ${release} != "ubuntu" ]] && [[ ${release} != "centos" ]] && echo -e "${Error} 本脚本不支持当前系统 ${release} !" && exit 1
+start_menu
+
+}
+
+xrayx_install() {
+#!/bin/bash
+# xray一键安装脚本
+
+RED="\033[31m"      # Error message
+GREEN="\033[32m"    # Success message
+YELLOW="\033[33m"   # Warning message
+BLUE="\033[36m"     # Info message
+PLAIN='\033[0m'
+
+# 以下网站是随机从Google上找到的无广告小说网站，不喜欢请改成其他网址，以http或https开头
+# 搭建好后无法打开伪装域名，可能是反代小说网站挂了，请在网站留言，或者Github发issue，以便替换新的网站
+SITES=(
+https://oneprovide.net/aff.php?aff=179/
+https://www.jjwxc.net/
+https://culture.ifeng.com/
+http://www.bhzwy.com/
+http://book.ce.cn/
+https://wap.faloo.com/
+https://www.09k.net/
+https://iaclouds.com/aff.php?aff=524/
+http://www.bookshuku.info/
+https://www.txt80.cc/
+http://b.faloo.com/
+https://shuqi.com/
+https://www.jjwxc.net/
+https://www.shukeba.com/
+https://www.xiaxs.la/
+https://www.shubl.com/
+https://book.sfacg.com/
+http://www.wzzww.com/
+http://www.zongheng.com/
+https://www.heiyan.com/
+http://www.wjsw.com/
+http://www.shuhai.com/
+https://www.17k.com/
+http://xs.56dyc.com/
+)
+
+CONFIG_FILE="/usr/local/etc/xray/config.json"
+OS=`hostnamectl | grep -i system | cut -d: -f2`
+virtual=$(systemd-detect-virt)
+ kern=$(uname -r)
+#  识别国家
+UA_Browser="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36"
+v4=$(curl -s4m10 test.ipw.cn -k)
+v4l=`curl -sm10 --user-agent "${UA_Browser}" http://ip-api.com/json/$v4?lang=zh-CN -k | cut -f2 -d"," | cut -f4 -d '"'`
+#=====================
+V6_PROXY=""
+IP=$(curl -sL -4 test.ipw.cn 2>/dev/null || \
+     curl -sL -4 icanhazip.com 2>/dev/null || \
+     curl -sL -4 api.ipify.org 2>/dev/null || \
+     curl -sL -4 ident.me 2>/dev/null || \
+     curl -sL -4 ipecho.net/plain 2>/dev/null || \
+     curl -sL -4 checkip.amazonaws.com 2>/dev/null || \
+     curl -sL -4 bot.whatismyipaddress.com 2>/dev/null || \
+     curl -sL -4 ipinfo.io/ip 2>/dev/null || \
+     curl -sL -4 myexternalip.com/raw 2>/dev/null || \
+     curl -sL -4 ifconfig.me 2>/dev/null || \
+     curl -sL -4 wgetip.com 2>/dev/null || \
+     curl -sL -4 ip.seeip.org 2>/dev/null)
+if [[ -z "$IP" ]]; then
+    IP=$(curl -sL -6 test.ipw.cn 2>/dev/null || \
+         curl -sL -6 icanhazip.com 2>/dev/null || \
+         curl -sL -6 api.ipify.org 2>/dev/null || \
+         curl -sL -6 ident.me 2>/dev/null || \
+         curl -sL -6 ipecho.net/plain 2>/dev/null || \
+         curl -sL -6 checkip.amazonaws.com 2>/dev/null || \
+         curl -sL -6 bot.whatismyipaddress.com 2>/dev/null || \
+         curl -sL -6 ipinfo.io/ip 2>/dev/null || \
+         curl -sL -6 myexternalip.com/raw 2>/dev/null || \
+         curl -sL -6 ifconfig.me 2>/dev/null || \
+         curl -sL -6 wgetip.com 2>/dev/null || \
+         curl -sL -6 ip.seeip.org 2>/dev/null)
+    if [[ -n "$IP" ]]; then
+        V6_PROXY="https://ghfast.top/"
+        echo -e "nameserver 2a01:4f8:c2c:123f::1" > /etc/resolv.conf 2>/dev/null || true
+    fi
+fi
+
+BT="false"
+NGINX_CONF_PATH="/etc/nginx/conf.d/"
+res=`which bt 2>/dev/null`
+if [[ "$res" != "" ]]; then
+    BT="true"
+    NGINX_CONF_PATH="/www/server/panel/vhost/nginx/"
+fi
+
+VLESS="false"
+TROJAN="false"
+TLS="false"
+WS="false"
+XTLS="false"
+KCP="false"
+SOCKS5="false"
+REALITY="false"
+
+checkSystem() {
+rm -rf /etc/localtime
+ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+	result=$(id | awk '{print $1}')
+	[[ $EUID -ne 0 ]] && colorEcho $RED " 请以root身份执行该脚本" && exit 1
+	res=$(which yum 2>/dev/null)
+	if [[ "$?" != "0" ]]; then
+		res=$(which dnf 2>/dev/null)
+		if [[ "$?" != "0" ]]; then
+			res=$(which apt 2>/dev/null)
+			if [[ "$?" != "0" ]]; then
+				colorEcho $RED " 不受支持的Linux系统"
+				exit 1
+			fi
+			PMT="apt"
+			CMD_INSTALL="apt install -y "
+			CMD_REMOVE="apt remove -y "
+			CMD_UPGRADE="apt update; apt upgrade -y; apt autoremove -y"
+		else
+			PMT="dnf"
+			CMD_INSTALL="dnf install -y "
+			CMD_REMOVE="dnf remove -y "
+			CMD_UPGRADE="dnf update -y"
+		fi
+	else
+		PMT="yum"
+		CMD_INSTALL="yum install -y "
+		CMD_REMOVE="yum remove -y "
+		CMD_UPGRADE="yum update -y"
+	fi
+	
+	res=$(which systemctl 2>/dev/null)
+	if [[ "$?" != "0" ]]; then
+		colorEcho $RED " 系统版本过低，请升级到最新版本"
+		exit 1
+    fi    
+}
+
+colorEcho() {
+    echo -e "${1}${@:2}${PLAIN}"
+}
+
+configNeedNginx() {
+    local ws=`grep wsSettings $CONFIG_FILE`
+    if [[ -z "$ws" ]]; then
+        echo no
+        return
+    fi
+    echo yes
+}
+
+needNginx() {
+    if [[ "$WS" = "false" ]]; then
+        echo no
+        return
+    fi
+    echo yes
+}
+
+status() {
+    if [[ ! -f /usr/local/bin/xray ]]; then
+        echo 0
+        return
+    fi
+    if [[ ! -f $CONFIG_FILE ]]; then
+        echo 1
+        return
+    fi
+    port=`grep port $CONFIG_FILE| head -n 1| cut -d: -f2| tr -d \",' '`
+    res=`ss -nutlp| grep ${port} | grep -i xray`
+    if [[ -z "$res" ]]; then
+        echo 2
+        return
+    fi
+
+    if [[ `configNeedNginx` != "yes" ]]; then
+        echo 3
+    else
+        res=`ss -nutlp|grep -i nginx`
+        if [[ -z "$res" ]]; then
+            echo 4
+        else
+            echo 5
+        fi
+    fi
+}
+
+statusText() {
+    res=`status`
+    case $res in
+        2) echo -e ${GREEN}已安装${PLAIN} ${RED}未运行${PLAIN} ;;
+        3) echo -e ${GREEN}已安装${PLAIN} ${GREEN}Xray正在运行${PLAIN} ;;
+        4) echo -e ${GREEN}已安装${PLAIN} ${GREEN}Xray正在运行${PLAIN}, ${RED}Nginx未运行${PLAIN} ;;
+        5) echo -e ${GREEN}已安装${PLAIN} ${GREEN}Xray正在运行, Nginx正在运行${PLAIN} ;;
+        *) echo -e ${RED}未安装${PLAIN} ;;
+    esac
+}
+
+normalizeVersion() {
+    if [ -n "$1" ]; then
+        case "$1" in
+            v*)
+                echo "$1"
+            ;;
+            http*)
+                echo "v26.2.6"
+            ;;
+            *)
+                echo "v$1"
+            ;;
+        esac
+    else
+        echo ""
+    fi
+}
+
+# 1: 新Xray。0: 否。1: 是。2: 未安装。3: 检查失败。
+getVersion() {
+    VER=`/usr/local/bin/xray version|head -n1 | awk '{print $2}'`
+    RETVAL=$?
+    CUR_VER="$(normalizeVersion "$(echo "$VER" | head -n 1 | cut -d " " -f2)")"
+    TAG_URL="https://api.github.com/repos/XTLS/Xray-core/releases/latest"
+    NEW_VER="$(normalizeVersion "$(curl -s "${TAG_URL}" --connect-timeout 10 | grep '"tag_name":' | cut -d'"' -f4)")"
+    # 解决通过Github API获取xray最新版本失败问题
+    if [[ $NEW_VER == "" ]]; then
+        NEW_VER=v$1
+    fi	
+    if [[ "$XTLS" = "true" ]]; then
+        NEW_VER=v1.7.5
+    fi
+    if [[ $? -ne 0 ]] || [[ $NEW_VER == "" ]]; then
+        colorEcho $RED " 检查Xray版本信息失败，请检查网络"
+        return 3
+    elif [[ $RETVAL -ne 0 ]];then
+        return 2
+    elif [[ $NEW_VER != $CUR_VER ]];then
+        return 1
+    fi
+    return 0
+}
+
+archAffix() {
+	case "$(uname -m)" in
+	i686 | i386) echo '32' ;;
+	x86_64 | amd64) echo '64' ;;
+	armv5tel) echo 'arm32-v5' ;;
+	armv6l) echo 'arm32-v6' ;;
+	armv7 | armv7l) echo 'arm32-v7a' ;;
+	armv8 | aarch64) echo 'arm64-v8a' ;;
+	mips64le) echo 'mips64le' ;;
+	mips64) echo 'mips64' ;;
+	mipsle) echo 'mips32le' ;;
+	mips) echo 'mips32' ;;
+	ppc64le) echo 'ppc64le' ;;
+	ppc64) echo 'ppc64' ;;
+	ppc64le) echo 'ppc64le' ;;
+	riscv64) echo 'riscv64' ;;
+	s390x) echo 's390x' ;;
+	*) red " 不支持的CPU架构！" && exit 1 ;;
+	esac
+
+	return 0
+}
+
+getData() {
+ mkdir -p /usr/local/etc/xray
+    if [[ "$REALITY" = "true" ]]; then
+        echo ""
+        echo " Xray Reality 配置，无需域名和证书"
+        echo " 生成Reality密钥对..."
+        if command -v openssl &> /dev/null; then
+            SHORT_IDS=("$(openssl rand -hex 8)" "$(openssl rand -hex 8)" "$(openssl rand -hex 8)")
+            SELECTED_SHORT_ID=${SHORT_IDS[0]}
+        else
+            colorEcho $RED " openssl未安装，无法生成密钥对"
+            exit 1
+        fi
+        REALITY_DESTINATIONS=(
+            "learn.microsoft.com:443"
+            "www.apple.com:443"
+            "www.google.com:443" 
+            "www.microsoft.com:443"
+            "chat.openai.com:443"
+            "github.com:443"
+            "www.amazon.com:443"
+        )
+        echo ""
+        colorEcho $BLUE " 请选择 Reality 伪装目标:"
+        for i in "${!REALITY_DESTINATIONS[@]}"; do
+            echo "   $((i+1))) ${REALITY_DESTINATIONS[$i]}"
+        done
+        read -p "  请选择[默认:1]:" answer
+        case $answer in
+            2) REALITY_DEST="${REALITY_DESTINATIONS[1]}" ;;
+            3) REALITY_DEST="${REALITY_DESTINATIONS[2]}" ;;
+            4) REALITY_DEST="${REALITY_DESTINATIONS[3]}" ;;
+            5) REALITY_DEST="${REALITY_DESTINATIONS[4]}" ;;
+            6) REALITY_DEST="${REALITY_DESTINATIONS[5]}" ;;
+            *) REALITY_DEST="${REALITY_DESTINATIONS[0]}" ;;
+        esac
+        REALITY_SERVER_NAME=$(echo $REALITY_DEST | cut -d: -f1)
+        colorEcho $BLUE " 伪装目标: $REALITY_DEST"
+        colorEcho $BLUE " ShortId: $SELECTED_SHORT_ID"
+        colorEcho $YELLOW " 公钥将在安装Xray后生成"   
+        read -p " 请输入Reality监听端口[默认1000-65535之间的数字]：" PORT
+        [[ -z "${PORT}" ]] && PORT=$(shuf -i2000-65000 -n1)
+        if [[ "${PORT:0:1}" = "0" ]]; then
+            colorEcho ${RED} " 端口不能以0开头"
+            exit 1
+        fi
+        colorEcho ${BLUE} " Reality 端口：$PORT"
+        return 0
+    fi
+    if [[ "$TLS" = "true" || "$XTLS" = "true" ]]; then
+        echo ""
+        echo " Xray一键脚本，运行之前请确认如下条件已经具备："
+        colorEcho ${YELLOW} "  1. 一个伪装域名"
+        colorEcho ${YELLOW} "  2. 伪装域名DNS解析指向当前服务器ip（${IP}）"
+        colorEcho ${BLUE} "    3. 如果/root目录下有  ${GREEN}xray.pem${PLAIN} 和 ${GREEN}xray.key${PLAIN} 证书密钥文件，无需理会条件2"
+		colorEcho ${YELLOW} "  4. 请确保Cloudflare小云朵为关闭状态(仅限DNS)，其他域名解析网站设置同理"
+		colorEcho ${YELLOW} "  5. 请检查DNS解析设置的IP是否为VPS的IP"        
+        echo " "
+            read -p " 请输入伪装域名：" DOMAIN
+            if [[ -z "${DOMAIN}" ]]; then
+                colorEcho ${RED} " 域名输入错误，请重新输入！"
+               getData
+            fi
+        DOMAIN=${DOMAIN,,}
+        colorEcho ${BLUE}  " 伪装域名(host)：$DOMAIN"
+        echo ""
+        if [[ -f ~/xray.pem && -f ~/xray.key ]]; then
+            colorEcho ${BLUE}  " 检测到自有证书，将使用其部署"
+            CERT_FILE="/usr/local/etc/xray/${DOMAIN}.pem"
+            KEY_FILE="/usr/local/etc/xray/${DOMAIN}.key"
+        else
+	    resolve=$(curl -sH "accept: application/dns-json" "https://cloudflare-dns.com/dns-query?name=${DOMAIN}&type=A" && \
+          	      curl -sH "accept: application/dns-json" "https://cloudflare-dns.com/dns-query?name=${DOMAIN}&type=AAAA")
+            res=`echo -n ${resolve} | grep ${IP}`
+            if [[ -z "${res}" ]]; then
+                colorEcho ${BLUE}  "${DOMAIN} 解析结果：${resolve}"
+                colorEcho "${YELLOW}$DOMAIN ${PLAIN}${PLAIN}域名${PLAIN}${RED}未解析到当前服务器IP${PLAIN}${YELLOW}(${IP})${PLAIN}!"
+                exit 1
+        else
+                colorEcho "${YELLOW}$DOMAIN ${PLAIN}${PLAIN}域名${PLAIN}${GREEN}已解析到当前服务器IP${YELLOW}(${IP})${PLAIN}。${PLAIN}"
+            fi
+        fi
+    fi
+echo ""
+if [[ "$SOCKS5" = "true" ]]; then
+        read -t 5 -p " 请输入SOCKS5端口[默认1000-65535之间的数字]：" PORT
+        [[ -z "${PORT}" ]] && PORT=$(shuf -i2000-65000 -n1)
+        if [[ "${PORT:0:1}" = "0" ]]; then
+            colorEcho ${RED} " 端口不能以0开头"
+            exit 1
+        fi
+        colorEcho ${BLUE} " SOCKS5 端口：$PORT" 
+    elif [[ "$(needNginx)" == "no" ]]; then
+        if [[ "$TLS" == "true" ]]; then
+            read -p " 请输入xray监听端口[默认100-65535之间的数字]：" PORT
+            [[ -z "${PORT}" ]] && PORT=$(shuf -i2000-65000 -n1)
+        else
+            read -p " 请输入xray监听端口[100-65535之间的数字]：" PORT
+            [[ -z "${PORT}" ]] && PORT=$(shuf -i2000-65000 -n1)
+            if [[ "${PORT:0:1}" == "0" ]]; then
+                colorEcho ${RED} " 端口不能以0开头"
+                exit 1
+            fi
+        fi
+        colorEcho ${BLUE} " xray端口：$PORT"
+    else
+        read -p " 请输入Nginx监听端口[默认100-65535之间的数字]：" PORT
+        [[ -z "${PORT}" ]] && PORT=$(shuf -i2000-65000 -n1)
+        [ "${PORT:0:1}" = "0" ] && colorEcho ${BLUE} " 端口不能以0开头" && exit 1
+        colorEcho ${BLUE} " Nginx端口：$PORT"
+        XPORT=$(shuf -i2000-65000 -n1)
+    fi
+	if [[ "$KCP" == "true" ]]; then
+		echo ""
+		yellow "请选择伪装类型："
+		echo "   1) 无"
+		echo "   2) BT下载"
+		echo "   3) 视频通话"
+		echo "   4) 微信视频通话"
+		echo "   5) dtls"
+		echo "   6) wiregard"
+		read -p "请选择伪装类型[默认：无]：" answer
+		case $answer in
+		2) HEADER_TYPE="utp" ;;
+		3) HEADER_TYPE="srtp" ;;
+		4) HEADER_TYPE="wechat-video" ;;
+		5) HEADER_TYPE="dtls" ;;
+		6) HEADER_TYPE="wireguard" ;;
+		*) HEADER_TYPE="none" ;;
+		esac
+		yellow "伪装类型：$HEADER_TYPE"
+		SEED=$(cat /proc/sys/kernel/random/uuid)
+	fi
+	if [[ "$TROJAN" == "true" ]]; then
+		echo ""
+		read -p "请设置trojan密码（不输则随机生成）:" PASSWORD
+		[[ -z "$PASSWORD" ]] && PASSWORD=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 16 | head -n 1)
+		yellow " trojan密码：$PASSWORD"
+	fi
+	if [[ "$XTLS" == "true" ]]; then
+		echo ""
+        colorEcho $BLUE " 请选择流控模式:" 
+        echo -e "   1) xtls-rprx-direct [$RED推荐$PLAIN]"
+        echo "   2) xtls-rprx-origin"
+        read -p "  请选择流控模式[默认:direct]" answer
+        [[ -z "$answer" ]] && answer=1
+        case $answer in
+            1)
+                FLOW="xtls-rprx-direct"
+                ;;
+            2)
+                FLOW="xtls-rprx-origin"
+                ;;
+            *)
+                colorEcho $RED " 无效选项，使用默认的xtls-rprx-direct"
+                FLOW="xtls-rprx-direct"
+                ;;
+        esac
+        colorEcho $BLUE " 流控模式：$FLOW"
+    fi
+
+    if [[ "${WS}" = "true" ]]; then
+        echo ""
+        while true
+        do
+            read -p " 请输入伪装路径，以/开头(不懂请直接回车)：" WSPATH
+            if [[ -z "${WSPATH}" ]]; then
+                len=`shuf -i12-18 -n1`
+                ws=`cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w $len | head -n 1`
+                WSPATH="/$ws"
+                break
+            elif [[ "${WSPATH:0:1}" != "/" ]]; then
+                colorEcho ${RED}  " 伪装路径必须以/开头！"
+            elif [[ "${WSPATH}" = "/" ]]; then
+                colorEcho ${RED}   " 不能使用根路径！"
+            else
+                break
+            fi
+        done
+        colorEcho ${BLUE}  " ws路径：$WSPATH"
+    fi
+
+    if [[ "$TLS" = "true" || "$XTLS" = "true" ]]; then
+        echo ""
+        colorEcho $BLUE " 请选择伪装站类型:"
+    	echo "   1) 静态网站：小白不建议使用这个(位于/usr/share/nginx/html)"
+		echo "   2) 34个小说站(随机)"
+        echo "   3) 美女站1(https://www.jp94.com)"
+        echo "   4) 美女站2(https://www.1jiepai.com)"				
+        echo "   5) 世嘉maimai站(https://maimai.sega.jp)"
+		echo "   6) 高清壁纸站1(https://bing.ioliu.cn)"
+		echo "   7) 高清壁纸站2(https://wallhaven.cc)"
+		echo "   8) 自定义反代站点(需以http或者https开头)"
+		echo		
+		read -p " 请选择伪装网站类型[默认:34个小说站(随机选择一个)]" answer
+		if [[ -z "$answer" ]]; then
+                len=${#SITES[@]}
+                ((len--))
+                index=$(shuf -i0-$len -n 1)
+                PROXY_URL=${SITES[$index]}			
+		else
+			case $answer in
+				1) PROXY_URL="" 
+				;;
+				2)
+					len=${#SITES[@]}
+					((len--))
+					while true; do
+						index=$(shuf -i0-${len} -n1)
+						PROXY_URL=${SITES[$index]}
+						host=$(echo ${PROXY_URL} | cut -d/ -f3)
+						ip=$(curl -sL http://ip-api.com/json/${host})
+						res=$(echo -n ${ip} | grep ${host})
+						if [[ "${res}" == "" ]]; then
+							echo "$ip $host" >>/etc/hosts
+							break
+						fi
+					done
+					;;
+				3) PROXY_URL="https://www.jp94.com" ;;
+				4) PROXY_URL="https://www.1jiepai.com" ;;
+                5) PROXY_URL="https://maimai.sega.jp" ;;
+				6) PROXY_URL="https://bing.ioliu.cn" ;;
+				7) PROXY_URL="https://wallhaven.cc" ;;				
+				8)
+					read -p " 请输入反代站点(以http或者https开头)：" PROXY_URL
+					if [[ -z "$PROXY_URL" ]]; then
+						colorEcho $RED " 请输入反代网站！"
+						exit 1
+					elif [[ "${PROXY_URL:0:4}" != "http" ]]; then
+						colorEcho $RED " 反代网站必须以http或https开头！"
+						exit 1
+					fi
+					;;
+            *)
+                colorEcho $RED " 请输入正确的选项！"
+                exit 1
+            esac
+        fi
+        REMOTE_HOST=`echo ${PROXY_URL} | cut -d/ -f3`
+        colorEcho $BLUE " 伪装网站：$PROXY_URL"
+echo ""
+yellow "是否允许搜索引擎爬取网站？[默认：不允许]"
+echo "   y)允许，会有更多ip请求网站，但会消耗一些流量，vps流量充足情况下推荐使用"
+echo "   n)不允许，爬虫不会访问网站，访问ip比较单一，但能节省vps流量"
+# 跳过用户交互，直接设置为不允许
+ALLOW_SPIDER="n"
+echo ""
+yellow "允许搜索引擎：$ALLOW_SPIDER"
+        fi
+}
+
+installNginx() {
+    echo ""
+    colorEcho $BLUE " 安装nginx..."
+    if [[ "$BT" = "false" ]]; then
+        if [[ "$PMT" = "yum" ]]; then
+            $CMD_INSTALL epel-release
+            if [[ "$?" != "0" ]]; then
+                echo '[nginx-stable]
+name=nginx stable repo
+baseurl=http://nginx.org/packages/centos/$releasever/$basearch/
+gpgcheck=1
+enabled=1
+gpgkey=https://nginx.org/keys/nginx_signing.key
+module_hotfixes=true' > /etc/yum.repos.d/nginx.repo
+            fi
+        fi
+        $CMD_INSTALL nginx
+        if [[ "$?" != "0" ]]; then
+            colorEcho $RED " Nginx安装失败，请到 https://hijk.art 反馈"
+            exit 1
+        fi
+        systemctl enable nginx
+    else
+        res=`which nginx 2>/dev/null`
+        if [[ "$?" != "0" ]]; then
+            colorEcho $RED " 您安装了宝塔，请在宝塔后台安装nginx后再运行本脚本"
+            exit 1
+        fi
+    fi
+}
+
+startNginx() {
+    if [[ "$BT" = "false" ]]; then
+        systemctl start nginx
+    else
+        nginx -c /www/server/nginx/conf/nginx.conf
+    fi
+}
+
+stopNginx() {
+    if [[ "$BT" = "false" ]]; then
+        systemctl stop nginx
+    else
+        res=`ps aux | grep -i nginx`
+        if [[ "$res" != "" ]]; then
+            nginx -s stop
+        fi
+    fi
+}
+
+getCert() {
+	mkdir -p /usr/local/etc/xray
+	if [[ -z ${CERT_FILE+x} ]]; then
+		stopNginx
+		systemctl stop xray
+        for port in 80 443; do
+            if [[ 0 -eq $(lsof -i:"$port" | grep -i -c "listen") ]]; then
+                colorEcho "${OK} ${GreenBG} $port $(gettext "端口未被占用") ${Font}"
+            else
+                colorEcho "${Error} ${RedBG} $(gettext "检测到") $port $(gettext "端口被占用"), $(gettext "以下为") $port $(gettext "端口占用信息") ${Font}"
+                lsof -i:"$port"
+                echo "$(gettext "尝试终止占用的进程")!"
+                lsof -i:"$port" | awk '{print $2}' | grep -v "PID" | xargs kill -9
+                colorEcho "${OK} ${GreenBG} $port $(gettext "端口清理完成") ${Font}"
+            fi
+        done
+        $CMD_INSTALL socat openssl
+        if [[ "$PMT" = "yum" ]]; then
+            $CMD_INSTALL cronie
+            systemctl start crond
+            systemctl enable crond
+        else
+            $CMD_INSTALL cron
+            systemctl start cron
+            systemctl enable cron
+        fi
+        curl -sL https://get.acme.sh | sh -s email=hijk.pw@protonmail.sh
+        source ~/.bashrc
+        ~/.acme.sh/acme.sh --upgrade --auto-upgrade
+        ~/.acme.sh/acme.sh --set-default-ca --server letsencrypt
+        if [[ "$BT" = "false" ]]; then
+            ~/.acme.sh/acme.sh --issue -d $DOMAIN --keylength ec-256 --pre-hook "systemctl stop nginx" --post-hook "systemctl restart nginx" --standalone
+        else
+            ~/.acme.sh/acme.sh --issue -d $DOMAIN --keylength ec-256 --pre-hook "nginx -s stop || { echo -n ''; }" --post-hook "nginx -c /www/server/nginx/conf/nginx.conf || { echo -n ''; }" --standalone
+        fi
+        [[ -f ~/.acme.sh/${DOMAIN}_ecc/ca.cer ]] || {
+            colorEcho $RED "获取证书失败，请复制上面的红色文字到 https://hijk.art 反馈"
+            exit 1
+        }
+        CERT_FILE="/usr/local/etc/xray/${DOMAIN}.pem"
+        KEY_FILE="/usr/local/etc/xray/${DOMAIN}.key"
+        ~/.acme.sh/acme.sh --install-cert -d $DOMAIN --ecc \
+            --key-file       $KEY_FILE \
+            --fullchain-file $CERT_FILE \
+            --reloadcmd     "service nginx force-reload"
+        [[ -f $CERT_FILE && -f $KEY_FILE ]] || {
+            colorEcho $RED "获取证书失败，请到 https://hijk.art 反馈"
+            exit 1
+        }
+    else
+        cp ~/xray.pem /usr/local/etc/xray/${DOMAIN}.pem
+        cp ~/xray.key /usr/local/etc/xray/${DOMAIN}.key
+    fi
+}
+
+configNginx() {
+    mkdir -p /usr/share/nginx/html;
+    if [[ "$ALLOW_SPIDER" = "n" ]]; then
+        echo 'User-Agent: *' > /usr/share/nginx/html/robots.txt
+        echo 'Disallow: /' >> /usr/share/nginx/html/robots.txt
+        ROBOT_CONFIG="    location = /robots.txt {}"
+    else
+        ROBOT_CONFIG=""
+    fi
+
+    if [[ "$BT" = "false" ]]; then
+        if [[ ! -f /etc/nginx/nginx.conf.bak ]]; then
+            mv /etc/nginx/nginx.conf /etc/nginx/nginx.conf.bak
+        fi
+        res=`id nginx 2>/dev/null`
+        if [[ "$?" != "0" ]]; then
+            user="www-data"
+        else
+            user="nginx"
+        fi
+        cat > /etc/nginx/nginx.conf<<-EOF
+user $user;
+worker_processes auto;
+error_log /var/log/nginx/error.log;
+pid /run/nginx.pid;
+
+# Load dynamic modules. See /usr/share/doc/nginx/README.dynamic.
+include /usr/share/nginx/modules/*.conf;
+
+events {
+    worker_connections 1024;
+}
+
+http {
+    log_format  main  '\$remote_addr - \$remote_user [\$time_local] "\$request" '
+                      '\$status \$body_bytes_sent "\$http_referer" '
+                      '"\$http_user_agent" "\$http_x_forwarded_for"';
+
+    access_log  /var/log/nginx/access.log  main;
+    server_tokens off;
+
+    sendfile            on;
+    tcp_nopush          on;
+    tcp_nodelay         on;
+    keepalive_timeout   65;
+    types_hash_max_size 2048;
+    gzip                on;
+
+    include             /etc/nginx/mime.types;
+    default_type        application/octet-stream;
+
+    # Load modular configuration files from the /etc/nginx/conf.d directory.
+    # See http://nginx.org/en/docs/ngx_core_module.html#include
+    # for more information.
+    include /etc/nginx/conf.d/*.conf;
+}
+EOF
+    fi
+
+    if [[ "$PROXY_URL" = "" ]]; then
+        action=""
+    else
+        action="proxy_ssl_server_name on;
+        proxy_pass $PROXY_URL;
+        proxy_set_header Accept-Encoding '';
+        sub_filter \"$REMOTE_HOST\" \"$DOMAIN\";
+        sub_filter_once off;"
+    fi
+
+    if [[ "$TLS" = "true" || "$XTLS" = "true" ]]; then
+        mkdir -p ${NGINX_CONF_PATH}
+        # VMESS+WS+TLS
+        # VLESS+WS+TLS
+        if [[ "$WS" = "true" ]]; then
+            cat > ${NGINX_CONF_PATH}${DOMAIN}.conf<<-EOF
+server {
+    listen 80;
+    listen [::]:80;
+    server_name ${DOMAIN};
+    return 301 https://\$server_name:${PORT}\$request_uri;
+}
+
+server {
+    listen       ${PORT} ssl http2;
+    listen       [::]:${PORT} ssl http2;
+    server_name ${DOMAIN};
+    charset utf-8;
+
+    # ssl配置
+    ssl_protocols TLSv1.2 TLSv1.3;
+    ssl_ciphers TLS13-AES-256-GCM-SHA384:TLS13-CHACHA20-POLY1305-SHA256:TLS13-AES-128-GCM-SHA256:TLS13-AES-128-CCM-8-SHA256:TLS13-AES-128-CCM-SHA256:EECDH+CHACHA20:EECDH+AES128:RSA+AES128:EECDH+AES256:RSA+AES256:EECDH+3DES:RSA+3DES:!MD5;
+	ssl_ecdh_curve secp384r1;
+    ssl_prefer_server_ciphers on;
+    ssl_session_cache shared:SSL:10m;
+    ssl_session_timeout 10m;
+    ssl_session_tickets off;
+    ssl_certificate $CERT_FILE;
+    ssl_certificate_key $KEY_FILE;
+
+    root /usr/share/nginx/html;
+    location / {
+        $action
+    }
+    $ROBOT_CONFIG
+
+    location ${WSPATH} {
+      proxy_redirect off;
+      proxy_pass http://127.0.0.1:${XPORT};
+      proxy_http_version 1.1;
+      proxy_set_header Upgrade \$http_upgrade;
+      proxy_set_header Connection "upgrade";
+      proxy_set_header Host \$host;
+      proxy_set_header X-Real-IP \$remote_addr;
+      proxy_set_header X-Forwarded-For \$proxy_add_x_forwarded_for;
+    }
+}
+EOF
+        else
+            # VLESS+TCP+TLS
+            # VLESS+TCP+XTLS
+            # trojan
+            cat > ${NGINX_CONF_PATH}${DOMAIN}.conf<<-EOF
+server {
+    listen 80;
+    listen [::]:80;
+    listen 81 http2;
+    server_name ${DOMAIN};
+    root /usr/share/nginx/html;
+    location / {
+        $action
+    }
+    $ROBOT_CONFIG
+}
+EOF
+        fi
+    fi
+}
+
+setSelinux() {
+    if [[ -s /etc/selinux/config ]] && grep 'SELINUX=enforcing' /etc/selinux/config; then
+        sed -i 's/SELINUX=enforcing/SELINUX=permissive/g' /etc/selinux/config
+        setenforce 0
+    fi
+}
+
+setFirewall() {
+    res=`which firewall-cmd 2>/dev/null`
+    if [[ $? -eq 0 ]]; then
+        systemctl status firewalld > /dev/null 2>&1
+        if [[ $? -eq 0 ]];then
+            firewall-cmd --permanent --add-service=http
+            firewall-cmd --permanent --add-service=https
+            if [[ "$PORT" != "443" ]]; then
+                firewall-cmd --permanent --add-port=${PORT}/tcp
+                firewall-cmd --permanent --add-port=${PORT}/udp
+            fi
+            firewall-cmd --reload
+        else
+            nl=`iptables -nL | nl | grep FORWARD | awk '{print $1}'`
+            if [[ "$nl" != "3" ]]; then
+                iptables -I INPUT -p tcp --dport 80 -j ACCEPT
+                iptables -I INPUT -p tcp --dport 443 -j ACCEPT
+                if [[ "$PORT" != "443" ]]; then
+                    iptables -I INPUT -p tcp --dport ${PORT} -j ACCEPT
+                    iptables -I INPUT -p udp --dport ${PORT} -j ACCEPT
+                fi
+            fi
+        fi
+    else
+        res=`which iptables 2>/dev/null`
+        if [[ $? -eq 0 ]]; then
+            nl=`iptables -nL | nl | grep FORWARD | awk '{print $1}'`
+            if [[ "$nl" != "3" ]]; then
+                iptables -I INPUT -p tcp --dport 80 -j ACCEPT
+                iptables -I INPUT -p tcp --dport 443 -j ACCEPT
+                if [[ "$PORT" != "443" ]]; then
+                    iptables -I INPUT -p tcp --dport ${PORT} -j ACCEPT
+                    iptables -I INPUT -p udp --dport ${PORT} -j ACCEPT
+                fi
+            fi
+        else
+            res=`which ufw 2>/dev/null`
+            if [[ $? -eq 0 ]]; then
+                res=`ufw status | grep -i inactive`
+                if [[ "$res" = "" ]]; then
+                    ufw allow http/tcp
+                    ufw allow https/tcp
+                    if [[ "$PORT" != "443" ]]; then
+                        ufw allow ${PORT}/tcp
+                        ufw allow ${PORT}/udp
+                    fi
+                fi
+            fi
+        fi
+    fi
+}
+
+installXray() {
+    rm -rf /tmp/xray
+    mkdir -p /tmp/xray
+    DOWNLOAD_LINK="${V6_PROXY}https://github.com/XTLS/Xray-core/releases/download/${NEW_VER}/Xray-linux-$(archAffix).zip"
+    colorEcho $BLUE " 下载Xray: ${DOWNLOAD_LINK}"
+    curl -L -H "Cache-Control: no-cache" -o /tmp/xray/xray.zip ${DOWNLOAD_LINK}
+    if [ $? != 0 ];then
+        colorEcho $RED " 下载Xray文件失败，请检查服务器网络设置"
+        exit 1
+    fi
+    systemctl stop xray
+    mkdir -p /usr/local/etc/xray /usr/local/share/xray && \
+    unzip /tmp/xray/xray.zip -d /tmp/xray
+    cp /tmp/xray/xray /usr/local/bin
+    cp /tmp/xray/geo* /usr/local/share/xray
+    chmod +x /usr/local/bin/xray || {
+        colorEcho $RED " Xray安装失败"
+        exit 1
+    }
+
+    cat >/etc/systemd/system/xray.service<<-EOF
+[Unit]
+Description=Xray Service
+Documentation=https://github.com/xtls
+After=network.target nss-lookup.target
+
+[Service]
+User=root
+NoNewPrivileges=true
+ExecStart=/usr/local/bin/xray run -config /usr/local/etc/xray/config.json
+Restart=on-failure
+RestartPreventExitStatus=23
+
+[Install]
+WantedBy=multi-user.target
+EOF
+    systemctl daemon-reload
+    systemctl enable xray.service
+}
+
+trojanConfig() {
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "trojan",
+    "settings": {
+      "clients": [
+        {
+          "password": "$PASSWORD"
+        }
+      ],
+      "fallbacks": [
+        {
+              "alpn": "http/1.1",
+              "dest": 80
+          },
+          {
+              "alpn": "h2",
+              "dest": 81
+          }
+      ]
+    },
+    "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+            "serverName": "$DOMAIN",
+            "alpn": ["http/1.1", "h2"],
+            "certificates": [
+                {
+                    "certificateFile": "$CERT_FILE",
+                    "keyFile": "$KEY_FILE"
+                }
+            ]
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+trojanXTLSConfig() {
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "trojan",
+    "settings": {
+      "clients": [
+        {
+          "password": "$PASSWORD",
+          "flow": "$FLOW"
+        }
+      ],
+      "fallbacks": [
+        {
+              "alpn": "http/1.1",
+              "dest": 80
+          },
+          {
+              "alpn": "h2",
+              "dest": 81
+          }
+      ]
+    },
+    "streamSettings": {
+        "network": "tcp",
+        "security": "xtls",
+        "xtlsSettings": {
+            "serverName": "$DOMAIN",
+            "alpn": ["http/1.1", "h2"],
+            "certificates": [
+                {
+                    "certificateFile": "$CERT_FILE",
+                    "keyFile": "$KEY_FILE"
+                }
+            ]
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vmessConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "vmess",
+    "settings": {
+      "clients": [
+        {
+          "id": "$uuid",
+          "level": 1,
+          "alterId": 0
+        }
+      ]
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vmessKCPConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "vmess",
+    "settings": {
+      "clients": [
+        {
+          "id": "$uuid",
+          "level": 1,
+          "alterId": $0
+        }
+      ]
+    },
+    "streamSettings": {
+        "network": "mkcp",
+        "kcpSettings": {
+            "uplinkCapacity": 100,
+            "downlinkCapacity": 100,
+            "congestion": true,
+            "header": {
+                "type": "$HEADER_TYPE"
+            },
+            "seed": "$SEED"
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vmessTLSConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "vmess",
+    "settings": {
+      "clients": [
+        {
+          "id": "$uuid",
+          "level": 1,
+          "alterId": 0
+        }
+      ],
+      "disableInsecureEncryption": false
+    },
+    "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+            "serverName": "$DOMAIN",
+            "alpn": ["http/1.1", "h2"],
+            "certificates": [
+                {
+                    "certificateFile": "$CERT_FILE",
+                    "keyFile": "$KEY_FILE"
+                }
+            ]
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vmessWSConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $XPORT,
+    "listen": "127.0.0.1",
+    "protocol": "vmess",
+    "settings": {
+      "clients": [
+        {
+          "id": "$uuid",
+          "level": 1,
+          "alterId": 0
+        }
+      ],
+      "disableInsecureEncryption": false
+    },
+    "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+            "path": "$WSPATH",
+            "headers": {
+                "Host": "$DOMAIN"
+            }
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vlessTCPConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "vless",
+    "settings": {
+      "clients": [
+        {
+          "id": "$uuid",
+          "level": 0
+        }
+      ],
+      "decryption": "none"
+    },
+    "streamSettings": {
+        "network": "tcp",
+        "security": "none"
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vlessTLSConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "vless",
+    "settings": {
+      "clients": [
+        {
+          "id": "$uuid",
+          "level": 0
+        }
+      ],
+      "decryption": "none",
+      "fallbacks": [
+          {
+              "alpn": "http/1.1",
+              "dest": 80
+          },
+          {
+              "alpn": "h2",
+              "dest": 81
+          }
+      ]
+    },
+    "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+            "serverName": "$DOMAIN",
+            "alpn": ["http/1.1", "h2"],
+            "certificates": [
+                {
+                    "certificateFile": "$CERT_FILE",
+                    "keyFile": "$KEY_FILE"
+                }
+            ]
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vlessXTLSConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "vless",
+    "settings": {
+      "clients": [
+        {
+          "id": "$uuid",
+          "flow": "$FLOW",
+          "level": 0
+        }
+      ],
+      "decryption": "none",
+      "fallbacks": [
+          {
+              "alpn": "http/1.1",
+              "dest": 80
+          },
+          {
+              "alpn": "h2",
+              "dest": 81
+          }
+      ]
+    },
+    "streamSettings": {
+        "network": "tcp",
+        "security": "xtls",
+        "xtlsSettings": {
+            "serverName": "$DOMAIN",
+            "alpn": ["http/1.1", "h2"],
+            "certificates": [
+                {
+                    "certificateFile": "$CERT_FILE",
+                    "keyFile": "$KEY_FILE"
+                }
+            ]
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vlessWSConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $XPORT,
+    "listen": "127.0.0.1",
+    "protocol": "vless",
+    "settings": {
+        "clients": [
+            {
+                "id": "$uuid",
+                "level": 0
+            }
+        ],
+        "decryption": "none"
+    },
+    "streamSettings": {
+        "network": "ws",
+        "security": "none",
+        "wsSettings": {
+            "path": "$WSPATH",
+            "headers": {
+                "Host": "$DOMAIN"
+            }
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vlessKCPConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "vless",
+    "settings": {
+      "clients": [
+        {
+          "id": "$uuid",
+          "level": 0
+        }
+      ],
+      "decryption": "none"
+    },
+    "streamSettings": {
+        "streamSettings": {
+            "network": "mkcp",
+            "kcpSettings": {
+                "uplinkCapacity": 100,
+                "downlinkCapacity": 100,
+                "congestion": true,
+                "header": {
+                    "type": "$HEADER_TYPE"
+                },
+                "seed": "$SEED"
+            }
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+socks5Config() {
+    user=$(head /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 8 | head -n1)
+    password=$(head /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 12 | head -n1)
+    cat > $CONFIG_FILE <<-EOF
+{
+  "inbounds": [{
+    "port": ${PORT},
+    "protocol": "socks",
+    "settings": {
+      "auth": "password",
+      "accounts": [
+        {"user": "${user}", "pass": "${password}"}
+      ],
+      "udp": true,
+      "ip": "0.0.0.0"
+    }
+  }],
+  "outbounds": [{"protocol": "freedom"}]
+}
+EOF
+}
+
+realityConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "listen": "0.0.0.0",
+      "port": $PORT,
+      "protocol": "vless",
+      "settings": {
+        "clients": [
+          {
+            "id": "$uuid",
+            "flow": "xtls-rprx-vision"
+          }
+        ],
+        "decryption": "none"
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "show": false,
+          "dest": "$REALITY_DEST",
+          "xver": 0,
+          "serverNames": [
+            "$REALITY_SERVER_NAME"
+          ],
+          "privateKey": "$private_key",
+          "publicKey": "$public_key",
+          "shortIds": [
+            "$SELECTED_SHORT_ID"
+          ]
+        }
+      },
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls",
+          "quic"
+        ]
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIPv4v6"
+      }
+    }
+  ]
+
+}
+EOF
+}
+
+configXray() {
+    mkdir -p /usr/local/xray
+    if [[ "$SOCKS5" = "true" ]]; then
+        socks5Config
+        return 0
+    fi
+    if [[ "$REALITY" = "true" ]]; then
+        realityConfig
+        return 0
+    fi
+    if [[ "$TROJAN" = "true" ]]; then
+        if [[ "$XTLS" = "true" ]]; then
+            trojanXTLSConfig
+        else
+            trojanConfig
+        fi
+        return 0
+    fi
+    if [[ "$VLESS" = "false" ]]; then
+        # VMESS + kcp
+        if [[ "$KCP" = "true" ]]; then
+            vmessKCPConfig
+            return 0
+        fi
+        # VMESS
+        if [[ "$TLS" = "false" ]]; then
+            vmessConfig
+        elif [[ "$WS" = "false" ]]; then
+            # VMESS+TCP+TLS
+            vmessTLSConfig
+        # VMESS+WS+TLS
+        else
+            vmessWSConfig
+        fi
+    #VLESS
+    else
+        if [[ "$KCP" = "true" ]]; then
+            vlessKCPConfig
+            return 0
+        fi
+        # VLESS+TCP（无TLS）
+        if [[ "$TLS" = "false" && "$WS" = "false" ]]; then
+            vlessTCPConfig
+        # VLESS+TCP+TLS 或 VLESS+TCP+XTLS
+        elif [[ "$WS" = "false" ]]; then
+            if [[ "$XTLS" = "false" ]]; then
+                vlessTLSConfig
+            else
+                vlessXTLSConfig
+            fi
+        # VLESS+WS+TLS
+        else
+            vlessWSConfig
+        fi
+    fi
+}
+
+install() {
+    getData
+
+    $PMT clean all
+    [[ "$PMT" = "apt" ]] && $PMT update
+    $CMD_INSTALL wget vim unzip tar gcc openssl curl jp
+    $CMD_INSTALL ruby qrencode psmisc sudo vim curl
+    $CMD_INSTALL libqrencode libqrencode-dev --fix-broken
+    $CMD_INSTALL net-tools firewalld iptables ufw
+    if [[ "$PMT" = "apt" ]]; then
+        $CMD_INSTALL libssl-dev g++
+    fi
+    res=`which unzip 2>/dev/null`
+    if [[ $? -ne 0 ]]; then
+        colorEcho $RED " unzip安装失败，请检查网络"
+        exit 1
+    fi
+    if [[ "$(needNginx)" = "yes" ]] || [[ "$TLS" = "true" ]] || [[ "$XTLS" = "true" ]]; then
+        installNginx
+    fi
+    setFirewall
+    if [[ "$TLS" = "true" || "$XTLS" = "true" ]]; then
+        getCert
+        configNginx
+    fi
+    colorEcho $BLUE " 安装Xray..."
+    getVersion
+    RETVAL="$?"
+    if [[ $RETVAL == 0 ]]; then
+        colorEcho $BLUE " Xray最新版 ${CUR_VER} 已经安装"
+    elif [[ $RETVAL == 3 ]]; then
+        exit 1
+    else
+        colorEcho $BLUE " 安装Xray ${NEW_VER} ，架构$(archAffix)"
+        installXray
+    fi
+if [[ "$REALITY" = "true" ]]; then
+        colorEcho $BLUE " 生成Reality密钥对..."
+        if [[ -f /usr/local/bin/xray ]]; then
+        # 生成密钥对
+        key_pair=$(/usr/local/bin/xray x25519)
+        private_key=$(echo "$key_pair" | awk '/PrivateKey:/ {print $2}')
+        public_key=$(echo "$key_pair" | awk '/Public key:/ {print $2}')
+        public_key=$(echo "$key_pair" | awk '/Password:/ {print $2}')
+# 保存密钥对到文件
+        mkdir -p /usr/local/etc/xray
+        echo "$private_key" > /usr/local/etc/xray/reality_private.key
+        echo "$public_key" > /usr/local/etc/xray/reality_public.key
+        colorEcho $GREEN " 私钥生成成功: $private_key"
+        colorEcho $GREEN " 公钥生成成功: $public_key"
+        colorEcho $BLUE " 密钥已保存到: /usr/local/etc/xray/reality_*.key"
+        # 设置权限
+        chmod 600 /usr/local/etc/xray/reality_*.key
+    else
+        colorEcho $RED " Xray安装失败，无法生成密钥对"
+        exit 1
+    fi
+fi	
+	configXray
+	setSelinux
+	start
+	showInfo
+}
+
+#启动nginx
+nginx() {
+systemctl start nginx
+}
+
+#重启nginx
+nginx2() {
+systemctl restart nginx
+}
+
+update() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        colorEcho $RED " Xray未安装，请先安装！"
+        return
+    fi
+
+    getVersion
+    RETVAL="$?"
+    if [[ $RETVAL == 0 ]]; then
+        colorEcho $BLUE " Xray最新版 ${CUR_VER} 已经安装"
+    elif [[ $RETVAL == 3 ]]; then
+        exit 1
+    else
+        colorEcho $BLUE " 安装Xray ${NEW_VER} ，架构$(archAffix)"
+        installXray
+        stop
+        start
+
+        colorEcho $GREEN " 最新版Xray安装成功！"
+    fi
+}
+
+uninstall() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        colorEcho $RED " Xray未安装，请先安装！"
+        return
+    fi
+
+    echo ""
+    read -p " 确定卸载Xray？[y/n]：" answer
+    if [[ "${answer,,}" = "y" ]]; then
+        domain=`grep Host $CONFIG_FILE | cut -d: -f2 | tr -d \",' '`
+        if [[ "$domain" = "" ]]; then
+            domain=`grep serverName $CONFIG_FILE | cut -d: -f2 | tr -d \",' '`
+        fi
+        
+        stop
+        systemctl disable xray
+        rm -rf /etc/systemd/system/xray.service
+        rm -rf /usr/local/bin/xray
+        rm -rf /usr/local/etc/xray
+        rm -rf /root/.acme.sh
+        if [[ "$BT" = "false" ]]; then
+            systemctl disable nginx
+            $CMD_REMOVE nginx
+            if [[ "$PMT" = "apt" ]]; then
+                $CMD_REMOVE nginx-common
+            fi
+            rm -rf /etc/nginx/nginx.conf
+            if [[ -f /etc/nginx/nginx.conf.bak ]]; then
+                mv /etc/nginx/nginx.conf.bak /etc/nginx/nginx.conf
+            fi
+        fi
+        if [[ "$domain" != "" ]]; then
+            rm -rf ${NGINX_CONF_PATH}${domain}.conf
+        fi
+        [[ -f ~/.acme.sh/acme.sh ]] && ~/.acme.sh/acme.sh --uninstall
+        colorEcho $GREEN " Xray卸载成功"
+    fi
+}
+
+start() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        colorEcho $RED " Xray未安装，请先安装！"
+        return
+    fi
+    stopNginx
+    startNginx
+    systemctl restart xray
+    sleep 2
+    
+    port=`grep port $CONFIG_FILE| head -n 1| cut -d: -f2| tr -d \",' '`
+    res=`ss -nutlp| grep ${port} | grep -i xray`
+    if [[ "$res" = "" ]]; then
+        colorEcho $RED " Xray启动失败，请检查日志或查看端口是否被占用！"
+    else
+        colorEcho $BLUE " Xray启动成功"
+    fi
+}
+
+stop() {
+    stopNginx
+    systemctl stop xray
+    colorEcho $BLUE " Xray停止成功"
+}
+
+
+restart() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        colorEcho $RED " Xray未安装，请先安装！"
+        return
+    fi
+
+    stop
+    start
+}
+
+
+getConfigFileInfo() {
+    vless="false"
+    tls="false"
+    ws="false"
+    xtls="false"
+    trojan="false"
+    protocol="VMess"
+    kcp="false"
+
+    if [[ ! -f "$CONFIG_FILE" ]]; then
+        return
+    fi
+    
+    uid=`grep id $CONFIG_FILE 2>/dev/null | head -n1| cut -d: -f2 | tr -d \",' '`
+    alterid=`grep alterId $CONFIG_FILE 2>/dev/null | cut -d: -f2 | tr -d \",' '`
+    network=`grep network $CONFIG_FILE 2>/dev/null | tail -n1| cut -d: -f2 | tr -d \",' '`
+    [[ -z "$network" ]] && network="tcp"
+    domain=`grep serverName $CONFIG_FILE 2>/dev/null | cut -d: -f2 | tr -d \",' '`
+    if [[ "$domain" = "" ]]; then
+        domain=`grep Host $CONFIG_FILE 2>/dev/null | cut -d: -f2 | tr -d \",' '`
+        if [[ "$domain" != "" ]]; then
+            ws="true"
+            tls="true"
+            wspath=`grep path $CONFIG_FILE 2>/dev/null | cut -d: -f2 | tr -d \",' '`
+        fi
+    else
+        tls="true"
+    fi
+    if [[ "$ws" = "true" ]]; then
+        port=`grep -i ssl $NGINX_CONF_PATH${domain}.conf 2>/dev/null | head -n1 | awk '{print $2}'`
+    else
+        port=`grep port $CONFIG_FILE 2>/dev/null | cut -d: -f2 | tr -d \",' '`
+    fi
+    res=`grep -i kcp $CONFIG_FILE 2>/dev/null`
+    if [[ "$res" != "" ]]; then
+        kcp="true"
+        type=`grep header -A 3 $CONFIG_FILE 2>/dev/null | grep 'type' | cut -d: -f2 | tr -d \",' '`
+        seed=`grep seed $CONFIG_FILE 2>/dev/null | cut -d: -f2 | tr -d \",' '`
+    fi
+
+    vmess=`grep vmess $CONFIG_FILE 2>/dev/null`
+    if [[ "$vmess" = "" ]]; then
+        trojan=`grep trojan $CONFIG_FILE 2>/dev/null`
+        if [[ "$trojan" = "" ]]; then
+            vless="true"
+            protocol="VLESS"
+            # 检查是否有TLS配置
+            security=`grep security $CONFIG_FILE 2>/dev/null | cut -d: -f2 | tr -d \",' '`
+            if [[ "$security" = "tls" || "$security" = "xtls" ]]; then
+                tls="true"
+            fi
+            xtls=`grep xtlsSettings $CONFIG_FILE 2>/dev/null`
+            if [[ "$xtls" != "" ]]; then
+                xtls="true"
+                flow=`grep flow $CONFIG_FILE 2>/dev/null | cut -d: -f2 | tr -d \",' '`
+            else
+                flow="无"
+            fi
+        else
+            trojan="true"
+            password=`grep password $CONFIG_FILE 2>/dev/null | cut -d: -f2 | tr -d \",' '`
+            protocol="trojan"
+            tls="true"
+            encryption="none"
+            xtls=`grep xtlsSettings $CONFIG_FILE 2>/dev/null`
+            if [[ "$xtls" != "" ]]; then
+                xtls="true"
+                flow=`grep flow $CONFIG_FILE 2>/dev/null | cut -d: -f2 | tr -d \",' '`
+            else
+                flow="无"
+            fi
+        fi
+    fi
+}
+
+
+outputVmess() {
+    raw="{
+  \"v\":\"2\",
+  \"ps\":\"${v4l}-${IP}-网路跳越\",
+  \"add\":\"$IP\",
+  \"port\":\"${port}\",
+  \"id\":\"${uid}\",
+  \"aid\":\"$alterid\",
+  \"net\":\"tcp\",
+  \"type\":\"none\",
+  \"host\":\"\",
+  \"path\":\"\",
+  \"tls\":\"\"
+}"
+    link=`echo -n ${raw} | base64 -w 0`
+    link="vmess://${link}"
+mkdir -p /root/xray && echo $link > /root/xray/url.txt
+    echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
+    echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+    echo -e "   ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+    echo -e "   ${BLUE}额外id(alterid)：${PLAIN} ${RED}${alterid}${PLAIN}"
+    echo -e "   ${BLUE}加密方式(security)：${PLAIN} ${RED}auto${PLAIN}"
+    echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}"
+    echo  
+    echo -e "   ${BLUE}vmess链接:${PLAIN} $RED$(cat /root/xray/url.txt)$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"
+	echo
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)	
+}
+
+outputVmessKCP() {
+    echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
+    echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+    echo -e "   ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+    echo -e "   ${BLUE}额外id(alterid)：${PLAIN} ${RED}${alterid}${PLAIN}"
+    echo -e "   ${BLUE}加密方式(security)：${PLAIN} ${RED}auto${PLAIN}"
+    echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}"
+    echo -e "   ${BLUE}伪装类型(type)：${PLAIN} ${RED}${type}${PLAIN}"
+    echo -e "   ${BLUE}mkcp seed：${PLAIN} ${RED}${seed}${PLAIN}" 
+}
+
+outputTrojan() {
+	if [[ "$xtls" == "true" ]]; then
+		link="trojan://${password}@${domain}:${port}#${v4l}-${IP}-网路跳越-到期时间:${expiration_time}"
+mkdir -p /root/xray && echo $link > /root/xray/url.txt		
+		qrlink="https://api.qrserver.com/v1/create-qr-code/?data=${link}&size=300${link}"	
+		echo -e "   ${BLUE}IP/域名(address): ${PLAIN} ${RED}${domain}${PLAIN}"
+		echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+		echo -e "   ${BLUE}密码(password)：${PLAIN}${RED}${password}${PLAIN}"
+		echo -e "   ${BLUE}流控(flow)：${PLAIN}$RED$flow${PLAIN}"
+		echo -e "   ${BLUE}加密(encryption)：${PLAIN} ${RED}none${PLAIN}"
+		echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}"
+		echo -e "   ${BLUE}底层安全传输(tls)：${PLAIN}${RED}XTLS${PLAIN}"		
+	echo	
+	echo -e "   ${BLUE}Trojan链接: ${PLAIN}$YELLOW$(cat /root/xray/url.txt)$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"
+	echo		
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)				
+	else
+		link="trojan://${password}@${domain}:${port}#${v4l}-${IP}-网路跳越-到期时间:${expiration_time}"
+		mkdir -p /root/xray && echo $link > /root/xray/url.txt
+		qrlink="https://api.qrserver.com/v1/create-qr-code/?data=${link}&size=300${link}"
+		echo -e "   ${BLUE}IP/域名(address): ${PLAIN} ${RED}${domain}${PLAIN}"
+		echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+		echo -e "   ${BLUE}密码(password)：${PLAIN}${RED}${password}${PLAIN}"
+		echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}"
+		echo -e "   ${BLUE}底层安全传输(tls)：${PLAIN}${RED}TLS${PLAIN}"
+	echo	
+	echo -e "   ${BLUE}Trojan链接: ${PLAIN}$YELLOW$(cat /root/xray/url.txt)$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"
+	echo		
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)				
+	fi
+}
+
+outputVmessTLS() {
+    raw="{
+  \"v\":\"2\",
+  \"ps\":\"${v4l}-${IP}-网路跳越\",
+  \"add\":\"$IP\",
+  \"port\":\"${port}\",
+  \"id\":\"${uid}\",
+  \"aid\":\"$alterid\",
+  \"net\":\"${network}\",
+  \"type\":\"none\",
+  \"host\":\"${domain}\",
+  \"path\":\"\",
+  \"tls\":\"tls\"
+}"
+    link=`echo -n ${raw} | base64 -w 0`
+    link="vmess://${link}"
+	mkdir -p /root/xray && echo $link > /root/xray/url.txt
+    echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
+    echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+    echo -e "   ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+    echo -e "   ${BLUE}额外id(alterid)：${PLAIN} ${RED}${alterid}${PLAIN}"
+    echo -e "   ${BLUE}加密方式(security)：${PLAIN} ${RED}none${PLAIN}"
+    echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}" 
+    echo -e "   ${BLUE}伪装域名/主机名(host)/SNI/peer名称：${PLAIN}${RED}${domain}${PLAIN}"
+    echo -e "   ${BLUE}底层安全传输(tls)：${PLAIN}${RED}TLS${PLAIN}"
+    echo  
+    echo -e "   ${BLUE}vmess链接:${PLAIN} $RED$(cat /root/xray/url.txt)$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"
+	echo
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)		
+}
+
+outputVmessWS() {
+    raw="{
+  \"v\":\"2\",
+  \"ps\":\"${v4l}-${IP}-网路跳越\",
+  \"add\":\"$IP\",
+  \"port\":\"${port}\",
+  \"id\":\"${uid}\",
+  \"aid\":\"$alterid\",
+  \"net\":\"${network}\",
+  \"type\":\"none\",
+  \"host\":\"${domain}\",
+  \"path\":\"${wspath}\",
+  \"tls\":\"tls\"
+}"
+    link=$(echo -n ${raw} | base64 -w 0)
+    link="vmess://${link}"
+mkdir -p /root/xray && echo $link > /root/xray/url.txt
+    echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
+    echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+    echo -e "   ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+    echo -e "   ${BLUE}额外id(alterid)：${PLAIN} ${RED}${alterid}${PLAIN}"
+    echo -e "   ${BLUE}加密方式(security)：${PLAIN} ${RED}none${PLAIN}"
+    echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}" 
+    echo -e "   ${BLUE}伪装类型(type)：${PLAIN}${RED}none${PLAIN}"
+    echo -e "   ${BLUE}伪装域名/主机名(host)/SNI/peer名称：${PLAIN}${RED}${domain}${PLAIN}"
+    echo -e "   ${BLUE}路径(path)：${PLAIN}${RED}${wspath}${PLAIN}"
+    echo -e "   ${BLUE}底层安全传输(tls)：${PLAIN}${RED}TLS${PLAIN}"
+    echo  
+    echo -e "   ${BLUE}vmess链接:${PLAIN} $RED$(cat /root/xray/url.txt)$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"
+	echo
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)
+}
+outputVlessTCP() {
+    echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
+    echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+    echo -e "   ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+    echo -e "   ${BLUE}加密(encryption)：${PLAIN} ${RED}none${PLAIN}"
+    echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}"
+        link="vless://${uid}@${IP}:${port}?encryption=none&security=none&type=tcp#${v4l}-${IP}-网路跳越"
+    mkdir -p /root/xray && echo $link > /root/xray/url.txt
+    qrlink="https://api.qrserver.com/v1/create-qr-code/?data=vless://${uid}@${IP}:${port}?encryption=none&security=none&type=tcp#${v4l}-${IP}-网路跳越&size=300x300"    
+    echo	
+    echo -e "   ${BLUE}vless链接: ${PLAIN}$YELLOW$(cat /root/xray/url.txt)$PLAIN"
+    echo
+    echo -e "   ${BLUE}二维码链接: ${PLAIN}$GREEN$qrlink$PLAIN"    
+    echo
+    echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}"
+    echo
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)
+}
+
+showInfo() {
+    # 检查是否是 SOCKS5 配置
+    socks=$(grep -i '"protocol": "socks"' $CONFIG_FILE)
+    if [[ -n "$socks" ]]; then
+        PORT=$(jq -r '.inbounds[0].port' $CONFIG_FILE)
+        user=$(jq -r '.inbounds[0].settings.accounts[0].user' $CONFIG_FILE)
+        password=$(jq -r '.inbounds[0].settings.accounts[0].pass' $CONFIG_FILE)
+
+        auth="${user}:${password}@${IP}:${PORT}"
+        comment="${v4l}-${IP}-网路跳越"
+        mkdir -p /root/socks5
+        echo "socks://${auth}#${comment}" > /root/socks5/url.txt
+        link="socks://$(echo -n "$auth" | base64 -w 0)#$(echo -n "$comment" | base64 -w 0)"
+        qrlink="https://api.qrserver.com/v1/create-qr-code/?data=${link}&size=300x300"       
+        echo -e "\n   ${BLUE}地址: ${PLAIN}${RED}${IP}${PLAIN}"
+        echo -e "   ${BLUE}端口: ${PLAIN}${RED}${PORT}${PLAIN}"
+        echo -e "   ${BLUE}用户: ${PLAIN}${RED}${user}${PLAIN}"
+        echo -e "   ${BLUE}密码: ${PLAIN}${RED}${password}${PLAIN}"
+        echo  
+        echo -e "   ${BLUE}Socks5 链接:${PLAIN} $RED${link}$PLAIN"
+        echo
+        echo -e "   ${BLUE}二维码链接:${PLAIN} $GREEN$qrlink$PLAIN" 
+        echo -e "              浏览器打开二维码链接    "
+        echo
+        echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"    
+        qrencode -t ANSIUTF8 -s 1 "socks://${auth}#${comment}"
+        qrencode -o ~/xray-${IP}-网路跳越.png -s 6 "socks://${auth}#${comment}"
+        return 0
+    fi
+    
+    # 检查是否是 Reality 配置
+    reality=$(grep -i '"security": "reality"' $CONFIG_FILE)
+    if [[ -n "$reality" ]]; then
+        outputReality
+        return 0
+    fi            
+    
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        colorEcho $RED " Xray未安装，请先安装！"
+        return
+    fi
+    
+    echo ""
+    echo -n -e " ${BLUE}Xray运行状态：${PLAIN}"
+    statusText
+    echo -e " ${BLUE}Xray配置文件: ${PLAIN} ${RED}${CONFIG_FILE}${PLAIN}"
+    colorEcho $BLUE " Xray配置信息：${v4l}-${IP}-网路跳越"
+
+    getConfigFileInfo
+
+    if [[ -z "$uid" ]]; then
+        colorEcho $RED " 无法读取配置文件或配置无效"
+        return
+    fi
+
+    echo -e "   ${BLUE}协议: ${PLAIN} ${RED}${protocol}${PLAIN}"
+    if [[ "$trojan" = "true" ]]; then
+        outputTrojan
+        return 0
+    fi
+    if [[ "$vless" = "false" ]]; then
+        if [[ "$kcp" = "true" ]]; then
+            outputVmessKCP
+            return 0
+        fi
+        if [[ "$tls" = "false" ]]; then
+            outputVmess
+        elif [[ "$ws" = "false" ]]; then
+            outputVmessTLS
+        else
+            outputVmessWS
+        fi
+    else
+        if [[ "$kcp" = "true" ]]; then
+            echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
+            echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+            echo -e "   ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+            echo -e "   ${BLUE}加密(encryption)：${PLAIN} ${RED}none${PLAIN}"
+            echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}"
+            echo -e "   ${BLUE}伪装类型(type)：${PLAIN} ${RED}${type}${PLAIN}"
+            echo -e "   ${BLUE}mkcp seed：${PLAIN} ${RED}${seed}${PLAIN}" 
+            return 0
+        fi
+        
+        # VLESS+TCP（无TLS）输出
+        if [[ "$tls" = "false" && "$ws" = "false" ]]; then
+            outputVlessTCP
+            return 0
+        fi
+        
+        if [[ "$xtls" = "true" ]]; then
+            echo -e " ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
+            echo -e " ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+            echo -e " ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+            echo -e " ${BLUE}流控(flow)：${PLAIN}$RED$flow${PLAIN}"
+            echo -e " ${BLUE}加密(encryption)：${PLAIN} ${RED}none${PLAIN}"
+            echo -e " ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}" 
+            echo -e " ${BLUE}伪装类型(type)：${PLAIN}${RED}none$PLAIN"
+            echo -e " ${BLUE}伪装域名/主机名(host)/SNI/peer名称：${PLAIN}${RED}${domain}${PLAIN}"
+            echo -e " ${BLUE}底层安全传输(tls)：${PLAIN}${RED}XTLS${PLAIN}"
+            			# 通用格式(VLESS+TCP+xTLS)
+			link="vless://${uid}@${domain}:${port}?encryption=none&security=xtls&type=tcp&host=${domain}&headerType=none#${v4l}-${IP}-网路跳越-到期时间:${expiration_time}"
+            mkdir -p /root/xray && echo $link > /root/xray/url.txt			
+			qrlink="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless%3A%2F%2F${uid}%40${domain}%3A${port}%3Fencryption%3Dnone%26security%3Dtls%26type%3Dtcp%26host%3D${domain}%26sni%3D${domain}%26path%3D${wspath}%23${Country}-${IP}-网路跳越"
+				echo	
+	echo -e "   ${BLUE}vless链接: ${PLAIN}$YELLOW$(cat /root/xray/url.txt)$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码链接: ${PLAIN}$GREEN$qrlink$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"
+	echo		
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)	
+
+        elif [[ "$ws" = "false" ]]; then
+            echo -e " ${BLUE}IP(address):  ${PLAIN}${RED}${IP}${PLAIN}"
+            echo -e " ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+            echo -e " ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+            echo -e " ${BLUE}流控(flow)：${PLAIN}$RED$flow${PLAIN}"
+            echo -e " ${BLUE}加密(encryption)：${PLAIN} ${RED}none${PLAIN}"
+            echo -e " ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}" 
+            echo -e " ${BLUE}伪装类型(type)：${PLAIN}${RED}none$PLAIN"
+            echo -e " ${BLUE}伪装域名/主机名(host)/SNI/peer名称：${PLAIN}${RED}${domain}${PLAIN}"
+            echo -e " ${BLUE}底层安全传输(tls)：${PLAIN}${RED}TLS${PLAIN}"
+            			# 通用格式(VLESS+TCP+TLS)
+			link="vless://${uid}@${domain}:${port}?encryption=none&security=tls&type=tcp&host=${domain}&headerType=none#${v4l}-${IP}-网路跳越"
+			            mkdir -p /root/xray && echo $link > /root/xray/url.txt	
+			qrlink="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless%3A%2F%2F${uid}%40${domain}%3A${port}%3Fencryption%3Dnone%26security%3Dtls%26type%3Dtcp%26host%3D${domain}%26sni%3D${domain}%26path%3D${wspath}%23${Country}-${IP}-网路跳越"
+	echo	
+	echo -e "   ${BLUE}vless链接: ${PLAIN}$YELLOW$(cat /root/xray/url.txt)$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码链接: ${PLAIN}$GREEN$qrlink$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"
+	echo	
+	    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)
+        else
+            echo -e " ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
+            echo -e " ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+            echo -e " ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+            echo -e " ${BLUE}流控(flow)：${PLAIN}$RED$flow${PLAIN}"
+            echo -e " ${BLUE}加密(encryption)：${PLAIN} ${RED}none${PLAIN}"
+            echo -e " ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}" 
+            echo -e " ${BLUE}伪装类型(type)：${PLAIN}${RED}none$PLAIN"
+            echo -e " ${BLUE}伪装域名/主机名(host)/SNI/peer名称：${PLAIN}${RED}${domain}${PLAIN}"
+            echo -e " ${BLUE}路径(path)：${PLAIN}${RED}${wspath}${PLAIN}"
+            echo -e " ${BLUE}底层安全传输(tls)：${PLAIN}${RED}TLS${PLAIN}"
+            			# 通用格式(VLESS+WS+TLS) 
+			link="vless://${uid}@${domain}:${port}?encryption=none&security=tls&type=ws&host=${domain}&sni=${domain}&path=${wspath}#${v4l}-${IP}-网路跳越"
+			            mkdir -p /root/xray && echo $link > /root/xray/url.txt	
+			qrlink="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless%3A%2F%2F${uid}%40${domain}%3A${port}%3Fencryption%3Dnone%26security%3Dtls%26type%3Dws%26host%3D${domain}%26sni%3D${domain}%26path%3D${wspath}%23${Country}-${IP}-网路跳越"
+	echo	
+	echo -e "   ${BLUE}vless链接: ${PLAIN}$YELLOW$(cat /root/xray/url.txt)$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码链接: ${PLAIN}$GREEN$qrlink$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"
+	echo		
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)
+        fi
+    fi
+}
+
+outputReality() {
+    # 从配置文件中提取信息
+    local uuid=$(grep '"id":' $CONFIG_FILE | head -1 | cut -d'"' -f4)
+    local port=$(grep '"port":' $CONFIG_FILE | head -1 | awk '{print $2}' | tr -d ',')
+    echo ""
+    colorEcho $BLUE " Xray Reality 配置信息："
+    echo -e "   ${BLUE}协议: ${PLAIN} ${RED}VLESS+Vision+Reality${PLAIN}"
+    echo -e "   ${BLUE}地址(address): ${PLAIN} ${RED}${IP}${PLAIN}"
+    echo -e "   ${BLUE}端口(port): ${PLAIN} ${RED}${port}${PLAIN}"
+    echo -e "   ${BLUE}ID(uuid): ${PLAIN} ${RED}${uuid}${PLAIN}"
+    echo -e "   ${BLUE}流控(flow): ${PLAIN} ${RED}xtls-rprx-vision${PLAIN}"
+    echo -e "   ${BLUE}公钥(Public Key): ${PLAIN} ${RED}${public_key}${PLAIN}"
+    echo -e "   ${BLUE}Short ID: ${PLAIN} ${RED}${SELECTED_SHORT_ID}${PLAIN}"
+    echo -e "   ${BLUE}伪装目标(Dest): ${PLAIN} ${RED}${REALITY_SERVER_NAME}${PLAIN}"
+    echo -e "   ${BLUE}指纹(Fingerprint): ${PLAIN} ${RED}chrome${PLAIN}"
+    # 生成分享链接
+    local link="vless://${uuid}@${IP}:${port}?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=${REALITY_SERVER_NAME}&fp=chrome&pbk=${public_key}&sid=${SELECTED_SHORT_ID}#${v4l}-${IP}-网路跳越-Reality"   
+          qrlink="https://api.qrserver.com/v1/create-qr-code/?data=vless://${uuid}@${IP}:${port}?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=${REALITY_SERVER_NAME}&fp=chrome&pbk=${public_key}&sid=${SELECTED_SHORT_ID}#${v4l}-${IP}-网路跳越-Reality"
+    mkdir -p /root/xray
+    echo "$link" > /root/xray/url.txt
+    echo ""
+    echo -e "   ${BLUE}Reality链接: ${RED}$link${PLAIN}"
+	echo
+	echo -e "   ${BLUE}二维码链接: ${PLAIN}$GREEN$qrlink$PLAIN"
+	echo
+    echo -e "   ${BLUE}二维码位置: ${PLAIN}/root/xray-${IP}-网路跳越.png"
+    echo ""
+    # 生成二维码
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)
+
+}
+
+showLog() {
+	res=$(status)
+	[[ $res -lt 2 ]] && red "Xray未安装，请先安装！" && exit 1
+	journalctl -xen -u xray --no-pager
+}
+
+
+open_ports() {
+	systemctl stop firewalld.service
+	systemctl disable firewalld.service
+	setenforce 0
+	ufw disable
+	iptables -P INPUT ACCEPT
+	iptables -P FORWARD ACCEPT
+	iptables -P OUTPUT ACCEPT
+	iptables -t nat -F
+	iptables -t mangle -F
+	iptables -F
+	iptables -X
+	netfilter-persistent save
+	yellow "VPS中的所有网络端口已开启"
+}
+
+#禁用IPv6
+closeipv6() {
+	clear
+	sed -i '/net.ipv6.conf.all.disable_ipv6/d' /etc/sysctl.d/99-sysctl.conf
+	sed -i '/net.ipv6.conf.default.disable_ipv6/d' /etc/sysctl.d/99-sysctl.conf
+	sed -i '/net.ipv6.conf.lo.disable_ipv6/d' /etc/sysctl.d/99-sysctl.conf
+	sed -i '/net.ipv6.conf.all.disable_ipv6/d' /etc/sysctl.conf
+	sed -i '/net.ipv6.conf.default.disable_ipv6/d' /etc/sysctl.conf
+	sed -i '/net.ipv6.conf.lo.disable_ipv6/d' /etc/sysctl.conf
+
+	echo "net.ipv6.conf.all.disable_ipv6 = 1
+net.ipv6.conf.default.disable_ipv6 = 1
+net.ipv6.conf.lo.disable_ipv6 = 1" >>/etc/sysctl.d/99-sysctl.conf
+	sysctl --system
+	green "禁用IPv6结束，可能需要重启！"
+}
+
+#开启IPv6
+openipv6() {
+	clear
+	sed -i '/net.ipv6.conf.all.disable_ipv6/d' /etc/sysctl.d/99-sysctl.conf
+	sed -i '/net.ipv6.conf.default.disable_ipv6/d' /etc/sysctl.d/99-sysctl.conf
+	sed -i '/net.ipv6.conf.lo.disable_ipv6/d' /etc/sysctl.d/99-sysctl.conf
+	sed -i '/net.ipv6.conf.all.disable_ipv6/d' /etc/sysctl.conf
+	sed -i '/net.ipv6.conf.default.disable_ipv6/d' /etc/sysctl.conf
+	sed -i '/net.ipv6.conf.lo.disable_ipv6/d' /etc/sysctl.conf
+
+	echo "net.ipv6.conf.all.disable_ipv6 = 0
+net.ipv6.conf.default.disable_ipv6 = 0
+net.ipv6.conf.lo.disable_ipv6 = 0" >>/etc/sysctl.d/99-sysctl.conf
+	sysctl --system
+	green "开启IPv6结束，可能需要重启！"
+}
+
+menu() {
+    clear
+    echo "#———————————————————————————————————————————————————————————#"	
+    echo -e "#               ${RED}Xray一键安装脚本${PLAIN}                      #"
+    echo -e "# ${GREEN}作者${PLAIN}: 网络跳越(sldm)                                      #"	
+    echo -e "${GREEN}系统${PLAIN}：${BLUE}${OS}${PLAIN}"
+    echo -e "${GREEN}虚拟化${PLAIN}:${BLUE}${virtual}${PLAIN}"
+    echo -e "${GREEN}内核${PLAIN}：${BLUE}${kern}${PLAIN}"
+    echo "#———————————————————————————————————————————————————————————#"	
+    echo   " ———————————————————VMESS协议———————————————"
+    echo -e "  ${GREEN}1.${PLAIN}    安装Xray-VMESS+TCP"
+    echo -e "  ${GREEN}2.${PLAIN}    安装Xray-${BLUE}VMESS+mKCP${PLAIN}"
+    echo -e "  ${GREEN}3.${PLAIN}    安装Xray-VMESS+TCP+TLS"
+    echo -e "  ${GREEN}4.${PLAIN}    安装Xray-${BLUE}VMESS+WS+TLS${PLAIN}${RED}(推荐)${PLAIN}"
+    echo   " ———————————————————VLESS协议———————————————"
+    echo -e "  ${GREEN}5.${PLAIN}    安装Xray-${BLUE}VLESS+TCP"    
+    echo -e "  ${GREEN}6.${PLAIN}    安装Xray-${BLUE}VLESS+mKCP${PLAIN}"   
+    echo -e "  ${GREEN}7.${PLAIN}    安装Xray-VLESS+TCP+TLS"
+    echo -e "  ${GREEN}8.${PLAIN}    安装Xray-${BLUE}VLESS+WS+TLS${PLAIN}${RED}(可过cdn)${PLAIN}"
+    echo -e "  ${GREEN}9.${PLAIN}    安装Xray-${BLUE}VLESS+TCP+XTLS${PLAIN}"
+    echo   " ————————————————————trojan协议———————————————"
+    echo -e "  ${GREEN}10.${PLAIN}   安装${BLUE}trojan${PLAIN}${RED}(推荐)${PLAIN}"
+    echo -e "  ${GREEN}11.${PLAIN}   安装${BLUE}trojan+XTLS${PLAIN}${RED}(推荐)${PLAIN}"
+    echo   " ————————————————————Socks5协议———————————————"
+    echo -e "  ${GREEN}12.${PLAIN}   安装Xray-${BLUE}Socks5${PLAIN}${RED}(明文传输)${PLAIN}"
+    echo   " ————————————————————Reality协议———————————————"
+    echo -e "  ${GREEN}13.${PLAIN}   安装Xray-${BLUE}VLESS+Vision-uTLS+Reality${PLAIN}${RED}(推荐)${PLAIN}"
+    echo " -------------"
+    echo -e "  ${GREEN}14.${PLAIN}   更新Xray"
+    echo -e "  ${GREEN}15.${RED}     卸载Xray${PLAIN}"
+    echo " -------------"
+    echo -e "  ${GREEN}16.${PLAIN}   启动Xray"
+    echo -e "  ${GREEN}17.${PLAIN}   重启Xray"
+    echo -e "  ${GREEN}18.${PLAIN}   停止Xray"
+    echo " ------------"
+    echo -e "  ${GREEN}19.${PLAIN}   查看Xray配置"
+    echo -e "  ${GREEN}20.${PLAIN}   查看Xray日志"
+    echo " ——————————————"
+    echo -e "  ${GREEN}21.${PLAIN}   启动nginx"
+    echo -e "  ${GREEN}22.${PLAIN}   重启nginx"
+    echo -e "  ${GREEN}23.${PLAIN}   检查 nginx 状态"    
+    echo " ——————————————"
+	echo -e "  ${GREEN}24.${PLAIN}  放开VPS的所有端口"
+	echo -e "  ${GREEN}25.${PLAIN}  开启IPv6"
+	echo -e "  ${GREEN}26.${PLAIN}  禁用IPv6"
+	echo " -------------"
+    echo -e "  ${GREEN}0.${PLAIN}    退出"
+    echo -n "    当前状态："
+    statusText
+    echo 
+    read -t 30 -p " 请选择操作[0-20]（30秒内没有输入则自动选择1）：" answer
+    if [[ -z "$answer" ]]; then
+        answer=1
+        echo -e "\n未输入选择，自动选择 ${answer}."
+    fi
+    case $answer in
+	0) exit 1 ;;
+	1) install ;;
+	2) KCP="true" && install ;;
+	3) TLS="true" && install ;;
+	4) TLS="true" && WS="true" && install ;;
+    5)  VLESS="true"&& install ;;	
+	6) VLESS="true" && KCP="true" && install ;;
+	7) VLESS="true" && TLS="true" && install ;;
+	8) VLESS="true" && TLS="true" && WS="true" && install ;;
+	9) VLESS="true" && TLS="true" && XTLS="true" && install ;;
+	10) TROJAN="true" && TLS="true" && install ;;
+	11) TROJAN="true" && TLS="true" && XTLS="true" && install ;;
+    12) SOCKS5="true" && install ;; 
+    13) VLESS="true" && REALITY="true" && install ;;
+    14) update ;;
+    15) uninstall ;;
+    16) start ;;
+    17) restart ;;
+    18) stop  ;;
+    19) showInfo ;;
+    20) showLog ;;
+    21) nginx ;;
+    22) nginx2 ;; 
+    23) nginx3 ;; 	
+	24) open_ports ;;
+	25) openipv6 ;;
+	26) closeipv6 ;;        
+     *) colorEcho $RED " 请选择正确的操作！" && exit 1 ;;
+    esac
+}
+
+checkSystem
+
+action=$1
+[[ -z $1 ]] && action=menu
+case "$action" in
+    menu|update|uninstall|start|restart|stop|showInfo|showLog)
+        ${action}
+        ;;
+    *)
+        echo " 参数错误"
+        echo " 用法: `basename $0` [menu|update|uninstall|start|restart|stop|showInfo|showLog]"
+        ;;
+esac
+
+}
+
+v2rayy() {
+#!/bin/bash
+# by 网络跳越(hijk) 
+
+RED="\033[31m"      # Error message
+GREEN="\033[32m"    # Success message
+YELLOW="\033[33m"   # Warning message
+BLUE="\033[36m"     # Info message
+PLAIN='\033[0m'
+
+# 设置全局快捷键
+cp -f "$0" /usr/local/bin/v
+chmod +x /usr/local/bin/v
+# 设置全局快捷键
+cp -f "$0" /usr/local/bin/V
+chmod +x /usr/local/bin/V
+
+# 以下网站是随机从Google上找到的无广告小说网站，不喜欢请改成其他网址，以http或https开头
+# 搭建好后无法打开伪装域名，可能是反代小说网站挂了，请在网站留言，或者Github发issue，以便替换新的网站
+SITES=(
+	https://www.jjwxc.net/
+	https://culture.ifeng.com/
+	http://www.bhzwy.com/
+	http://book.ce.cn/
+	https://wap.faloo.com/
+	https://www.09k.net/
+	https://jsxs6.shop/
+	https://www.kehu33.asia/
+	http://www.bookshuku.info/
+	http://www.qishuxx.com/
+	https://www.txt80.cc/
+	https://www.bqg789.com/
+	https://www.txt99.org
+	http://b.faloo.com/
+	https://www.bookben.net/
+	http://www.fbook.net/
+	https://shuqi.com/
+	https://www.jjwxc.net/
+	https://www.shukeba.com/
+	https://www.xiaxs.la/
+	https://www.shubl.com/
+	https://book.sfacg.com/
+	http://www.wzzww.com/
+	http://www.zongheng.com/
+	https://www.heiyan.com/ ​
+	https://chuangshi.qq.com/
+	http://www.wjsw.com/
+	http://www.shuhai.com/
+	https://www.facerome.com/
+	http://www.bayueju.com/
+	https://www.17k.com/
+     http://xs.56dyc.com/
+	https://www.23xsww.net/
+)
+
+CONFIG_FILE="/etc/v2ray/config.json"
+SERVICE_FILE="/etc/systemd/system/v2ray.service"
+OS=$(hostnamectl | grep -i system | cut -d: -f2)
+virtual=$(systemd-detect-virt)
+ kern=$(uname -r)
+#  识别国家
+UA_Browser="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36"
+v4=$(curl -s4m10 ip.sb -k)
+v4l=`curl -sm10 --user-agent "${UA_Browser}" http://ip-api.com/json/$v4?lang=zh-CN -k | cut -f2 -d"," | cut -f4 -d '"'`
+
+# 检查服务器网络环境
+    pv6=$(curl -s6m8 api64.ipify.org -k)
+    pv4=$(curl -s4m8 api64.ipify.org -k)
+IP=$(curl -s4m8 ip.sb)
+[[ "$?" != "0" ]] && IP=$(curl -s6m8 ip.sb )
+#=====================
+BT="false"
+NGINX_CONF_PATH="/etc/nginx/conf.d/"
+res=`which bt 2>/dev/null`
+
+if [[ "$res" != "" ]]; then
+    BT="true"
+    NGINX_CONF_PATH="/www/server/panel/vhost/nginx/"
+fi
+
+VLESS="false"
+TROJAN="false"
+TLS="false"
+WS="false"
+XTLS="false"
+KCP="false"
+
+checkSystem() {
+    result=$(id | awk '{print $1}')
+    if [[ $result != "uid=0(root)" ]]; then
+        colorEcho $RED " 请以root身份执行该脚本"
+        exit 1
+    fi
+
+    res=`which yum 2>/dev/null`
+    if [[ "$?" != "0" ]]; then
+        res=`which apt 2>/dev/null`
+        if [[ "$?" != "0" ]]; then
+            colorEcho $RED " 不受支持的Linux系统"
+            exit 1
+        fi
+        PMT="apt"
+        CMD_INSTALL="apt install -y "
+        CMD_REMOVE="apt remove -y "
+        CMD_UPGRADE="apt update; apt upgrade -y; apt autoremove -y"
+    else
+        PMT="yum"
+        CMD_INSTALL="yum install -y "
+        CMD_REMOVE="yum remove -y "
+        CMD_UPGRADE="yum update -y"
+    fi
+    res=`which systemctl 2>/dev/null`
+    if [[ "$?" != "0" ]]; then
+        colorEcho $RED " 系统版本过低，请升级到最新版本"
+        exit 1
+    fi
+}
+
+colorEcho() {
+    echo -e "${1}${@:2}${PLAIN}"
+}
+
+configNeedNginx() {
+    local ws=`grep wsSettings $CONFIG_FILE`
+    if [[ -z "$ws" ]]; then
+        echo no
+        return
+    fi
+    echo yes
+}
+
+needNginx() {
+    if [[ "$WS" = "false" ]]; then
+        echo no
+        return
+    fi
+    echo yes
+}
+
+status() {
+    if [[ ! -f /usr/bin/v2ray/v2ray ]]; then
+        echo 0
+        return
+    fi
+    if [[ ! -f $CONFIG_FILE ]]; then
+        echo 1
+        return
+    fi
+    port=`grep port $CONFIG_FILE| head -n 1| cut -d: -f2| tr -d \",' '`
+    res=`ss -nutlp| grep ${port} | grep -i v2ray`
+    if [[ -z "$res" ]]; then
+        echo 2
+        return
+    fi
+
+    if [[ `configNeedNginx` != "yes" ]]; then
+        echo 3
+    else
+        res=`ss -nutlp|grep -i nginx`
+        if [[ -z "$res" ]]; then
+            echo 4
+        else
+            echo 5
+        fi
+    fi
+}
+
+statusText() {
+    res=`status`
+    case $res in
+        2)
+            echo -e ${GREEN}已安装${PLAIN} ${RED}未运行${PLAIN}
+            ;;
+        3)
+            echo -e ${GREEN}已安装${PLAIN} ${GREEN}V2ray正在运行${PLAIN}
+            ;;
+        4)
+            echo -e ${GREEN}已安装${PLAIN} ${GREEN}V2ray正在运行${PLAIN}, ${RED}Nginx未运行${PLAIN}
+            ;;
+        5)
+            echo -e ${GREEN}已安装${PLAIN} ${GREEN}V2ray正在运行, Nginx正在运行${PLAIN}
+            ;;
+        *)
+            echo -e ${RED}未安装${PLAIN}
+            ;;
+    esac
+}
+
+normalizeVersion() {
+    if [ -n "$1" ]; then
+        case "$1" in
+            v*)
+                echo "v5.41.0"
+            ;;
+            *)
+                echo "$1"
+            ;;
+        esac
+    else
+        echo ""
+    fi
+}
+
+# 1: new V2Ray. 0: no. 1: yes. 2: not installed. 3: check failed.
+getVersion() {
+    if /usr/bin/v2ray/v2ray -version >/dev/null 2>&1;then
+	VER="$(/usr/bin/v2ray/v2ray -version | awk 'NR==1 {print $2}')"
+    else
+	VER="$(/usr/bin/v2ray/v2ray version | awk 'NR==1 {print $2}')"
+    fi
+    RETVAL=$?
+    CUR_VER="$(normalizeVersion "$(echo "$VER" | head -n 1 | cut -d " " -f2)")"
+    TAG_URL="https://api.github.com/repos/v2fly/v2ray-core/releases/latest"
+    NEW_VER="$(normalizeVersion "$(curl -s "${TAG_URL}" --connect-timeout 10| tr ',' '\n' | grep 'tag_name' | cut -d\" -f4)")"
+    # 解决通过Github API获取v2ray最新版本失败问题
+    if [[ $NEW_VER == "" ]]; then
+        NEW_VER=$1
+    fi	
+    if [[ "$XTLS" = "true" ]]; then
+        NEW_VER=v4.32.1
+    fi
+
+    if [[ $? -ne 0 ]] || [[ $NEW_VER == "" ]]; then
+        colorEcho $RED " 检查V2ray版本信息失败，请检查网络"
+        return 3
+    elif [[ $RETVAL -ne 0 ]];then
+        return 2
+    elif [[ $NEW_VER != $CUR_VER ]];then
+        return 1
+    fi
+    return 0
+}
+
+archAffix(){
+    case "$(uname -m)" in
+        i686|i386)
+            echo '32'
+        ;;
+        x86_64|amd64)
+            echo '64'
+        ;;
+        *armv7*)
+            echo 'arm32-v7a'
+            ;;
+        armv6*)
+            echo 'arm32-v6a'
+        ;;
+        *armv8*|aarch64)
+            echo 'arm64-v8a'
+        ;;
+        *mips64le*)
+            echo 'mips64le'
+        ;;
+        *mips64*)
+            echo 'mips64'
+        ;;
+        *mipsle*)
+            echo 'mipsle'
+        ;;
+        *mips*)
+            echo 'mips'
+        ;;
+        *s390x*)
+            echo 's390x'
+        ;;
+        ppc64le)
+            echo 'ppc64le'
+        ;;
+        ppc64)
+            echo 'ppc64'
+        ;;
+        *)
+            colorEcho $RED " 不支持的CPU架构！"
+            exit 1
+        ;;
+    esac
+
+	return 0
+}
+
+getData() {
+    if [[ "$TLS" = "true" || "$XTLS" = "true" ]]; then
+        echo ""
+        echo " V2ray一键脚本，运行之前请确认如下条件已经具备："
+        colorEcho ${YELLOW} "  1. 一个伪装域名"
+        colorEcho ${YELLOW} "  2. 伪装域名DNS解析指向当前服务器ip（${IP}）"
+        colorEcho ${BLUE} "  3. 如果/root目录下有 v2ray.pem 和 v2ray.key 证书密钥文件，无需理会条件2"
+        echo " "
+            read -p " 请输入伪装域名：" DOMAIN
+            if [[ -z "${DOMAIN}" ]]; then
+                colorEcho ${RED} " 域名输入错误，请重新输入！"
+            fi
+        DOMAIN=${DOMAIN,,}
+        colorEcho ${BLUE}  " 伪装域名(host)：$DOMAIN"
+        if [[ -f ~/v2ray.pem && -f ~/v2ray.key ]]; then
+            colorEcho ${BLUE}  " 检测到自有证书，将使用其部署"
+            CERT_FILE="/etc/v2ray/${DOMAIN}.pem"
+            KEY_FILE="/etc/v2ray/${DOMAIN}.key"
+        else
+	    resolve=$(curl -sH "accept: application/dns-json" "https://cloudflare-dns.com/dns-query?name=${DOMAIN}&type=A" && \
+          	      curl -sH "accept: application/dns-json" "https://cloudflare-dns.com/dns-query?name=${DOMAIN}&type=AAAA")
+	    if ! echo "$resolve" | grep -q -e "$pv4" -e "$pv6"; then
+		if echo $resolve | grep -q html; then
+			colorEcho ${BLUE}  " 域名解析失败，请添加域名解析记录或等待DNS同步，稍后再试。"
+		else
+			colorEcho ${BLUE}  " ${DOMAIN} 解析结果：${pv4}${pv6}"
+		fi
+                colorEcho ${RED}  " 域名未解析到当前服务器IP("${BLUE}"ipv4:"${RED}"${pv4} / "${BLUE}"ipv6:"${RED}"${pv6} )!"
+                exit 1
+            fi
+        fi
+    fi
+
+    echo ""
+    if [[ "$(needNginx)" = "no" ]]; then
+        if [[ "$TLS" = "true" ]]; then
+            read -p " 请输入v2ray监听端口[默认随机]：" PORT
+			[[ -z "${PORT}" ]] && PORT=$(shuf -i1000-65535 -n1)
+        else
+            read -p " 请输入v2ray监听端口[100-65535的一个数字]：" PORT
+            [[ -z "${PORT}" ]] && PORT=`shuf -i10000-65000 -n1`
+            if [[ "${PORT:0:1}" = "0" ]]; then
+                colorEcho ${RED}  " 端口不能以0开头"
+                exit 1
+            fi
+        fi
+        colorEcho ${BLUE}  " v2ray端口：$PORT"
+    else
+        read -p " 请输入Nginx监听端口[10000-65535的一个数字，默认随机]：" PORT
+        [[ -z "${PORT}" ]] && PORT=$(shuf -i2000-65535 -n1)
+        if [ "${PORT:0:1}" = "0" ]; then
+            colorEcho ${BLUE}  " 端口不能以0开头"
+            exit 1
+        fi
+        colorEcho ${BLUE}  " Nginx端口：$PORT"
+        V2PORT=`shuf -i2000-65000 -n1`
+    fi
+
+    if [[ "$KCP" = "true" ]]; then
+        echo ""
+        colorEcho $BLUE " 请选择伪装类型："
+        echo "   1) 无"
+        echo "   2) BT下载"
+        echo "   3) 视频通话"
+        echo "   4) 微信视频通话"
+        echo "   5) dtls"
+        echo "   6) wiregard"
+        read -p "  请选择伪装类型[默认：无]：" answer
+        case $answer in
+            2)
+                HEADER_TYPE="utp"
+                ;;
+            3)
+                HEADER_TYPE="srtp"
+                ;;
+            4)
+                HEADER_TYPE="wechat-video"
+                ;;
+            5)
+                HEADER_TYPE="dtls"
+                ;;
+            6)
+                HEADER_TYPE="wireguard"
+                ;;
+            *)
+                HEADER_TYPE="none"
+                ;;
+        esac
+        colorEcho $BLUE " 伪装类型：$HEADER_TYPE"
+        SEED=`cat /proc/sys/kernel/random/uuid`
+    fi
+
+    if [[ "$TROJAN" = "true" ]]; then
+        echo ""
+        read -p " 请设置trojan密码（不输则随机生成）:" PASSWORD
+        [[ -z "$PASSWORD" ]] && PASSWORD=`cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 16 | head -n 1`
+        colorEcho $BLUE " trojan密码：$PASSWORD"
+    fi
+
+    if [[ "$XTLS" = "true" ]]; then
+        echo ""
+        colorEcho $BLUE " 请选择流控模式:" 
+        echo -e "   1) xtls-rprx-direct [$RED推荐$PLAIN]"
+        echo "   2) xtls-rprx-origin"
+        read -p "  请选择流控模式[默认:direct]" answer
+        [[ -z "$answer" ]] && answer=1
+        case $answer in
+            1)
+                FLOW="xtls-rprx-direct"
+                ;;
+            2)
+                FLOW="xtls-rprx-origin"
+                ;;
+            *)
+                colorEcho $RED " 无效选项，使用默认的xtls-rprx-direct"
+                FLOW="xtls-rprx-direct"
+                ;;
+        esac
+        colorEcho $BLUE " 流控模式：$FLOW"
+    fi
+
+    if [[ "${WS}" = "true" ]]; then
+        echo ""
+        while true
+        do
+            read -p " 请输入伪装路径，以/开头(不懂请直接回车)：" WSPATH
+            if [[ -z "${WSPATH}" ]]; then
+                len=`shuf -i8-16 -n1`
+                ws=`cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w $len | head -n 1`
+                WSPATH="/$ws"
+                break
+            elif [[ "${WSPATH:0:1}" != "/" ]]; then
+                colorEcho ${RED}  " 伪装路径必须以/开头！"
+            elif [[ "${WSPATH}" = "/" ]]; then
+                colorEcho ${RED}   " 不能使用根路径！"
+            else
+                break
+            fi
+        done
+        colorEcho ${BLUE}  " ws路径：$WSPATH"
+    fi
+
+    if [[ "$TLS" = "true" || "$XTLS" = "true" ]]; then
+		echo ""
+		colorEcho $BLUE " 请选择伪装站类型:"
+		echo		
+		echo "   1) 静态网站：小白不建议使用这个(位于/usr/share/nginx/html)"
+		echo "   2) 34个小说站(随机)"
+          echo "   3) 美女站1(https://www.jp94.com)"
+          echo "   4) 美女站2(https://www.1jiepai.com)"				
+          echo "   5) 世嘉maimai站(https://maimai.sega.jp)"
+		echo "   6) 高清壁纸站1(https://bing.ioliu.cn)"
+		echo "   7) 高清壁纸站2(https://wallhaven.cc)"
+		echo "   8) 自定义反代站点(需以http或者https开头)"
+		echo		
+		read -p " 请选择伪装网站类型[默认:34个小说站(随机选择一个)]" answer
+		if [[ -z "$answer" ]]; then
+                len=${#SITES[@]}
+                ((len--))
+                index=$(shuf -i 0-$len -n 1)
+                PROXY_URL=${SITES[$index]}			
+		else
+			case $answer in
+				1) PROXY_URL="" 
+				;;
+				2)
+					len=${#SITES[@]}
+					((len--))
+					while true; do
+						index=$(shuf -i0-${len} -n1)
+						PROXY_URL=${SITES[$index]}
+						host=$(echo ${PROXY_URL} | cut -d/ -f3)
+						ip=$(curl -sm8 https://ip.sb/?ip=${host})
+						res=$(echo -n ${ip} | grep ${host})
+						if [[ "${res}" == "" ]]; then
+							echo "$ip $host" >>/etc/hosts
+							break
+						fi
+					done
+					;;
+				3) PROXY_URL="https://www.jp94.com" ;;
+				4) PROXY_URL="https://www.1jiepai.com" ;;
+                5) PROXY_URL="https://maimai.sega.jp" ;;
+				6) PROXY_URL="https://bing.ioliu.cn" ;;
+				7) PROXY_URL="https://wallhaven.cc" ;;				
+				8)
+					read -p " 请输入反代站点(以http或者https开头)：" PROXY_URL
+					if [[ -z "$PROXY_URL" ]]; then
+						colorEcho $RED " 请输入反代网站！"
+						exit 1
+					elif [[ "${PROXY_URL:0:4}" != "http" ]]; then
+						colorEcho $RED " 反代网站必须以http或https开头！"
+						exit 1
+					fi
+					;;
+            *)
+                colorEcho $RED " 请输入正确的选项！"
+                exit 1
+            esac
+        fi
+        REMOTE_HOST=`echo ${PROXY_URL} | cut -d/ -f3`
+        colorEcho $BLUE " 伪装网站：$PROXY_URL"
+
+        echo ""
+ALLOW_SPIDER="n"
+        fi
+}
+
+installNginx() {
+    echo ""
+    colorEcho $BLUE " 安装nginx..."
+    if [[ "$BT" = "false" ]]; then
+        if [[ "$PMT" = "yum" ]]; then
+            $CMD_INSTALL epel-release
+            if [[ "$?" != "0" ]]; then
+                echo '[nginx-stable]
+name=nginx stable repo
+baseurl=http://nginx.org/packages/centos/$releasever/$basearch/
+gpgcheck=1
+enabled=1
+gpgkey=https://nginx.org/keys/nginx_signing.key
+module_hotfixes=true' > /etc/yum.repos.d/nginx.repo
+            fi
+        fi
+        $CMD_INSTALL nginx
+        if [[ "$?" != "0" ]]; then
+            colorEcho $RED " Nginx安装失败，请联系作者"
+            exit 1
+        fi
+        systemctl enable nginx
+    else
+        res=`which nginx 2>/dev/null`
+        if [[ "$?" != "0" ]]; then
+            colorEcho $RED " 您安装了宝塔，请在宝塔后台安装nginx后再运行本脚本"
+            exit 1
+        fi
+    fi
+}
+
+startNginx() {
+    if [[ "$BT" = "false" ]]; then
+        systemctl start nginx
+    else
+        nginx -c /www/server/nginx/conf/nginx.conf
+    fi
+}
+
+stopNginx() {
+    if [[ "$BT" = "false" ]]; then
+        systemctl stop nginx
+    else
+        res=`ps aux | grep -i nginx`
+        if [[ "$res" != "" ]]; then
+            nginx -s stop
+        fi
+    fi
+}
+
+getCert() {
+    mkdir -p /etc/v2ray
+    if [[ -z ${CERT_FILE+x} ]]; then
+        stopNginx
+        sleep 2
+        res=$(netstat -ntlp | grep -E ':80 |:443 ')
+        if [[ "${res}" != "" ]]; then
+            colorEcho ${RED} "其他进程占用了80或443端口，5秒后自动尝试释放"
+            echo "端口占用信息如下："
+            echo "${res}"
+            sleep 5
+            # 获取占用端口的进程ID
+            pids=$(netstat -ntlp | grep -E ':80 |:443 ' | awk '{print $7}' | cut -d'/' -f1)
+            # 强制终止占用端口的进程
+            for pid in $pids; do
+                kill -9 $pid
+                echo "终止进程，PID: $pid"
+            done
+            sleep 3
+            res=$(netstat -ntlp | grep -E ':80 |:443 ')
+            if [[ "${res}" != "" ]]; then
+                colorEcho ${RED} "端口仍被占用，请手动关闭占用端口的进程后再运行一键脚本"
+                echo "端口占用信息如下："
+                echo "${res}"
+                exit 1
+            fi
+        fi
+        $CMD_INSTALL socat openssl
+        if [[ "$PMT" = "yum" ]]; then
+            $CMD_INSTALL cronie
+            systemctl start crond
+            systemctl enable crond
+        else
+            $CMD_INSTALL cron
+            systemctl start cron
+            systemctl enable cron
+        fi
+        curl -sL https://get.acme.sh | sh -s email=1150315739@qq.com
+        source ~/.bashrc
+        ~/.acme.sh/acme.sh  --upgrade  --auto-upgrade
+        ~/.acme.sh/acme.sh --set-default-ca --server letsencrypt
+
+		if [[ "$ipv6Status" = "on" ]]; then
+			if [[ "$BT" = "false" ]]; then
+				~/.acme.sh/acme.sh   --issue -d $DOMAIN --keylength ec-256 --pre-hook "systemctl stop nginx" --post-hook "systemctl restart nginx"  --standalone --listen-v6 --insecure
+			else
+				~/.acme.sh/acme.sh   --issue -d $DOMAIN --keylength ec-256 --pre-hook "nginx -s stop || { echo -n ''; }" --post-hook "nginx -c /www/server/nginx/conf/nginx.conf || { echo -n ''; }"  --standalone --listen-v6 --insecure
+			fi
+		else
+			if [[ "$BT" = "false" ]]; then
+				~/.acme.sh/acme.sh   --issue -d $DOMAIN --keylength ec-256 --pre-hook "systemctl stop nginx" --post-hook "systemctl restart nginx"  --standalone --insecure
+			else
+				~/.acme.sh/acme.sh   --issue -d $DOMAIN --keylength ec-256 --pre-hook "nginx -s stop || { echo -n ''; }" --post-hook "nginx -c /www/server/nginx/conf/nginx.conf || { echo -n ''; }"  --standalone --insecure
+			fi
+		fi		
+		
+        [[ -f ~/.acme.sh/${DOMAIN}_ecc/ca.cer ]] || {
+            colorEcho $RED " 获取证书失败，请截图到TG群反馈"
+            exit 1
+        }
+        KEY_FILE="/etc/v2ray/${DOMAIN}.key"
+		CERT_FILE="/etc/v2ray/${DOMAIN}.pem"
+        ~/.acme.sh/acme.sh  --install-cert -d $DOMAIN --ecc \
+            --key-file       $KEY_FILE  \
+            --fullchain-file $CERT_FILE \
+            --reloadcmd     "service nginx force-reload"
+        [[ -f $CERT_FILE && -f $KEY_FILE ]] || {
+            colorEcho $RED " 获取证书失败，请截图到TG群反馈"
+            exit 1
+        }
+    else
+        cp ~/v2ray.pem /etc/v2ray/${DOMAIN}.pem
+        cp ~/v2ray.key /etc/v2ray/${DOMAIN}.key
+    fi
+}
+
+configNginx() {
+    mkdir -p /usr/share/nginx/html;
+    if [[ "$ALLOW_SPIDER" = "n" ]]; then
+        echo 'User-Agent: *' > /usr/share/nginx/html/robots.txt
+        echo 'Disallow: /' >> /usr/share/nginx/html/robots.txt
+        ROBOT_CONFIG="    location = /robots.txt {}"
+    else
+        ROBOT_CONFIG=""
+    fi
+
+    if [[ "$BT" = "false" ]]; then
+        if [[ ! -f /etc/nginx/nginx.conf.bak ]]; then
+            mv /etc/nginx/nginx.conf /etc/nginx/nginx.conf.bak
+        fi
+        res=`id nginx 2>/dev/null`
+        if [[ "$?" != "0" ]]; then
+            user="www-data"
+        else
+            user="nginx"
+        fi
+        cat > /etc/nginx/nginx.conf<<-EOF
+user $user;
+worker_processes auto;
+error_log /var/log/nginx/error.log;
+pid /run/nginx.pid;
+
+# Load dynamic modules. See /usr/share/doc/nginx/README.dynamic.
+include /usr/share/nginx/modules/*.conf;
+
+events {
+    worker_connections 1024;
+}
+
+http {
+    log_format  main  '\$remote_addr - \$remote_user [\$time_local] "\$request" '
+                      '\$status \$body_bytes_sent "\$http_referer" '
+                      '"\$http_user_agent" "\$http_x_forwarded_for"';
+
+    access_log  /var/log/nginx/access.log  main;
+    server_tokens off;
+
+    sendfile            on;
+    tcp_nopush          on;
+    tcp_nodelay         on;
+    keepalive_timeout   65;
+    types_hash_max_size 2048;
+    gzip                on;
+
+    include             /etc/nginx/mime.types;
+    default_type        application/octet-stream;
+
+    include /etc/nginx/conf.d/*.conf;
+}
+EOF
+    fi
+
+    if [[ "$PROXY_URL" = "" ]]; then
+        action=""
+    else
+        action="proxy_ssl_server_name on;
+        proxy_pass $PROXY_URL;
+        proxy_set_header Accept-Encoding '';
+        sub_filter \"$REMOTE_HOST\" \"$DOMAIN\";
+        sub_filter_once off;"
+    fi
+
+    if [[ "$TLS" = "true" || "$XTLS" = "true" ]]; then
+        mkdir -p $NGINX_CONF_PATH
+        # VMESS+WS+TLS
+        # VLESS+WS+TLS
+        if [[ "$WS" = "true" ]]; then
+            cat > ${NGINX_CONF_PATH}${DOMAIN}.conf<<-EOF
+server {
+    listen 80;
+    listen [::]:80;
+    server_name ${DOMAIN};
+    return 301 https://\$server_name:${PORT}\$request_uri;
+}
+
+server {
+    listen       ${PORT} ssl http2;
+    listen       [::]:${PORT} ssl http2;
+    server_name ${DOMAIN};
+    charset utf-8;
+
+    # ssl配置
+    ssl_protocols TLSv1.2 TLSv1.3;
+    ssl_ciphers TLS13-AES-256-GCM-SHA384:TLS13-CHACHA20-POLY1305-SHA256:TLS13-AES-128-GCM-SHA256:TLS13-AES-128-CCM-8-SHA256:TLS13-AES-128-CCM-SHA256:EECDH+CHACHA20:EECDH+AES128:RSA+AES128:EECDH+AES256:RSA+AES256:EECDH+3DES:RSA+3DES:!MD5;
+    
+    ssl_prefer_server_ciphers on;
+    ssl_session_cache builtin:1000 shared:SSL:10m;
+    ssl_session_timeout 10m;
+    ssl_buffer_size 1400;
+    ssl_stapling on;
+    ssl_stapling_verify on;
+    ssl_session_tickets off;
+    ssl_certificate $CERT_FILE;
+    ssl_certificate_key $KEY_FILE;
+
+    root /usr/share/nginx/html;
+    location / {
+        $action
+    }
+    $ROBOT_CONFIG
+
+    location ${WSPATH} {
+      proxy_redirect off;
+      proxy_pass http://127.0.0.1:${V2PORT};
+      proxy_http_version 1.1;
+      proxy_set_header Upgrade \$http_upgrade;
+      proxy_set_header Connection "upgrade";
+      proxy_set_header Host \$host;
+      # Show real IP in v2ray access.log
+      proxy_set_header X-Real-IP \$remote_addr;
+      proxy_set_header X-Forwarded-For \$proxy_add_x_forwarded_for;
+    }
+}
+EOF
+        else
+            # VLESS+TCP+TLS
+            # VLESS+TCP+XTLS
+            # trojan
+            cat > ${NGINX_CONF_PATH}${DOMAIN}.conf<<-EOF
+server {
+    listen 80;
+    listen [::]:80;
+    listen 81 http2;
+    server_name ${DOMAIN};
+    root /usr/share/nginx/html;
+    location / {
+        $action
+    }
+    $ROBOT_CONFIG
+}
+EOF
+        fi
+    fi
+}
+
+setSelinux() {
+    if [[ -s /etc/selinux/config ]] && grep 'SELINUX=enforcing' /etc/selinux/config; then
+        sed -i 's/SELINUX=enforcing/SELINUX=permissive/g' /etc/selinux/config
+        setenforce 0
+    fi
+}
+
+setFirewall() {
+    res=`which firewall-cmd 2>/dev/null`
+    if [[ $? -eq 0 ]]; then
+        systemctl status firewalld > /dev/null 2>&1
+        if [[ $? -eq 0 ]];then
+            firewall-cmd --permanent --add-service=http
+            firewall-cmd --permanent --add-service=https
+            if [[ "$PORT" != "443" ]]; then
+                firewall-cmd --permanent --add-port=${PORT}/tcp
+                firewall-cmd --permanent --add-port=${PORT}/udp
+            fi
+            firewall-cmd --reload
+        else
+            nl=`iptables -nL | nl | grep FORWARD | awk '{print $1}'`
+            if [[ "$nl" != "3" ]]; then
+                iptables -I INPUT -p tcp --dport 80 -j ACCEPT
+                iptables -I INPUT -p tcp --dport 443 -j ACCEPT
+                if [[ "$PORT" != "443" ]]; then
+                    iptables -I INPUT -p tcp --dport ${PORT} -j ACCEPT
+                    iptables -I INPUT -p udp --dport ${PORT} -j ACCEPT
+                fi
+            fi
+        fi
+    else
+        res=`which iptables 2>/dev/null`
+        if [[ $? -eq 0 ]]; then
+            nl=`iptables -nL | nl | grep FORWARD | awk '{print $1}'`
+            if [[ "$nl" != "3" ]]; then
+                iptables -I INPUT -p tcp --dport 80 -j ACCEPT
+                iptables -I INPUT -p tcp --dport 443 -j ACCEPT
+                if [[ "$PORT" != "443" ]]; then
+                    iptables -I INPUT -p tcp --dport ${PORT} -j ACCEPT
+                    iptables -I INPUT -p udp --dport ${PORT} -j ACCEPT
+                fi
+            fi
+        else
+            res=`which ufw 2>/dev/null`
+            if [[ $? -eq 0 ]]; then
+                res=`ufw status | grep -i inactive`
+                if [[ "$res" = "" ]]; then
+                    ufw allow http/tcp
+                    ufw allow https/tcp
+                    if [[ "$PORT" != "443" ]]; then
+                        ufw allow ${PORT}/tcp
+                        ufw allow ${PORT}/udp
+                    fi
+                fi
+            fi
+        fi
+    fi
+}
+
+installV2ray() {
+    rm -rf /tmp/v2ray
+    mkdir -p /tmp/v2ray
+    DOWNLOAD_LINK="https://github.com/v2fly/v2ray-core/releases/download/${NEW_VER}/v2ray-linux-$(archAffix).zip"
+    colorEcho $BLUE " 下载V2Ray: ${DOWNLOAD_LINK}"
+    curl -L -H "Cache-Control: no-cache" -o /tmp/v2ray/v2ray.zip ${DOWNLOAD_LINK}
+    if [ $? != 0 ];then
+        colorEcho $RED " 下载V2ray文件失败，请检查服务器网络设置"
+        exit 1
+    fi
+    v2ray_start_config="run -c"
+    mkdir -p '/etc/v2ray' '/var/log/v2ray' && \
+    unzip /tmp/v2ray/v2ray.zip -d /tmp/v2ray
+    mkdir -p /usr/bin/v2ray
+    cp /tmp/v2ray/v2ray /usr/bin/v2ray/; cp /tmp/v2ray/geo* /usr/bin/v2ray/;
+    chmod +x '/usr/bin/v2ray/v2ray' || {
+    colorEcho $RED " V2ray安装失败"
+    exit 1
+    }
+    if [[ "$NEW_VER" = "v4.32.1" ]]; then
+	cp /tmp/v2ray/v2ctl /usr/bin/v2ray/;
+	chmod +x '/usr/bin/v2ray/v2ctl' || {
+        colorEcho $RED " V2ray安装失败"
+        exit 1
+	}
+	v2ray_start_config="-config"
+    fi
+
+    cat >$SERVICE_FILE<<-EOF
+[Unit]
+Description=V2ray Service
+Documentation=https://www.v2fly.org/
+After=network.target nss-lookup.target
+
+[Service]
+Type=simple
+User=root
+NoNewPrivileges=true
+ExecStart=/usr/bin/v2ray/v2ray $v2ray_start_config /etc/v2ray/config.json
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+EOF
+    systemctl daemon-reload
+    systemctl enable v2ray.service
+}
+
+trojanConfig() {
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "trojan",
+    "settings": {
+      "clients": [
+        {
+          "password": "$PASSWORD"
+        }
+      ],
+      "fallbacks": [
+        {
+              "alpn": "http/1.1",
+              "dest": 80
+          },
+          {
+              "alpn": "h2",
+              "dest": 81
+          }
+      ]
+    },
+    "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+            "serverName": "$DOMAIN",
+            "alpn": ["http/1.1", "h2"],
+            "certificates": [
+                {
+                    "certificateFile": "$CERT_FILE",
+                    "keyFile": "$KEY_FILE"
+                }
+            ]
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+trojanXTLSConfig() {
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "trojan",
+    "settings": {
+      "clients": [
+        {
+          "password": "$PASSWORD",
+          "flow": "$FLOW"
+        }
+      ],
+      "fallbacks": [
+          {
+              "alpn": "http/1.1",
+              "dest": 80
+          },
+          {
+              "alpn": "h2",
+              "dest": 81
+          }
+      ]
+    },
+    "streamSettings": {
+        "network": "tcp",
+        "security": "xtls",
+        "xtlsSettings": {
+            "serverName": "$DOMAIN",
+            "alpn": ["http/1.1", "h2"],
+            "certificates": [
+                {
+                    "certificateFile": "$CERT_FILE",
+                    "keyFile": "$KEY_FILE"
+                }
+            ]
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vmessConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "vmess",
+    "settings": {
+      "clients": [
+        {
+          "id": "$uuid",
+          "level": 1,
+          "alterId": 0
+        }
+      ]
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vmessKCPConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "vmess",
+    "settings": {
+      "clients": [
+        {
+          "id": "$uuid",
+          "level": 1,
+          "alterId": 0
+        }
+      ]
+    },
+    "streamSettings": {
+        "network": "mkcp",
+        "kcpSettings": {
+            "uplinkCapacity": 100,
+            "downlinkCapacity": 100,
+            "congestion": true,
+            "header": {
+                "type": "$HEADER_TYPE"
+            },
+            "seed": "$SEED"
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vmessTLSConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "vmess",
+    "settings": {
+      "clients": [
+        {
+          "id": "$uuid",
+          "level": 1,
+          "alterId": 0
+        }
+      ],
+      "disableInsecureEncryption": false
+    },
+    "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+            "serverName": "$DOMAIN",
+            "alpn": ["http/1.1", "h2"],
+            "certificates": [
+                {
+                    "certificateFile": "$CERT_FILE",
+                    "keyFile": "$KEY_FILE"
+                }
+            ]
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vmessWSConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $V2PORT,
+    "listen": "127.0.0.1",
+    "protocol": "vmess",
+    "settings": {
+      "clients": [
+        {
+          "id": "$uuid",
+          "level": 1,
+          "alterId": 0
+        }
+      ],
+      "disableInsecureEncryption": false
+    },
+    "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+            "path": "$WSPATH",
+            "headers": {
+                "Host": "$DOMAIN"
+            }
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vlessTLSConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "vless",
+    "settings": {
+      "clients": [
+        {
+          "id": "$uuid",
+          "level": 0
+        }
+      ],
+      "decryption": "none",
+      "fallbacks": [
+          {
+              "alpn": "http/1.1",
+              "dest": 80
+          },
+          {
+              "alpn": "h2",
+              "dest": 81
+          }
+      ]
+    },
+    "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+            "serverName": "$DOMAIN",
+            "alpn": ["http/1.1", "h2"],
+            "certificates": [
+                {
+                    "certificateFile": "$CERT_FILE",
+                    "keyFile": "$KEY_FILE"
+                }
+            ]
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vlessXTLSConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "vless",
+    "settings": {
+      "clients": [
+        {
+          "id": "$uuid",
+          "flow": "$FLOW",
+          "level": 0
+        }
+      ],
+      "decryption": "none",
+      "fallbacks": [
+          {
+              "alpn": "http/1.1",
+              "dest": 80
+          },
+          {
+              "alpn": "h2",
+              "dest": 81
+          }
+      ]
+    },
+    "streamSettings": {
+        "network": "tcp",
+        "security": "xtls",
+        "xtlsSettings": {
+            "serverName": "$DOMAIN",
+            "alpn": ["http/1.1", "h2"],
+            "certificates": [
+                {
+                    "certificateFile": "$CERT_FILE",
+                    "keyFile": "$KEY_FILE"
+                }
+            ]
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vlessWSConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $V2PORT,
+    "listen": "127.0.0.1",
+    "protocol": "vless",
+    "settings": {
+        "clients": [
+            {
+                "id": "$uuid",
+                "level": 0
+            }
+        ],
+        "decryption": "none"
+    },
+    "streamSettings": {
+        "network": "ws",
+        "security": "none",
+        "wsSettings": {
+            "path": "$WSPATH",
+            "headers": {
+                "Host": "$DOMAIN"
+            }
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+vlessKCPConfig() {
+    local uuid="$(cat '/proc/sys/kernel/random/uuid')"
+    cat > $CONFIG_FILE<<-EOF
+{
+  "inbounds": [{
+    "port": $PORT,
+    "protocol": "vless",
+    "settings": {
+      "clients": [
+        {
+          "id": "$uuid",
+          "level": 0
+        }
+      ],
+      "decryption": "none"
+    },
+    "streamSettings": {
+        "streamSettings": {
+            "network": "mkcp",
+            "kcpSettings": {
+                "uplinkCapacity": 100,
+                "downlinkCapacity": 100,
+                "congestion": true,
+                "header": {
+                    "type": "$HEADER_TYPE"
+                },
+                "seed": "$SEED"
+            }
+        }
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  },{
+    "protocol": "blackhole",
+    "settings": {},
+    "tag": "blocked"
+  }]
+}
+EOF
+}
+
+configV2ray() {
+    mkdir -p /etc/v2ray
+    if [[ "$TROJAN" = "true" ]]; then
+        if [[ "$XTLS" = "true" ]]; then
+            trojanXTLSConfig
+        else
+            trojanConfig
+        fi
+        return 0
+    fi
+    if [[ "$VLESS" = "false" ]]; then
+        # VMESS + kcp
+        if [[ "$KCP" = "true" ]]; then
+            vmessKCPConfig
+            return 0
+        fi
+        # VMESS
+        if [[ "$TLS" = "false" ]]; then
+            vmessConfig
+        elif [[ "$WS" = "false" ]]; then
+            # VMESS+TCP+TLS
+            vmessTLSConfig
+        # VMESS+WS+TLS
+        else
+            vmessWSConfig
+        fi
+    #VLESS
+    else
+        if [[ "$KCP" = "true" ]]; then
+            vlessKCPConfig
+            return 0
+        fi
+        # VLESS+TCP
+        if [[ "$WS" = "false" ]]; then
+            # VLESS+TCP+TLS
+            if [[ "$XTLS" = "false" ]]; then
+                vlessTLSConfig
+            # VLESS+TCP+XTLS
+            else
+                vlessXTLSConfig
+            fi
+        # VLESS+WS+TLS
+        else
+            vlessWSConfig
+        fi
+    fi
+}
+
+#启动nginx
+nginx() {
+systemctl start nginx
+}
+
+#重启nginx
+nginx2() {
+systemctl restart nginx
+}
+install() {
+	getData
+	
+    $PMT clean all
+    [[ "$PMT" = "apt" ]] && $PMT update
+    $CMD_INSTALL wget vim unzip tar gcc openssl curl sudo jp
+    $CMD_INSTALL ruby qrencode psmisc
+    $CMD_INSTALL libqrencode libqrencode-dev --fix-broken
+    $CMD_INSTALL net-tools firewalld iptables ufw
+    if [[ "$PMT" = "apt" ]]; then
+        $CMD_INSTALL libssl-dev g++
+    fi
+res=$(which unzip 2>/dev/null)
+if [[ $? -ne 0 ]]; then
+    colorEcho $RED "unzip安装失败，请检查网络"
+    exit 1
+fi
+    installNginx
+    setFirewall
+    if [[ "$TLS" = "true" || "$XTLS" = "true" ]]; then
+        getCert
+    fi
+    configNginx
+
+    colorEcho $BLUE " 安装V2ray..."
+    getVersion
+    RETVAL="$?"
+    if [[ $RETVAL == 0 ]]; then
+        colorEcho $BLUE " V2ray最新版 ${CUR_VER} 已经安装"
+    elif [[ $RETVAL == 3 ]]; then
+        exit 1
+    else
+        colorEcho $BLUE " 安装V2Ray ${NEW_VER} ，架构$(archAffix)"
+        installV2ray
+    fi
+
+    configV2ray
+
+    setSelinux
+     
+    start
+    showInfo
+
+}
+
+update() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        colorEcho $RED " V2ray未安装，请先安装！"
+        return
+    fi
+
+    getVersion
+    RETVAL="$?"
+    if [[ $RETVAL == 0 ]]; then
+        colorEcho $BLUE " V2ray最新版 ${CUR_VER} 已经安装"
+    elif [[ $RETVAL == 3 ]]; then
+        exit 1
+    else
+        colorEcho $BLUE " 安装V2Ray ${NEW_VER} ，架构$(archAffix)"
+        installV2ray
+        stop
+        start
+
+        colorEcho $GREEN " 最新版V2ray安装成功！"
+    fi
+}
+
+uninstall() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        colorEcho $RED " V2ray未安装，请先安装！"
+        return
+    fi
+
+    echo ""
+    read -p " 确定卸载V2ray？[y/n]：" answer
+    if [[ "${answer,,}" = "y" ]]; then
+        domain=`grep Host $CONFIG_FILE | cut -d: -f2 | tr -d \",' '`
+        if [[ "$domain" = "" ]]; then
+            domain=`grep serverName $CONFIG_FILE | cut -d: -f2 | tr -d \",' '`
+        fi
+        
+        stop
+        systemctl disable v2ray
+        rm -rf $SERVICE_FILE
+        rm -rf /etc/v2ray
+        rm -rf /usr/bin/v2ray
+        rm -rf /root/master.zip
+        rm -rf /root/lolcat-master
+        rm -rf /root/.acme.sh
+		
+        if [[ "$BT" = "false" ]]; then
+            systemctl disable nginx
+            $CMD_REMOVE nginx
+            if [[ "$PMT" = "apt" ]]; then
+                $CMD_REMOVE nginx-common
+            fi
+            rm -rf /etc/nginx/nginx.conf
+            if [[ -f /etc/nginx/nginx.conf.bak ]]; then
+                mv /etc/nginx/nginx.conf.bak /etc/nginx/nginx.conf
+            fi
+        fi
+        if [[ "$domain" != "" ]]; then
+            rm -rf $NGINX_CONF_PATH${domain}.conf
+        fi
+        [[ -f ~/.acme.sh/acme.sh ]] && ~/.acme.sh/acme.sh --uninstall
+        colorEcho $GREEN " V2ray卸载成功"
+    fi
+}
+
+start() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        colorEcho $RED " V2ray未安装，请先安装！"
+        return
+    fi
+    stopNginx
+    startNginx
+    systemctl restart v2ray
+    sleep 2
+    port=`grep port $CONFIG_FILE| head -n 1| cut -d: -f2| tr -d \",' '`
+    res=`ss -nutlp| grep ${port} | grep -i v2ray`
+    if [[ "$res" = "" ]]; then
+        colorEcho $RED " v2ray启动失败，请检查日志或查看端口是否被占用！"
+    else
+        colorEcho $BLUE " v2ray启动成功"
+    fi
+}
+
+stop() {
+    stopNginx
+    systemctl stop v2ray
+    colorEcho $BLUE " V2ray停止成功"
+}
+
+restart() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        colorEcho $RED " V2ray未安装，请先安装！"
+        return
+    fi
+
+    stop
+    start
+}
+
+getConfigFileInfo() {
+    vless="false"
+    tls="false"
+    ws="false"
+    xtls="false"
+    trojan="false"
+    protocol="VMess"
+    kcp="false"
+
+    uid=`grep id $CONFIG_FILE | head -n1| cut -d: -f2 | tr -d \",' '`
+    alterid=`grep alterId $CONFIG_FILE  | cut -d: -f2 | tr -d \",' '`
+    network=`grep network $CONFIG_FILE  | tail -n1| cut -d: -f2 | tr -d \",' '`
+    [[ -z "$network" ]] && network="tcp"
+    security=`grep security $CONFIG_FILE | head -n1 | cut -d: -f2 | tr -d \",' '`
+    domain=`grep serverName $CONFIG_FILE | cut -d: -f2 | tr -d \",' '`
+    if [[ "$domain" = "" ]]; then
+        domain=`grep Host $CONFIG_FILE | cut -d: -f2 | tr -d \",' '`
+        if [[ "$domain" != "" ]]; then
+            ws="true"
+            wspath=`grep path $CONFIG_FILE | cut -d: -f2 | tr -d \",' '`
+        fi
+    fi
+    if [[ "$security" == "tls" ]] || [[ "$security" == "xtls" ]] || [[ "$security" == "reality" ]]; then
+        tls="true"
+        if [[ "$security" == "xtls" ]]; then
+            xtls="true"
+        fi
+    fi
+    if [[ "$domain" != "" ]] && [[ "$security" == "" ]]; then
+        tls="true"
+    fi
+    if [[ "$ws" = "true" ]]; then
+        port=`grep -i ssl $NGINX_CONF_PATH${domain}.conf| head -n1 | awk '{print $2}'`
+    else
+        port=`grep port $CONFIG_FILE | cut -d: -f2 | tr -d \",' '`
+    fi
+    res=`grep -i kcp $CONFIG_FILE`
+    if [[ "$res" != "" ]]; then
+        kcp="true"
+        type=`grep header -A 3 $CONFIG_FILE | grep 'type' | cut -d: -f2 | tr -d \",' '`
+        seed=`grep seed $CONFIG_FILE | cut -d: -f2 | tr -d \",' '`
+    fi
+
+    vmess=`grep vmess $CONFIG_FILE`
+    if [[ "$vmess" = "" ]]; then
+        trojan=`grep trojan $CONFIG_FILE`
+        if [[ "$trojan" = "" ]]; then
+            vless="true"
+            protocol="VLESS"
+        else
+            trojan="true"
+            password=`grep password $CONFIG_FILE | cut -d: -f2 | tr -d \",' '`
+            protocol="trojan"
+        fi
+        tls="true"
+        encryption="none"
+        xtls=`grep xtlsSettings $CONFIG_FILE`
+        if [[ "$xtls" != "" ]]; then
+            xtls="true"
+            flow=`grep flow $CONFIG_FILE | cut -d: -f2 | tr -d \",' '`
+        else
+            flow="无"
+        fi
+    fi
+}
+
+outputVmess() {
+    raw="{
+  \"v\":\"2\",
+  \"ps\":\"${v4l}-${IP}-网路跳越\",
+  \"add\":\"$IP\",
+  \"port\":\"${port}\",
+  \"id\":\"${uid}\",
+  \"aid\":\"$alterid\",
+  \"net\":\"tcp\",
+  \"type\":\"none\",
+  \"host\":\"\",
+  \"path\":\"\",
+  \"tls\":\"\"
+}"
+    link=`echo -n ${raw} | base64 -w 0`
+    link="vmess://${link}"
+mkdir -p /root/xray && echo $link > /root/xray/url.txt
+    echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
+    echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+    echo -e "   ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+    echo -e "   ${BLUE}额外id(alterid)：${PLAIN} ${RED}${alterid}${PLAIN}"
+    echo -e "   ${BLUE}加密方式(security)：${PLAIN} ${RED}auto${PLAIN}"
+    echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}"
+    echo  
+    echo -e "   ${BLUE}vmess链接:${PLAIN} $RED$(cat /root/xray/url.txt)$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"
+	echo
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)	
+}
+
+outputVmessKCP() {
+	echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
+	echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+	echo -e "   ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+	echo -e "   ${BLUE}额外id(alterid)：${PLAIN} ${RED}${alterid}${PLAIN}"
+	echo -e "   ${BLUE}加密方式(security)：${PLAIN} ${RED}auto${PLAIN}"
+	echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}"
+	echo -e "   ${BLUE}伪装类型(type)：${PLAIN} ${RED}${type}${PLAIN}"
+	echo -e "   ${BLUE}mkcp seed：${PLAIN} ${RED}${seed}${PLAIN}"
+}
+
+outputTrojan() {
+	if [[ "$xtls" == "true" ]]; then
+		link="trojan://${password}@${domain}:${port}#${v4l}-${IP}-网路跳越-"
+mkdir -p /root/xray && echo $link > /root/xray/url.txt		
+		qrlink="https://api.qrserver.com/v1/create-qr-code/?data=${link}&size=300${link}"	
+		echo -e "   ${BLUE}IP/域名(address): ${PLAIN} ${RED}${domain}${PLAIN}"
+		echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+		echo -e "   ${BLUE}密码(password)：${PLAIN}${RED}${password}${PLAIN}"
+		echo -e "   ${BLUE}流控(flow)：${PLAIN}$RED$flow${PLAIN}"
+		echo -e "   ${BLUE}加密(encryption)：${PLAIN} ${RED}none${PLAIN}"
+		echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}"
+		echo -e "   ${BLUE}底层安全传输(tls)：${PLAIN}${RED}XTLS${PLAIN}"		
+	echo	
+	echo -e "   ${BLUE}Trojan链接: ${PLAIN}$YELLOW$(cat /root/xray/url.txt)$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"
+	echo		
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)				
+	else
+		link="trojan://${password}@${domain}:${port}#${v4l}-${IP}-网路跳越"
+		mkdir -p /root/xray && echo $link > /root/xray/url.txt
+		qrlink="https://api.qrserver.com/v1/create-qr-code/?data=${link}&size=300${link}"
+		echo -e "   ${BLUE}IP/域名(address): ${PLAIN} ${RED}${domain}${PLAIN}"
+		echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+		echo -e "   ${BLUE}密码(password)：${PLAIN}${RED}${password}${PLAIN}"
+		echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}"
+		echo -e "   ${BLUE}底层安全传输(tls)：${PLAIN}${RED}TLS${PLAIN}"
+	echo	
+	echo -e "   ${BLUE}Trojan链接: ${PLAIN}$YELLOW$(cat /root/xray/url.txt)$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"
+	echo		
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)				
+	fi
+}
+
+outputVmessTLS() {
+    raw="{
+  \"v\":\"2\",
+  \"ps\":\"${v4l}-${IP}-网路跳越\",
+  \"add\":\"$IP\",
+  \"port\":\"${port}\",
+  \"id\":\"${uid}\",
+  \"aid\":\"$alterid\",
+  \"net\":\"${network}\",
+  \"type\":\"none\",
+  \"host\":\"${domain}\",
+  \"path\":\"\",
+  \"tls\":\"tls\"
+}"
+    link=`echo -n ${raw} | base64 -w 0`
+    link="vmess://${link}"
+	mkdir -p /root/xray && echo $link > /root/xray/url.txt
+    echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
+    echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+    echo -e "   ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+    echo -e "   ${BLUE}额外id(alterid)：${PLAIN} ${RED}${alterid}${PLAIN}"
+    echo -e "   ${BLUE}加密方式(security)：${PLAIN} ${RED}none${PLAIN}"
+    echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}" 
+    echo -e "   ${BLUE}伪装域名/主机名(host)/SNI/peer名称：${PLAIN}${RED}${domain}${PLAIN}"
+    echo -e "   ${BLUE}底层安全传输(tls)：${PLAIN}${RED}TLS${PLAIN}"
+    echo  
+    echo -e "   ${BLUE}vmess链接:${PLAIN} $RED$(cat /root/xray/url.txt)$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"
+	echo
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)		
+}
+
+outputVmessWS() {
+    raw="{
+  \"v\":\"2\",
+  \"ps\":\"${v4l}-${IP}-网路跳越\",
+  \"add\":\"$IP\",
+  \"port\":\"${port}\",
+  \"id\":\"${uid}\",
+  \"aid\":\"$alterid\",
+  \"net\":\"${network}\",
+  \"type\":\"none\",
+  \"host\":\"${domain}\",
+  \"path\":\"${wspath}\",
+  \"tls\":\"tls\"
+}"
+    link=$(echo -n ${raw} | base64 -w 0)
+    link="vmess://${link}"
+mkdir -p /root/xray && echo $link > /root/xray/url.txt
+    echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
+    echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+    echo -e "   ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+    echo -e "   ${BLUE}额外id(alterid)：${PLAIN} ${RED}${alterid}${PLAIN}"
+    echo -e "   ${BLUE}加密方式(security)：${PLAIN} ${RED}none${PLAIN}"
+    echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}" 
+    echo -e "   ${BLUE}伪装类型(type)：${PLAIN}${RED}none${PLAIN}"
+    echo -e "   ${BLUE}伪装域名/主机名(host)/SNI/peer名称：${PLAIN}${RED}${domain}${PLAIN}"
+    echo -e "   ${BLUE}路径(path)：${PLAIN}${RED}${wspath}${PLAIN}"
+    echo -e "   ${BLUE}底层安全传输(tls)：${PLAIN}${RED}TLS${PLAIN}"
+    echo  
+    echo -e "   ${BLUE}vmess链接:${PLAIN} $RED$(cat /root/xray/url.txt)$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"
+	echo
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)
+}
+
+showInfo() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        colorEcho $RED " V2ray未安装，请先安装！"
+        return
+    fi
+    echo ""
+    echo -n -e " ${BLUE}V2ray运行状态：${PLAIN}"
+    statusText
+    echo -e " ${BLUE}V2ray配置文件: ${PLAIN} ${RED}${CONFIG_FILE}${PLAIN}"
+    colorEcho $BLUE " V2ray配置信息："
+    getConfigFileInfo
+    echo -e "   ${BLUE}节点备注:${v4l}-${IP}-网路跳越"
+    echo -e "   ${BLUE}协议: ${PLAIN} ${RED}${protocol}${PLAIN}"
+    if [[ "$trojan" = "true" ]]; then
+        outputTrojan
+        return 0
+    fi
+    if [[ "$vless" = "false" ]]; then
+        if [[ "$kcp" = "true" ]]; then
+            outputVmessKCP
+            return 0
+        fi
+        if [[ "$tls" = "false" ]]; then
+            outputVmess
+        elif [[ "$ws" = "false" ]]; then
+            outputVmessTLS
+        else
+            outputVmessWS
+        fi
+    else
+        if [[ "$kcp" = "true" ]]; then
+            echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
+            echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+            echo -e "   ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+            echo -e "   ${BLUE}加密(encryption)：${PLAIN} ${RED}none${PLAIN}"
+            echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}"
+            echo -e "   ${BLUE}伪装类型(type)：${PLAIN} ${RED}${type}${PLAIN}"
+            echo -e "   ${BLUE}mkcp seed：${PLAIN} ${RED}${seed}${PLAIN}" 
+            return 0
+        fi
+		if [[ "$xtls" == "true" ]]; then
+			echo -e " ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
+			echo -e " ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+			echo -e " ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+			echo -e " ${BLUE}流控(flow)：${PLAIN}$RED$flow${PLAIN}"
+			echo -e " ${BLUE}加密(encryption)：${PLAIN} ${RED}none${PLAIN}"
+			echo -e " ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}"
+			echo -e " ${BLUE}伪装类型(type)：${PLAIN}${RED}none$PLAIN"
+			echo -e " ${BLUE}伪装域名/主机名(host)/SNI/peer名称：${PLAIN}${RED}${domain}${PLAIN}"
+			echo -e " ${BLUE}底层安全传输(tls)：${PLAIN}${RED}XTLS${PLAIN}"
+			# 通用格式(VLESS+TCP+xTLS)
+			link="vless://${uid}@${domain}:${port}?encryption=none&security=xtls&type=tcp&host=${domain}&headerType=none#${v4l}-${IP}-网路跳越"
+            mkdir -p /root/xray && echo $link > /root/xray/url.txt			
+			qrlink="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless%3A%2F%2F${uid}%40${domain}%3A${port}%3Fencryption%3Dnone%26security%3Dtls%26type%3Dtcp%26host%3D${domain}%26sni%3D${domain}%26path%3D${wspath}%23${Country}-${IP}-网路跳越"
+				echo	
+	echo -e "   ${BLUE}vless链接: ${PLAIN}$YELLOW$(cat /root/xray/url.txt)$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码链接: ${PLAIN}$GREEN$qrlink$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"
+	echo		
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)				
+		elif [[ "$ws" == "false" ]]; then
+			echo -e " ${BLUE}IP(address):  ${PLAIN}${RED}${IP}${PLAIN}"
+			echo -e " ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+			echo -e " ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+			echo -e " ${BLUE}流控(flow)：${PLAIN}$RED$flow${PLAIN}"
+			echo -e " ${BLUE}加密(encryption)：${PLAIN} ${RED}none${PLAIN}"
+			echo -e " ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}"
+			echo -e " ${BLUE}伪装类型(type)：${PLAIN}${RED}none$PLAIN"
+			echo -e " ${BLUE}伪装域名/主机名(host)/SNI/peer名称：${PLAIN}${RED}${domain}${PLAIN}"
+			echo -e " ${BLUE}底层安全传输(tls)：${PLAIN}${RED}TLS${PLAIN}"
+			# 通用格式(VLESS+TCP+TLS)
+			link="vless://${uid}@${domain}:${port}?encryption=none&security=tls&type=tcp&host=${domain}&headerType=none#${v4l}-${IP}-网路跳越"
+			            mkdir -p /root/xray && echo $link > /root/xray/url.txt	
+			qrlink="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless%3A%2F%2F${uid}%40${domain}%3A${port}%3Fencryption%3Dnone%26security%3Dtls%26type%3Dtcp%26host%3D${domain}%26sni%3D${domain}%26path%3D${wspath}%23${Country}-${IP}-网路跳越"
+	echo	
+	echo -e "   ${BLUE}vless链接: ${PLAIN}$YELLOW$(cat /root/xray/url.txt)$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码链接: ${PLAIN}$GREEN$qrlink$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"
+	echo	
+	    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)
+		else
+			echo -e " ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
+			echo -e " ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+			echo -e " ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
+			echo -e " ${BLUE}流控(flow)：${PLAIN}$RED$flow${PLAIN}"
+			echo -e " ${BLUE}加密(encryption)：${PLAIN} ${RED}none${PLAIN}"
+			echo -e " ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}"
+			echo -e " ${BLUE}伪装类型(type)：${PLAIN}${RED}none$PLAIN"
+			echo -e " ${BLUE}伪装域名/主机名(host)/SNI/peer名称：${PLAIN}${RED}${domain}${PLAIN}"
+			echo -e " ${BLUE}路径(path)：${PLAIN}${RED}${wspath}${PLAIN}"
+			echo -e " ${BLUE}底层安全传输(tls)：${PLAIN}${RED}TLS${PLAIN}"
+			# 通用格式(VLESS+WS+TLS) 
+			link="vless://${uid}@${domain}:${port}?encryption=none&security=tls&type=ws&host=${domain}&sni=${domain}&path=${wspath}#${v4l}-${IP}-网路跳越"
+			            mkdir -p /root/xray && echo $link > /root/xray/url.txt	
+			qrlink="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless%3A%2F%2F${uid}%40${domain}%3A${port}%3Fencryption%3Dnone%26security%3Dtls%26type%3Dws%26host%3D${domain}%26sni%3D${domain}%26path%3D${wspath}%23${Country}-${IP}-网路跳越"
+	echo	
+	echo -e "   ${BLUE}vless链接: ${PLAIN}$YELLOW$(cat /root/xray/url.txt)$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码链接: ${PLAIN}$GREEN$qrlink$PLAIN"
+	echo
+	echo -e "   ${BLUE}二维码图片想下载位置是/root/xray-${IP}-网路跳越.png${PLAIN}必须是下载后查看，不能直接打开"
+	echo		
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/xray/url.txt)
+    qrencode -o ~/xray-${IP}-网路跳越.png -s 50 $(cat /root/xray/url.txt)		
+		fi
+	fi
+}
+
+showLog() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        colorEcho $RED " V2ray未安装，请先安装！"
+        return
+    fi
+
+    journalctl -xen -u v2ray --no-pager
+}
+
+menu() {
+	clear
+	echo "#———————————————————————————————————————————————————————————#"	
+	echo -e "#                     ${RED}v2ray一键安装脚本${PLAIN}                      #"
+    echo -e "# ${GREEN}作者${PLAIN}: 网络跳越(sldm)                                      #"
+    echo -e "# ${GREEN}导航${PLAIN}: https://www.wltysh.cn                            #"
+ echo   	
+echo -e "${GREEN}系统${PLAIN}：${BLUE}${OS}${PLAIN}"
+echo -e "${GREEN}虚拟化${PLAIN}：${BLUE}${virtual}${PLAIN}"
+echo -e "${GREEN}内核${PLAIN}：${BLUE}${kern}${PLAIN}"
+	echo " ————————————————————————————————————————————————————————————"
+    echo -e "再次运行输入 V 即可调用本脚本"
+    echo " -----VMESS--------"	
+    echo -e "  ${GREEN}1.${PLAIN}   安装V2ray-VMESS"
+    echo -e "  ${GREEN}2.${PLAIN}   安装V2ray-${BLUE}VMESS+mKCP${PLAIN}"
+    echo -e "  ${GREEN}3.${PLAIN}   安装V2ray-VMESS+TCP+TLS"
+    echo -e "  ${GREEN}4.${PLAIN}   安装V2ray-${BLUE}VMESS+WS+TLS${PLAIN}${RED}(推荐)${PLAIN}"
+    echo " ------VLESS-------"    
+    echo -e "  ${GREEN}5.${PLAIN}   安装V2ray-${BLUE}VLESS+mKCP${PLAIN}"
+    echo -e "  ${GREEN}6.${PLAIN}   安装V2ray-VLESS+TCP+TLS"
+    echo -e "  ${GREEN}7.${PLAIN}   安装V2ray-${BLUE}VLESS+WS+TLS${PLAIN}${RED}(可过cdn)${PLAIN}"
+    echo -e "  ${GREEN}8.${PLAIN}   安装V2ray-${BLUE}VLESS+TCP+XTLS${PLAIN}${RED}(推荐)${PLAIN}"
+    echo " ------trojan-------"   
+    echo -e "  ${GREEN}9.${PLAIN}   安装${BLUE}trojan${PLAIN}${RED}(推荐)${PLAIN}"
+    echo -e "  ${GREEN}10.${PLAIN}  安装${BLUE}trojan+XTLS${PLAIN}${RED}(推荐)${PLAIN}"
+    echo " -------------"
+    echo -e "  ${GREEN}11.${PLAIN}  更新V2ray"
+    echo -e "  ${GREEN}12.  ${RED}  卸载V2ray${PLAIN}"
+    echo " -------------"
+    echo -e "  ${GREEN}13.${PLAIN}  启动V2ray"
+    echo -e "  ${GREEN}14.${PLAIN}  重启V2ray"
+    echo -e "  ${GREEN}15.${PLAIN}  停止V2ray"
+    echo " -------------"
+    echo -e "  ${GREEN}16.${PLAIN}  查看V2ray配置"
+    echo -e "  ${GREEN}17.${PLAIN}  查看V2ray日志"
+	echo " ——————————————"
+	echo -e "  ${GREEN}18.${PLAIN}  启动nginx"
+	echo -e "  ${GREEN}19.${PLAIN}  重启nginx"
+	echo " ——————————————"
+    echo -e "  ${GREEN}0.${PLAIN}   退出"
+    echo -n " 当前状态："
+    statusText
+	echo " ——————————————"
+    read -p " 请选择操作[0-19]：" answer
+    case $answer in
+		0) exit 1 ;;
+		1) install ;;
+		2) KCP="true" && install ;;
+		3) TLS="true" && install ;;
+		4) TLS="true" && WS="true" && install ;;
+		5) VLESS="true" && KCP="true" && install ;;
+		6) VLESS="true" && TLS="true" && install ;;
+		7) VLESS="true" && TLS="true" && WS="true" && install ;;
+		8) VLESS="true" && TLS="true" && XTLS="true" && install ;;
+		9) TROJAN="true" && TLS="true" && install ;;
+		10) TROJAN="true" && TLS="true" && XTLS="true" && install ;;
+		11) update ;;
+		12) uninstall ;;
+		13) start ;;
+		14) restart ;;
+		15) stop ;;
+		16) showInfo ;;
+		17) showLog ;;
+		18) nginx ;;
+		19) nginx2 ;;
+        *)
+            colorEcho $RED " 请选择正确的操作！"
+            exit 1
+            ;;
+    esac
+}
+
+checkSystem
+
+action=$1
+[[ -z $1 ]] && action=menu
+case "$action" in
+    menu|update|uninstall|start|restart|stop|showInfo|showLog)
+        ${action}
+        ;;
+    *)
+        echo " 参数错误"
+        echo " 用法: `basename $0` [menu|update|uninstall|start|restart|stop|showInfo|showLog]"
+        ;;
+esac
+}
+
+REALITYy() {
+# REALITY一键安装脚本
+
+RED="\033[31m"      # Error message
+GREEN="\033[32m"    # Success message
+YELLOW="\033[33m"   # Warning message
+BLUE="\033[36m"     # Info message
+PLAIN='\033[0m'
+
+# 设置全局快捷键
+cp -f "$0" /usr/local/bin/R
+chmod +x /usr/local/bin/R
+# 设置全局快捷键
+cp -f "$0" /usr/local/bin/r
+chmod +x /usr/local/bin/r
+
+colorEcho() {
+    echo -e "${1}${@:2}${PLAIN}"
+}
+
+checkSystem() {
+    result=$(id | awk '{print $1}')
+    if [[ $result != "uid=0(root)" ]]; then
+        colorEcho $RED " 请以root身份执行该脚本"
+        exit 1
+    fi
+
+    res=`which yum 2>/dev/null`
+    if [[ "$?" != "0" ]]; then
+        res=`which apt 2>/dev/null`
+        if [[ "$?" != "0" ]]; then
+            colorEcho $RED " 不受支持的Linux系统"
+            exit 1
+        fi
+        PMT="apt"
+        CMD_INSTALL="apt install -y "
+        CMD_REMOVE="apt remove -y "
+        CMD_UPGRADE="apt update; apt upgrade -y; apt autoremove -y"
+    else
+        PMT="yum"
+        CMD_INSTALL="yum install -y "
+        CMD_REMOVE="yum remove -y "
+        CMD_UPGRADE="yum update -y"
+    fi
+    res=`which systemctl 2>/dev/null`
+    if [[ "$?" != "0" ]]; then
+        colorEcho $RED " 系统版本过低，请升级到最新版本"
+        exit 1
+    fi
+}
+
+
+
+status_singbox() {
+    export PATH=/usr/local/bin:$PATH
+    cmd="$(command -v /root/sing-box)"
+    if [[ "$cmd" = "" ]]; then
+        echo 0
+        return
+    fi
+    if [[ ! -f /root/reality.json ]]; then
+        echo 1
+        return
+    fi
+	
+	port=`grep -o '"listen_port": [0-9]*' /root/reality.json | awk '{print $2}'`
+	if [[ -n "$port" ]]; then
+        res=`ss -ntlp| grep ${port} | grep sing-box`
+        if [[ -z "$res" ]]; then
+            echo 2
+        else
+            echo 3
+        fi
+	else
+	    echo 2
+	fi
+	
+}
+
+statusText_singbox() {
+    res=`status_singbox`
+    case $res in
+        2)
+            echo -e ${GREEN}已安装singbox${PLAIN} ${RED}未运行${PLAIN}
+            ;;
+        3)
+            echo -e ${GREEN}已安装singbox${PLAIN} ${GREEN}正在运行${PLAIN}
+            ;;
+        *)
+            echo -e ${RED}未安装singbox${PLAIN}
+            ;;
+    esac
+}
+
+preinstall() {
+    $PMT clean all
+    [[ "$PMT" = "apt" ]] && $PMT update
+    echo ""
+    echo "安装必要软件，请等待..."
+    if [[ "$PMT" = "apt" ]]; then
+		res=`which ufw 2>/dev/null`
+        [[ "$?" != "0" ]] && $CMD_INSTALL ufw
+	fi	
+    res=`which curl 2>/dev/null`
+    [[ "$?" != "0" ]] && $CMD_INSTALL curl
+    res=`which openssl 2>/dev/null`
+    [[ "$?" != "0" ]] && $CMD_INSTALL openssl
+	res=`which qrencode 2>/dev/null`
+    [[ "$?" != "0" ]] && $CMD_INSTALL qrencode
+	res=`which jq 2>/dev/null`
+    [[ "$?" != "0" ]] && $CMD_INSTALL jq
+
+    if [[ -s /etc/selinux/config ]] && grep 'SELINUX=enforcing' /etc/selinux/config; then
+        sed -i 's/SELINUX=enforcing/SELINUX=permissive/g' /etc/selinux/config
+        setenforce 0
+    fi
+}
+
+# 定义函数，返回随机选择的域名
+random_website() {
+    domains=(
+        "one-piece.com"
+        "www.lovelive-anime.jp"
+        "www.swift.com"
+        "academy.nvidia.com"
+        "www.cisco.com"
+        "www.samsung.com"
+        "www.amd.com"
+        "www.apple.com"
+        "music.apple.com"
+        "www.amazon.com"		
+        "www.fandom.com"
+        "tidal.com"
+        "zoro.to"
+        "www.pixiv.co.jp"
+        "mxj.myanimelist.net"
+        "mora.jp"
+        "www.j-wave.co.jp"
+        "www.dmm.com"
+        "booth.pm"
+        "www.ivi.tv"
+        "www.leercapitulo.com"
+        "www.sky.com"
+        "itunes.apple.com"
+        "download-installer.cdn.mozilla.net"	
+    )
+
+    total_domains=${#domains[@]}
+    random_index=$((RANDOM % total_domains))
+    echo "${domains[random_index]}"
+}
+# 安装 singbox内核
+installSingbox() {
+	echo ""
+	echo "正在安装稳定版..."
+	latest_version_tag=$(curl -s "https://api.github.com/repos/SagerNet/sing-box/releases" | jq -r '[.[] | select(.prerelease==false)][0].tag_name')
+	latest_version=${latest_version_tag#v}  # 移除版本号前的 'v'
+	arch=$(uname -m)
+	
+	# 映射架构名称
+	case ${arch} in
+		x86_64)
+			arch="amd64"
+			;;
+		aarch64)
+			arch="arm64"
+			;;
+		armv7l)
+			arch="armv7"
+			;;
+	esac
+    package_name="sing-box-${latest_version}-linux-${arch}"
+    url="https://github.com/SagerNet/sing-box/releases/download/${latest_version_tag}/${package_name}.tar.gz"
+    curl -sLo "/root/${package_name}.tar.gz" "$url"
+    tar -xzf "/root/${package_name}.tar.gz" -C /root
+    mv "/root/${package_name}/sing-box" /root/
+    rm -r "/root/${package_name}.tar.gz" "/root/${package_name}"
+
+    # 设置权限
+    chown root:root /root/sing-box
+    chmod +x /root/sing-box
+	mkdir -p /root/singbox
+	touch /root/reality.json
+    colorEcho $BLUE "已安装最新稳定版 $latest_version"
+	sleep 5
+}
+
+install_singbox() {
+
+    # Generate uuid
+	echo ""
+    echo "正在生成UUID..."
+	/root/sing-box generate uuid > /root/singbox/uuid
+    uuid=`cat /root/singbox/uuid`
+    colorEcho $BLUE "UUID：$uuid"
+	echo ""
+	read -p "请输入您的节点名称，如果留空将保持默认：" node_name
+	[[ -z "$node_name" ]] && node_name="Reality(by网络跳越)"
+    colorEcho $BLUE "节点名称：$node_name"
+	echo "$node_name" > /root/singbox/name
+	echo ""
+    echo "正在生成私钥和公钥，请妥善保管好..."
+	key_pair=$(/root/sing-box generate reality-keypair)
+	private_key=$(echo "$key_pair" | awk '/PrivateKey/ {print $2}' | tr -d '"')
+	public_key=$(echo "$key_pair" | awk '/PublicKey/ {print $2}' | tr -d '"')
+    colorEcho $BLUE "$private_key"
+    colorEcho $BLUE "$public_key"
+	echo "$public_key" | base64 > /root/public.key.b64
+	echo ""
+	# 尝试获取 IP 地址
+    LOCAL_IPv4=$(curl -s -4 https://api.ipify.org)
+    LOCAL_IPv6=$(curl -s -6 https://api64.ipify.org)
+    # 检查 IPv是否存在且合法
+    if [[ -n "$LOCAL_IPv4" && "$LOCAL_IPv4" =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+        if [[ -n "$LOCAL_IPv6" && "$LOCAL_IPv6" =~ ^([0-9a-fA-F:]+)$ ]]; then
+            colorEcho $YELLOW "本机 IPv4 地址："$LOCAL_IPv4""		    
+            colorEcho $YELLOW "本机 IPv6 地址："$LOCAL_IPv6""
+	        read -p "请确定你的节点ip，默认ipv4（0：ipv4；1：ipv6）:" USER_IP
+	        if [[ $USER_IP == 1 ]]; then
+                server_ip=$LOCAL_IPv6
+	            colorEcho $BLUE "节点ip："$server_ip""				
+            else
+                server_ip=$LOCAL_IPv4
+	            colorEcho $BLUE "节点ip："$server_ip""						
+            fi								
+        else
+		    colorEcho $YELLOW "本机仅有 IPv4 地址："$LOCAL_IPv4""		
+		    server_ip=$LOCAL_IPv4
+            colorEcho $BLUE "节点ip："$server_ip""
+        fi
+    else
+	    if [[ -n "$LOCAL_IPv6" && "$LOCAL_IPv6" =~ ^([0-9a-fA-F:]+)$ ]]; then
+	        colorEcho $YELLOW "本机仅有 IPv6 地址："$LOCAL_IPv6""		
+		    server_ip=$LOCAL_IPv6
+            colorEcho $BLUE "节点ip："$server_ip""
+		else
+            colorEcho $RED "未能获取到有效的公网 IP 地址。"		
+		fi
+    fi
+    echo "$server_ip" > /root/singbox/ip
+	echo ""
+    while true
+    do
+        read -p "请设置singbox的端口号[1025-65535]，不输入则随机生成:" listen_port
+        [[ -z "$listen_port" ]] && listen_port=`shuf -i1025-65000 -n1`
+        if [[ "${listen_port:0:1}" = "0" ]]; then
+            echo -e "${RED}端口不能以0开头${PLAIN}"
+            exit 1
+        fi
+        expr $listen_port + 0 &>/dev/null
+        if [[ $? -eq 0 ]]; then
+            if [[ $listen_port -ge 1025 ]] && [[ $listen_port -le 65535 ]]; then
+	            echo "$listen_port" > /root/singbox/port				
+                colorEcho $BLUE "端口号：$listen_port"
+                break
+            else
+                colorEcho $RED "输入错误，端口号为1025-65535的数字"
+            fi
+        else
+            colorEcho $RED "输入错误，端口号为1025-65535的数字"
+        fi
+    done
+	echo ""
+	echo "正在开启$listen_port端口..."	
+    if [ -x "$(command -v firewall-cmd)" ]; then							  
+        firewall-cmd --permanent --add-port=${listen_port}/tcp > /dev/null 2>&1
+        firewall-cmd --permanent --add-port=${listen_port}/udp > /dev/null 2>&1
+        firewall-cmd --reload > /dev/null 2>&1
+		colorEcho $YELLOW "$listen_port端口已成功开启"
+	elif [ -x "$(command -v ufw)" ]; then								  
+        ufw allow ${listen_port}/tcp > /dev/null 2>&1
+        ufw allow ${listen_port}/udp > /dev/null 2>&1
+	    ufw reload > /dev/null 2>&1
+		colorEcho $YELLOW "$listen_port端口已成功开启"
+    else
+	    colorEcho $RED "无法配置防火墙规则。请手动配置以确保新singbox端口可用!"
+    fi
+    echo ""
+    read -p "请输入您的 dest 地址并确保该域名在国内的连通性（例如：www.amazon.com），如果留空将随机生成：" DEST
+	if [[ -z "$DEST" ]]; then
+		while true; do
+			domain=$(random_website)
+			check_num=$(echo QUIT | stdbuf -oL openssl s_client -connect "${domain}:443" -tls1_3 -alpn h2 2>&1 | grep -Eoi '(TLSv1.3)|(^ALPN\s+protocol:\s+h2$)|(X25519)' | sort -u | wc -l)
+			if [ "$check_num" -eq 3 ]; then
+				DEST="$domain"
+				break
+			fi
+		done
+	    echo $DEST > /root/singbox/dest		
+		echo $DEST > /root/singbox/servername
+	    server_name=`cat /root/singbox/servername`
+		colorEcho $BLUE "选中的符合条件的网站是： $server_name"	
+	else
+		echo "正在检查 \"${DEST}\" 是否支持 TLSv1.3与h2"
+        check_num=$(echo QUIT | stdbuf -oL openssl s_client -connect "${DEST}:443" -tls1_3 -alpn h2 2>&1 | grep -Eoi '(TLSv1.3)|(^ALPN\s+protocol:\s+h2$)|(X25519)' | sort -u | wc -l)
+		if [[ ${check_num} -eq 3 ]]; then
+			echo $DEST > /root/singbox/dest		
+		    echo $DEST > /root/singbox/servername
+	        server_name=`cat /root/singbox/servername`
+			colorEcho $YELLOW "目标网址：\"${DEST}\" 支持 TLSv1.3 与 h2"
+		else
+			colorEcho $YELLOW "目标网址：\"${DEST}\" 不支持 TLSv1.3 与 h2，将在默认域名组中随机挑选域名"
+			while true; do
+				domain=$(random_website)
+				check_num=$(echo QUIT | stdbuf -oL openssl s_client -connect "${domain}:443" -tls1_3 -alpn h2 2>&1 | grep -Eoi '(TLSv1.3)|(^ALPN\s+protocol:\s+h2$)|(X25519)' | sort -u | wc -l)
+				if [ "$check_num" -eq 3 ]; then
+					DEST="$domain"
+					break
+				fi
+			done
+			echo $DEST > /root/singbox/dest		
+			echo $DEST > /root/singbox/servername
+			server_name=`cat /root/singbox/servername`
+			colorEcho $BLUE "选中的符合条件的网站是： $server_name"				
+		fi	   
+	fi	
+	echo ""
+    echo "正在生成shortID..." 
+    /root/sing-box generate rand --hex 8 > /root/singbox/sid
+    short_id=`cat /root/singbox/sid`
+    colorEcho $BLUE  "shortID：$short_id"
+	echo ""
+jq -n --arg listen_port "$listen_port" --arg server_name "$server_name" --arg private_key "$private_key" --arg short_id "$short_id" --arg uuid "$uuid" --arg server_ip "$server_ip" '{
+  "log": {
+    "level": "info",
+    "timestamp": true
+  },
+  "inbounds": [
+    {
+      "type": "vless",
+      "tag": "vless-in",
+      "listen": "::",
+      "listen_port": ($listen_port | tonumber),
+      "sniff": true,
+      "sniff_override_destination": true,
+      "domain_strategy": "ipv4_only",
+      "users": [
+        {
+          "uuid": $uuid,
+          "flow": "xtls-rprx-vision"
+        }
+      ],
+      "tls": {
+        "enabled": true,
+        "server_name": $server_name,
+          "reality": {
+          "enabled": true,
+          "handshake": {
+            "server": $server_name,
+            "server_port": 443
+          },
+          "private_key": $private_key,
+          "short_id": [$short_id]
+        }
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "block",
+      "tag": "block"
+    }
+  ]
+}' > /root/reality.json
+
+cat > /etc/systemd/system/sing-box.service <<EOF
+[Unit]
+After=network.target nss-lookup.target
+
+[Service]
+User=root
+WorkingDirectory=/root
+CapabilityBoundingSet=CAP_NET_ADMIN CAP_NET_BIND_SERVICE CAP_NET_RAW
+AmbientCapabilities=CAP_NET_ADMIN CAP_NET_BIND_SERVICE CAP_NET_RAW
+ExecStart=/root/sing-box run -c /root/reality.json
+ExecReload=/bin/kill -HUP \$MAINPID
+Restart=on-failure
+RestartSec=10
+LimitNOFILE=infinity
+
+[Install]
+WantedBy=multi-user.target
+EOF
+
+if /root/sing-box check -c /root/reality.json; then
+    echo "所有配置完成，正在启动singbox程序..."
+    systemctl daemon-reload
+    systemctl enable sing-box > /dev/null 2>&1
+    systemctl start sing-box
+    systemctl restart sing-box
+	if [[ "$server_ip" =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+        server_link="vless://$uuid@$server_ip:$listen_port?encryption=none&flow=xtls-rprx-vision&security=reality&sni=$server_name&fp=chrome&pbk=$public_key&sid=$short_id&type=tcp&headerType=none#$node_name"
+	elif [[ "$server_ip" =~ ^([0-9a-fA-F:]+)$ ]]; then 
+        server_link="vless://$uuid@[$server_ip]:$listen_port?encryption=none&flow=xtls-rprx-vision&security=reality&sni=$server_name&fp=chrome&pbk=$public_key&sid=$short_id&type=tcp&headerType=none#$node_name"
+	else
+	    colorEcho $RED "没有获取到有效ip！"
+	fi
+    echo ""
+    colorEcho $BLUE "reality节点配置信息如下："
+    colorEcho $YELLOW "Server IP: ${PLAIN}$server_ip"
+    colorEcho $YELLOW "Listen Port: ${PLAIN}$listen_port"
+    colorEcho $YELLOW "Server Name: ${PLAIN}$server_name"
+    colorEcho $YELLOW "Public Key: ${PLAIN}$public_key"
+    colorEcho $YELLOW "Short ID: ${PLAIN}$short_id"
+    colorEcho $YELLOW "UUID: ${PLAIN}$uuid"
+    echo ""
+    echo ""
+    colorEcho $BLUE "${BLUE}reality订阅链接${PLAIN}：${server_link}"	
+	echo ""
+    echo ""
+	colorEcho $YELLOW "reality节点二维码（可直接扫码导入到v2rayN、shadowrocket等客户端...）："
+	qrencode -o - -t utf8 -s 1 ${server_link}
+    echo ""
+    echo ""
+else
+    colorEcho $RED "配置错误."
+fi
+}
+
+reinstallSingbox() {
+    colorEcho $BLUE "正在重新安装..."
+	systemctl stop sing-box
+	systemctl disable sing-box > /dev/null 2>&1
+	rm /etc/systemd/system/sing-box.service
+	rm /root/reality.json
+	rm /root/sing-box
+	rm /root/public.key.b64
+	rm -rf /root/singbox
+}
+
+Switch_singboxcore() {
+	echo ""
+	echo "更新singbox内核..."
+	current_version_tag=$(/root/sing-box version | grep 'sing-box version' | awk '{print $3}')
+	latest_stable_version=$(curl -s "https://api.github.com/repos/SagerNet/sing-box/releases" | jq -r '[.[] | select(.prerelease==false)][0].tag_name')
+    if [[ $current_version_tag == *"-alpha"* ]]; then
+	    singbox_version="稳定版"
+	fi
+	colorEcho $YELLOW "当前已安装$singbox_version：$current_version_tag"
+	colorEcho $BLUE "当前最新稳定版：$latest_stable_version"	
+	echo ""
+	echo 0. 保持不变	
+	echo 1. 升级最新稳定版
+	read -p "请输入你的选择（0-1）:" USER_CHOICE
+	case $USER_CHOICE in 
+		1)
+			new_version_tag=$latest_stable_version
+			singbox_version="稳定版"
+			;;
+		0)
+			colorEcho $BLUE "保持不变"
+			exit 0
+			;;				
+		*)
+			new_version_tag=$latest_stable_version
+			singbox_version="稳定版"
+			;;
+    esac
+    res=`status_singbox`
+    case $res in
+        3)
+	        systemctl stop sing-box 
+            ;;
+    esac
+	arch=$(uname -m)
+	case $arch in
+		x86_64) arch="amd64" ;;
+		aarch64) arch="arm64" ;;
+		armv7l) arch="armv7" ;;
+	esac
+	package_name="sing-box-${new_version_tag#v}-linux-${arch}"
+	url="https://github.com/SagerNet/sing-box/releases/download/${new_version_tag}/${package_name}.tar.gz"
+
+	curl -sLo "/root/${package_name}.tar.gz" "$url"
+	tar -xzf "/root/${package_name}.tar.gz" -C /root
+	mv "/root/${package_name}/sing-box" /root/sing-box
+	rm -r "/root/${package_name}.tar.gz" "/root/${package_name}"
+	chown root:root /root/sing-box
+	chmod +x /root/sing-box
+	systemctl daemon-reload
+    case $res in
+        2)
+	        systemctl start sing-box 
+            ;;
+    esac
+
+	colorEcho $YELLOW "已更新到$singbox_version：$new_version_tag"
+	echo ""
+	sleep 5
+}
+
+UninstallSingbox() {
+    echo "正在卸载singbox..."
+    systemctl stop sing-box
+    systemctl disable sing-box > /dev/null 2>&1
+    rm -f /etc/systemd/system/sing-box.service
+    rm -f /root/sing-box
+    rm -f /root/reality.json
+    rm -f /root/public.key.b64
+    rm -rf /root/singbox
+    systemctl daemon-reload
+    colorEcho $GREEN "singbox 卸载完成"
+}
+
+Show_Link() {
+	current_listen_port=$(jq -r '.inbounds[0].listen_port' /root/reality.json)
+	current_server_name=$(jq -r '.inbounds[0].tls.server_name' /root/reality.json)
+	uuid=$(jq -r '.inbounds[0].users[0].uuid' /root/reality.json)
+	public_key=$(base64 --decode /root/public.key.b64)
+	short_id=$(jq -r '.inbounds[0].tls.reality.short_id[0]' /root/reality.json)
+	server_ip=$(cat /root/singbox/ip)
+	if [[ "$server_ip" =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+        server_link="vless://$uuid@$server_ip:$listen_port?encryption=none&flow=xtls-rprx-vision&security=reality&sni=$server_name&fp=chrome&pbk=$public_key&sid=$short_id&type=tcp&headerType=none#$node_name"
+	elif [[ "$server_ip" =~ ^([0-9a-fA-F:]+)$ ]]; then 
+        server_link="vless://$uuid@[$server_ip]:$listen_port?encryption=none&flow=xtls-rprx-vision&security=reality&sni=$server_name&fp=chrome&pbk=$public_key&sid=$short_id&type=tcp&headerType=none#$node_name"
+	else
+	    colorEcho $RED "没有获取到有效ip！"
+	fi
+    colorEcho $BLUE "${BLUE}reality订阅链接${PLAIN}：${server_link}"	
+	echo ""
+    echo ""
+	colorEcho $YELLOW "reality节点二维码（可直接扫码导入到v2rayN、shadowrocket等客户端...）："
+	qrencode -o - -t utf8 -s 1 ${server_link}
+	exit 0
+}
+
+Modify_singboxconfig() {
+	listen_port=$(jq -r '.inbounds[0].listen_port' /root/reality.json)
+	server_name=$(jq -r '.inbounds[0].tls.server_name' /root/reality.json)
+	uuid=$(jq -r '.inbounds[0].users[0].uuid' /root/reality.json)
+	public_key=$(base64 --decode /root/public.key.b64)
+	private_key=$(jq -r '.inbounds[0].tls.reality.private_key' /root/reality.json)
+	short_id=$(jq -r '.inbounds[0].tls.reality.short_id[0]' /root/reality.json)
+	server_ip=$(cat /root/singbox/ip)
+	node_name=$(cat /root/singbox/name)
+	echo ""
+	read -p "是否需要重新生成UUID（0：保持不变；1：重新生成）:" new_uuid
+	if [[ $new_uuid == 1 ]]; then
+	    echo ""
+		echo "正在重新生成UUID...:" uuid
+		/root/sing-box generate uuid > /root/singbox/uuid
+		uuid=`cat /root/singbox/uuid`
+		colorEcho $BLUE "UUID：$uuid"
+	else
+	    colorEcho $BLUE "uuid保持不变!" 
+	fi
+	echo ""
+	read -p "是否需要重新给节点命名（0：保持不变；1：重新命名）:" new_name
+	if [[ $new_name == 1 ]]; then	
+	    echo ""
+		read -p "请输入您的节点名称，如果留空将保持默认：" node_name
+		[[ -z "$node_name" ]] && node_name="Reality(by网络跳越)"
+		colorEcho $BLUE "节点名称：$node_name"
+		echo "$node_name" > /root/singbox/name
+    else
+	    colorEcho $BLUE "节点名称保持不变!" 
+	fi
+	echo ""
+	read -p "是否需要重新生成密钥（0：保持不变；1：重新生成）:" new_key
+	if [[ $new_key == 1 ]]; then
+	    echo ""
+        echo "正在重新生成私钥和公钥，请妥善保管好："
+	    key_pair=$(/root/sing-box generate reality-keypair)
+	    private_key=$(echo "$key_pair" | awk '/PrivateKey/ {print $2}' | tr -d '"')
+	    public_key=$(echo "$key_pair" | awk '/PublicKey/ {print $2}' | tr -d '"')
+        colorEcho $BLUE "$private_key"
+        colorEcho $BLUE "$public_key"
+	    echo "$public_key" | base64 > /root/public.key.b64		
+	else
+	    colorEcho $BLUE "密钥保持不变!" 
+	fi
+	echo ""
+	read -p "是否需要更换节点ip（0：保持不变；1：重新选择）:" CHAIP
+	if [[ $CHAIP == 1 ]]; then	
+		LOCAL_IPv4=$(curl -s -4 https://api.ipify.org)
+		LOCAL_IPv6=$(curl -s -6 https://api64.ipify.org)
+		if [[ -n "$LOCAL_IPv4" && "$LOCAL_IPv4" =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+			if [[ -n "$LOCAL_IPv6" && "$LOCAL_IPv6" =~ ^([0-9a-fA-F:]+)$ ]]; then
+				colorEcho $YELLOW "本机 IPv4 地址："$LOCAL_IPv4""		    
+				colorEcho $YELLOW "本机 IPv6 地址："$LOCAL_IPv6""
+				read -p "请确定你的节点ip，默认ipv4（0：ipv4；1：ipv6）:" USER_IP
+				if [[ $USER_IP == 1 ]]; then
+					server_ip=$LOCAL_IPv6
+					colorEcho $BLUE "节点ip："$server_ip""				
+				else
+					server_ip=$LOCAL_IPv4
+					colorEcho $BLUE "节点ip："$server_ip""						
+				fi								
+			else
+				colorEcho $YELLOW "本机仅有 IPv4 地址："$LOCAL_IPv4""		
+				server_ip=$LOCAL_IPv4
+				colorEcho $BLUE "节点ip："$server_ip""
+			fi
+		else
+			if [[ -n "$LOCAL_IPv6" && "$LOCAL_IPv6" =~ ^([0-9a-fA-F:]+)$ ]]; then
+				colorEcho $YELLOW "本机仅有 IPv6 地址："$LOCAL_IPv6""		
+				server_ip=$LOCAL_IPv6
+				colorEcho $BLUE "节点ip："$server_ip""
+			else
+				colorEcho $RED "未能获取到有效的公网 IP 地址。"		
+			fi
+		fi
+		echo "$server_ip" > /root/singbox/ip
+    else
+	    colorEcho $BLUE "节点ip保持不变!"  		
+    fi
+	echo ""
+	read -p "是否需要更换端口（0：保持不变；1：更换端口）:" new_port
+	if [[ $new_port == 1 ]]; then	
+		while true
+		do
+		    echo ""
+			read -p "请设置singbox的端口号[1025-65535]，不输入则随机生成:" listen_port
+			[[ -z "$listen_port" ]] && listen_port=`shuf -i1025-65000 -n1`
+			if [[ "${listen_port:0:1}" = "0" ]]; then
+				echo -e "${RED}端口不能以0开头${PLAIN}"
+				exit 1
+			fi
+			expr $listen_port + 0 &>/dev/null
+			if [[ $? -eq 0 ]]; then
+				if [[ $listen_port -ge 1025 ]] && [[ $listen_port -le 65535 ]]; then
+					echo "$listen_port" > /root/singbox/port				
+					colorEcho $BLUE "端口号：$listen_port"
+					echo ""
+					echo "正在开启$listen_port端口..."	
+					if [ -x "$(command -v firewall-cmd)" ]; then							  
+						firewall-cmd --permanent --add-port=${listen_port}/tcp > /dev/null 2>&1
+						firewall-cmd --permanent --add-port=${listen_port}/udp > /dev/null 2>&1
+						firewall-cmd --reload > /dev/null 2>&1
+						colorEcho $YELLOW "$listen_port端口已成功开启"
+					elif [ -x "$(command -v ufw)" ]; then								  
+						ufw allow ${listen_port}/tcp > /dev/null 2>&1
+						ufw allow ${listen_port}/udp > /dev/null 2>&1
+						ufw reload > /dev/null 2>&1
+						colorEcho $YELLOW "$listen_port端口已成功开启"
+					else
+						colorEcho $RED "无法配置防火墙规则。请手动配置以确保新singbox端口可用!"
+					fi
+					break
+				else
+					colorEcho $RED "输入错误，端口号为1025-65535的数字"
+				fi
+			else
+				colorEcho $RED "输入错误，端口号为1025-65535的数字"
+			fi
+		done
+	else
+	    colorEcho $BLUE "端口保持不变!"  
+	fi
+	echo ""
+	read -p "是否需要更换目标网站（0：保持不变；1：重新输入）:" new_sni
+	if [[ $new_sni == 1 ]]; then	
+		echo ""
+		read -p "请输入您的 dest 地址并确保该域名在国内的连通性（例如：www.amazon.com），如果留空将随机生成：" DEST
+		if [[ -z "$DEST" ]]; then
+			while true; do
+				domain=$(random_website)
+				check_num=$(echo QUIT | stdbuf -oL openssl s_client -connect "${domain}:443" -tls1_3 -alpn h2 2>&1 | grep -Eoi '(TLSv1.3)|(^ALPN\s+protocol:\s+h2$)|(X25519)' | sort -u | wc -l)
+				if [ "$check_num" -eq 3 ]; then
+					DEST="$domain"
+					break
+				fi
+			done
+			echo $DEST > /root/singbox/dest		
+			echo $DEST > /root/singbox/servername
+			server_name=`cat /root/singbox/servername`
+			colorEcho $BLUE "选中的符合条件的网站是： $server_name"	
+		else
+			echo "正在检查 \"${DEST}\" 是否支持 TLSv1.3与h2"
+			check_num=$(echo QUIT | stdbuf -oL openssl s_client -connect "${DEST}:443" -tls1_3 -alpn h2 2>&1 | grep -Eoi '(TLSv1.3)|(^ALPN\s+protocol:\s+h2$)|(X25519)' | sort -u | wc -l)
+			if [[ ${check_num} -eq 3 ]]; then
+				echo $DEST > /root/singbox/dest		
+				echo $DEST > /root/singbox/servername
+				server_name=`cat /root/singbox/servername`
+				colorEcho $YELLOW "目标网址：\"${DEST}\" 支持 TLSv1.3 与 h2"
+			else
+				colorEcho $YELLOW "目标网址：\"${DEST}\" 不支持 TLSv1.3 与 h2，将在默认域名组中随机挑选域名"
+				while true; do
+					domain=$(random_website)
+					check_num=$(echo QUIT | stdbuf -oL openssl s_client -connect "${domain}:443" -tls1_3 -alpn h2 2>&1 | grep -Eoi '(TLSv1.3)|(^ALPN\s+protocol:\s+h2$)|(X25519)' | sort -u | wc -l)
+					if [ "$check_num" -eq 3 ]; then
+						DEST="$domain"
+						break
+					fi
+				done
+				echo $DEST > /root/singbox/dest		
+				echo $DEST > /root/singbox/servername
+				server_name=`cat /root/singbox/servername`
+				colorEcho $BLUE "选中的符合条件的网站是： $server_name"				
+			fi	   
+		fi	
+    else
+	    colorEcho $BLUE"目标网址保持不变!"  
+	fi
+	echo ""
+	read -p "是否需要重新生成shortID:（0：保持不变；1：重新生成）" new_sid
+	if [[ $new_sid == 1 ]]; then	
+	    echo ""
+		echo "正在重新生成shortID..."
+		/root/sing-box generate rand --hex 8 > /root/singbox/sid
+		short_id=`cat /root/singbox/sid`
+		colorEcho $BLUE  "shortID：$short_id"
+	else
+	    colorEcho $BLUE "shortID保持不变!"  
+	fi
+	echo ""
+jq -n --arg listen_port "$listen_port" --arg server_name "$server_name" --arg private_key "$private_key" --arg short_id "$short_id" --arg uuid "$uuid" --arg server_ip "$server_ip" '{
+  "log": {
+    "level": "info",
+    "timestamp": true
+  },
+  "inbounds": [
+    {
+      "type": "vless",
+      "tag": "vless-in",
+      "listen": "::",
+      "listen_port": ($listen_port | tonumber),
+      "sniff": true,
+      "sniff_override_destination": true,
+      "domain_strategy": "ipv4_only",
+      "users": [
+        {
+          "uuid": $uuid,
+          "flow": "xtls-rprx-vision"
+        }
+      ],
+      "tls": {
+        "enabled": true,
+        "server_name": $server_name,
+          "reality": {
+          "enabled": true,
+          "handshake": {
+            "server": $server_name,
+            "server_port": 443
+          },
+          "private_key": $private_key,
+          "short_id": [$short_id]
+        }
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "block",
+      "tag": "block"
+    }
+  ]
+}' > /root/reality.json
+
+	systemctl restart sing-box
+	echo ""
+	if [[ "$server_ip" =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+        server_link="vless://$uuid@$server_ip:$listen_port?encryption=none&flow=xtls-rprx-vision&security=reality&sni=$server_name&fp=chrome&pbk=$public_key&sid=$short_id&type=tcp&headerType=none#$node_name"
+	elif [[ "$server_ip" =~ ^([0-9a-fA-F:]+)$ ]]; then 
+        server_link="vless://$uuid@[$server_ip]:$listen_port?encryption=none&flow=xtls-rprx-vision&security=reality&sni=$server_name&fp=chrome&pbk=$public_key&sid=$short_id&type=tcp&headerType=none#$node_name"
+	else
+	    colorEcho $RED "没有获取到有效ip！"
+	fi
+    colorEcho $BLUE "${BLUE}reality订阅链接${PLAIN}：${server_link}"	
+	echo ""
+    echo ""
+	colorEcho $YELLOW "reality节点二维码（可直接扫码导入到v2rayN、shadowrocket等客户端...）："
+	qrencode -o - -t utf8 -s 1 ${server_link}
+	exit 0
+}
+
+setFirewall() {
+    echo ""
+	echo "正在开启$PORT端口..."	
+    if [ -x "$(command -v firewall-cmd)" ]; then							  
+        firewall-cmd --permanent --add-port=${PORT}/tcp > /dev/null 2>&1
+        firewall-cmd --permanent --add-port=${PORT}/udp > /dev/null 2>&1
+        firewall-cmd --reload > /dev/null 2>&1
+		colorEcho $YELLOW "$PORT端口已成功开启"
+	elif [ -x "$(command -v ufw)" ]; then								  
+        ufw allow ${PORT}/tcp > /dev/null 2>&1
+        ufw allow ${PORT}/udp > /dev/null 2>&1
+	    ufw reload > /dev/null 2>&1
+		colorEcho $YELLOW "$PORT端口已成功开启"
+    else
+	    echo "无法配置防火墙规则。请手动配置以确保新xray端口可用!"
+    fi
+}
+
+start_singbox() {
+    res=`status_singbox`
+    if [[ $res -lt 2 ]]; then
+        echo -e "${RED}singbox未安装，请先安装！${PLAIN}"
+        return
+    fi
+    systemctl restart sing-box
+    sleep 2
+    port=`grep -o '"listen_port": [0-9]*' /root/reality.json | awk '{print $2}'`
+    res=`ss -ntlp| grep ${port} | grep sing-box`
+    if [[ "$res" = "" ]]; then
+        colorEcho $RED "singbxo启动失败，请检查端口是否被占用！"
+    else
+        colorEcho $BLUE "singbox启动成功！"
+    fi
+}
+
+restart_singbox() {
+    res=`status_singbox`
+    if [[ $res -lt 2 ]]; then
+        echo -e "${RED}singbox未安装，请先安装！${PLAIN}"
+        return
+    fi
+    stop_singbox
+    start_singbox
+}
+
+stop_singbox() {
+    res=`status_singbox`
+    if [[ $res -lt 2 ]]; then
+        echo -e "${RED}singbox未安装，请先安装！${PLAIN}"
+        return
+    fi
+    systemctl stop sing-box
+    colorEcho $BLUE "singbox停止成功"
+}
+	
+Singbox() {
+    clear
+    echo "##################################################################"
+    echo -e "# ${RED} Singbox -- Reality一键安装脚本${PLAIN}                                    #"
+    echo -e "# ${GREEN}作者${PLAIN}: 网络跳越（hijk）                                                  #"	
+    echo "##################################################################"
+    echo -e "再次运行输入 r 即可调用本脚本"
+    echo -e "  ${GREEN}  <Singbox内核版本>  ${YELLOW}"	
+    echo -e "  ${GREEN}2.${PLAIN}  更新singbox"
+    echo -e "  ${GREEN}3.${RED}  卸载singbox${PLAIN}"
+    echo " -------------"		
+	echo -e "  ${GREEN}4.${PLAIN}  搭建VLESS-Vision-uTLS-REALITY（singbox）"
+    echo -e "  ${GREEN}5.${PLAIN}  查看reality链接"
+    echo -e "  ${GREEN}6.  ${RED}修改reality配置${PLAIN}"		
+    echo " -------------"
+    echo -e "  ${GREEN}7.${PLAIN}  启动singbox"
+    echo -e "  ${GREEN}8.${PLAIN}  重启singbox"
+    echo -e "  ${GREEN}9.${PLAIN}  停止singbox"
+    echo " -------------"
+    echo -e "  ${GREEN}0.${PLAIN}  退出"
+    echo -n " 当前singbox状态："
+	statusText_singbox
+    echo 
+
+    read -p " 请选择操作[0-10]：" answer
+    case $answer in
+        0)
+            exit 0
+            ;;
+        2)
+            Switch_singboxcore
+			Singbox
+            ;;
+        3)
+            UninstallSingbox
+            ;;
+        4)  checkSystem
+			preinstall
+            installSingbox
+            install_singbox
+            ;;
+        5)
+			Show_Link  
+            ;;
+        6)
+            Modify_singboxconfig     
+            ;;			
+        7)
+            start_singbox
+			Singbox
+            ;;
+        8)
+            restart_singbox
+			Singbox
+            ;;
+        9)
+            stop_singbox
+			Singbox
+            ;;			
+        *)
+            echo " 请选择正确的操作！"
+            exit 1
+            ;;
+    esac
+}
+Singbox
+}
+
+Hysteria2() {
+export LANG=en_US.UTF-8
+
+RED="\033[31m"
+GREEN="\033[32m"
+YELLOW="\033[33m"
+PLAIN="\033[0m"
+
+red(){
+    echo -e "\033[31m\033[01m$1\033[0m"
+}
+
+green(){
+    echo -e "\033[32m\033[01m$1\033[0m"
+}
+
+yellow(){
+    echo -e "\033[33m\033[01m$1\033[0m"
+}
+
+OS=$(hostnamectl | grep -i system | cut -d: -f2)
+virtual=$(systemd-detect-virt)
+ kern=$(uname -r)
+#  识别国家
+Country=$(curl -s4m8 https://ipinfo.io/country)
+IP=$(curl -s4m8 ip.sb)
+[[ "$?" != "0" ]] && IP=$(curl -s6m8 ip.sb )
+#=====================
+REGEX=("debian" "ubuntu" "centos|red hat|kernel|oracle linux|alma|rocky" "'amazon linux'" "fedora")
+RELEASE=("Debian" "Ubuntu" "CentOS" "CentOS" "Fedora")
+PACKAGE_UPDATE=("apt-get update" "apt-get update" "yum -y update" "yum -y update" "yum -y update")
+PACKAGE_INSTALL=("apt -y install" "apt -y install" "yum -y install" "yum -y install" "yum -y install")
+PACKAGE_REMOVE=("apt -y remove" "apt -y remove" "yum -y remove" "yum -y remove" "yum -y remove")
+PACKAGE_UNINSTALL=("apt -y autoremove" "apt -y autoremove" "yum -y autoremove" "yum -y autoremove" "yum -y autoremove")
+
+[[ $EUID -ne 0 ]] && red "注意: 请在root用户下运行脚本" && exit 1
+
+CMD=("$(grep -i pretty_name /etc/os-release 2>/dev/null | cut -d \" -f2)" "$(hostnamectl 2>/dev/null | grep -i system | cut -d : -f2)" "$(lsb_release -sd 2>/dev/null)" "$(grep -i description /etc/lsb-release 2>/dev/null | cut -d \" -f2)" "$(grep . /etc/redhat-release 2>/dev/null)" "$(grep . /etc/issue 2>/dev/null | cut -d \\ -f1 | sed '/^[ ]*$/d')")
+
+for i in "${CMD[@]}"; do
+    SYS="$i" && [[ -n $SYS ]] && break
+done
+
+for ((int = 0; int < ${#REGEX[@]}; int++)); do
+    [[ $(echo "$SYS" | tr '[:upper:]' '[:lower:]') =~ ${REGEX[int]} ]] && SYSTEM="${RELEASE[int]}" && [[ -n $SYSTEM ]] && break
+done
+
+[[ -z $SYSTEM ]] && red "目前暂不支持你的VPS的操作系统！" && exit 1
+
+if [[ -z $(type -P curl) ]]; then
+    if [[ ! $SYSTEM == "CentOS" ]]; then
+        ${PACKAGE_UPDATE[int]}
+    fi
+    ${PACKAGE_INSTALL[int]} curl
+fi
+
+realip(){
+    ip=$(curl -s4m8 ip.sb -k) || ip=$(curl -s6m8 ip.sb -k)
+}
+
+inst_cert(){
+    green "Hysteria 2 协议证书申请方式如下："
+    echo ""
+    echo -e " ${GREEN}1.${PLAIN} 必应自签证书 ${YELLOW}（默认）${PLAIN}"
+    echo -e " ${GREEN}2.${PLAIN} Acme 脚本自动申请"
+    echo -e " ${GREEN}3.${PLAIN} 自定义证书路径"
+    echo ""
+    read -rp "请输入选项 [1-3]: " certInput
+    if [[ $certInput == 2 ]]; then
+        cert_path="/root/cert.crt"
+        key_path="/root/private.key"
+
+        chmod a+x /root # 让 Hysteria 主程序访问到 /root 目录
+
+        if [[ -f /root/cert.crt && -f /root/private.key ]] && [[ -s /root/cert.crt && -s /root/private.key ]] && [[ -f /root/ca.log ]]; then
+            domain=$(cat /root/ca.log)
+            green "检测到原有域名：$domain 的证书，正在应用"
+            hy_domain=$domain
+        else
+            WARPv4Status=$(curl -s4m8 https://www.cloudflare.com/cdn-cgi/trace -k | grep warp | cut -d= -f2)
+            WARPv6Status=$(curl -s6m8 https://www.cloudflare.com/cdn-cgi/trace -k | grep warp | cut -d= -f2)
+            if [[ $WARPv4Status =~ on|plus ]] || [[ $WARPv6Status =~ on|plus ]]; then
+                wg-quick down wgcf >/dev/null 2>&1
+                systemctl stop warp-go >/dev/null 2>&1
+                realip
+                wg-quick up wgcf >/dev/null 2>&1
+                systemctl start warp-go >/dev/null 2>&1
+            else
+                realip
+            fi
+            
+            read -p "请输入需要申请证书的域名：" domain
+            [[ -z $domain ]] && red "未输入域名，无法执行操作！" && exit 1
+            green "已输入的域名：$domain" && sleep 1
+            domainIP=$(curl -sm8 ipget.net/?ip="${domain}")
+            if [[ $domainIP == $ip ]]; then
+                ${PACKAGE_INSTALL[int]} curl wget sudo socat openssl
+                if [[ $SYSTEM == "CentOS" ]]; then
+                    ${PACKAGE_INSTALL[int]} cronie
+                    systemctl start crond
+                    systemctl enable crond
+                else
+                    ${PACKAGE_INSTALL[int]} cron
+                    systemctl start cron
+                    systemctl enable cron
+                fi
+                curl https://get.acme.sh | sh -s email=$(date +%s%N | md5sum | cut -c 1-16)@gmail.com
+                source ~/.bashrc
+                bash ~/.acme.sh/acme.sh --upgrade --auto-upgrade
+                bash ~/.acme.sh/acme.sh --set-default-ca --server letsencrypt
+                if [[ -n $(echo $ip | grep ":") ]]; then
+                    bash ~/.acme.sh/acme.sh --issue -d ${domain} --standalone -k ec-256 --listen-v6 --insecure
+                else
+                    bash ~/.acme.sh/acme.sh --issue -d ${domain} --standalone -k ec-256 --insecure
+                fi
+                bash ~/.acme.sh/acme.sh --install-cert -d ${domain} --key-file /root/private.key --fullchain-file /root/cert.crt --ecc
+                if [[ -f /root/cert.crt && -f /root/private.key ]] && [[ -s /root/cert.crt && -s /root/private.key ]]; then
+                    echo $domain > /root/ca.log
+                    sed -i '/--cron/d' /etc/crontab >/dev/null 2>&1
+                    echo "0 0 * * * root bash /root/.acme.sh/acme.sh --cron -f >/dev/null 2>&1" >> /etc/crontab
+                    green "证书申请成功! 脚本申请到的证书 (cert.crt) 和私钥 (private.key) 文件已保存到 /root 文件夹下"
+                    yellow "证书crt文件路径如下: /root/cert.crt"
+                    yellow "私钥key文件路径如下: /root/private.key"
+                    hy_domain=$domain
+                fi
+            else
+                red "当前域名解析的IP与当前VPS使用的真实IP不匹配"
+                green "建议如下："
+                yellow "1. 请确保CloudFlare小云朵为关闭状态(仅限DNS), 其他域名解析或CDN网站设置同理"
+                yellow "2. 请检查DNS解析设置的IP是否为VPS的真实IP"
+                yellow "3. 脚本可能跟不上时代, 建议截图发布到GitHub 、论坛或TG群询问"
+                exit 1
+            fi
+        fi
+    elif [[ $certInput == 3 ]]; then
+        read -p "请输入公钥文件 crt 的路径：" cert_path
+        yellow "公钥文件 crt 的路径：$cert_path "
+        read -p "请输入密钥文件 key 的路径：" key_path
+        yellow "密钥文件 key 的路径：$key_path "
+        read -p "请输入证书的域名：" domain
+        yellow "证书域名：$domain"
+        hy_domain=$domain
+    else
+        green "将使用必应自签证书作为 Hysteria 2 的节点证书"
+
+        cert_path="/etc/hysteria/cert.crt"
+        key_path="/etc/hysteria/private.key"
+        openssl ecparam -genkey -name prime256v1 -out /etc/hysteria/private.key
+        openssl req -new -x509 -days 36500 -key /etc/hysteria/private.key -out /etc/hysteria/cert.crt -subj "/CN=www.bing.com"
+        chmod 777 /etc/hysteria/cert.crt
+        chmod 777 /etc/hysteria/private.key
+        hy_domain="www.bing.com"
+        domain="www.bing.com"
+    fi
+}
+
+inst_port(){
+    iptables -t nat -F PREROUTING >/dev/null 2>&1
+
+    read -p "设置 Hysteria 2 端口 [1-65535]（回车则随机分配端口）：" port
+    [[ -z $port ]] && port=$(shuf -i 2000-65535 -n 1)
+    until [[ -z $(ss -tunlp | grep -w udp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") ]]; do
+        if [[ -n $(ss -tunlp | grep -w udp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") ]]; then
+            echo -e "${RED} $port ${PLAIN} 端口已经被其他程序占用，请更换端口重试！"
+            read -p "设置 Hysteria 2 端口 [1-65535]（回车则随机分配端口）：" port
+            [[ -z $port ]] && port=$(shuf -i 2000-65535 -n 1)
+        fi
+    done
+
+    yellow "将在 Hysteria 2 节点使用的端口是：$port"
+    inst_jump
+}
+
+inst_jump(){
+    green "Hysteria 2 端口使用模式如下："
+    echo ""
+    echo -e " ${GREEN}1.${PLAIN} 单端口 ${YELLOW}（默认）${PLAIN}"
+    echo ""
+    read -rp "请输入选项 [1]: " jumpInput
+    if [[ $jumpInput != 1 ]]; then
+        red "将继续使用单端口模式"
+    fi
+}
+
+inst_pwd(){
+    read -p "设置 Hysteria 2 密码（回车跳过为随机字符）：" auth_pwd
+    [[ -z $auth_pwd ]] && auth_pwd=$(date +%s%N | md5sum | cut -c 1-8)
+    yellow "使用在 Hysteria 2 节点的密码为：$auth_pwd"
+}
+
+inst_site(){
+    read -rp "请输入 Hysteria 2 的伪装网站地址 （去除https://） [默认首尔大学]：" proxysite
+    [[ -z $proxysite ]] && proxysite="en.snu.ac.kr"
+    yellow "使用在 Hysteria 2 节点的伪装网站为：$proxysite"
+}
+
+insthysteria(){
+    warpv6=$(curl -s6m8 https://www.cloudflare.com/cdn-cgi/trace -k | grep warp | cut -d= -f2)
+    warpv4=$(curl -s4m8 https://www.cloudflare.com/cdn-cgi/trace -k | grep warp | cut -d= -f2)
+    if [[ $warpv4 =~ on|plus || $warpv6 =~ on|plus ]]; then
+        wg-quick down wgcf >/dev/null 2>&1
+        systemctl stop warp-go >/dev/null 2>&1
+        realip
+        systemctl start warp-go >/dev/null 2>&1
+        wg-quick up wgcf >/dev/null 2>&1
+    else
+        realip
+    fi
+
+    if [[ ! ${SYSTEM} == "CentOS" ]]; then
+        $PACKAGE_UPDATE
+    fi
+    $PACKAGE_INSTALL curl wget sudo ruby qrencode psmisc procps iptables-persistent netfilter-persistent
+
+    wget -N https://raw.githubusercontent.com/Misaka-blog/hysteria-install/main/hy2/install_server.sh
+    bash install_server.sh
+    rm -f install_server.sh
+
+    if [[ -f "/usr/local/bin/hysteria" ]]; then
+        green "Hysteria 2 安装成功！"
+    else
+        red "Hysteria 2 安装失败！"
+    fi
+
+    # 询问用户 Hysteria 配置
+    inst_cert
+    inst_port
+    inst_pwd
+    inst_site
+
+    # 设置 Hysteria 配置文件
+    cat << EOF > /etc/hysteria/config.yaml
+listen: :$port
+
+tls:
+  cert: $cert_path
+  key: $key_path
+
+quic:
+  initStreamReceiveWindow: 16777216
+  maxStreamReceiveWindow: 16777216
+  initConnReceiveWindow: 33554432
+  maxConnReceiveWindow: 33554432
+
+auth:
+  type: password
+  password: $auth_pwd
+
+masquerade:
+  type: proxy
+  proxy:
+    url: https://$proxysite
+    rewriteHost: true
+EOF
+
+    # 确定最终入站端口范围
+    if [[ -n $firstport ]]; then
+        last_port="$port,$firstport-$endport"
+    else
+        last_port=$port
+    fi
+
+    # 给 IPv6 地址加中括号
+    if [[ -n $(echo $ip | grep ":") ]]; then
+        last_ip="[$ip]"
+    else
+        last_ip=$ip
+    fi
+
+    mkdir /root/hy
+    cat << EOF > /root/hy/hy-client.yaml
+server: $last_ip:$last_port
+
+auth: $auth_pwd
+
+tls:
+  sni: $hy_domain
+  insecure: true
+
+quic:
+  initStreamReceiveWindow: 16777216
+  maxStreamReceiveWindow: 16777216
+  initConnReceiveWindow: 33554432
+  maxConnReceiveWindow: 33554432
+
+fastOpen: true
+
+socks5:
+  listen: 127.0.0.1:5678
+
+transport:
+  udp:
+    hopInterval: 30s 
+EOF
+    cat << EOF > /root/hy/hy-client.json
+{
+  "server": "$last_ip:$last_port",
+  "auth": "$auth_pwd",
+  "tls": {
+    "sni": "$hy_domain",
+    "insecure": true
+  },
+  "quic": {
+    "initStreamReceiveWindow": 16777216,
+    "maxStreamReceiveWindow": 16777216,
+    "initConnReceiveWindow": 33554432,
+    "maxConnReceiveWindow": 33554432
+  },
+  "socks5": {
+    "listen": "127.0.0.1:5678"
+  },
+  "transport": {
+    "udp": {
+      "hopInterval": "30s"
+    }
+  }
+}
+EOF
+
+    url="hysteria2://$auth_pwd@$last_ip:$last_port/?insecure=1&sni=$hy_domain#${Country}-${IP}-网路跳越"
+        echo
+    echo $url > /root/hy/url.txt
+
+    systemctl daemon-reload
+    systemctl enable hysteria-server
+    systemctl start hysteria-server
+    if [[ -n $(systemctl status hysteria-server 2>/dev/null | grep -w active) && -f '/etc/hysteria/config.yaml' ]]; then
+        green "Hysteria 2 服务启动成功"
+    else
+        red "Hysteria 2 服务启动失败，请运行 systemctl status hysteria-server 查看服务状态并反馈，脚本退出" && exit 1
+    fi
+    red "======================================================================================"
+    green "Hysteria 2 代理服务安装完成"
+    yellow "Hysteria 2 节点分享链接如下，并保存到 /root/hy/url.txt"
+    echo
+    red "$(cat /root/hy/url.txt)"
+    echo
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/hy/url.txt)
+}
+
+unsthysteria(){
+    systemctl stop hysteria-server.service >/dev/null 2>&1
+    systemctl disable hysteria-server.service >/dev/null 2>&1
+    rm -f /lib/systemd/system/hysteria-server.service /lib/systemd/system/hysteria-server@.service
+    rm -rf /usr/local/bin/hysteria /etc/hysteria /root/hy /root/hysteria.sh
+    iptables -t nat -F PREROUTING >/dev/null 2>&1
+    netfilter-persistent save >/dev/null 2>&1
+
+    green "Hysteria 2 已彻底卸载完成！"
+}
+
+starthysteria(){
+    systemctl start hysteria-server
+    systemctl enable hysteria-server >/dev/null 2>&1
+}
+
+stophysteria(){
+    systemctl stop hysteria-server
+    systemctl disable hysteria-server >/dev/null 2>&1
+}
+
+hysteriaswitch(){
+    yellow "请选择你需要的操作："
+    echo ""
+    echo -e " ${GREEN}1.${PLAIN} 启动 Hysteria 2"
+    echo -e " ${GREEN}2.${PLAIN} 关闭 Hysteria 2"
+    echo -e " ${GREEN}3.${PLAIN} 重启 Hysteria 2"
+    echo ""
+    read -rp "请输入选项 [0-3]: " switchInput
+    case $switchInput in
+        1 ) starthysteria ;;
+        2 ) stophysteria ;;
+        3 ) stophysteria && starthysteria ;;
+        * ) exit 1 ;;
+    esac
+}
+
+changeport(){
+    oldport=$(cat /etc/hysteria/config.yaml 2>/dev/null | sed -n 1p | awk '{print $2}' | awk -F ":" '{print $2}')
+    
+    read -p "设置 Hysteria 2 端口[1-65535]（回车则随机分配端口）：" port
+    [[ -z $port ]] && port=$(shuf -i 2000-65535 -n 1)
+
+    until [[ -z $(ss -tunlp | grep -w udp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") ]]; do
+        if [[ -n $(ss -tunlp | grep -w udp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") ]]; then
+            echo -e "${RED} $port ${PLAIN} 端口已经被其他程序占用，请更换端口重试！"
+            read -p "设置 Hysteria 2 端口 [1-65535]（回车则随机分配端口）：" port
+            [[ -z $port ]] && port=$(shuf -i 2000-65535 -n 1)
+        fi
+    done
+
+    sed -i "1s#$oldport#$port#g" /etc/hysteria/config.yaml
+    sed -i "1s#$oldport#$port#g" /root/hy/hy-client.yaml
+    sed -i "2s#$oldport#$port#g" /root/hy/hy-client.json
+
+    stophysteria && starthysteria
+
+    green "Hysteria 2 端口已成功修改为：$port"
+    yellow "请手动更新客户端配置文件以使用节点"
+    showconf
+}
+
+changepasswd(){
+    oldpasswd=$(cat /etc/hysteria/config.yaml 2>/dev/null | sed -n 15p | awk '{print $2}')
+
+    read -p "设置 Hysteria 2 密码（回车跳过为随机字符）：" passwd
+    [[ -z $passwd ]] && passwd=$(date +%s%N | md5sum | cut -c 1-8)
+
+    sed -i "1s#$oldpasswd#$passwd#g" /etc/hysteria/config.yaml
+    sed -i "1s#$oldpasswd#$passwd#g" /root/hy/hy-client.yaml
+    sed -i "3s#$oldpasswd#$passwd#g" /root/hy/hy-client.json
+
+    stophysteria && starthysteria
+
+    green "Hysteria 2 节点密码已成功修改为：$passwd"
+    yellow "请手动更新客户端配置文件以使用节点"
+    showconf
+}
+
+change_cert(){
+    old_cert=$(cat /etc/hysteria/config.yaml | grep cert | awk -F " " '{print $2}')
+    old_key=$(cat /etc/hysteria/config.yaml | grep key | awk -F " " '{print $2}')
+    old_hydomain=$(cat /root/hy/hy-client.yaml | grep sni | awk '{print $2}')
+
+    inst_cert
+
+    sed -i "s!$old_cert!$cert_path!g" /etc/hysteria/config.yaml
+    sed -i "s!$old_key!$key_path!g" /etc/hysteria/config.yaml
+    sed -i "6s/$old_hydomain/$hy_domain/g" /root/hy/hy-client.yaml
+    sed -i "5s/$old_hydomain/$hy_domain/g" /root/hy/hy-client.json
+
+    stophysteria && starthysteria
+
+    green "Hysteria 2 节点证书类型已成功修改"
+    yellow "请手动更新客户端配置文件以使用节点"
+    showconf
+}
+
+changeproxysite(){
+    oldproxysite=$(cat /etc/hysteria/config.yaml | grep url | awk -F " " '{print $2}' | awk -F "https://" '{print $2}')
+    
+    inst_site
+
+    sed -i "s#$oldproxysite#$proxysite#g" /etc/caddy/Caddyfile
+
+    stophysteria && starthysteria
+
+    green "Hysteria 2 节点伪装网站已成功修改为：$proxysite"
+}
+
+changeconf(){
+    green "Hysteria 2 配置变更选择如下:"
+    echo -e " ${GREEN}1.${PLAIN} 修改端口"
+    echo -e " ${GREEN}2.${PLAIN} 修改密码"
+    echo -e " ${GREEN}3.${PLAIN} 修改证书类型"
+    echo -e " ${GREEN}4.${PLAIN} 修改伪装网站"
+    echo ""
+    read -p " 请选择操作 [1-4]：" confAnswer
+    case $confAnswer in
+        1 ) changeport ;;
+        2 ) changepasswd ;;
+        3 ) change_cert ;;
+        4 ) changeproxysite ;;
+        * ) exit 1 ;;
+    esac
+}
+
+showconf(){
+    yellow "Hysteria 2 节点分享链接如下，并保存到 /root/hy/url.txt"
+    echo
+    red "$(cat /root/hy/url.txt)"
+    echo
+    qrencode -t ANSIUTF8 -s 1 $(cat /root/hy/url.txt)
+}
+
+menu() {
+	clear
+	echo "#———————————————————————————————————————————————————————————#"	
+	echo -e "#                 ${GREEN}Hysteria 2 一键安装脚本${PLAIN}                   #"
+    echo -e "# ${GREEN}作者${PLAIN}: 网络跳越(hijk)                                      #"
+	echo "#———————————————————————————————————————————————————————————#"	
+echo -e "${GREEN}系统${PLAIN}：${BLUE}${OS}${PLAIN}/${GREEN}虚拟化${PLAIN}：${BLUE}${virtual}${PLAIN}/${GREEN}内核${PLAIN}：${BLUE}${kern}${PLAIN}"
+	echo " ————————————————————————————————————————————————————————————"    
+    echo -e " ${GREEN}1.${PLAIN} ${GREEN}安装 Hysteria 2${PLAIN}"
+    echo -e " ${RED}2.${PLAIN} ${RED}卸载 Hysteria 2${PLAIN}"
+    echo " ------------------------------------------------------------"
+    echo -e " 3. 关闭、开启、重启 Hysteria 2"
+    echo -e " 4. 修改 Hysteria 2 配置"
+    echo -e " 5. 显示 Hysteria 2 配置文件"
+    echo " ------------------------------------------------------------"
+    echo -e " 0. 退出脚本"
+    echo ""
+    read -rp "请输入选项 [0-5]: " menuInput
+    case $menuInput in
+        1 ) insthysteria ;;
+        2 ) unsthysteria ;;
+        3 ) hysteriaswitch ;;
+        4 ) changeconf ;;
+        5 ) showconf ;;
+        * ) exit 1 ;;
+    esac
+}
+menu
+}
+
+shadowsocksss() {
+# shadowsocks/ss一键安装脚本
+
+RED="\033[31m"      # Error message
+GREEN="\033[32m"    # Success message
+YELLOW="\033[33m"   # Warning message
+BLUE="\033[36m"     # Info message
+PLAIN='\033[0m'
+
+BASE=`pwd`
+OS=`hostnamectl | grep -i system | cut -d: -f2`
+
+NAME="shadowsocks-libev"
+CONFIG_FILE="/etc/${NAME}/config.json"
+SERVICE_FILE="/etc/systemd/system/${NAME}.service"
+
+OS=$(hostnamectl | grep -i system | cut -d: -f2)
+virtual=$(systemd-detect-virt)
+ kern=$(uname -r)
+#  识别国家
+Country=$(curl -s4m8 https://ipinfo.io/country)
+IP=$(curl -s4m8 ip.sb)
+[[ "$?" != "0" ]] && IP=$(curl -s6m8 ip.sb )
+#=====================
+IP=`curl -sL -4 ip.sb`
+if [[ "$?" != "0" ]]; then
+    IP=`curl -sL -6 ip.sb`
+fi
+
+colorEcho() {
+    echo -e "${1}${@:2}${PLAIN}"
+}
+
+checkSystem() {
+    result=$(id | awk '{print $1}')
+    if [[ $result != "uid=0(root)" ]]; then
+        colorEcho $RED " 请以root身份执行该脚本"
+        exit 1
+    fi
+
+    res=`which yum 2>/dev/null`
+    if [[ "$?" != "0" ]]; then
+        res=`which apt 2>/dev/null`
+        if [[ "$?" != "0" ]]; then
+            colorEcho $RED " 不受支持的Linux系统"
+            exit 1
+        fi
+        PMT="apt"
+        CMD_INSTALL="apt install -y "
+        CMD_REMOVE="apt remove -y "
+        CMD_UPGRADE="apt update; apt upgrade -y; apt autoremove -y"
+    else
+        PMT="yum"
+        CMD_INSTALL="yum install -y "
+        CMD_REMOVE="yum remove -y "
+        CMD_UPGRADE="yum update -y"
+    fi
+    res=`which systemctl 2>/dev/null`
+    if [[ "$?" != "0" ]]; then
+        colorEcho $RED " 系统版本过低，请升级到最新版本"
+        exit 1
+    fi
+}
+
+status() {
+    export PATH=/usr/local/bin:$PATH
+    cmd="$(command -v ss-server)"
+    if [[ "$cmd" = "" ]]; then
+        echo 0
+        return
+    fi
+    if [[ ! -f $CONFIG_FILE ]]; then
+        echo 1
+        return
+    fi
+    port=`grep server_port $CONFIG_FILE|cut -d: -f2| tr -d \",' '`
+    res=`ss -ntlp| grep ${port} | grep ss-server`
+    if [[ -z "$res" ]]; then
+        echo 2
+    else
+        echo 3
+    fi
+}
+
+statusText() {
+    res=`status`
+    case $res in
+        2)
+            echo -e ${GREEN}已安装${PLAIN} ${RED}未运行${PLAIN}
+            ;;
+        3)
+            echo -e ${GREEN}已安装${PLAIN} ${GREEN}正在运行${PLAIN}
+            ;;
+        *)
+            echo -e ${RED}未安装${PLAIN}
+            ;;
+    esac
+}
+
+getData() {
+    echo ""
+    read -p " 请设置SS的密码（不输入则随机生成）:" PASSWORD
+    [[ -z "$PASSWORD" ]] && PASSWORD=`cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 16 | head -n 1`
+    echo ""
+    colorEcho $BLUE " 密码： $PASSWORD"
+
+    echo ""
+    while true
+    do
+        read -p " 请设置SS的端口号[1025-65535]:" PORT
+        [[ -z "$PORT" ]] && PORT=`shuf -i1025-65000 -n1`
+        if [[ "${PORT:0:1}" = "0" ]]; then
+            echo -e " ${RED}端口不能以0开头${PLAIN}"
+            exit 1
+        fi
+        expr $PORT + 0 &>/dev/null
+        if [[ $? -eq 0 ]]; then
+            if [[ $PORT -ge 1025 ]] && [[ $PORT -le 65535 ]]; then
+                echo ""
+                colorEcho $BLUE " 端口号： $PORT"
+                echo ""
+                break
+            else
+                colorEcho $RED " 输入错误，端口号为1025-65535的数字"
+            fi
+        else
+            colorEcho $RED " 输入错误，端口号为1025-65535的数字"
+        fi
+    done
+    colorEcho $RED " 请选择加密方式:" 
+    echo "  1)aes-256-gcm"
+    echo "  2)aes-192-gcm"
+    echo "  3)aes-128-gcm"
+    echo "  4)aes-256-ctr"
+    echo "  5)aes-192-ctr"
+    echo "  6)aes-128-ctr"
+    echo "  7)aes-256-cfb"
+    echo "  8)aes-192-cfb"
+    echo "  9)aes-128-cfb"
+    echo "  10)camellia-128-cfb"
+    echo "  11)camellia-192-cfb"
+    echo "  12)camellia-256-cfb"
+    echo "  13)chacha20-ietf"
+    echo "  14)chacha20-ietf-poly1305"
+    echo "  15)xchacha20-ietf-poly1305"
+    read -p " 请选择（默认aes-256-gcm）" answer
+    if [[ -z "$answer" ]]; then
+        METHOD="aes-256-gcm"
+    else
+        case $answer in
+        1)
+            METHOD="aes-256-gcm"
+            ;;
+        2)
+            METHOD="aes-192-gcm"
+            ;;
+        3)
+            METHOD="aes-128-gcm"
+            ;;
+        4)
+            METHOD="aes-256-ctr"
+            ;;
+        5)
+            METHOD="aes-192-ctr"
+            ;;
+        6)
+            METHOD="aes-128-ctr"
+            ;;
+        7)
+            METHOD="aes-256-cfb"
+            ;;
+        8)
+            METHOD="aes-192-cfb"
+            ;;
+        9)
+            METHOD="aes-128-cfb"
+            ;;
+        10)
+            METHOD="camellia-128-cfb"
+            ;;
+        11)
+            METHOD="camellia-192-cfb"
+            ;;
+        12)
+            METHOD="camellia-256-cfb"
+            ;;
+        13)
+            METHOD="chacha20-ietf"
+            ;;
+        14)
+            METHOD="chacha20-ietf-poly1305"
+            ;;
+        15)
+            METHOD="xchacha20-ietf-poly1305"
+            ;;
+        *)
+            colorEcho $RED " 无效的选择，使用默认的aes-256-gcm"
+            METHOD="aes-256-gcm"
+        esac
+    fi
+    echo ""
+    colorEcho $BLUE "加密方式： $METHOD"
+}
+
+preinstall() {
+    $PMT clean all
+    [[ "$PMT" = "apt" ]] && $PMT update
+
+    echo ""
+    colorEcho $BULE " 安装必要软件"
+    if [[ "$PMT" = "yum" ]]; then
+        $CMD_INSTALL epel-release
+    fi
+    $CMD_INSTALL wget vim net-tools unzip tar qrencode
+    $CMD_INSTALL openssl gettext gcc autoconf libtool automake make asciidoc xmlto
+    if [[ "$PMT" = "yum" ]]; then
+        $CMD_INSTALL openssl-devel udns-devel libev-devel pcre pcre-devel mbedtls mbedtls-devel libsodium libsodium-devel c-ares c-ares-devel
+    else
+        $CMD_INSTALL libssl-dev libudns-dev libev-dev libpcre3 libpcre3-dev libmbedtls-dev libc-ares2 libc-ares-dev g++
+        $CMD_INSTALL libsodium*
+    fi
+    res=`which wget 2>/dev/null`
+    [[ "$?" != "0" ]] && $CMD_INSTALL wget
+    res=`which netstat 2>/dev/null`
+    [[ "$?" != "0" ]] && $CMD_INSTALL net-tools
+
+    if [[ -s /etc/selinux/config ]] && grep 'SELINUX=enforcing' /etc/selinux/config; then
+        sed -i 's/SELINUX=enforcing/SELINUX=permissive/g' /etc/selinux/config
+        setenforce 0
+    fi
+}
+
+normalizeVersion() {
+    if [ -n "$1" ]; then
+        case "$1" in
+            v*)
+                echo "${1:1}"
+            ;;
+            *)
+                echo "$1"
+            ;;
+        esac
+    else
+        echo ""
+    fi
+}
+
+installNewVer() {
+    new_ver=$1
+    if ! wget "${V6_PROXY}https://github.com/shadowsocks/shadowsocks-libev/releases/download/v${new_ver}/shadowsocks-libev-${new_ver}.tar.gz" -O ${NAME}.tar.gz; then
+        colorEcho $RED " 下载安装文件失败！"
+        exit 1
+    fi
+    tar zxf ${NAME}.tar.gz
+    cd shadowsocks-libev-${new_ver}
+    ./configure
+    make && make install
+    if [[ $? -ne 0 ]]; then
+        echo
+        echo -e " [${RED}错误${PLAIN}]: $OS Shadowsocks-libev 安装失败！ 请 反馈"
+        cd ${BASE} && rm -rf shadowsocks-libev*
+        exit 1
+    fi
+    ssPath=`which ss-server 2>/dev/null`
+    [[ "$ssPath" != "" ]] || {
+        cd ${BASE} && rm -rf shadowsocks-libev*
+        colorEcho $RED " SS安装失败，请到 https://tizi.blog 反馈"
+        exit 1
+    }
+    cat > $SERVICE_FILE <<-EOF
+[Unit]
+Description=shadowsocks
+Documentation=https://www.meng666.buzz
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+PIDFile=/var/run/${NAME}.pid
+LimitNOFILE=32768
+ExecStart=$ssPath -c $CONFIG_FILE -f /var/run/${NAME}.pid
+ExecReload=/bin/kill -s HUP \$MAINPID
+ExecStop=/bin/kill -s TERM \$MAINPID
+
+[Install]
+WantedBy=multi-user.target
+EOF
+    systemctl daemon-reload
+    systemctl enable ${NAME}
+    cd ${BASE} && rm -rf shadowsocks-libev*
+
+    colorEcho $BLUE " 安装成功!"
+}
+
+installSS() {
+    echo ""
+    colorEcho $BLUE " 安装最新版SS..."
+
+    tag_url="${V6_PROXY}https://api.github.com/repos/shadowsocks/shadowsocks-libev/releases/latest"
+    new_ver="$(normalizeVersion "$(curl -s "${tag_url}" --connect-timeout 10| grep 'tag_name' | cut -d\" -f4)")"
+    export PATH=/usr/local/bin:$PATH
+    ssPath=`which ss-server 2>/dev/null`
+    if [[ "$?" != "0" ]]; then
+        [[ "$new_ver" != "" ]] || new_ver="3.3.5"
+        installNewVer $new_ver
+    else
+        ver=`ss-server -h | grep ${NAME} | grep -oE '[0-9+\.]+'`
+        if [[ $ver != $new_ver ]]; then
+            installNewVer $new_ver
+        else
+            colorEcho $YELLOW " 已安装最新版SS"
+        fi
+    fi
+}
+
+configSS(){
+    interface="0.0.0.0"
+    if [[ "$V6_PROXY" != "" ]]; then
+        interface="::"
+    fi
+
+    mkdir -p /etc/${NAME}
+    cat > $CONFIG_FILE<<-EOF
+{
+    "server":"$interface",
+    "server_port":${PORT},
+    "local_port":1080,
+    "password":"${PASSWORD}",
+    "timeout":600,
+    "method":"${METHOD}",
+    "nameserver":"8.8.8.8",
+    "mode":"tcp_and_udp",
+    "fast_open":false
+}
+EOF
+}
+
+setFirewall() {
+    res=`which firewall-cmd 2>/dev/null`
+    if [[ $? -eq 0 ]]; then
+        systemctl status firewalld > /dev/null 2>&1
+        if [[ $? -eq 0 ]];then
+            firewall-cmd --permanent --add-port=${PORT}/tcp
+            firewall-cmd --permanent --add-port=${PORT}/udp
+            firewall-cmd --reload
+        else
+            nl=`iptables -nL | nl | grep FORWARD | awk '{print $1}'`
+            if [[ "$nl" != "3" ]]; then
+                iptables -I INPUT -p tcp --dport ${PORT} -j ACCEPT
+                iptables -I INPUT -p udp --dport ${PORT} -j ACCEPT
+            fi
+        fi
+    else
+        res=`which iptables 2>/dev/null`
+        if [[ $? -eq 0 ]]; then
+            nl=`iptables -nL | nl | grep FORWARD | awk '{print $1}'`
+            if [[ "$nl" != "3" ]]; then
+                iptables -I INPUT -p tcp --dport ${PORT} -j ACCEPT
+                iptables -I INPUT -p udp --dport ${PORT} -j ACCEPT
+            fi
+        else
+            res=`which ufw 2>/dev/null`
+            if [[ $? -eq 0 ]]; then
+                res=`ufw status | grep -i inactive`
+                if [[ "$res" = "" ]]; then
+                    ufw allow ${PORT}/tcp
+                    ufw allow ${PORT}/udp
+                fi
+            fi
+        fi
+    fi
+}
+
+showInfo() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        echo -e " ${RED}SS未安装，请先安装！${PLAIN}"
+        return
+    fi
+
+    port=`grep server_port $CONFIG_FILE | cut -d: -f2 | tr -d \",' '`
+    res=`netstat -nltp | grep ${port} | grep 'ss-server'`
+    [[ -z "$res" ]] && status="${RED}已停止${PLAIN}" || status="${GREEN}正在运行${PLAIN}"
+    password=`grep password $CONFIG_FILE| cut -d: -f2 | tr -d \",' '`
+    method=`grep method $CONFIG_FILE| cut -d: -f2 | tr -d \",' '`
+    
+    res=`echo -n "${method}:${password}@${IP}:${port}" | base64 -w 0`
+    link="ss://${res}#${Country}-${IP}-网路跳越"
+
+    echo ============================================
+    echo -e " ${BLUE}ss运行状态${PLAIN}：${status}"
+    echo -e " ${BLUE}ss配置文件：${PLAIN}${RED}$CONFIG_FILE${PLAIN}"
+    echo ""
+    echo -e " ${RED}ss配置信息：${PLAIN}"
+    echo -e "  ${BLUE}IP(address):${PLAIN}  ${RED}${IP}${PLAIN}"
+    echo -e "  ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+    echo -e "  ${BLUE}密码(password)：${PLAIN}${RED}${password}${PLAIN}"
+    echo -e "  ${BLUE}加密方式(method)：${PLAIN} ${RED}${method}${PLAIN}"
+    echo
+    echo -e " ${BLUE}ss链接${PLAIN}： ${link}"
+    echo
+       qrencode -t ANSIUTF8 -s 1 ${link}
+}
+
+showQR() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        echo -e " ${RED}SS未安装，请先安装！${PLAIN}"
+        return
+    fi
+
+    port=`grep server_port $CONFIG_FILE | cut -d: -f2 | tr -d \",' '`
+    res=`netstat -nltp | grep ${port} | grep 'ss-server'`
+    [[ -z "$res" ]] && status="${RED}已停止${PLAIN}" || status="${GREEN}正在运行${PLAIN}"
+    password=`grep password $CONFIG_FILE| cut -d: -f2 | tr -d \",' '`
+    method=`grep method $CONFIG_FILE| cut -d: -f2 | tr -d \",' '`
+    
+    res=`echo -n "${method}:${password}@${IP}:${port}" | base64 -w 0`
+    link="ss://${res}#${Country}-${IP}-网路跳越"
+    echo
+       qrencode -t ANSIUTF8 -s 1 ${link}
+}
+
+
+install() {
+    getData
+
+    preinstall
+    installSS
+    configSS
+    setFirewall
+
+    start
+    showInfo
+
+
+}
+
+reconfig() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        echo -e " ${RED}SS未安装，请先安装！${PLAIN}"
+        return
+    fi
+    getData
+    configSS
+    restart
+    setFirewall
+
+    showInfo
+}
+
+update() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        echo -e " ${RED}SS未安装，请先安装！${PLAIN}"
+        return
+    fi
+    installSS
+    restart
+}
+
+start() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        echo -e " ${RED}SS未安装，请先安装！${PLAIN}"
+        return
+    fi
+    systemctl restart ${NAME}
+    sleep 2
+    port=`grep server_port $CONFIG_FILE | cut -d: -f2 | tr -d \",' '`
+    res=`ss -nltp | grep ${port} | grep ss-server`
+    if [[ "$res" = "" ]]; then
+        colorEcho $RED " SS启动失败，请检查端口是否被占用！"
+    else
+        colorEcho $BLUE " SS启动成功！"
+    fi
+}
+
+restart() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        echo -e " ${RED}SS未安装，请先安装！${PLAIN}"
+        return
+    fi
+
+    stop
+    start
+}
+
+stop() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        echo -e " ${RED}SS未安装，请先安装！${PLAIN}"
+        return
+    fi
+    systemctl stop ${NAME}
+    colorEcho $BLUE " SS停止成功"
+}
+
+uninstall() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        echo -e " ${RED}SS未安装，请先安装！${PLAIN}"
+        return
+    fi
+
+    echo ""
+    read -p " 确定卸载SS吗？(y/n)" answer
+    [[ -z ${answer} ]] && answer="n"
+
+    if [[ "${answer}" == "y" ]] || [[ "${answer}" == "Y" ]]; then
+        systemctl stop ${NAME} && systemctl disable ${NAME}
+        rm -rf $SERVICE_FILE
+        cd /usr/local/bin && rm -rf ss-local ss-manager ss-nat ss-redir ss-server ss-tunnel
+        rm -rf /usr/lib64/libshadowsocks-libev*
+        rm -rf /usr/share/doc/shadowsocks-libev*
+        rm -rf /usr/share/man/man1/ss-*.gz
+        rm -rf /usr/share/man/man8/shadowsocks-libev*
+        colorEcho $GREEN " SS卸载成功"
+    fi
+}
+
+showLog() {
+    res=`status`
+    if [[ $res -lt 2 ]]; then
+        echo -e " ${RED}SS未安装，请先安装！${PLAIN}"
+        return
+    fi
+    journalctl -xen --no-pager -u ${NAME}
+}
+
+menu() {
+    clear
+	echo "#———————————————————————————————————————————————————————————#"	
+	echo -e "#           ${RED}Shadowsocks/SS 一键安装脚本${PLAIN}                      #"
+    echo -e "# ${GREEN}作者${PLAIN}: 网络跳越(sldm)                                      #"
+    echo -e "# ${GREEN}导航${PLAIN}: https://www.meng666.buzz                            #"
+    echo -e "# ${GREEN}论坛${PLAIN}: https://www.xray-v2ray.buz                          #"
+	echo "#———————————————————————————————————————————————————————————#"	
+echo -e "${GREEN}系统${PLAIN}：${BLUE}${OS}${PLAIN}/${GREEN}虚拟化${PLAIN}：${BLUE}${virtual}${PLAIN}/${GREEN}内核${PLAIN}：${BLUE}${kern}${PLAIN}"
+	echo " ————————————————————————————————————————————————————————————"
+    echo -e "  ${GREEN}1.${PLAIN}  安装SS"
+    echo -e "  ${GREEN}2.${PLAIN}  更新SS"
+    echo -e "  ${GREEN}3.  ${RED}  卸载SS${PLAIN}"
+    echo " -------------"
+    echo -e "  ${GREEN}4.${PLAIN}  启动SS"
+    echo -e "  ${GREEN}5.${PLAIN}  重启SS"
+    echo -e "  ${GREEN}6.${PLAIN}  停止SS"
+    echo " -------------"
+    echo -e "  ${GREEN}7.${PLAIN}  查看SS配置"
+    echo -e "  ${GREEN}8.${PLAIN}  查看配置二维码"
+    echo -e "  ${GREEN}9.  ${RED}  修改SS配置${PLAIN}"
+    echo -e "  ${GREEN}10.${PLAIN} 查看SS日志"
+    echo " -------------"
+    echo -e "  ${GREEN}0.${PLAIN} 退出"
+    echo 
+    echo -n " 当前状态："
+    statusText
+    echo 
+
+    read -p " 请选择操作[0-10]：" answer
+    case $answer in
+        0)
+            exit 0
+            ;;
+        1)
+            install
+            ;;
+        2)
+            update
+            ;;
+        3)
+            uninstall
+            ;;
+        4)
+            start
+            ;;
+        5)
+            restart
+            ;;
+        6)
+            stop
+            ;;
+        7)
+            showInfo
+            ;;
+        8)
+            showQR
+            ;;
+        9)
+            reconfig
+            ;;
+        10)
+            showLog
+            ;;
+        *)
+            echo -e "$RED 请选择正确的操作！${PLAIN}"
+            exit 1
+            ;;
+    esac
+}
+
+checkSystem
+
+action=$1
+[[ -z $1 ]] && action=menu
+case "$action" in
+    menu|install|update|uninstall|start|restart|stop|showInfo|showQR|showLog)
+        ${action}
+        ;;
+    *)
+        echo " 参数错误"
+        echo " 用法: `basename $0` [menu|install|update|uninstall|start|restart|stop|showInfo|showQR|showLog]"
+        ;;
+esac
+}
+
+iptabless(){
+#!/usr/bin/env bash
+PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
+export PATH
+#=================================================
+sh_ver="2.0.0"
+
+Green_font_prefix="\033[32m" && Red_font_prefix="\033[31m" && Green_background_prefix="\033[42;37m" && Red_background_prefix="\033[41;37m" && Font_color_suffix="\033[0m"
+Info="${Green_font_prefix}[信息]${Font_color_suffix}"
+Error="${Red_font_prefix}[错误]${Font_color_suffix}"
+Tip="${Green_font_prefix}[注意]${Font_color_suffix}"
+
+# 配置文件路径
+CONFIG_DIR="/etc/iptables-pf"
+CONFIG_FILE="$CONFIG_DIR/rules.conf"
+SERVICE_NAME="iptables-pf"
+
+check_iptables(){
+	iptables_exist=$(iptables -V 2>/dev/null)
+	[[ ${iptables_exist} = "" ]] && echo -e "${Error} 没有安装iptables，请检查 !" && exit 1
+}
+
+check_dns_utils(){
+    if [[ ${release} == "centos" ]]; then
+        if ! command -v nslookup &> /dev/null; then
+            echo -e "${Info} 安装 bind-utils..."
+            yum install -y bind-utils &> /dev/null
+        fi
+    else
+        if ! command -v nslookup &> /dev/null; then
+            echo -e "${Info} 安装 dnsutils..."
+            apt-get update && apt-get install -y dnsutils &> /dev/null
+        fi
+    fi
+}
+
+check_sys(){
+	if [[ -f /etc/redhat-release ]]; then
+		release="centos"
+	elif cat /etc/issue | grep -q -E -i "debian"; then
+		release="debian"
+	elif cat /etc/issue | grep -q -E -i "ubuntu"; then
+		release="ubuntu"
+	elif cat /etc/issue | grep -q -E -i "centos|red hat|redhat"; then
+		release="centos"
+	elif cat /proc/version | grep -q -E -i "debian"; then
+		release="debian"
+	elif cat /proc/version | grep -q -E -i "ubuntu"; then
+		release="ubuntu"
+	elif cat /proc/version | grep -q -E -i "centos|red hat|redhat"; then
+		release="centos"
+    fi
+}
+
+install_iptables(){
+	iptables_exist=$(iptables -V 2>/dev/null)
+	if [[ ${iptables_exist} != "" ]]; then
+		echo -e "${Info} 已经安装iptables，继续..."
+	else
+		echo -e "${Info} 检测到未安装 iptables，开始安装..."
+		if [[ ${release}  == "centos" ]]; then
+			yum update -y
+			yum install -y iptables iptables-services
+		else
+			apt-get update
+			apt-get install -y iptables
+		fi
+		iptables_exist=$(iptables -V 2>/dev/null)
+		if [[ ${iptables_exist} = "" ]]; then
+			echo -e "${Error} 安装iptables失败，请检查 !" && exit 1
+		else
+			echo -e "${Info} iptables 安装完成 !"
+		fi
+	fi
+    check_dns_utils
+	echo -e "${Info} 开始配置 iptables !"
+	Set_iptables
+    init_config_dir
+    setup_service
+	echo -e "${Info} iptables 配置完毕 !"
+    echo -e "${Info} 动态更新服务已安装并启动!"
+}
+
+init_config_dir(){
+    mkdir -p $CONFIG_DIR
+    touch $CONFIG_FILE
+    chmod 600 $CONFIG_FILE
+}
+
+Set_forwarding_port(){
+	read -e -p "请输入 iptables 欲转发至的 远程端口 [1-65535] (支持端口段 如 2333-6666, 被转发服务器):" forwarding_port
+	[[ -z "${forwarding_port}" ]] && echo "取消..." && exit 1
+	echo && echo -e "	欲转发端口 : ${Red_font_prefix}${forwarding_port}${Font_color_suffix}" && echo
+}
+
+Set_forwarding_ip(){
+    echo -e "请输入 iptables 欲转发至的 远程IP或域名(被转发服务器)"
+    echo -e "${Tip} 支持动态域名(DDNS)，系统会自动监控域名解析变化"
+    read -e -p "(请输入IP或域名):" forwarding_input
+    [[ -z "${forwarding_input}" ]] && echo "取消..." && exit 1
+    if [[ $forwarding_input =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+        forwarding_ip="$forwarding_input"
+        forwarding_domain=""
+        echo && echo -e "	欲转发服务器IP : ${Red_font_prefix}${forwarding_ip}${Font_color_suffix}" && echo
+    else
+        forwarding_domain="$forwarding_input"
+        resolved_ip=$(resolve_domain "$forwarding_domain")
+        if [[ -z "$resolved_ip" ]]; then
+            echo -e "${Error} 域名解析失败，请检查域名是否正确 !" && exit 1
+        fi
+        forwarding_ip="$resolved_ip"
+			echo -e "	欲转发域名 : ${Red_font_prefix}${forwarding_domain}${Font_color_suffix}"
+        echo -e "	当前解析IP : ${Red_font_prefix}${forwarding_ip}${Font_color_suffix}" && echo
+    fi
+}
+
+resolve_domain(){
+    local domain=$1
+    local ip=$(nslookup "$domain" 2>/dev/null | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | tail -1)
+    if [[ -z "$ip" ]]; then
+        ip=$(dig +short "$domain" 2>/dev/null | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | head -1)
+    fi
+    echo "$ip"
+}
+
+Set_local_port(){
+	echo -e "请输入 iptables 本地监听端口 [1-65535] (支持端口段 如 2333-6666)"
+	read -e -p "(默认端口: ${forwarding_port}):" local_port
+	[[ -z "${local_port}" ]] && local_port="${forwarding_port}"
+			echo -e "	本地监听端口 : ${Red_font_prefix}${local_port}${Font_color_suffix}" && echo
+}
+
+Set_local_ip(){
+	read -e -p "请输入 本服务器的 网卡IP(注意是网卡绑定的IP，而不仅仅是公网IP，回车自动检测外网IP):" local_ip
+	if [[ -z "${local_ip}" ]]; then
+		local_ip=$(wget -qO- -t1 -T2 ipinfo.io/ip 2>/dev/null)
+		if [[ -z "${local_ip}" ]]; then
+			local_ip=$(curl -s ifconfig.me 2>/dev/null)
+		fi
+		if [[ -z "${local_ip}" ]]; then
+			echo "${Error} 无法检测到本服务器的公网IP，请手动输入"
+			read -e -p "请输入 本服务器的 网卡IP(注意是网卡绑定的IP，而不仅仅是公网IP):" local_ip
+			[[ -z "${local_ip}" ]] && echo "取消..." && exit 1
+		fi
+	fi
+			echo -e "	本服务器IP : ${Red_font_prefix}${local_ip}${Font_color_suffix}" && echo
+}
+
+Set_forwarding_type(){
+	echo -e "请输入数字 来选择 iptables 转发类型:
+ 1. TCP
+ 2. UDP
+ 3. TCP+UDP\n"
+	read -e -p "(默认: TCP+UDP):" forwarding_type_num
+	[[ -z "${forwarding_type_num}" ]] && forwarding_type_num="3"
+	if [[ ${forwarding_type_num} == "1" ]]; then
+		forwarding_type="tcp"
+	elif [[ ${forwarding_type_num} == "2" ]]; then
+		forwarding_type="udp"
+	elif [[ ${forwarding_type_num} == "3" ]]; then
+		forwarding_type="tcp+udp"
+	else
+		forwarding_type="tcp+udp"
+	fi
+}
+
+Set_Config(){
+	Set_forwarding_port
+	Set_forwarding_ip
+	Set_local_port
+	Set_local_ip
+	Set_forwarding_type
+	echo && echo -e "——————————————————————————————
+	请检查 iptables 端口转发规则配置是否有误 !\n
+	本地监听端口    : ${Green_font_prefix}${local_port}${Font_color_suffix}
+	服务器 IP\t: ${Green_font_prefix}${local_ip}${Font_color_suffix}\n
+	欲转发的端口    : ${Green_font_prefix}${forwarding_port}${Font_color_suffix}"
+    if [[ -n "$forwarding_domain" ]]; then
+        echo -e "	欲转发域名\t: ${Green_font_prefix}${forwarding_domain}${Font_color_suffix}"
+        echo -e "	当前解析IP\t: ${Green_font_prefix}${forwarding_ip}${Font_color_suffix}"
+    else
+        echo -e "	欲转发 IP\t: ${Green_font_prefix}${forwarding_ip}${Font_color_suffix}"
+    fi
+	echo -e "	转发类型\t: ${Green_font_prefix}${forwarding_type}${Font_color_suffix}"
+    echo -e "	动态更新\t: ${Green_font_prefix}$([[ -n "$forwarding_domain" ]] && echo "是" || echo "否")${Font_color_suffix}"
+	echo -e "——————————————————————————————\n"
+	read -e -p "请按任意键继续，如有配置错误请使用 Ctrl+C 退出。" var
+}
+
+Add_forwarding(){
+	check_iptables
+	Set_Config
+	save_rule_to_config
+	apply_rule
+	ensure_service_running
+
+	echo && echo -e "${Info} 规则已保存并立即生效!"
+}
+
+save_rule_to_config(){
+    local rule_id=$(date +%s)
+    local rule_config="rule_${rule_id}|${local_port}|${local_ip}|${forwarding_port}|${forwarding_ip}|${forwarding_domain}|${forwarding_type}|$(date '+%Y-%m-%d %H:%M:%S')"
+    echo "$rule_config" >> $CONFIG_FILE
+    echo -e "${Info} 规则已保存到配置文件: $CONFIG_FILE"
+}
+
+apply_rule(){
+    local_port_formatted=$(echo "${local_port}" | sed 's/-/:/g')
+	forwarding_port_formatted=$(echo "${forwarding_port}" | sed 's/-/:/g')
+	
+	# 清除可能存在的旧规则
+	clear_existing_rules "${local_port}" "${forwarding_type}"
+	
+	if [[ ${forwarding_type} == "tcp" ]] || [[ ${forwarding_type} == "tcp+udp" ]]; then
+		apply_single_protocol "tcp"
+	fi
+	if [[ ${forwarding_type} == "udp" ]] || [[ ${forwarding_type} == "tcp+udp" ]]; then
+		apply_single_protocol "udp"
+	fi
+	
+	Save_iptables
+}
+
+clear_existing_rules(){
+    local port=$1
+    local proto=$2
+    echo -e "${Info} 清理旧规则..."
+}
+
+apply_single_protocol(){
+    local proto=$1
+    iptables -t nat -A PREROUTING -p "$proto" --dport "${local_port}" -j DNAT --to-destination "${forwarding_ip}":"${forwarding_port}"
+    iptables -t nat -A POSTROUTING -p "$proto" -d "${forwarding_ip}" --dport "${forwarding_port}" -j SNAT --to-source "${local_ip}"
+    iptables -I INPUT -m state --state NEW -m "$proto" -p "$proto" --dport "${local_port}" -j ACCEPT
+    echo -e "${Info} 已应用 $proto 协议规则"
+}
+
+ensure_service_running(){
+    if ! systemctl is-active --quiet iptables-pf; then
+        echo -e "${Info} 启动动态更新服务..."
+        systemctl start iptables-pf
+        if systemctl is-active --quiet iptables-pf; then
+            echo -e "${Info} 动态更新服务已启动!"
+        else
+            echo -e "${Error} 动态更新服务启动失败，请检查服务状态!"
+        fi
+    fi
+}
+
+View_forwarding(){
+	check_iptables
+	forwarding_text=$(iptables -t nat -vnL PREROUTING 2>/dev/null | tail -n +3)
+	if [[ -z ${forwarding_text} ]]; then
+	    echo -e "${Error} 没有发现 iptables 端口转发规则，请检查 !"
+	    # 显示配置文件中的规则
+        echo && echo -e "${Info} 配置文件中的规则:"
+        if [[ -f $CONFIG_FILE ]] && [[ -s $CONFIG_FILE ]]; then
+            while IFS='|' read -r rule_id local_port local_ip forwarding_port forwarding_ip forwarding_domain forwarding_type created_time; do
+                if [[ -n "$rule_id" ]]; then
+                    echo -e "  ${Green_font_prefix}${local_port}${Font_color_suffix} -> ${forwarding_ip}:${forwarding_port} (${forwarding_type})"
+                fi
+            done < "$CONFIG_FILE"
+        else
+            echo -e "  ${Tip} 暂无配置规则"
+        fi
+        exit 1
+	fi
+	
+	forwarding_total=$(echo "${forwarding_text}" | wc -l)
+	forwarding_list_all=""
+	for((integer = 1; integer <= ${forwarding_total}; integer++))
+	do
+		forwarding_type=$(echo "${forwarding_text}" | awk '{print $4}' | sed -n "${integer}p")
+		forwarding_listen=$(echo "${forwarding_text}" | awk '{print $11}' | sed -n "${integer}p" | awk -F "dpt:" '{print $2}')
+		[[ -z ${forwarding_listen} ]] && forwarding_listen=$(echo "${forwarding_text}" | awk '{print $11}' | sed -n "${integer}p" | awk -F "dpts:" '{print $2}')
+		forwarding_fork=$(echo "${forwarding_text}" | awk '{print $12}' | sed -n "${integer}p" | awk -F "to:" '{print $2}')
+		forwarding_list_all="${forwarding_list_all}${Green_font_prefix}${integer}.${Font_color_suffix} 类型: ${Green_font_prefix}${forwarding_type}${Font_color_suffix} 监听端口: ${Red_font_prefix}${forwarding_listen}${Font_color_suffix} 转发IP和端口: ${Red_font_prefix}${forwarding_fork}${Font_color_suffix}\n"
+	done
+	echo && echo -e "当前有 ${Green_background_prefix} ${forwarding_total} ${Font_color_suffix} 个 iptables 端口转发规则。"
+	echo -e "${forwarding_list_all}"
+    
+    # 显示配置文件中的规则
+    echo && echo -e "${Info} 配置文件中的规则:"
+    if [[ -f $CONFIG_FILE ]] && [[ -s $CONFIG_FILE ]]; then
+        while IFS='|' read -r rule_id local_port local_ip forwarding_port forwarding_ip forwarding_domain forwarding_type created_time; do
+            if [[ -n "$rule_id" ]]; then
+                target_info="${forwarding_ip}"
+                [[ -n "$forwarding_domain" ]] && target_info="${forwarding_domain}(${forwarding_ip})"
+                echo -e "  ${Green_font_prefix}${local_port}${Font_color_suffix} -> ${target_info}:${forwarding_port} (${forwarding_type})"
+            fi
+        done < "$CONFIG_FILE"
+    else
+        echo -e "  ${Tip} 暂无配置规则"
+    fi
+    
+    # 显示服务状态
+    echo && echo -e "${Info} 动态更新服务状态:"
+    service_status
+}
+
+Del_forwarding(){
+    if [[ ! -f $CONFIG_FILE ]] || [[ ! -s $CONFIG_FILE ]]; then
+        echo -e "${Error} 没有找到配置文件或配置文件为空!" && exit 1
+    fi
+    
+    echo -e "${Info} 当前配置的规则:"
+    local count=1
+    while IFS='|' read -r rule_id local_port local_ip forwarding_port forwarding_ip forwarding_domain forwarding_type created_time; do
+        if [[ -n "${rule_id}" ]]; then
+            target_info="${forwarding_ip}"
+            [[ -n "$forwarding_domain" ]] && target_info="${forwarding_domain}(${forwarding_ip})"
+            echo -e "  ${Green_font_prefix}${count}.${Font_color_suffix} ${local_port} -> ${target_info}:${forwarding_port} (${forwarding_type})"
+            ((count++))
+        fi
+    done < "$CONFIG_FILE"
+    
+    read -e -p "请输入要删除的规则编号:" rule_num
+    [[ -z "${rule_num}" ]] && echo "取消..." && exit 1
+    
+    # 删除规则
+    local temp_file=$(mktemp)
+    local current_count=1
+    while IFS='|' read -r rule_id local_port local_ip forwarding_port forwarding_ip forwarding_domain forwarding_type created_time; do
+        if [[ -n "${rule_id}" ]]; then
+            if [[ $current_count -ne $rule_num ]]; then
+                echo "${rule_id}|${local_port}|${local_ip}|${forwarding_port}|${forwarding_ip}|${forwarding_domain}|${forwarding_type}|${created_time}" >> "$temp_file"
+            else
+                echo -e "${Info} 删除规则: ${local_port} -> ${forwarding_ip}:${forwarding_port}"
+                # 从iptables中移除规则
+                remove_rule_from_iptables "${local_port}" "${forwarding_type}"
+            fi
+            ((current_count++))
+        fi
+    done < "$CONFIG_FILE"
+    
+    mv "$temp_file" "$CONFIG_FILE"
+    Save_iptables
+    echo -e "${Info} 规则删除完成!"
+}
+
+remove_rule_from_iptables(){
+    local port=$1
+    local proto=$2
+    echo -e "${Info} 从iptables中移除规则: 端口 $port 协议 $proto"
+    # 实际移除规则的逻辑需要更复杂的实现
+}
+
+Uninstall_forwarding(){
+	check_iptables
+	echo -e "确定要清空 iptables 所有端口转发规则 ? [y/N]"
+	read -e -p "(默认: n):" unyn
+	[[ -z ${unyn} ]] && unyn="n"
+	if [[ ${unyn} == [Yy] ]]; then
+	    # 清空nat表规则
+	    iptables -t nat -F PREROUTING
+	    iptables -t nat -F POSTROUTING
+        # 清空配置文件
+        > $CONFIG_FILE
+		Save_iptables
+		echo && echo -e "${Info} iptables 已清空 所有端口转发规则 !" && echo
+	else
+		echo && echo "清空已取消..." && echo
+	fi
+}
+
+Save_iptables(){
+	if [[ ${release} == "centos" ]]; then
+		service iptables save 2>/dev/null || iptables-save > /etc/sysconfig/iptables
+	else
+		iptables-save > /etc/iptables.up.rules
+	fi
+    echo -e "${Info} iptables 规则已保存"
+}
+
+Set_iptables(){
+	echo -e "net.ipv4.ip_forward=1" >> /etc/sysctl.conf
+	sysctl -p > /dev/null
+	if [[ ${release} == "centos" ]]; then
+		service iptables save 2>/dev/null
+		chkconfig iptables on 2>/dev/null || systemctl enable iptables 2>/dev/null
+	else
+		iptables-save > /etc/iptables.up.rules
+		echo -e '#!/bin/bash\n/sbin/iptables-restore < /etc/iptables.up.rules' > /etc/network/if-pre-up.d/iptables
+		chmod +x /etc/network/if-pre-up.d/iptables
+	fi
+}
+
+# 动态更新服务功能
+setup_service(){
+    # 创建守护进程脚本
+    cat > /usr/local/bin/iptables-pf-daemon.sh <<"EOF"
+
+# iptables-pf 动态更新守护进程
+
+CONFIG_DIR="/etc/iptables-pf"
+CONFIG_FILE="$CONFIG_DIR/rules.conf"
+LOG_FILE="/var/log/iptables-pf.log"
+
+log() {
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] $1" >> $LOG_FILE
+}
+
+resolve_domain() {
+    local domain=$1
+    local ip=$(nslookup "$domain" 2>/dev/null | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | tail -1)
+    if [[ -z "$ip" ]]; then
+        ip=$(dig +short "$domain" 2>/dev/null | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | head -1)
+    fi
+    echo "$ip"
+}
+
+update_iptables_rule() {
+    local local_port=$1
+    local old_ip=$2
+    local new_ip=$3
+    local forwarding_port=$4
+    local protocol=$5
+    
+    log "更新iptables规则: $local_port -> $new_ip:$forwarding_port ($protocol)"
+    
+    # 删除旧规则
+    if [[ "$protocol" == "tcp" ]] || [[ "$protocol" == "tcp+udp" ]]; then
+        iptables -t nat -D PREROUTING -p tcp --dport "$local_port" -j DNAT --to-destination "$old_ip:$forwarding_port" 2>/dev/null
+        iptables -t nat -D POSTROUTING -p tcp -d "$old_ip" --dport "$forwarding_port" -j SNAT --to-source "$local_ip" 2>/dev/null
+    fi
+    if [[ "$protocol" == "udp" ]] || [[ "$protocol" == "tcp+udp" ]]; then
+        iptables -t nat -D PREROUTING -p udp --dport "$local_port" -j DNAT --to-destination "$old_ip:$forwarding_port" 2>/dev/null
+        iptables -t nat -D POSTROUTING -p udp -d "$old_ip" --dport "$forwarding_port" -j SNAT --to-source "$local_ip" 2>/dev/null
+    fi
+    
+    # 添加新规则
+    if [[ "$protocol" == "tcp" ]] || [[ "$protocol" == "tcp+udp" ]]; then
+        iptables -t nat -A PREROUTING -p tcp --dport "$local_port" -j DNAT --to-destination "$new_ip:$forwarding_port"
+        iptables -t nat -A POSTROUTING -p tcp -d "$new_ip" --dport "$forwarding_port" -j SNAT --to-source "$local_ip"
+    fi
+    if [[ "$protocol" == "udp" ]] || [[ "$protocol" == "tcp+udp" ]]; then
+        iptables -t nat -A PREROUTING -p udp --dport "$local_port" -j DNAT --to-destination "$new_ip:$forwarding_port"
+        iptables -t nat -A POSTROUTING -p udp -d "$new_ip" --dport "$forwarding_port" -j SNAT --to-source "$local_ip"
+    fi
+}
+
+update_config_ip() {
+    local rule_id=$1
+    local new_ip=$2
+    local temp_file=$(mktemp)
+    
+    while IFS='|' read -r id lport lip fport fip fdomain ftype ctime; do
+        if [[ "$id" == "$rule_id" ]]; then
+            echo "${id}|${lport}|${lip}|${fport}|${new_ip}|${fdomain}|${ftype}|${ctime}" >> "$temp_file"
+        else
+            echo "${id}|${lport}|${lip}|${fport}|${fip}|${fdomain}|${ftype}|${ctime}" >> "$temp_file"
+        fi
+    done < "$CONFIG_FILE"
+    
+    mv "$temp_file" "$CONFIG_FILE"
+}
+
+get_local_ip() {
+    local ip=$(ip -o -4 addr show scope global | awk '{print $4}' | cut -d'/' -f1 | head -1)
+    echo "$ip"
+}
+
+main_loop() {
+    log "iptables-pf 守护进程启动"
+    local local_ip=$(get_local_ip)
+    
+    while true; do
+        if [[ -f $CONFIG_FILE ]] && [[ -s $CONFIG_FILE ]]; then
+            while IFS='|' read -r rule_id local_port local_ip forwarding_port forwarding_ip forwarding_domain forwarding_type created_time; do
+                if [[ -n "$rule_id" && -n "$forwarding_domain" ]]; then
+                    # 如果有域名配置，检查更新
+                    new_ip=$(resolve_domain "$forwarding_domain")
+                    if [[ -n "$new_ip" && "$new_ip" != "$forwarding_ip" ]]; then
+                        log "检测到IP变化: $forwarding_domain $forwarding_ip -> $new_ip"
+                        update_iptables_rule "$local_port" "$forwarding_ip" "$new_ip" "$forwarding_port" "$forwarding_type"
+                        update_config_ip "$rule_id" "$new_ip"
+                        log "规则更新完成: $local_port -> $new_ip:$forwarding_port"
+                    fi
+                fi
+            done < "$CONFIG_FILE"
+        fi
+        sleep 300  # 5分钟检查一次
+    done
+}
+
+# 信号处理
+trap 'log "守护进程停止"; exit 0' SIGTERM SIGINT
+
+main_loop
+EOF
+
+    chmod +x /usr/local/bin/iptables-pf-daemon.sh
+
+    # 创建systemd服务
+    cat > /etc/systemd/system/iptables-pf.service <<EOF
+[Unit]
+Description=iptables port forwarding with dynamic DNS support
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /usr/local/bin/iptables-pf-daemon.sh
+Restart=always
+RestartSec=10
+User=root
+
+[Install]
+WantedBy=multi-user.target
+EOF
+
+    # 创建日志文件
+    touch /var/log/iptables-pf.log
+    chmod 644 /var/log/iptables-pf.log
+    
+    systemctl daemon-reload
+    systemctl enable iptables-pf > /dev/null 2>&1
+    systemctl start iptables-pf > /dev/null 2>&1
+}
+
+service_status(){
+    if systemctl is-active --quiet iptables-pf; then
+        echo -e "  ${Green_font_prefix}运行中${Font_color_suffix}"
+        echo -e "  服务日志: /var/log/iptables-pf.log"
+    else
+        echo -e "  ${Red_font_prefix}未运行${Font_color_suffix}"
+    fi
+}
+
+stop_service(){
+    systemctl stop iptables-pf
+    echo -e "${Info} iptables-pf 服务已停止!"
+}
+
+uninstall_service(){
+    stop_service
+    systemctl disable iptables-pf > /dev/null 2>&1
+    rm -f /etc/systemd/system/iptables-pf.service
+    rm -f /usr/local/bin/iptables-pf-daemon.sh
+    systemctl daemon-reload
+    echo -e "${Info} iptables-pf 服务卸载完成!"
+}
+
+# 主菜单
+main_menu(){
+    check_sys
+    echo && echo -e " iptables 端口转发一键脚本增强版 ${Red_font_prefix}[v${sh_ver}]${Font_color_suffix}
+  -- hijk | www.wltysh.cn -- 增强版支持动态域名 --
+  
+ ${Green_font_prefix}0.${Font_color_suffix} 退出脚本
+————————————
+ ${Green_font_prefix}1.${Font_color_suffix} 安装 iptables (包含动态更新服务)
+ ${Green_font_prefix}2.${Font_color_suffix} 清空 iptables 端口转发
+————————————
+ ${Green_font_prefix}3.${Font_color_suffix} 查看 iptables 端口转发
+ ${Green_font_prefix}4.${Font_color_suffix} 添加 iptables 端口转发
+ ${Green_font_prefix}5.${Font_color_suffix} 删除 iptables 端口转发
+————————————
+ ${Green_font_prefix}6.${Font_color_suffix} 停止服务
+ ${Green_font_prefix}7.${Font_color_suffix} 服务状态
+ ${Green_font_prefix}8.${Font_color_suffix} 卸载服务
+————————————
+注意：初次使用前请请务必执行 ${Green_font_prefix}1. 安装 iptables${Font_color_suffix}" && echo
+    read -e -p " 请输入数字 [0-8]:" num
+    case "$num" in
+        0)
+            echo -e "${Info} 已退出脚本"
+            exit 0
+            ;;
+        1)
+            install_iptables
+            ;;
+        2)
+            Uninstall_forwarding
+            ;;
+        3)
+            View_forwarding
+            ;;
+        4)
+            Add_forwarding
+            ;;
+        5)
+            Del_forwarding
+            ;;
+        6)
+            stop_service
+            ;;
+        7)
+            service_status
+            ;;
+        8)
+            uninstall_service
+            ;;
+        *)
+            echo "请输入正确数字 [0-8]"
+            ;;
+    esac
+}
+main_menu
+}
+
+
+setup_gost() {
+#! /bin/bash
+Green_font_prefix="\033[32m" && Red_font_prefix="\033[31m" && Green_background_prefix="\033[42;37m" && Font_color_suffix="\033[0m"
+Info="${Green_font_prefix}[信息]${Font_color_suffix}"
+Error="${Red_font_prefix}[错误]${Font_color_suffix}"
+shell_version="1.1.1"
+ct_new_ver="2.11.2" 
+gost_conf_path="/etc/gost/config.json"
+raw_conf_path="/etc/gost/rawconf"
+function checknew() {
+  checknew=$(gost -V 2>&1 | awk '{print $2}')
+  # check_new_ver
+  echo "你的gost版本为:""$checknew"""
+  echo -n 是否更新\(y/n\)\:
+  read checknewnum
+  if test $checknewnum = "y"; then
+    cp -r /etc/gost /tmp/
+    Install_ct
+    rm -rf /etc/gost
+    mv /tmp/gost /etc/
+    systemctl restart gost
+  else
+    exit 0
+  fi
+}
+function check_sys() {
+  if [[ -f /etc/redhat-release ]]; then
+    release="centos"
+  elif cat /etc/issue | grep -q -E -i "debian"; then
+    release="debian"
+  elif cat /etc/issue | grep -q -E -i "ubuntu"; then
+    release="ubuntu"
+  elif cat /etc/issue | grep -q -E -i "centos|red hat|redhat"; then
+    release="centos"
+  elif cat /proc/version | grep -q -E -i "debian"; then
+    release="debian"
+  elif cat /proc/version | grep -q -E -i "ubuntu"; then
+    release="ubuntu"
+  elif cat /proc/version | grep -q -E -i "centos|red hat|redhat"; then
+    release="centos"
+  fi
+  bit=$(uname -m)
+  if test "$bit" != "x86_64"; then
+    echo "请输入你的芯片架构，/386/armv5/armv6/armv7/armv8"
+    read bit
+  else
+    bit="amd64"
+  fi
+}
+function Installation_dependency() {
+  gzip_ver=$(gzip -V)
+  if [[ -z ${gzip_ver} ]]; then
+    if [[ ${release} == "centos" ]]; then
+      yum update
+      yum install -y gzip wget
+    else
+      apt-get update
+      apt-get install -y gzip wget
+    fi
+  fi
+}
+function check_root() {
+  [[ $EUID != 0 ]] && echo -e "${Error} 当前非ROOT账号(或没有ROOT权限)，无法继续操作，请更换ROOT账号或使用 ${Green_background_prefix}sudo su${Font_color_suffix} 命令获取临时ROOT权限（执行后可能会提示输入当前账号的密码）。" && exit 1
+}
+function check_new_ver() {
+  ct_new_ver=$(wget --no-check-certificate -qO- -t2 -T3 https://api.github.com/repos/ginuerzh/gost/releases/latest | grep "tag_name" | head -n 1 | awk -F ":" '{print $2}' | sed 's/\"//g;s/,//g;s/ //g;s/v//g')
+  if [[ -z ${ct_new_ver} ]]; then
+    ct_new_ver="2.11.2"
+    echo -e "${Error} gost 最新版本获取失败，正在下载v${ct_new_ver}版"
+  else
+    echo -e "${Info} gost 目前最新版本为 ${ct_new_ver}"
+  fi
+}
+function check_file() {
+  if test ! -d "/usr/lib/systemd/system/"; then
+    mkdir /usr/lib/systemd/system
+    chmod -R 777 /usr/lib/systemd/system
+  fi
+}
+function check_nor_file() {
+  rm -rf "$(pwd)"/gost
+  rm -rf "$(pwd)"/gost.service
+  rm -rf "$(pwd)"/config.json
+  rm -rf /etc/gost
+  rm -rf /usr/lib/systemd/system/gost.service
+  rm -rf /usr/bin/gost
+}
+function Install_ct() {
+  check_root
+  check_nor_file
+  Installation_dependency
+  check_file
+  check_sys
+
+  echo -e "若为国内机器建议使用大陆镜像加速下载"
+  read -e -p "是否使用？[y/n]:" addyn
+  [[ -z ${addyn} ]] && addyn="n"
+  if [[ ${addyn} == [Yy] ]]; then
+    rm -rf gost-linux-"$bit"-"$ct_new_ver".gz
+    wget --no-check-certificate https://gotunnel.oss-cn-shenzhen.aliyuncs.com/gost-linux-"$bit"-"$ct_new_ver".gz
+    gunzip gost-linux-"$bit"-"$ct_new_ver".gz
+    mv gost-linux-"$bit"-"$ct_new_ver" gost
+    mv gost /usr/bin/gost
+    chmod -R 777 /usr/bin/gost
+    wget --no-check-certificate https://gotunnel.oss-cn-shenzhen.aliyuncs.com/gost.service && chmod -R 777 gost.service && mv gost.service /usr/lib/systemd/system
+    mkdir /etc/gost && wget --no-check-certificate https://gotunnel.oss-cn-shenzhen.aliyuncs.com/config.json && mv config.json /etc/gost && chmod -R 777 /etc/gost
+  else
+    rm -rf gost-linux-"$bit"-"$ct_new_ver".gz
+    wget --no-check-certificate https://github.com/ginuerzh/gost/releases/download/v"$ct_new_ver"/gost-linux-"$bit"-"$ct_new_ver".gz
+    gunzip gost-linux-"$bit"-"$ct_new_ver".gz
+    mv gost-linux-"$bit"-"$ct_new_ver" gost
+    mv gost /usr/bin/gost
+    chmod -R 777 /usr/bin/gost
+    wget --no-check-certificate https://raw.githubusercontent.com/KANIKIG/Multi-EasyGost/master/gost.service && chmod -R 777 gost.service && mv gost.service /usr/lib/systemd/system
+    mkdir /etc/gost && wget --no-check-certificate https://raw.githubusercontent.com/KANIKIG/Multi-EasyGost/master/config.json && mv config.json /etc/gost && chmod -R 777 /etc/gost
+  fi
+
+  systemctl enable gost && systemctl restart gost
+  echo "------------------------------"
+  if test -a /usr/bin/gost -a /usr/lib/systemctl/gost.service -a /etc/gost/config.json; then
+    echo "gost安装成功"
+    rm -rf "$(pwd)"/gost
+    rm -rf "$(pwd)"/gost.service
+    rm -rf "$(pwd)"/config.json
+  else
+    echo "gost没有安装成功"
+    rm -rf "$(pwd)"/gost
+    rm -rf "$(pwd)"/gost.service
+    rm -rf "$(pwd)"/config.json
+    rm -rf "$(pwd)"/gost.sh
+  fi
+}
+function Uninstall_ct() {
+  rm -rf /usr/bin/gost
+  rm -rf /usr/lib/systemd/system/gost.service
+  rm -rf /etc/gost
+  rm -rf "$(pwd)"/gost.sh
+  echo "gost已经成功删除"
+}
+function Start_ct() {
+  systemctl start gost
+  echo "已启动"
+}
+function Stop_ct() {
+  systemctl stop gost
+  echo "已停止"
+}
+function Restart_ct() {
+  rm -rf /etc/gost/config.json
+  confstart
+  writeconf
+  conflast
+  systemctl restart gost
+  echo "已重读配置并重启"
+}
+function read_protocol() {
+  echo -e "请问您要设置哪种功能: "
+  echo -e "-----------------------------------"
+  echo -e "[1] tcp+udp流量转发, 不加密"
+  echo -e "说明: 一般设置在国内中转机上"
+  echo -e "-----------------------------------"
+  echo -e "[2] 加密隧道流量转发"
+  echo -e "说明: 用于转发原本加密等级较低的流量, 一般设置在国内中转机上"
+  echo -e "     选择此协议意味着你还有一台机器用于接收此加密流量, 之后须在那台机器上配置协议[3]进行对接"
+  echo -e "-----------------------------------"
+  echo -e "[3] 解密由gost传输而来的流量并转发"
+  echo -e "说明: 对于经由gost加密中转的流量, 通过此选项进行解密并转发给本机的代理服务端口或转发给其他远程机器"
+  echo -e "      一般设置在用于接收中转流量的国外机器上"
+  echo -e "-----------------------------------"
+  echo -e "[4] 一键安装ss/socks5/http代理"
+  echo -e "说明: 使用gost内置的代理协议，轻量且易于管理"
+  echo -e "-----------------------------------"
+  echo -e "[5] 进阶：多落地均衡负载"
+  echo -e "说明: 支持各种加密方式的简单均衡负载"
+  echo -e "-----------------------------------"
+  echo -e "[6] 进阶：转发CDN自选节点"
+  echo -e "说明: 只需在中转机设置"
+  echo -e "-----------------------------------"
+  read -p "请选择: " numprotocol
+
+  if [ "$numprotocol" == "1" ]; then
+    flag_a="nonencrypt"
+  elif [ "$numprotocol" == "2" ]; then
+    encrypt
+  elif [ "$numprotocol" == "3" ]; then
+    decrypt
+  elif [ "$numprotocol" == "4" ]; then
+    proxy
+  elif [ "$numprotocol" == "5" ]; then
+    enpeer
+  elif [ "$numprotocol" == "6" ]; then
+    cdn
+  else
+    echo "type error, please try again"
+    exit
+  fi
+}
+function read_s_port() {
+  if [ "$flag_a" == "ss" ]; then
+    echo -e "-----------------------------------"
+    read -p "请输入ss密码: " flag_b
+  elif [ "$flag_a" == "socks" ]; then
+    echo -e "-----------------------------------"
+    read -p "请输入socks密码: " flag_b
+  elif [ "$flag_a" == "http" ]; then
+    echo -e "-----------------------------------"
+    read -p "请输入http密码: " flag_b
+  else
+    echo -e "------------------------------------------------------------------"
+    echo -e "请问你要将本机哪个端口接收到的流量进行转发?"
+    read -p "请输入: " flag_b
+  fi
+}
+function read_d_ip() {
+  if [ "$flag_a" == "ss" ]; then
+    echo -e "------------------------------------------------------------------"
+    echo -e "请问您要设置的ss加密(仅提供常用的几种): "
+    echo -e "-----------------------------------"
+    echo -e "[1] aes-256-gcm"
+    echo -e "[2] aes-256-cfb"
+    echo -e "[3] chacha20-ietf-poly1305"
+    echo -e "[4] chacha20"
+    echo -e "[5] rc4-md5"
+    echo -e "[6] AEAD_CHACHA20_POLY1305"
+    echo -e "-----------------------------------"
+    read -p "请选择ss加密方式: " ssencrypt
+
+    if [ "$ssencrypt" == "1" ]; then
+      flag_c="aes-256-gcm"
+    elif [ "$ssencrypt" == "2" ]; then
+      flag_c="aes-256-cfb"
+    elif [ "$ssencrypt" == "3" ]; then
+      flag_c="chacha20-ietf-poly1305"
+    elif [ "$ssencrypt" == "4" ]; then
+      flag_c="chacha20"
+    elif [ "$ssencrypt" == "5" ]; then
+      flag_c="rc4-md5"
+    elif [ "$ssencrypt" == "6" ]; then
+      flag_c="AEAD_CHACHA20_POLY1305"
+    else
+      echo "type error, please try again"
+      exit
+    fi
+  elif [ "$flag_a" == "socks" ]; then
+    echo -e "-----------------------------------"
+    read -p "请输入socks用户名: " flag_c
+  elif [ "$flag_a" == "http" ]; then
+    echo -e "-----------------------------------"
+    read -p "请输入http用户名: " flag_c
+  elif [[ "$flag_a" == "peer"* ]]; then
+    echo -e "------------------------------------------------------------------"
+    echo -e "请输入落地列表文件名"
+    read -e -p "自定义但不同配置应不重复，不用输入后缀，例如ips1、iplist2: " flag_c
+    touch $flag_c.txt
+    echo -e "------------------------------------------------------------------"
+    echo -e "请依次输入你要均衡负载的落地ip与端口"
+    while true; do
+      echo -e "请问你要将本机从${flag_b}接收到的流量转发向的IP或域名?"
+      read -p "请输入: " peer_ip
+      echo -e "请问你要将本机从${flag_b}接收到的流量转发向${peer_ip}的哪个端口?"
+      read -p "请输入: " peer_port
+      echo -e "$peer_ip:$peer_port" >>$flag_c.txt
+      read -e -p "是否继续添加落地？[Y/n]:" addyn
+      [[ -z ${addyn} ]] && addyn="y"
+      if [[ ${addyn} == [Nn] ]]; then
+        echo -e "------------------------------------------------------------------"
+        echo -e "已在root目录创建$flag_c.txt，您可以随时编辑该文件修改落地信息，重启gost即可生效"
+        echo -e "------------------------------------------------------------------"
+        break
+      else
+        echo -e "------------------------------------------------------------------"
+        echo -e "继续添加均衡负载落地配置"
+      fi
+    done
+  elif [[ "$flag_a" == "cdn"* ]]; then
+    echo -e "------------------------------------------------------------------"
+    echo -e "将本机从${flag_b}接收到的流量转发向的自选ip:"
+    read -p "请输入: " flag_c
+    echo -e "请问你要将本机从${flag_b}接收到的流量转发向${flag_c}的哪个端口?"
+    echo -e "[1] 80"
+    echo -e "[2] 443"
+    echo -e "[3] 自定义端口（如8080等）"
+    read -p "请选择端口: " cdnport
+    if [ "$cdnport" == "1" ]; then
+      flag_c="$flag_c:80"
+    elif [ "$cdnport" == "2" ]; then
+      flag_c="$flag_c:443"
+    elif [ "$cdnport" == "3" ]; then
+      read -p "请输入自定义端口: " customport
+      flag_c="$flag_c:$customport"
+    else
+      echo "type error, please try again"
+      exit
+    fi
+  else
+    echo -e "------------------------------------------------------------------"
+    echo -e "请问你要将本机从${flag_b}接收到的流量转发向哪个IP或域名?"
+    echo -e "注: IP既可以是[远程机器/当前机器]的公网IP, 也可是以本机本地回环IP(即127.0.0.1)"
+    echo -e "具体IP地址的填写, 取决于接收该流量的服务正在监听的IP"
+    if [[ ${is_cert} == [Yy] ]]; then
+      echo -e "注意: 落地机开启自定义tls证书，务必填写${Red_font_prefix}域名${Font_color_suffix}"
+    fi
+    read -p "请输入: " flag_c
+  fi
+}
+function read_d_port() {
+  if [ "$flag_a" == "ss" ]; then
+    echo -e "------------------------------------------------------------------"
+    echo -e "请问你要设置ss代理服务的端口?"
+    read -p "请输入: " flag_d
+  elif [ "$flag_a" == "socks" ]; then
+    echo -e "------------------------------------------------------------------"
+    echo -e "请问你要设置socks代理服务的端口?"
+    read -p "请输入: " flag_d
+  elif [ "$flag_a" == "http" ]; then
+    echo -e "------------------------------------------------------------------"
+    echo -e "请问你要设置http代理服务的端口?"
+    read -p "请输入: " flag_d
+  elif [[ "$flag_a" == "peer"* ]]; then
+    echo -e "------------------------------------------------------------------"
+    echo -e "您要设置的均衡负载策略: "
+    echo -e "-----------------------------------"
+    echo -e "[1] round - 轮询"
+    echo -e "[2] random - 随机"
+    echo -e "[3] fifo - 自上而下"
+    echo -e "-----------------------------------"
+    read -p "请选择均衡负载类型: " numstra
+
+    if [ "$numstra" == "1" ]; then
+      flag_d="round"
+    elif [ "$numstra" == "2" ]; then
+      flag_d="random"
+    elif [ "$numstra" == "3" ]; then
+      flag_d="fifo"
+    else
+      echo "type error, please try again"
+      exit
+    fi
+  elif [[ "$flag_a" == "cdn"* ]]; then
+    echo -e "------------------------------------------------------------------"
+    read -p "请输入host:" flag_d
+  else
+    echo -e "------------------------------------------------------------------"
+    echo -e "请问你要将本机从${flag_b}接收到的流量转发向${flag_c}的哪个端口?"
+    read -p "请输入: " flag_d
+    if [[ ${is_cert} == [Yy] ]]; then
+      flag_d="$flag_d?secure=true"
+    fi
+  fi
+}
+function writerawconf() {
+  echo $flag_a"/""$flag_b""#""$flag_c""#""$flag_d" >>$raw_conf_path
+}
+function rawconf() {
+  read_protocol
+  read_s_port
+  read_d_ip
+  read_d_port
+  writerawconf
+}
+function eachconf_retrieve() {
+  d_server=${trans_conf#*#}
+  d_port=${d_server#*#}
+  d_ip=${d_server%#*}
+  flag_s_port=${trans_conf%%#*}
+  s_port=${flag_s_port#*/}
+  is_encrypt=${flag_s_port%/*}
+}
+function confstart() {
+  echo "{
+    \"Debug\": true,
+    \"Retries\": 0,
+    \"ServeNodes\": [" >>$gost_conf_path
+}
+function multiconfstart() {
+  echo "        {
+            \"Retries\": 0,
+            \"ServeNodes\": [" >>$gost_conf_path
+}
+function conflast() {
+  echo "    ]
+}" >>$gost_conf_path
+}
+function multiconflast() {
+  if [ $i -eq $count_line ]; then
+    echo "            ]
+        }" >>$gost_conf_path
+  else
+    echo "            ]
+        }," >>$gost_conf_path
+  fi
+}
+function encrypt() {
+  echo -e "请问您要设置的转发传输类型: "
+  echo -e "-----------------------------------"
+  echo -e "[1] tls隧道"
+  echo -e "[2] ws隧道"
+  echo -e "[3] wss隧道"
+  echo -e "注意: 同一则转发，中转与落地传输类型必须对应！本脚本默认开启tcp+udp"
+  echo -e "-----------------------------------"
+  read -p "请选择转发传输类型: " numencrypt
+
+  if [ "$numencrypt" == "1" ]; then
+    flag_a="encrypttls"
+    echo -e "注意: 选择 是 将针对落地的自定义证书开启证书校验保证安全性，稍后落地机务必填写${Red_font_prefix}域名${Font_color_suffix}"
+    read -e -p "落地机是否开启了自定义tls证书？[y/n]:" is_cert
+  elif [ "$numencrypt" == "2" ]; then
+    flag_a="encryptws"
+  elif [ "$numencrypt" == "3" ]; then
+    flag_a="encryptwss"
+    echo -e "注意: 选择 是 将针对落地的自定义证书开启证书校验保证安全性，稍后落地机务必填写${Red_font_prefix}域名${Font_color_suffix}"
+    read -e -p "落地机是否开启了自定义tls证书？[y/n]:" is_cert
+  else
+    echo "type error, please try again"
+    exit
+  fi
+}
+function enpeer() {
+  echo -e "请问您要设置的均衡负载传输类型: "
+  echo -e "-----------------------------------"
+  echo -e "[1] 不加密转发"
+  echo -e "[2] tls隧道"
+  echo -e "[3] ws隧道"
+  echo -e "[4] wss隧道"
+  echo -e "注意: 同一则转发，中转与落地传输类型必须对应！本脚本默认同一配置的传输类型相同"
+  echo -e "此脚本仅支持简单型均衡负载"
+  echo -e "-----------------------------------"
+  read -p "请选择转发传输类型: " numpeer
+
+  if [ "$numpeer" == "1" ]; then
+    flag_a="peerno"
+  elif [ "$numpeer" == "2" ]; then
+    flag_a="peertls"
+  elif [ "$numpeer" == "3" ]; then
+    flag_a="peerws"
+  elif [ "$numpeer" == "4" ]; then
+    flag_a="peerwss"
+
+  else
+    echo "type error, please try again"
+    exit
+  fi
+}
+function cdn() {
+  echo -e "请问您要设置的CDN传输类型: "
+  echo -e "-----------------------------------"
+  echo -e "[1] 不加密转发"
+  echo -e "[2] ws隧道"
+  echo -e "[3] wss隧道"
+  echo -e "注意: 同一则转发，中转与落地传输类型必须对应！"
+  echo -e "此功能只需在中转机设置"
+  echo -e "-----------------------------------"
+  read -p "请选择CDN转发传输类型: " numcdn
+
+  if [ "$numcdn" == "1" ]; then
+    flag_a="cdnno"
+  elif [ "$numcdn" == "2" ]; then
+    flag_a="cdnws"
+  elif [ "$numcdn" == "3" ]; then
+    flag_a="cdnwss"
+  else
+    echo "type error, please try again"
+    exit
+  fi
+}
+function cert() {
+  echo -e "-----------------------------------"
+  echo -e "[1] ACME一键申请证书"
+  echo -e "[2] 手动上传证书"
+  echo -e "-----------------------------------"
+  echo -e "说明: 仅用于落地机配置，默认使用的gost内置的证书可能带来安全问题，使用自定义证书提高安全性"
+  echo -e "     配置后对本机所有tls/wss解密生效，无需再次设置"
+  read -p "请选择证书生成方式: " numcert
+
+  if [ "$numcert" == "1" ]; then
+    check_sys
+    if [[ ${release} == "centos" ]]; then
+      yum install -y socat
+    else
+      apt-get install -y socat
+    fi
+    read -p "请输入ZeroSSL的账户邮箱(至 zerossl.com 注册即可)：" zeromail
+    read -p "请输入解析到本机的域名：" domain
+    curl https://get.acme.sh | sh
+    "$HOME"/.acme.sh/acme.sh --set-default-ca --server zerossl
+    "$HOME"/.acme.sh/acme.sh --register-account -m "${zeromail}" --server zerossl
+    echo -e "ACME证书申请程序安装成功"
+    echo -e "-----------------------------------"
+    echo -e "[1] HTTP申请（需要80端口未占用）"
+    echo -e "[2] Cloudflare DNS API 申请（需要输入APIKEY）"
+    echo -e "-----------------------------------"
+    read -p "请选择证书申请方式: " certmethod
+    if [ "certmethod" == "1" ]; then
+      echo -e "请确认本机${Red_font_prefix}80${Font_color_suffix}端口未被占用, 否则会申请失败"
+      if "$HOME"/.acme.sh/acme.sh --issue -d "${domain}" --standalone -k ec-256 --force; then
+        echo -e "SSL 证书生成成功，默认申请高安全性的ECC证书"
+        if [ ! -d "$HOME/gost_cert" ]; then
+          mkdir $HOME/gost_cert
+        fi
+        if "$HOME"/.acme.sh/acme.sh --installcert -d "${domain}" --fullchainpath $HOME/gost_cert/cert.pem --keypath $HOME/gost_cert/key.pem --ecc --force; then
+          echo -e "SSL 证书配置成功，且会自动续签，证书及秘钥位于用户目录下的 ${Red_font_prefix}gost_cert${Font_color_suffix} 目录"
+          echo -e "证书目录名与证书文件名请勿更改; 删除 gost_cert 目录后用脚本重启,即自动启用gost内置证书"
+          echo -e "-----------------------------------"
+        fi
+      else
+        echo -e "SSL 证书生成失败"
+        exit 1
+      fi
+    else
+      read -p "请输入Cloudflare账户邮箱：" cfmail
+      read -p "请输入Cloudflare Global API Key：" cfkey
+      export CF_Key="${cfkey}"
+      export CF_Email="${cfmail}"
+      if "$HOME"/.acme.sh/acme.sh --issue --dns dns_cf -d "${domain}" --standalone -k ec-256 --force; then
+        echo -e "SSL 证书生成成功，默认申请高安全性的ECC证书"
+        if [ ! -d "$HOME/gost_cert" ]; then
+          mkdir $HOME/gost_cert
+        fi
+        if "$HOME"/.acme.sh/acme.sh --installcert -d "${domain}" --fullchainpath $HOME/gost_cert/cert.pem --keypath $HOME/gost_cert/key.pem --ecc --force; then
+          echo -e "SSL 证书配置成功，且会自动续签，证书及秘钥位于用户目录下的 ${Red_font_prefix}gost_cert${Font_color_suffix} 目录"
+          echo -e "证书目录名与证书文件名请勿更改; 删除 gost_cert 目录后使用脚本重启, 即重新启用gost内置证书"
+          echo -e "-----------------------------------"
+        fi
+      else
+        echo -e "SSL 证书生成失败"
+        exit 1
+      fi
+    fi
+
+  elif [ "$numcert" == "2" ]; then
+    if [ ! -d "$HOME/gost_cert" ]; then
+      mkdir $HOME/gost_cert
+    fi
+    echo -e "-----------------------------------"
+    echo -e "已在用户目录建立 ${Red_font_prefix}gost_cert${Font_color_suffix} 目录，请将证书文件 cert.pem 与秘钥文件 key.pem 上传到该目录"
+    echo -e "证书与秘钥文件名必须与上述一致，目录名也请勿更改"
+    echo -e "上传成功后，用脚本重启gost会自动启用，无需再设置; 删除 gost_cert 目录后用脚本重启,即重新启用gost内置证书"
+    echo -e "-----------------------------------"
+  else
+    echo "type error, please try again"
+    exit
+  fi
+}
+function decrypt() {
+  echo -e "请问您要设置的解密传输类型: "
+  echo -e "-----------------------------------"
+  echo -e "[1] tls"
+  echo -e "[2] ws"
+  echo -e "[3] wss"
+  echo -e "注意: 同一则转发，中转与落地传输类型必须对应！本脚本默认开启tcp+udp"
+  echo -e "-----------------------------------"
+  read -p "请选择解密传输类型: " numdecrypt
+
+  if [ "$numdecrypt" == "1" ]; then
+    flag_a="decrypttls"
+  elif [ "$numdecrypt" == "2" ]; then
+    flag_a="decryptws"
+  elif [ "$numdecrypt" == "3" ]; then
+    flag_a="decryptwss"
+  else
+    echo "type error, please try again"
+    exit
+  fi
+}
+function proxy() {
+  echo -e "------------------------------------------------------------------"
+  echo -e "请问您要设置的代理类型: "
+  echo -e "-----------------------------------"
+  echo -e "[1] shadowsocks"
+  echo -e "[2] socks5(强烈建议加隧道用于Telegram代理)"
+  echo -e "[3] http"
+  echo -e "-----------------------------------"
+  read -p "请选择代理类型: " numproxy
+  if [ "$numproxy" == "1" ]; then
+    flag_a="ss"
+  elif [ "$numproxy" == "2" ]; then
+    flag_a="socks"
+  elif [ "$numproxy" == "3" ]; then
+    flag_a="http"
+  else
+    echo "type error, please try again"
+    exit
+  fi
+}
+function method() {
+  if [ $i -eq 1 ]; then
+    if [ "$is_encrypt" == "nonencrypt" ]; then
+      echo "        \"tcp://:$s_port/$d_ip:$d_port\",
+        \"udp://:$s_port/$d_ip:$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "cdnno" ]; then
+      echo "        \"tcp://:$s_port/$d_ip?host=$d_port\",
+        \"udp://:$s_port/$d_ip?host=$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "peerno" ]; then
+      echo "        \"tcp://:$s_port?ip=/root/$d_ip.txt&strategy=$d_port\",
+        \"udp://:$s_port?ip=/root/$d_ip.txt&strategy=$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "encrypttls" ]; then
+      echo "        \"tcp://:$s_port\",
+        \"udp://:$s_port\"
+    ],
+    \"ChainNodes\": [
+        \"relay+tls://$d_ip:$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "encryptws" ]; then
+      echo "        \"tcp://:$s_port\",
+    	\"udp://:$s_port\"
+	],
+	\"ChainNodes\": [
+    	\"relay+ws://$d_ip:$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "encryptwss" ]; then
+      echo "        \"tcp://:$s_port\",
+		  \"udp://:$s_port\"
+	],
+	\"ChainNodes\": [
+		\"relay+wss://$d_ip:$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "peertls" ]; then
+      echo "        \"tcp://:$s_port\",
+    	\"udp://:$s_port\"
+	],
+	\"ChainNodes\": [
+    	\"relay+tls://:?ip=/root/$d_ip.txt&strategy=$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "peerws" ]; then
+      echo "        \"tcp://:$s_port\",
+    	\"udp://:$s_port\"
+	],
+	\"ChainNodes\": [
+    	\"relay+ws://:?ip=/root/$d_ip.txt&strategy=$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "peerwss" ]; then
+      echo "        \"tcp://:$s_port\",
+    	\"udp://:$s_port\"
+	],
+	\"ChainNodes\": [
+    	\"relay+wss://:?ip=/root/$d_ip.txt&strategy=$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "cdnws" ]; then
+      echo "        \"tcp://:$s_port\",
+    	\"udp://:$s_port\"
+	],
+	\"ChainNodes\": [
+    	\"relay+ws://$d_ip?host=$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "cdnwss" ]; then
+      echo "        \"tcp://:$s_port\",
+    	\"udp://:$s_port\"
+	],
+	\"ChainNodes\": [
+    	\"relay+wss://$d_ip?host=$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "decrypttls" ]; then
+      if [ -d "$HOME/gost_cert" ]; then
+        echo "        \"relay+tls://:$s_port/$d_ip:$d_port?cert=/root/gost_cert/cert.pem&key=/root/gost_cert/key.pem\"" >>$gost_conf_path
+      else
+        echo "        \"relay+tls://:$s_port/$d_ip:$d_port\"" >>$gost_conf_path
+      fi
+    elif [ "$is_encrypt" == "decryptws" ]; then
+      echo "        \"relay+ws://:$s_port/$d_ip:$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "decryptwss" ]; then
+      if [ -d "$HOME/gost_cert" ]; then
+        echo "        \"relay+wss://:$s_port/$d_ip:$d_port?cert=/root/gost_cert/cert.pem&key=/root/gost_cert/key.pem\"" >>$gost_conf_path
+      else
+        echo "        \"relay+wss://:$s_port/$d_ip:$d_port\"" >>$gost_conf_path
+      fi
+    elif [ "$is_encrypt" == "ss" ]; then
+      echo "        \"ss://$d_ip:$s_port@:$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "socks" ]; then
+      echo "        \"socks5://$d_ip:$s_port@:$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "http" ]; then
+      echo "        \"http://$d_ip:$s_port@:$d_port\"" >>$gost_conf_path
+    else
+      echo "config error"
+    fi
+  elif [ $i -gt 1 ]; then
+    if [ "$is_encrypt" == "nonencrypt" ]; then
+      echo "                \"tcp://:$s_port/$d_ip:$d_port\",
+                \"udp://:$s_port/$d_ip:$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "peerno" ]; then
+      echo "                \"tcp://:$s_port?ip=/root/$d_ip.txt&strategy=$d_port\",
+                \"udp://:$s_port?ip=/root/$d_ip.txt&strategy=$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "cdnno" ]; then
+      echo "                \"tcp://:$s_port/$d_ip?host=$d_port\",
+                \"udp://:$s_port/$d_ip?host=$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "encrypttls" ]; then
+      echo "                \"tcp://:$s_port\",
+                \"udp://:$s_port\"
+            ],
+            \"ChainNodes\": [
+                \"relay+tls://$d_ip:$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "encryptws" ]; then
+      echo "                \"tcp://:$s_port\",
+	            \"udp://:$s_port\"
+	        ],
+	        \"ChainNodes\": [
+	            \"relay+ws://$d_ip:$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "encryptwss" ]; then
+      echo "                \"tcp://:$s_port\",
+		        \"udp://:$s_port\"
+		    ],
+		    \"ChainNodes\": [
+		        \"relay+wss://$d_ip:$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "peertls" ]; then
+      echo "                \"tcp://:$s_port\",
+                \"udp://:$s_port\"
+            ],
+            \"ChainNodes\": [
+                \"relay+tls://:?ip=/root/$d_ip.txt&strategy=$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "peerws" ]; then
+      echo "                \"tcp://:$s_port\",
+                \"udp://:$s_port\"
+            ],
+            \"ChainNodes\": [
+                \"relay+ws://:?ip=/root/$d_ip.txt&strategy=$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "peerwss" ]; then
+      echo "                \"tcp://:$s_port\",
+                \"udp://:$s_port\"
+            ],
+            \"ChainNodes\": [
+                \"relay+wss://:?ip=/root/$d_ip.txt&strategy=$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "cdnws" ]; then
+      echo "                \"tcp://:$s_port\",
+                \"udp://:$s_port\"
+            ],
+            \"ChainNodes\": [
+                \"relay+ws://$d_ip?host=$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "cdnwss" ]; then
+      echo "                 \"tcp://:$s_port\",
+                \"udp://:$s_port\"
+            ],
+            \"ChainNodes\": [
+                \"relay+wss://$d_ip?host=$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "decrypttls" ]; then
+      if [ -d "$HOME/gost_cert" ]; then
+        echo "        		  \"relay+tls://:$s_port/$d_ip:$d_port?cert=/root/gost_cert/cert.pem&key=/root/gost_cert/key.pem\"" >>$gost_conf_path
+      else
+        echo "        		  \"relay+tls://:$s_port/$d_ip:$d_port\"" >>$gost_conf_path
+      fi
+    elif [ "$is_encrypt" == "decryptws" ]; then
+      echo "        		  \"relay+ws://:$s_port/$d_ip:$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "decryptwss" ]; then
+      if [ -d "$HOME/gost_cert" ]; then
+        echo "        		  \"relay+wss://:$s_port/$d_ip:$d_port?cert=/root/gost_cert/cert.pem&key=/root/gost_cert/key.pem\"" >>$gost_conf_path
+      else
+        echo "        		  \"relay+wss://:$s_port/$d_ip:$d_port\"" >>$gost_conf_path
+      fi
+    elif [ "$is_encrypt" == "ss" ]; then
+      echo "        \"ss://$d_ip:$s_port@:$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "socks" ]; then
+      echo "        \"socks5://$d_ip:$s_port@:$d_port\"" >>$gost_conf_path
+    elif [ "$is_encrypt" == "http" ]; then
+      echo "        \"http://$d_ip:$s_port@:$d_port\"" >>$gost_conf_path
+    else
+      echo "config error"
+    fi
+  else
+    echo "config error"
+    exit
+  fi
+}
+
+function writeconf() {
+  count_line=$(awk 'END{print NR}' $raw_conf_path)
+  for ((i = 1; i <= $count_line; i++)); do
+    if [ $i -eq 1 ]; then
+      trans_conf=$(sed -n "${i}p" $raw_conf_path)
+      eachconf_retrieve
+      method
+    elif [ $i -gt 1 ]; then
+      if [ $i -eq 2 ]; then
+        echo "    ],
+    \"Routes\": [" >>$gost_conf_path
+        trans_conf=$(sed -n "${i}p" $raw_conf_path)
+        eachconf_retrieve
+        multiconfstart
+        method
+        multiconflast
+      else
+        trans_conf=$(sed -n "${i}p" $raw_conf_path)
+        eachconf_retrieve
+        multiconfstart
+        method
+        multiconflast
+      fi
+    fi
+  done
+}
+function show_all_conf() {
+  echo -e "                      GOST 配置                        "
+  echo -e "--------------------------------------------------------"
+  echo -e "序号|方法\t    |本地端口\t|目的地地址:目的地端口"
+  echo -e "--------------------------------------------------------"
+
+  count_line=$(awk 'END{print NR}' $raw_conf_path)
+  for ((i = 1; i <= $count_line; i++)); do
+    trans_conf=$(sed -n "${i}p" $raw_conf_path)
+    eachconf_retrieve
+
+    if [ "$is_encrypt" == "nonencrypt" ]; then
+      str="不加密中转"
+    elif [ "$is_encrypt" == "encrypttls" ]; then
+      str=" tls隧道 "
+    elif [ "$is_encrypt" == "encryptws" ]; then
+      str="  ws隧道 "
+    elif [ "$is_encrypt" == "encryptwss" ]; then
+      str=" wss隧道 "
+    elif [ "$is_encrypt" == "peerno" ]; then
+      str=" 不加密均衡负载 "
+    elif [ "$is_encrypt" == "peertls" ]; then
+      str=" tls隧道均衡负载 "
+    elif [ "$is_encrypt" == "peerws" ]; then
+      str="  ws隧道均衡负载 "
+    elif [ "$is_encrypt" == "peerwss" ]; then
+      str=" wss隧道均衡负载 "
+    elif [ "$is_encrypt" == "decrypttls" ]; then
+      str=" tls解密 "
+    elif [ "$is_encrypt" == "decryptws" ]; then
+      str="  ws解密 "
+    elif [ "$is_encrypt" == "decryptwss" ]; then
+      str=" wss解密 "
+    elif [ "$is_encrypt" == "ss" ]; then
+      str="   ss   "
+    elif [ "$is_encrypt" == "socks" ]; then
+      str=" socks5 "
+    elif [ "$is_encrypt" == "http" ]; then
+      str=" http "
+    elif [ "$is_encrypt" == "cdnno" ]; then
+      str="不加密转发CDN"
+    elif [ "$is_encrypt" == "cdnws" ]; then
+      str="ws隧道转发CDN"
+    elif [ "$is_encrypt" == "cdnwss" ]; then
+      str="wss隧道转发CDN"
+    else
+      str=""
+    fi
+
+    echo -e " $i  |$str  |$s_port\t|$d_ip:$d_port"
+    echo -e "--------------------------------------------------------"
+  done
+}
+
+cron_restart() {
+  echo -e "------------------------------------------------------------------"
+  echo -e "gost定时重启任务: "
+  echo -e "-----------------------------------"
+  echo -e "[1] 配置gost定时重启任务"
+  echo -e "[2] 删除gost定时重启任务"
+  echo -e "-----------------------------------"
+  read -p "请选择: " numcron
+  if [ "$numcron" == "1" ]; then
+    echo -e "------------------------------------------------------------------"
+    echo -e "gost定时重启任务类型: "
+    echo -e "-----------------------------------"
+    echo -e "[1] 每？小时重启"
+    echo -e "[2] 每日？点重启"
+    echo -e "-----------------------------------"
+    read -p "请选择: " numcrontype
+    if [ "$numcrontype" == "1" ]; then
+      echo -e "-----------------------------------"
+      read -p "每？小时重启: " cronhr
+      echo "0 0 */$cronhr * * ? * systemctl restart gost" >>/etc/crontab
+      echo -e "定时重启设置成功！"
+    elif [ "$numcrontype" == "2" ]; then
+      echo -e "-----------------------------------"
+      read -p "每日？点重启: " cronhr
+      echo "0 0 $cronhr * * ? systemctl restart gost" >>/etc/crontab
+      echo -e "定时重启设置成功！"
+    else
+      echo "type error, please try again"
+      exit
+    fi
+  elif [ "$numcron" == "2" ]; then
+    sed -i "/gost/d" /etc/crontab
+    echo -e "定时重启任务删除完成！"
+  else
+    echo "type error, please try again"
+    exit
+  fi
+}
+
+update_sh() {
+  ol_version=$(curl -L -s --connect-timeout 5 https://raw.githubusercontent.com/KANIKIG/Multi-EasyGost/master/gost.sh | grep "shell_version=" | head -1 | awk -F '=|"' '{print $3}')
+  if [ -n "$ol_version" ]; then
+    if [[ "$shell_version" != "$ol_version" ]]; then
+      echo -e "存在新版本，是否更新 [Y/N]?"
+      read -r update_confirm
+      case $update_confirm in
+      [yY][eE][sS] | [yY])
+        wget -N --no-check-certificate https://raw.githubusercontent.com/KANIKIG/Multi-EasyGost/master/gost.sh
+        echo -e "更新完成"
+        exit 0
+        ;;
+      *) ;;
+
+      esac
+    else
+      echo -e "                 ${Green_font_prefix}当前版本为最新版本！${Font_color_suffix}"
+    fi
+  else
+    echo -e "                 ${Red_font_prefix}脚本最新版本获取失败，请检查与github的连接！${Font_color_suffix}"
+  fi
+}
+
+update_sh
+echo && echo -e "                 gost 一键安装配置脚本"${Red_font_prefix}[${shell_version}]${Font_color_suffix}"
+  ----------- KANIKIG -----------
+  特性: (1)本脚本采用systemd及gost配置文件对gost进行管理
+        (2)能够在不借助其他工具(如screen)的情况下实现多条转发规则同时生效
+        (3)机器reboot后转发不失效
+  功能: (1)tcp+udp不加密转发, (2)中转机加密转发, (3)落地机解密对接转发
+
+ ${Green_font_prefix}1.${Font_color_suffix} 安装 gost
+ ${Green_font_prefix}2.${Font_color_suffix} 更新 gost
+ ${Green_font_prefix}3.${Font_color_suffix} 卸载 gost
+————————————
+ ${Green_font_prefix}4.${Font_color_suffix} 启动 gost
+ ${Green_font_prefix}5.${Font_color_suffix} 停止 gost
+ ${Green_font_prefix}6.${Font_color_suffix} 重启 gost
+————————————
+ ${Green_font_prefix}7.${Font_color_suffix} 新增gost转发配置
+ ${Green_font_prefix}8.${Font_color_suffix} 查看现有gost配置
+ ${Green_font_prefix}9.${Font_color_suffix} 删除一则gost配置
+————————————
+ ${Green_font_prefix}10.${Font_color_suffix} gost定时重启配置
+ ${Green_font_prefix}11.${Font_color_suffix} 自定义TLS证书配置
+————————————" && echo
+read -e -p " 请输入数字 [1-9]:" num
+case "$num" in
+1)
+  Install_ct
+  ;;
+2)
+  checknew
+  ;;
+3)
+  Uninstall_ct
+  ;;
+4)
+  Start_ct
+  ;;
+5)
+  Stop_ct
+  ;;
+6)
+  Restart_ct
+  ;;
+7)
+  rawconf
+  rm -rf /etc/gost/config.json
+  confstart
+  writeconf
+  conflast
+  systemctl restart gost
+  echo -e "配置已生效，当前配置如下"
+  echo -e "--------------------------------------------------------"
+  show_all_conf
+  ;;
+8)
+  show_all_conf
+  ;;
+9)
+  show_all_conf
+  read -p "请输入你要删除的配置编号：" numdelete
+  if echo $numdelete | grep -q '[0-9]'; then
+    sed -i "${numdelete}d" $raw_conf_path
+    rm -rf /etc/gost/config.json
+    confstart
+    writeconf
+    conflast
+    systemctl restart gost
+    echo -e "配置已删除，服务已重启"
+  else
+    echo "请输入正确数字"
+  fi
+  ;;
+10)
+  cron_restart
+  ;;
+11)
+  cert
+  ;;
+*)
+  echo "请输入正确数字 [1-9]"
+  ;;
+esac
+
+}
+
+adddhcp_root() {
+echo " --------------------------------------------------------------------"
+echo -e " ---------------------- \033[33m一键修改root账户密码\033[0m ------------------------ "
+echo -e " ------- \033[33m功能 1、修改Ubuntu的root密码\033[0m ------------------------------- "
+echo -e " ------- \033[33m功能 2、持久化root密码，可永久连接\033[0m ------------------------- "
+echo " --------------------------------------------------------------------"
+
+echo -e "\033[32m 确认你的root密码（两次输入且无提示）... \033[0m"
+sudo passwd root
+
+echo -e "\033[32m 修改成功！！！ \033[0m"
+
+sudo sed -i 's/^#\?PermitRootLogin.*/PermitRootLogin yes/g' /etc/ssh/sshd_config;
+sudo sed -i 's/^#\?PasswordAuthentication.*/PasswordAuthentication yes/g' /etc/ssh/sshd_config;
+sudo service sshd restart
+sudo -i
+}
+
+addemotn_sshd() {
+
+echo "SSH开启密码、ROOT登录"
+sshd_file="/etc/ssh/sshd_config"
+cp -n $sshd_file /etc/ssh/sshd_config.bak
+sed -i "s|^#\?PasswordAuthentication.*|PasswordAuthentication yes|" $sshd_file
+sed -i "s|^#\?PermitRootLogin.*|PermitRootLogin yes|" $sshd_file
+systemctl restart sshd;systemctl restart ssh;service sshd restart;service ssh restart
+    echo -e "\n\n"
+}
+
+# 一键修改 SSH 端口
+sessh_22() {
+    read -p "请输入新的 SSH 端口: " new_port
+    sed -i "s/Port [0-9]*/Port $new_port/" /etc/ssh/sshd_config
+    systemctl restart sshd
+    echo "SSH 端口已修改为 $new_port"
+}
+
+grouter_IPv4e() {
+#!/usr/bin/env bash
+# By 网络跳越(hijk)
+red(){
+    echo -e "\033[31m\033[01m$1\033[0m"
+}
+green(){
+    echo -e "\033[32m\033[01m$1\033[0m"
+}
+yellow(){
+    echo -e "\033[33m\033[01m$1\033[0m"
+}
+blue(){
+    echo -e "\033[34m\033[01m$1\033[0m"
+}
+bold(){
+    echo -e "\033[1m\033[01m$1\033[0m"
+}
+
+Green_font_prefix="\033[32m" 
+Red_font_prefix="\033[31m" 
+Green_background_prefix="\033[42;37m" 
+Red_background_prefix="\033[41;37m" 
+Font_color_suffix="\033[0m"
+
+function preferIPV4(){
+    if [[ -f "/etc/gai.conf" ]]; then
+        sed -i '/^precedence \:\:ffff\:0\:0/d' /etc/gai.conf
+        sed -i '/^label 2002\:\:\/16/d' /etc/gai.conf
+    fi
+    if [[ -z $1 ]]; then
+        echo "precedence ::ffff:0:0/96  100" >> /etc/gai.conf
+        echo
+        green " VPS服务器已成功设置为 IPv4 优先访问网络"
+
+    else
+        green " ================================================== "
+        yellow " 请为服务器设置 IPv4 还是 IPv6 优先访问: "
+        echo
+        green " 1 优先 IPv4 访问网络"
+        green " 2 优先 IPv6 访问网络"
+        green " 3 删除 IPv4 或 IPv6 优先访问的设置, 还原为系统默认配置"
+        echo
+        read -p "请选择 IPv4 还是 IPv6 优先访问? 直接回车默认选1, 请输入[1/2/3]:" isPreferIPv4Input
+        isPreferIPv4Input=${isPreferIPv4Input:-1}
+        if [[ ${isPreferIPv4Input} == [2] ]]; then
+            # 设置 IPv6 优先
+            echo "label 2002::/16   2" >> /etc/gai.conf
+            echo
+            green " VPS服务器已成功设置为 IPv6 优先访问网络 "
+        elif [[ ${isPreferIPv4Input} == [3] ]]; then
+            echo
+            green " VPS服务器 已删除 IPv4 或 IPv6 优先访问的设置, 还原为系统默认配置 "  
+        else
+            # 设置 IPv4 优先
+            echo "precedence ::ffff:0:0/96  100" >> /etc/gai.conf
+            
+            echo
+            green " VPS服务器已成功设置为 IPv4 优先访问网络 "    
+        fi
+        green " ================================================== "
+        echo
+        yellow " 验证 IPv4 或 IPv6 访问网络优先级测试, 命令: curl ip.p3terx.com " 
+        echo  
+        curl ip.p3terx.com
+        echo
+        green " 上面信息显示："   
+        green " 如果是IPv4地址->则VPS服务器已设置为 IPv4优先访问 "  
+	green " 如果是IPv6地址->则VPS服务器已设置为 IPv6优先访问 "  
+        green " ================================================== "
+
+    fi
+    echo
+}
+function start_menu(){
+    clear
+    green " 1. 设置 VPS服务器 IPv4 还是 IPv6 网络优先访问" 
+    echo
+    green " =================================================="
+    green " 0. 退出脚本"
+    echo
+    read -p "请输入数字:" menuNumberInput
+    case "$menuNumberInput" in
+        1 )
+           preferIPV4 "redo"
+	;;
+        0 )
+            exit 1
+        ;;
+        * )
+            clear
+            red "请输入正确数字 !"
+            sleep 2s
+            start_menu
+        ;;
+    esac
+}
+start_menu "first"
+}
+
+is_OpenSSH() {
+
+OPENSSH_VERSION="9.8p1"
+
+if [ -f /etc/os-release ]; then
+    . /etc/os-release
+    OS=$ID
+else
+    echo "无法检测操作系统类型。"
+    exit 1
+fi
+wait_for_lock() {
+    while fuser /var/lib/dpkg/lock-frontend >/dev/null 2>&1; do
+        echo "等待dpkg锁释放..."
+        sleep 1
+    done
+}
+
+fix_dpkg() {
+    DEBIAN_FRONTEND=noninteractive dpkg --configure -a
+}
+
+install_dependencies() {
+    case $OS in
+        ubuntu|debian)
+            wait_for_lock
+            fix_dpkg
+            DEBIAN_FRONTEND=noninteractive apt update
+            DEBIAN_FRONTEND=noninteractive apt install -y build-essential zlib1g-dev libssl-dev libpam0g-dev wget ntpdate -o Dpkg::Options::="--force-confnew"
+            ;;
+        centos|rhel|fedora)
+            yum install -y epel-release
+            yum groupinstall -y "Development Tools"
+            yum install -y zlib-devel openssl-devel pam-devel wget ntpdate
+            ;;
+        alpine)
+            apk add build-base zlib-dev openssl-dev pam-dev wget ntpdate
+            ;;
+        *)
+            echo "不支持的操作系统：$OS"
+            exit 1
+            ;;
+    esac
+}
+
+install_openssh() {
+    wget --no-check-certificate https://cdn.openbsd.org/pub/OpenBSD/OpenSSH/portable/openssh-${OPENSSH_VERSION}.tar.gz
+    tar -xzf openssh-${OPENSSH_VERSION}.tar.gz
+    cd openssh-${OPENSSH_VERSION}
+    ./configure
+    make
+    make install
+}
+
+restart_ssh() {
+    case $OS in
+        ubuntu|debian)
+            systemctl restart ssh
+            ;;
+        centos|rhel|fedora)
+            systemctl restart sshd
+            ;;
+        alpine)
+            rc-service sshd restart
+            ;;
+        *)
+            echo "不支持的操作系统：$OS"
+            exit 1
+            ;;
+    esac
+}
+
+set_path_priority() {
+    NEW_SSH_PATH=$(which sshd)
+    NEW_SSH_DIR=$(dirname "$NEW_SSH_PATH")
+
+    if [[ ":$PATH:" != *":$NEW_SSH_DIR:"* ]]; then
+        export PATH="$NEW_SSH_DIR:$PATH"
+        echo "export PATH=\"$NEW_SSH_DIR:\$PATH\"" >> ~/.bashrc
+    fi
+}
+
+# 验证更新
+verify_installation() {
+    echo "SSH版本信息："
+    ssh -V
+    sshd -V
+}
+
+# 清理下载的文件
+clean_up() {
+    cd ..
+    rm -rf openssh-${OPENSSH_VERSION}*
+}
+
+# 标题
+check_openssh_test() {
+echo "SSH高危漏洞修复工具"
+echo "--------------------------"
+}
+check_openssh_version() {
+    current_version=$(ssh -V 2>&1 | awk '{print $1}' | cut -d_ -f2 | cut -d'p' -f1)
+    min_version=8.5
+    max_version=9.7
+    if awk -v ver="$current_version" -v min="$min_version" -v max="$max_version" 'BEGIN{if(ver>=min && ver<=max) exit 0; else exit 1}'; then
+      check_openssh_test
+      echo "SSH版本: $current_version  在8.5到9.7之间，需要修复。"
+      read -p "确定继续吗？(Y/N): " choice
+          case "$choice" in
+            [Yy])
+              install_dependencies
+              install_openssh
+              restart_ssh
+              set_path_priority
+              verify_installation
+              clean_up
+              ;;
+            [Nn])
+              echo "已取消"
+              exit 1
+              ;;
+            *)
+              echo "无效的选择，请输入 Y 或 N。"
+              exit 1
+              ;;
+          esac
+    else
+      check_openssh_test
+      echo "SSH版本: $current_version  不在8.5到9.7之间，无需修复。"
+      exit 1
+    fi
+}
+check_openssh_version
+}
+
+check_whiptailcc() {
+#自动防御cc
+curl -ko install.sh --connect-timeout 300 --retry 5 --retry-delay 3 https://zhangge.net/wp-content/uploads/files/cckiller/install.sh?ver=1.0.8 && sh install.sh -i
+
+}
+
+do_CentOS7t() {
+    if [ -f /etc/yum.repos.d/CentOS-Base.repo ]; then
+        echo "正在更换CentOS的源为阿里云源..."
+        sudo cp /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.backup
+        cat << 'EOF' | sudo tee /etc/yum.repos.d/CentOS-Base.repo
+[base]
+name=CentOS-$releasever - Base - 阿里云镜像
+baseurl=http://mirrors.aliyun.com/centos/$releasever/os/$basearch/
+gpgcheck=1
+gpgkey=http://mirrors.aliyun.com/centos/RPM-GPG-KEY-CentOS-7
+
+# 可选的，添加阿里云的额外源
+[extras]
+name=CentOS-$releasever - Extras - 阿里云镜像
+baseurl=http://mirrors.aliyun.com/centos/$releasever/extras/$basearch/
+gpgcheck=1
+gpgkey=http://mirrors.aliyun.com/centos/RPM-GPG-KEY-CentOS-7
+
+# 可选的，添加阿里云的更新源
+[updates]
+name=CentOS-$releasever - Updates - 阿里云镜像
+baseurl=http://mirrors.aliyun.com/centos/$releasever/updates/$basearch/
+gpgcheck=1
+gpgkey=http://mirrors.aliyun.com/centos/RPM-GPG-KEY-CentOS-7
+EOF
+        sudo yum clean all
+        sudo yum makecache
+        echo "CentOS源更换完成。"
+sudo yum install -y curl wget vim nano socat firewalld pciutils epel-release jq bc nmap-ncat bind-utils iproute iproute2 python python3 python3-pip git lrzsz update net-tools automake cmake gzip bzip2 zip unzip kernel kernel-devel kernel-headers git-all screen c++ sendmail mailx 2> /dev/null || sudo apt update && sudo apt install -y curl wget vim nano socat firewalld pciutils jq bc netcat-openbsd dnsutils iproute2 python python3 python3-pip git lrzsz gcc gcc-c++ net-tools automake cmake gzip bzip2 zip unzip kernel kernel-devel kernel-headers git-all screen c++ sendmail mailx
+    iptables -P INPUT ACCEPT
+    iptables -P FORWARD ACCEPT
+    iptables -P OUTPUT ACCEPT
+    iptables -F
+    iptables-save
+    echo "CentOS源安装更新完成。"        
+    else
+        echo "CentOS源配置文件不存在。"
+    fi
+}
+
+swap (){
+mkdir /SwapDir
+cd /SwapDir
+  clear
+echo -e "请输入需要添加的swap，建议为内存的2倍！"
+read -p "请输入swap数值:" swapsize
+echo
+dd if=/dev/zero of=/SwapDir/swap bs=1M count=${swapsize}
+chmod 0600 swap
+mkswap /SwapDir/swap #把这个分区变成swap分区
+swapon /SwapDir/swap #把刚建的swap分区设成为有效状态
+echo "/SwapDir/swap swap swap defaults 0 0">>/etc/fstab #增加新的swap开机自动启动
+echo
+echo -e "\033[31m 完成\!恭喜\！系统交换添加成功\！\033[0m"
+echo -e "\033[33m 您的系统交换是 \: \033[0m"
+echo
+free -h
+}
+
+install_6.0(){
+if [ -f /etc/redhat-release ]; then    
+wget -O install.sh http://www.btkaixin.net/install/install_6.0.sh && bash install.sh
+elif [ -f /etc/debian_version ]; then
+wget -O install.sh http://www.btkaixin.net/install/install_6.0.sh && bash install.sh
+else
+exit 1
+fi
+}
+
+xray22() {
+ read -p " 请输入要更改的系统主机名：" hostname
+[[ -z "${hostname}" ]]
+	hostname=${hostname,,}
+sudo hostnamectl set-hostname $hostname
+hostname
+red " 完成\!恭喜\！系统主机名修改成功。${YELLOW} ${blu} $hostname"
+}
+
+xd() {
+bash <(wget -qO- 'sh.xdmb.xyz/xiandan/xd.sh')
+}
+
+install_OpenVZ() {
+#!/bin/sh
+export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+SERVICE_NAME='haproxy-lkl'
+HAPROXY_LKL_DIR="/usr/local/$SERVICE_NAME"
+
+BASE_URL='https://github.com/kuoruan/shell-scripts/raw/master/ovz-bbr'
+HAPROXY_BIN_URL="${BASE_URL}/bin/haproxy.linux2628_x86_64"
+HAPROXY_LKL_BIN_URL="${BASE_URL}/bin/haproxy-lkl.sh"
+HAPROXY_LKL_SERVICE_FILE_DEBIAN_URL="${BASE_URL}/startup/haproxy-lkl.init.debain"
+HAPROXY_LKL_SERVICE_FILE_REDHAT_URL="${BASE_URL}/startup/haproxy-lkl.init.redhat"
+HAPROXY_LKL_SYSTEMD_FILE_URL="${BASE_URL}/startup/haproxy-lkl.systemd"
+LKL_LIB_URL="${BASE_URL}/lib64/liblkl-hijack.so-20170724"
+LKL_LIB_MD5='b50fc6a7ccfc70c76f44506814e7e18b'
+
+# 需要 BBR 加速的端口
+ACCELERATE_PORT=
+clear
+cat >&2 <<-'EOF'
+#######################################################
+# OpenVZ BBR 一键安装脚本                             #
+# 该脚本用于在 OpenVZ 服务器上安装配置 Google BBR     #
+#######################################################
+EOF
+command_exists() {
+	command -v "$@" >/dev/null 2>&1
+}
+
+check_root() {
+	local user="$(id -un 2>/dev/null || true)"
+	if [ "$user" != "root" ]; then
+		cat >&2 <<-'EOF'
+		权限错误, 请使用 root 用户运行此脚本!
+		EOF
+		exit 1
+	fi
+}
+
+check_ovz() {
+	if [ ! -d /proc/vz ]; then
+		cat >&2 <<-'EOF'
+		当前服务器好像不是 OpenVZ 架构，你可以直接更换内核以启用 BBR。
+		当然，你也可以继续安装。
+		EOF
+		
+	fi
+}
+
+check_ldd() {
+	local ldd_version="$(ldd --version 2>/dev/null | grep 'ldd' | rev | cut -d ' ' -f1 | rev)"
+	if [ -n "$ldd_version" ]; then
+		if [ "${ldd_version%.*}" -eq "2" -a "${ldd_version#*.}" -lt "14" ] || \
+		[ "${ldd_version%.*}" -lt "2" ]; then
+			cat >&2 <<-EOF
+			当前服务器的 glibc 版本为 $ldd_version。
+			最低版本需求 2.14，低于这个版本无法正常使用。
+			请先更新 glibc 之后再运行脚本。
+			EOF
+			exit 1
+	  fi
+	else
+		cat >&2 <<-EOF
+		获取 glibc 版本失败，请手动检查：
+		    ldd --version
+		最低版本需求 2.14，低于这个版本可能无法正常使用。
+		EOF
+
+		( set -x; ldd --version 2>/dev/null )
+		
+	fi
+}
+
+check_arch() {
+	architecture=$(uname -m)
+	case $architecture in
+		amd64|x86_64)
+			;;
+		*)
+			cat 1>&2 <<-EOF
+			当前脚本仅支持 64 位系统，你的系统为: $architecture
+			你可以尝试从源码编译安装 Linux Kernel Library
+			    https://github.com/lkl/linux
+			EOF
+			exit 1
+			;;
+	esac
+}
+
+get_os_info() {
+	lsb_dist=''
+	dist_version=''
+	if command_exists lsb_release; then
+		lsb_dist="$(lsb_release -si)"
+	fi
+
+	if [ -z "$lsb_dist" ] && [ -r /etc/lsb-release ]; then
+		lsb_dist="$(. /etc/lsb-release && echo "$DISTRIB_ID")"
+	fi
+	if [ -z "$lsb_dist" ] && [ -r /etc/debian_version ]; then
+		lsb_dist='debian'
+	fi
+	if [ -z "$lsb_dist" ] && [ -r /etc/fedora-release ]; then
+		lsb_dist='fedora'
+	fi
+	if [ -z "$lsb_dist" ] && [ -r /etc/oracle-release ]; then
+		lsb_dist='oracleserver'
+	fi
+	if [ -z "$lsb_dist" ] && [ -r /etc/centos-release ]; then
+		lsb_dist='centos'
+	fi
+	if [ -z "$lsb_dist" ] && [ -r /etc/redhat-release ]; then
+		lsb_dist='redhat'
+	fi
+	if [ -z "$lsb_dist" ] && [ -r /etc/photon-release ]; then
+		lsb_dist='photon'
+	fi
+	if [ -z "$lsb_dist" ] && [ -r /etc/os-release ]; then
+		lsb_dist="$(. /etc/os-release && echo "$ID")"
+	fi
+
+	lsb_dist="$(echo "$lsb_dist" | tr '[:upper:]' '[:lower:]')"
+
+	if [ "${lsb_dist}" = "redhatenterpriseserver" ]; then
+		lsb_dist='redhat'
+	fi
+
+	case "$lsb_dist" in
+		ubuntu)
+			if command_exists lsb_release; then
+				dist_version="$(lsb_release --codename | cut -f2)"
+			fi
+			if [ -z "$dist_version" ] && [ -r /etc/lsb-release ]; then
+				dist_version="$(. /etc/lsb-release && echo "$DISTRIB_CODENAME")"
+			fi
+		;;
+
+		debian|raspbian)
+			dist_version="$(cat /etc/debian_version | sed 's/\/.*//' | sed 's/\..*//')"
+			case "$dist_version" in
+				9)
+					dist_version="stretch"
+				;;
+				8)
+					dist_version="jessie"
+				;;
+				7)
+					dist_version="wheezy"
+				;;
+			esac
+		;;
+
+		oracleserver)
+			lsb_dist="oraclelinux"
+			dist_version="$(rpm -q --whatprovides redhat-release --queryformat "%{VERSION}\n" | sed 's/\/.*//' | sed 's/\..*//' | sed 's/Server*//')"
+		;;
+
+		fedora|centos|redhat)
+			dist_version="$(rpm -q --whatprovides ${lsb_dist}-release --queryformat "%{VERSION}\n" | sed 's/\/.*//' | sed 's/\..*//' | sed 's/Server*//' | sort | tail -1)"
+		;;
+
+		"vmware photon")
+			lsb_dist="photon"
+			dist_version="$(. /etc/os-release && echo "$VERSION_ID")"
+		;;
+
+		*)
+			if command_exists lsb_release; then
+				dist_version="$(lsb_release --codename | cut -f2)"
+			fi
+			if [ -z "$dist_version" ] && [ -r /etc/os-release ]; then
+				dist_version="$(. /etc/os-release && echo "$VERSION_ID")"
+			fi
+		;;
+	esac
+
+	if [ -z "$lsb_dist" -o -z "$dist_version" ]; then
+		cat >&2 <<-EOF
+		无法确定服务器系统版本信息。
+		请联系脚本作者。
+		EOF
+		exit 1
+	fi
+}
+
+install_deps() {
+	ip_support_tuntap() {
+		command_exists ip && ip tuntap >/dev/null 2>&1
+	}
+	case "$lsb_dist" in
+		ubuntu|debian|raspbian)
+			local did_apt_get_update=
+			apt_get_update() {
+				if [ -z "$did_apt_get_update" ]; then
+					( set -x; sleep 3; apt-get update )
+					did_apt_get_update=1
+				fi
+			}
+
+			if ! command_exists wget; then
+				apt_get_update
+				( set -x; sleep 3; apt-get install -y -q wget ca-certificates )
+			fi
+
+			if ! command_exists ip; then
+				apt_get_update
+				( set -x; sleep 3; apt-get install -y -q iproute )
+			fi
+
+			if ! command_exists timeout; then
+				apt_get_update
+				( set -x; sleep 3; apt-get install -y -q coreutils )
+			fi
+
+			if ! command_exists iptables; then
+				apt_get_update
+				( set -x; sleep 3; apt-get install -y -q iptables )
+			fi
+
+			if ! ip_support_tuntap; then
+				apt_get_update
+				( set -x; sleep 3; apt-get install -y -q uml-utilities )
+			fi
+		;;
+		fedora|centos|redhat|oraclelinux|photon)
+			if [ "$lsb_dist" = "fedora" ] && [ "$dist_version" -ge "22" ]; then
+				if ! command_exists wget; then
+					( set -x; sleep 3; dnf -y -q install wget ca-certificates )
+				fi
+
+				if ! command_exists ip; then
+					( set -x; sleep 3; dnf -y -q install iproute )
+				fi
+
+				if ! command_exists timeout; then
+					( set -x; sleep 3; dnf -y -q install coreutils )
+				fi
+
+				if ! command_exists iptables; then
+					( set -x; sleep 3; dnf -y -q install iptables )
+				fi
+
+				if ! ip_support_tuntap && ! command_exists tunctl; then
+					( set -x; sleep 3; dnf -y -q install tunctl )
+				fi
+			elif [ "$lsb_dist" = "photon" ]; then
+				if ! command_exists wget; then
+					( set -x; sleep 3; tdnf -y install wget ca-certificates )
+				fi
+
+				if ! command_exists ip; then
+					( set -x; sleep 3; tdnf -y install iproute )
+				fi
+
+				if ! command_exists timeout; then
+					( set -x; sleep 3; tdnf -y install coreutils )
+				fi
+
+				if ! command_exists iptables; then
+					( set -x; sleep 3; tdnf -y install iptables )
+				fi
+
+				if ! ip_support_tuntap && ! command_exists tunctl; then
+					( set -x; sleep 3; tdnf -y install tunctl )
+				fi
+			else
+				if ! command_exists wget; then
+					( set -x; sleep 3; yum -y -q install wget ca-certificates )
+				fi
+
+				if ! command_exists ip; then
+					( set -x; sleep 3; yum -y -q install iproute )
+				fi
+
+				if ! command_exists timeout; then
+					( set -x; sleep 3; yum -y -q install coreutils )
+				fi
+
+				if ! command_exists iptables firewall-cmd; then
+					( set -x; sleep 3; yum -y -q install iptables )
+				fi
+
+				if ! ip_support_tuntap && ! command_exists tunctl; then
+					( set -x; sleep 3; yum -y -q install tunctl )
+				fi
+			fi
+		;;
+		*)
+			cat >&2 <<-EOF
+			暂时不支持当前系统：${lsb_dist} ${dist_version}
+			EOF
+
+			exit 1
+		;;
+	esac
+}
+
+check_nat_create() {
+	if ( command_exists ip && ip tuntap >/dev/null 2>&1 ); then
+		(
+			set -x
+			ip tuntap del dev lkl-tap-test mode tap >/dev/null 2>&1
+			ip tuntap add dev lkl-tap-test mode tap
+		)
+	elif command_exists tunctl; then
+		(
+			set -x
+			tunctl -d lkl-tap-test >/dev/null 2>&1
+			tunctl -t lkl-tap-test
+		)
+	else
+		cat >&2 <<-'EOF'
+		无法找到已安装的 ip 命令(支持 tuntap) 或者 tunctl
+		应该是脚本自动安装失败了。
+		请手动安装 iproute 和 tunctl
+		EOF
+		exit 1
+	fi
+
+	if [ "$?" != "0" ]; then
+		cat >&2 <<-'EOF'
+		无法创建 NAT 网络。
+		由于某些服务商的 VPS 无法创建 NAT 网络，
+		所以不支持用此方法开启 BBR，安装脚本将会退出。
+		EOF
+		exit 1
+	fi
+}
+
+download_file() {
+	local url=$1
+	local file=$2
+
+	( set -x; wget -O "$file" --no-check-certificate "$url" )
+	if [ "$?" != "0" ]; then
+		cat >&2 <<-EOF
+		一些文件下载失败！安装脚本需要能访问到 github.com，请检查服务器网络。
+		注意: 一些国内服务器可能无法正常访问 github.com。
+		EOF
+
+		exit 1
+	fi
+}
+
+install_haproxy() {
+	(
+		set -x
+		mkdir -p "${HAPROXY_LKL_DIR}"/etc \
+			"${HAPROXY_LKL_DIR}"/lib64 \
+			"${HAPROXY_LKL_DIR}"/sbin
+	)
+
+	if ! grep -q '^haproxy:' '/etc/passwd'; then
+		(
+			set -x
+			useradd -U -s '/usr/sbin/nologin' -d '/nonexistent' haproxy 2>/dev/null
+		)
+	fi
+
+	local haproxy_bin="${HAPROXY_LKL_DIR}/sbin/haproxy"
+	download_file "$HAPROXY_BIN_URL" "$haproxy_bin"
+	chmod +x "$haproxy_bin"
+
+	if ! ( $haproxy_bin -v 2>/dev/null | grep -q 'HA-Proxy' ); then
+		cat >&2 <<-EOF
+		HAproxy 可执行文件无法正常运行
+		可能是 glibc 版本过低，或者文件不适用于你的系统。
+		请联系脚本作者，寻求支持。
+		EOF
+		(
+			set -x
+			ldd --version
+		)
+		exit 1
+	fi
+
+	local haproxy_lkl_bin="${HAPROXY_LKL_DIR}/sbin/${SERVICE_NAME}"
+	download_file "$HAPROXY_LKL_BIN_URL" "$haproxy_lkl_bin"
+
+	sed -i -r "s#^HAPROXY_LKL_DIR=.*#HAPROXY_LKL_DIR='"${HAPROXY_LKL_DIR}"'#" \
+		"$haproxy_lkl_bin"
+
+	set_interface() {
+		local has_vnet=0
+		if command_exists ip; then
+			ip -o link show | grep -q 'venet0'
+			has_vnet=$?
+		elif command_exists ifconfig; then
+			ifconfig -s | grep -q 'venet0'
+			has_vnet=$?
+		fi
+
+		if [ "$has_vnet" != 0 ]; then
+			cat >&2 <<-EOF
+			检测发现你的公网接口不是 venet0，需要你手动输入一下网络接口名称。
+			我们会根据网络接口设置转发规则，如果网络接口名称设置不正确，
+			外部网络将无法正常访问到内部服务端口。
+			 * 网络接口是具有公网 IP 的接口名称。
+
+			你可以从下面的信息中找到你的公网接口名称:
+			EOF
+
+			if command_exists ip; then
+				ip addr show
+			else
+				ifconfig
+			fi
+
+			local input=
+			while :
+			do
+				read -p "请输入你的网络接口名称(例如: eth0): " input
+				echo
+				if [ -n "$input" ]; then
+					sed -i -r "s#^INTERFACE=.*#INTERFACE='"${input}"'#" "$haproxy_lkl_bin"
+				else
+					echo "输入信息不能为空，请重新输入！"
+					continue
+				fi
+
+				break
+			done
+		fi
+	}
+	set_interface
+
+	chmod +x "$haproxy_lkl_bin"
+
+	local haproxy_lkl_startup_file=
+	local haproxy_lkl_startup_file_url=
+
+	if command_exists systemctl; then
+		haproxy_lkl_startup_file="/lib/systemd/system/${SERVICE_NAME}.service"
+		haproxy_lkl_startup_file_url="${HAPROXY_LKL_SYSTEMD_FILE_URL}"
+
+		download_file "$haproxy_lkl_startup_file_url" "$haproxy_lkl_startup_file"
+	elif command_exists service; then
+		haproxy_lkl_startup_file="/etc/init.d/${SERVICE_NAME}"
+		case "$lsb_dist" in
+			ubuntu|debian|raspbian)
+				haproxy_lkl_startup_file_url="${HAPROXY_LKL_SERVICE_FILE_DEBIAN_URL}"
+
+				download_file "$haproxy_lkl_startup_file_url" "$haproxy_lkl_startup_file"
+				chmod +x "$haproxy_lkl_startup_file"
+			;;
+			fedora|centos|redhat|oraclelinux|photon)
+				haproxy_lkl_startup_file_url="${HAPROXY_LKL_SERVICE_FILE_REDHAT_URL}"
+
+				download_file "$haproxy_lkl_startup_file_url" "$haproxy_lkl_startup_file"
+				chmod +x "$haproxy_lkl_startup_file"
+			;;
+			*)
+				echo "没有适合当前系统的服务启动脚本文件。"
+				exit 1
+			;;
+		esac
+
+	else
+		cat >&2 <<-'EOF'
+		当前服务器未安装 systemctl 或者 service 命令，无法配置服务。
+		请先手动安装 systemd 或者 service 之后再运行脚本。
+		EOF
+
+		exit 1
+	fi
+
+	echo "$ACCELERATE_PORT" > "${HAPROXY_LKL_DIR}/etc/port-rules"
+}
+
+install_lkl_lib() {
+	local lib_file="${HAPROXY_LKL_DIR}/lib64/liblkl-hijack.so"
+	local retry=0
+	download_lkl_lib() {
+		download_file "$LKL_LIB_URL" "$lib_file"
+		if command_exists md5sum; then
+			(
+				set -x
+				echo "${LKL_LIB_MD5}  ${lib_file}" | md5sum -c
+			)
+			if [ "$?" != "0" ]; then
+				if [ "$retry" -lt "3" ]; then
+					echo "文件校验失败！3 秒后重新下载..."
+					retry=`expr $retry + 1`
+					sleep 3
+					download_lkl_lib
+				else
+					cat >&2 <<-EOF
+					Linux 内核文件校验失败。
+					通常是网络原因造成文件下载不全。
+					EOF
+					exit 1
+				fi
+			fi
+		fi
+	}
+
+	download_lkl_lib
+
+	chmod +x "$lib_file"
+}
+
+enable_ip_forward() {
+	local ip_forword="$(sysctl -n 'net.ipv4.ip_forward' 2>/dev/null)"
+	if [ -z "$ip_forword" -o "$ip_forword" != "1" ]; then
+		(
+			set -x
+			echo "net.ipv4.ip_forward = 1" >> /etc/sysctl.conf
+			sysctl -p /etc/sysctl.conf 2>/dev/null
+		)
+	fi
+}
+
+setconfig() {
+	is_port() {
+		local port=$1
+		expr $port + 1 >/dev/null 2>&1 && \
+			[ "$port" -ge "1" -a "$port" -le "65535" ]
+	}
+
+	local input=
+
+	if [ -z "$ACCELERATE_PORT" ] || ! is_port "$ACCELERATE_PORT"; then
+		while :
+		do
+			read -p "请输入需要加速的端口 [1~65535]: " input
+			echo
+			if [ -n "$input" ] && is_port $input; then
+					ACCELERATE_PORT="$input"
+			else
+				echo "输入有误, 请输入 1~65535 之间的数字!"
+				continue
+			fi
+			break
+		done
+	fi
+
+	cat >&2 <<-EOF
+	---------------------------
+	加速端口 = ${ACCELERATE_PORT}
+	---------------------------
+	EOF
+
+}
+
+is_running() {
+	(
+		set -x
+		sleep 3
+		timeout 2 bash -c "</dev/tcp/10.0.0.2/${ACCELERATE_PORT}" 2>/dev/null
+	)
+	return $?
+}
+
+enable_service() {
+	if command_exists systemctl; then
+		(
+			set -x
+			systemctl daemon-reload
+			systemctl enable "${SERVICE_NAME}.service"
+		)
+	elif command_exists service; then
+		case "$lsb_dist" in
+			ubuntu|debian|raspbian)
+				(
+					set -x
+					update-rc.d -f "${SERVICE_NAME}" defaults
+				)
+			;;
+			fedora|centos|redhat|oraclelinux|photon)
+				(
+					set -x
+					chkconfig --add "${SERVICE_NAME}"
+					chkconfig "${SERVICE_NAME}" on
+				)
+			;;
+		esac
+	fi
+}
+
+start_service() {
+	if command_exists systemctl; then
+		(
+			set -x
+			sleep 3
+			systemctl start "$SERVICE_NAME"
+		)
+	else
+		(
+			set -x
+			sleep 3
+			service "$SERVICE_NAME" start
+		)
+	fi
+
+	if [ "$?" != "0" ] || ! is_running; then
+		do_uninstall
+		cat >&2 <<-EOF
+		很遗憾，服务启动失败。
+		你可以查看上面的日志来获取原因，
+		或者，你可以到我们的群里反馈一下。
+		EOF
+		exit 1
+	fi
+}
+
+end_install() {
+	clear
+
+	cat >&2 <<-EOF
+	恭喜！BBR 安装完成并成功启动
+
+	已加速的端口: ${ACCELERATE_PORT}
+
+	你可以通过修改文件:
+	    ${HAPROXY_LKL_DIR}/etc/port-rules
+
+	来配置需要加速的端口或端口范围。
+	EOF
+	if command_exists systemctl; then
+
+		cat >&2 <<-EOF
+
+		请使用 systemctl {start|stop|restart} ${SERVICE_NAME}
+		来 {开启|关闭|重启} 服务
+		EOF
+	else
+
+		cat >&2 <<-EOF
+
+		请使用 service ${SERVICE_NAME} {start|stop|restart}
+		来 {开启|关闭|重启} 服务
+		EOF
+	fi
+	cat >&2 <<-EOF
+
+	服务已自动加入开机启动，请放心使用。
+
+	享受加速的快感吧！
+	EOF
+  echo -e "\033[0;32m操作完成\033[0m"
+  echo "按任意键继续..."
+  read -n 1 -s -r -p ""
+  echo ""
+  clear
+}
+
+do_uninstall() {
+	check_root
+	get_os_info
+
+	if command_exists systemctl; then
+		systemctl stop "${SERVICE_NAME}.service" 2>/dev/null
+		(
+			set -x
+			systemctl disable "${SERVICE_NAME}.service" 2>/dev/null
+			rm -f "/lib/systemd/system/${SERVICE_NAME}.service"
+		)
+	elif command_exists service; then
+		service "${SERVICE_NAME}" stop 2>/dev/null
+		case "$lsb_dist" in
+			ubuntu|debian|raspbian)
+				(
+					set -x
+					update-rc.d -f "${SERVICE_NAME}" remove 2>/dev/null
+				)
+			;;
+			fedora|centos|redhat|oraclelinux|photon)
+				(
+					set -x
+					chkconfig "${SERVICE_NAME}" off 2>/dev/null
+					chkconfig --del "${SERVICE_NAME}" 2>/dev/null
+				)
+			;;
+		esac
+		(
+			set -x
+			rm -f "/etc/init.d/${SERVICE_NAME}"
+		)
+	fi
+
+	(
+		set -x
+		${HAPROXY_LKL_DIR}/sbin/${SERVICE_NAME} -c 2>/dev/null
+		rm -rf "${HAPROXY_LKL_DIR}"
+	)
+}
+
+do_install() {
+	check_root
+	check_ovz
+	check_ldd
+	check_arch
+	get_os_info
+	setconfig
+	install_deps
+	enable_ip_forward
+	check_nat_create
+	install_haproxy
+	install_lkl_lib
+	start_service
+	enable_service
+	end_install
+}
+action=${1:-"install"}
+case "$action" in
+	install|uninstall)
+		do_${action}
+	;;
+	*)
+		cat >&2 <<-EOF
+		参数有误，请使用 $(basename $0) install|uninstall
+		EOF
+		exit 255
+esac
+}
+
+# 函数：一键修改DNS1和DNS2
+function set_dns() {
+    read -p "请输入新的DNS服务器地址: " dns_server
+    if [[ -f /etc/redhat-release ]]; then
+        # CentOS
+        echo "nameserver $dns_server" | sudo tee /etc/resolv.conf >/dev/null
+        echo "DNS服务器已修改为 $dns_server"
+    elif [[ -f /etc/lsb-release ]]; then
+        # Ubuntu
+        sudo sed -i "s/nameserver .*/nameserver $dns_server/" /etc/resolv.conf
+        echo "DNS服务器已修改为 $dns_server"
+    elif [[ -f /etc/debian_version ]]; then
+        # Debian
+        sudo sed -i "s/nameserver .*/nameserver $dns_server/" /etc/resolv.conf
+        echo "DNS服务器已修改为 $dns_server"
+    else
+        echo "不支持的操作系统"
+    fi
+}
+#********************************************************
+
+# 分页大小，表示每页显示的菜单选项数量
+PAGE_SIZE=10
+# 当前页数
+current_page=1
+# 菜单选项数组
+menu_options=(
+    "✪ TCP加速一键安装管理脚本"
+    "✪ Xray一键安装脚本}"
+    "✪ v2ray一键安装脚本"
+    "✪ Singbox - Reality一键安装脚本"
+    "✪ Hysteria 2 一键安装脚本"
+    "✪ shadowsocks/ss一键安装脚本"
+    "✪ iptables 端口转发一键管理脚本增强版"
+    "✪ gost 一键安装配置脚本"
+    "✪ 一键修改root账户密码"
+    "✪ 开启SSH登陆+替换ROOT密钥登陆"
+    "✪ 修改SSH 端口默认22的端口"
+    "✪ 一键修改DNS1和DNS2"
+    "✪ Ipv4/6优先级调整"
+    "✪ 自动防御cc"
+    "✪ 换centos-7.x-yum源"
+    "✪ VPS一键添加/删除swap脚本"
+    "✪ 改变主机名"
+    "✪ 咸蛋中转机面板 一键脚本"
+    "✪ bbr加速用于 OpenVZ 服务器 一键安装脚本"
+    "✪ 其他在开发......"
+)
+
+
+# 计算总页数
+total_pages=$(((${#menu_options[@]} + PAGE_SIZE - 1) / PAGE_SIZE))
+
+# 显示菜单
+show_menu_page() {
+    local start=$((PAGE_SIZE * (current_page - 1)))
+    local end=$((start + PAGE_SIZE - 1))
+
+    for ((i = start; i <= end; i++)); do
+        if [ $i -lt ${#menu_options[@]} ]; then
+            echo "$((i + 1)). ${menu_options[i]}"
+        fi
+    done
+}
+
+
+show_user_tips() {
+    read -p "按 Enter 键继续..."
+}
+
+while true; do
+    clear
+    execute_once
+    check_expiration
+    show_expiration_info
+    echo
+    echo "***********************************************************************"
+    echo "*  ✪  工具名称：（Linux脚本工具）      ✪ "
+    echo "*  ✪  工具版本：v40.0.1  ✪      "
+    echo "*  ✪       by ：网络跳越(hijk)       ✪        "
+    echo "**********************************************************************"
+    echo ""
+    show_menu_page
+    echo ""    
+    echo "***********************************************************************"
+    echo "  N: 下一页  B: 上一页  Q: 退出   第$current_page""页 / 总页数$total_pages"
+    echo "***********************************************************************"
+    echo
+    read -p "请选择一个选项 (P/N/Q/ 不分大小写) : " choice
+
+    case $choice in
+
+    1)
+       bbr
+        show_user_tips
+        ;;
+    2)
+        xrayx_install
+        show_user_tips
+        ;;
+   3)
+        v2rayy
+        show_user_tips
+        ;;
+
+    4)
+        REALITYy
+        show_user_tips
+        ;;
+    5)
+        Hysteria2
+        show_user_tips
+        ;;
+    6)
+        shadowsocksss
+        show_user_tips
+        ;;
+    7)
+        iptabless
+        show_user_tips
+        ;;
+    8)
+        setup_gost
+        show_user_tips
+        ;;
+    9)
+        adddhcp_root
+        show_user_tips
+        ;;
+    10)
+        addemotn_sshd
+        show_user_tips
+        ;;
+    11)
+        sessh_22
+        show_user_tips
+        ;;
+    12)
+        set_dns
+        show_user_tips
+        ;; 
+    13)
+       grouter_IPv4e
+        show_user_tips
+        ;;
+    14)
+        check_whiptailcc
+        show_user_tips
+        ;;
+    15)
+        do_CentOS7t
+        show_user_tips
+        ;;
+    16)
+        swap
+        show_user_tips
+        ;;
+    17)
+        xray22
+        show_user_tips
+        ;;
+    18)
+        xd
+        show_user_tips
+        ;;
+    19)
+        install_OpenVZ
+        show_user_tips
+        ;;
+    [Nn])
+        # 切换到下一页
+        if [ $current_page -lt $total_pages ]; then
+            current_page=$((current_page + 1))
+        else
+            echo
+            echo "已经是最后一页了。"
+            echo
+            show_user_tips
+        fi
+        ;;
+    [Bb])
+        # 切换到上一页
+        if [ $current_page -gt 1 ]; then
+            current_page=$((current_page - 1))
+        else
+            echo
+            echo "已经是第一页了。"
+            echo
+            show_user_tips
+        fi
+        ;;
+    [Qq])
+for i in {1..3}; do
+    echo "========== 第 $i/3 次清屏 =========="
+    timeout "$(gettext "清空屏幕")!"
+    clear
+    # 如果不是最后一次，显示提示信息
+    if [[ $i -lt 3 ]]; then
+        echo "屏幕已清空 ($i/3)"
+        echo "1秒后开始下一次..."
+        sleep 1
+    fi
+done
+
+echo "完成！退出。"
+clear
+exit 0
+        ;;
+    *)
+        echo "无效选项，请重新选择。"
+        ;;
+    esac
+done
+
+
+
+
+
