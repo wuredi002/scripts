@@ -1653,7 +1653,7 @@ urlEncode() {
         else
             encoded+="%${byte^^}"
         fi
-    done < <(printf '%s' "$value" | od -An -v -tx1 | tr ' ' '\\n' | sed '/^$/d')
+    done < <(printf '%s' "$value" | od -An -v -tx1 | tr ' ' '\n' | sed '/^$/d')
     printf '%s' "$encoded"
 }
 
