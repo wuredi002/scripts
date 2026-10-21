@@ -557,7 +557,7 @@ getCert() {
         fi
 
         if [[ ! -x "$acme" ]]; then
-            local acme_email="xray-$(date +%s)@localhost.invalid"
+            local acme_email="hijk.pw@protonmail.sh"
             if ! curl -fsSL https://get.acme.sh | sh -s email="$acme_email"; then
                 colorEcho "$RED" " acme.sh 安装失败，请检查网络后重试。"
                 exit 1
