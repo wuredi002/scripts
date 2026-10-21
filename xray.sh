@@ -472,10 +472,7 @@ getData() {
     fi
 
     echo ""
-    read -p " 是否安装BBR(默认安装)?[y/n]:" NEED_BBR
-    [[ -z "$NEED_BBR" ]] && NEED_BBR=y
-    [[ "$NEED_BBR" = "Y" ]] && NEED_BBR=y
-    colorEcho $BLUE " 安装BBR：$NEED_BBR"
+    colorEcho $BLUE " SSL证书将使用 Let's Encrypt 与 acme.sh 管理，支持自动续期。"
 }
 
 installNginx() {
@@ -529,57 +526,110 @@ stopNginx() {
 }
 
 getCert() {
-    mkdir -p /usr/local/etc/xray
+    local cert_dir="/usr/local/etc/xray"
+    local acme="$HOME/.acme.sh/acme.sh"
+    mkdir -p "$cert_dir"
+
     if [[ -z ${CERT_FILE+x} ]]; then
         stopNginx
-        systemctl stop xray
-        res=`netstat -ntlp| grep -E ':80 |:443 '`
-        if [[ "${res}" != "" ]]; then
-            colorEcho ${RED}  " 其他进程占用了80或443端口，请先关闭再运行一键脚本"
-            echo " 端口占用信息如下："
-            echo ${res}
+        systemctl stop xray >/dev/null 2>&1 || true
+
+        # 检查 HTTP-01 standalone 所需端口，避免证书申请失败后继续生成错误配置。
+        local port_usage=""
+        if command -v ss >/dev/null 2>&1; then
+            port_usage=$(ss -ltnp 2>/dev/null | grep -E ':(80|443)[[:space:]]' || true)
+        elif command -v netstat >/dev/null 2>&1; then
+            port_usage=$(netstat -lntp 2>/dev/null | grep -E ':(80|443)[[:space:]]' || true)
+        fi
+        if [[ -n "$port_usage" ]]; then
+            colorEcho "$RED" " 80 或 443 端口仍被占用，请先释放端口后重试。"
+            echo "$port_usage"
             exit 1
         fi
 
-        $CMD_INSTALL socat openssl
+        $CMD_INSTALL socat openssl curl
         if [[ "$PMT" = "yum" ]]; then
             $CMD_INSTALL cronie
-            systemctl start crond
-            systemctl enable crond
+            systemctl enable --now crond >/dev/null 2>&1 || true
         else
             $CMD_INSTALL cron
-            systemctl start cron
-            systemctl enable cron
+            systemctl enable --now cron >/dev/null 2>&1 || true
         fi
-        curl -sL https://get.acme.sh | sh -s email=hijk.pw@protonmail.sh
-        source ~/.bashrc
-        ~/.acme.sh/acme.sh  --upgrade  --auto-upgrade
-        ~/.acme.sh/acme.sh --set-default-ca --server letsencrypt
+
+        if [[ ! -x "$acme" ]]; then
+            local acme_email="xray-$(date +%s)@localhost.invalid"
+            if ! curl -fsSL https://get.acme.sh | sh -s email="$acme_email"; then
+                colorEcho "$RED" " acme.sh 安装失败，请检查网络后重试。"
+                exit 1
+            fi
+        fi
+        if [[ ! -x "$acme" ]]; then
+            colorEcho "$RED" " 找不到 acme.sh 可执行文件，证书申请中止。"
+            exit 1
+        fi
+
+        "$acme" --upgrade --auto-upgrade || {
+            colorEcho "$YELLOW" " acme.sh 更新失败，将继续尝试申请证书。"
+        }
+        "$acme" --set-default-ca --server letsencrypt || {
+            colorEcho "$RED" " 设置 Let's Encrypt 为默认 CA 失败。"
+            exit 1
+        }
+
         if [[ "$BT" = "false" ]]; then
-            ~/.acme.sh/acme.sh   --issue -d $DOMAIN --keylength ec-256 --pre-hook "systemctl stop nginx" --post-hook "systemctl restart nginx"  --standalone
+            if ! "$acme" --issue -d "$DOMAIN" --keylength ec-256 \
+                --pre-hook "systemctl stop nginx" \
+                --post-hook "systemctl start nginx" --standalone; then
+                colorEcho "$RED" " Let's Encrypt 证书申请失败，请确认域名解析正确且 80 端口可从公网访问。"
+                exit 1
+            fi
         else
-            ~/.acme.sh/acme.sh   --issue -d $DOMAIN --keylength ec-256 --pre-hook "nginx -s stop || { echo -n ''; }" --post-hook "nginx -c /www/server/nginx/conf/nginx.conf || { echo -n ''; }"  --standalone
+            if ! "$acme" --issue -d "$DOMAIN" --keylength ec-256 \
+                --pre-hook "nginx -s stop || true" \
+                --post-hook "nginx -c /www/server/nginx/conf/nginx.conf" --standalone; then
+                colorEcho "$RED" " Let's Encrypt 证书申请失败，请确认域名解析正确且 80 端口可从公网访问。"
+                exit 1
+            fi
         fi
-        [[ -f ~/.acme.sh/${DOMAIN}_ecc/ca.cer ]] || {
-            colorEcho $RED " 获取证书失败，请复制上面的红色文字到 https://hijk.art 反馈"
+
+        if [[ ! -s "$HOME/.acme.sh/${DOMAIN}_ecc/fullchain.cer" || ! -s "$HOME/.acme.sh/${DOMAIN}_ecc/${DOMAIN}.key" ]]; then
+            colorEcho "$RED" " 证书申请命令结束，但没有找到有效的证书链或私钥文件。"
             exit 1
-        }
-        CERT_FILE="/usr/local/etc/xray/${DOMAIN}.pem"
-        KEY_FILE="/usr/local/etc/xray/${DOMAIN}.key"
-        ~/.acme.sh/acme.sh  --install-cert -d $DOMAIN --ecc \
-            --key-file       $KEY_FILE  \
-            --fullchain-file $CERT_FILE \
-            --reloadcmd     "service nginx force-reload"
-        [[ -f $CERT_FILE && -f $KEY_FILE ]] || {
-            colorEcho $RED " 获取证书失败，请到 https://hijk.art 反馈"
+        fi
+
+        CERT_FILE="$cert_dir/${DOMAIN}.pem"
+        KEY_FILE="$cert_dir/${DOMAIN}.key"
+        local reload_cmd
+        if [[ "$BT" = "false" ]]; then
+            reload_cmd="nginx -t && systemctl reload nginx"
+        else
+            reload_cmd="nginx -t -c /www/server/nginx/conf/nginx.conf && nginx -s reload"
+        fi
+
+        if ! "$acme" --install-cert -d "$DOMAIN" --ecc \
+            --key-file "$KEY_FILE" \
+            --fullchain-file "$CERT_FILE" \
+            --reloadcmd "$reload_cmd"; then
+            colorEcho "$RED" " 安装证书文件或配置自动续期失败。"
             exit 1
-        }
+        fi
+        if [[ ! -s "$CERT_FILE" || ! -s "$KEY_FILE" ]]; then
+            colorEcho "$RED" " 证书或私钥文件不存在/为空，无法继续配置 Xray。"
+            exit 1
+        fi
+        chmod 0644 "$CERT_FILE"
+        chmod 0600 "$KEY_FILE"
     else
-        cp ~/xray.pem /usr/local/etc/xray/${DOMAIN}.pem
-        cp ~/xray.key /usr/local/etc/xray/${DOMAIN}.key
+        if [[ ! -s "$HOME/xray.pem" || ! -s "$HOME/xray.key" ]]; then
+            colorEcho "$RED" " 未找到手动证书文件 ~/xray.pem 或私钥 ~/xray.key。"
+            exit 1
+        fi
+        CERT_FILE="$cert_dir/${DOMAIN}.pem"
+        KEY_FILE="$cert_dir/${DOMAIN}.key"
+        install -m 0644 "$HOME/xray.pem" "$CERT_FILE"
+        install -m 0600 "$HOME/xray.key" "$KEY_FILE"
     fi
 }
-
 configNginx() {
     mkdir -p /usr/share/nginx/html;
     if [[ "$ALLOW_SPIDER" = "n" ]]; then
@@ -669,8 +719,8 @@ server {
     charset utf-8;
 
     # ssl配置
-    ssl_protocols TLSv1.1 TLSv1.2;
-    ssl_ciphers ECDHE-RSA-AES128-GCM-SHA256:ECDHE:ECDH:AES:HIGH:!NULL:!aNULL:!MD5:!ADH:!RC4;
+    ssl_protocols TLSv1.2 TLSv1.3;
+    ssl_ciphers ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-CHACHA20-POLY1305;
     ssl_ecdh_curve secp384r1;
     ssl_prefer_server_ciphers on;
     ssl_session_cache shared:SSL:10m;
@@ -774,53 +824,6 @@ setFirewall() {
                 fi
             fi
         fi
-    fi
-}
-
-installBBR() {
-    if [[ "$NEED_BBR" != "y" ]]; then
-        INSTALL_BBR=false
-        return
-    fi
-    result=$(lsmod | grep bbr)
-    if [[ "$result" != "" ]]; then
-        colorEcho $BLUE " BBR模块已安装"
-        INSTALL_BBR=false
-        return
-    fi
-    res=`hostnamectl | grep -i openvz`
-    if [[ "$res" != "" ]]; then
-        colorEcho $BLUE " openvz机器，跳过安装"
-        INSTALL_BBR=false
-        return
-    fi
-    
-    echo "net.core.default_qdisc=fq" >> /etc/sysctl.conf
-    echo "net.ipv4.tcp_congestion_control=bbr" >> /etc/sysctl.conf
-    sysctl -p
-    result=$(lsmod | grep bbr)
-    if [[ "$result" != "" ]]; then
-        colorEcho $GREEN " BBR模块已启用"
-        INSTALL_BBR=false
-        return
-    fi
-
-    colorEcho $BLUE " 安装BBR模块..."
-    if [[ "$PMT" = "yum" ]]; then
-        if [[ "$V6_PROXY" = "" ]]; then
-            rpm --import https://www.elrepo.org/RPM-GPG-KEY-elrepo.org
-            rpm -Uvh http://www.elrepo.org/elrepo-release-7.0-4.el7.elrepo.noarch.rpm
-            $CMD_INSTALL --enablerepo=elrepo-kernel kernel-ml
-            $CMD_REMOVE kernel-3.*
-            grub2-set-default 0
-            echo "tcp_bbr" >> /etc/modules-load.d/modules.conf
-            INSTALL_BBR=true
-        fi
-    else
-        $CMD_INSTALL --install-recommends linux-generic-hwe-16.04
-        grub-set-default 0
-        echo "tcp_bbr" >> /etc/modules-load.d/modules.conf
-        INSTALL_BBR=true
     fi
 }
 
@@ -1401,23 +1404,9 @@ install() {
     configXray
 
     setSelinux
-    installBBR
 
     start
     showInfo
-
-    bbrReboot
-}
-
-bbrReboot() {
-    if [[ "${INSTALL_BBR}" == "true" ]]; then
-        echo  
-        echo " 为使BBR模块生效，系统将在30秒后重启"
-        echo  
-        echo -e " 您可以按 ctrl + c 取消重启，稍后输入 ${RED}reboot${PLAIN} 重启系统"
-        sleep 30
-        reboot
-    fi
 }
 
 update() {
