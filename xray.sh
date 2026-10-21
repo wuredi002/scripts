@@ -271,7 +271,7 @@ getData() {
             DOMAIN=${DOMAIN,,}
             if [[ -z "${DOMAIN}" ]]; then
                 colorEcho ${RED} " 域名不能为空，请重新输入！"
-            elif [[ ${#DOMAIN} -gt 253 || ! "${DOMAIN}" =~ ^([a-z0-9]([a-z0-9-]{0,61}[a-z0-9])?\\.)+[a-z0-9]([a-z0-9-]{0,61}[a-z0-9])?$ ]]; then
+            elif [[ ${#DOMAIN} -gt 253 || ! "${DOMAIN}" =~ ^([a-z0-9]([a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z0-9]([a-z0-9-]{0,61}[a-z0-9])?$ ]]; then
                 colorEcho ${RED} " 域名格式无效，请输入有效的完整域名（例如 example.com）！"
             else
                 break
