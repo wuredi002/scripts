@@ -176,11 +176,16 @@ normalizeVersion() {
 
 # 1: new Xray. 0: no. 1: yes. 2: not installed. 3: check failed.
 getVersion() {
-    VER=`/usr/local/bin/xray version|head -n1 | awk '{print $2}'`
-    RETVAL=$?
-    CUR_VER="$(normalizeVersion "$(echo "$VER" | head -n 1 | cut -d " " -f2)")"
+    if [[ -x /usr/local/bin/xray ]]; then
+        VER="$(/usr/local/bin/xray version 2>/dev/null)"
+        RETVAL=$?
+    else
+        VER=""
+        RETVAL=127
+    fi
+    CUR_VER="$(normalizeVersion "$(printf '%s\n' "$VER" | head -n 1 | awk '{print $2}')")"
     TAG_URL="${V6_PROXY}https://api.github.com/repos/XTLS/Xray-core/releases/latest"
-    NEW_VER="$(normalizeVersion "$(curl -s "${TAG_URL}" --connect-timeout 10| grep 'tag_name' | cut -d\" -f4)")"
+    NEW_VER="$(normalizeVersion "$(curl -fsS "${TAG_URL}" --connect-timeout 10 | grep 'tag_name' | cut -d\" -f4)")"
 
     if [[ $? -ne 0 ]] || [[ $NEW_VER == "" ]]; then
         colorEcho $RED " 检查Xray版本信息失败，请检查网络"
@@ -230,9 +235,6 @@ archAffix(){
         ;;
         ppc64)
             echo 'ppc64'
-        ;;
-        ppc64le)
-            echo 'ppc64le'
         ;;
         riscv64)
             echo 'riscv64'
@@ -829,9 +831,13 @@ installXray() {
     mkdir -p /tmp/xray
     DOWNLOAD_LINK="${V6_PROXY}https://github.com/XTLS/Xray-core/releases/download/${NEW_VER}/Xray-linux-$(archAffix).zip"
     colorEcho $BLUE " 下载Xray: ${DOWNLOAD_LINK}"
-    curl -L -H "Cache-Control: no-cache" -o /tmp/xray/xray.zip ${DOWNLOAD_LINK}
+    curl -fL -H "Cache-Control: no-cache" -o /tmp/xray/xray.zip "${DOWNLOAD_LINK}"
     if [ $? != 0 ];then
         colorEcho $RED " 下载Xray文件失败，请检查服务器网络设置"
+        exit 1
+    fi
+    if ! unzip -tq /tmp/xray/xray.zip >/dev/null 2>&1; then
+        colorEcho $RED " Xray下载文件校验失败，请检查服务器网络设置"
         exit 1
     fi
     systemctl stop xray
