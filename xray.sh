@@ -268,13 +268,15 @@ getData() {
         while true
         do
             read -p " 请输入伪装域名：" DOMAIN
+            DOMAIN=${DOMAIN,,}
             if [[ -z "${DOMAIN}" ]]; then
-                colorEcho ${RED} " 域名输入错误，请重新输入！"
+                colorEcho ${RED} " 域名不能为空，请重新输入！"
+            elif [[ ${#DOMAIN} -gt 253 || ! "${DOMAIN}" =~ ^([a-z0-9]([a-z0-9-]{0,61}[a-z0-9])?\\.)+[a-z0-9]([a-z0-9-]{0,61}[a-z0-9])?$ ]]; then
+                colorEcho ${RED} " 域名格式无效，请输入有效的完整域名（例如 example.com）！"
             else
                 break
             fi
         done
-        DOMAIN=${DOMAIN,,}
         colorEcho ${BLUE}  " 伪装域名(host)：$DOMAIN"
 
         echo ""
@@ -553,7 +555,21 @@ getCert() {
             systemctl start cron
             systemctl enable cron
         fi
-        curl -sL https://get.acme.sh | sh -s email=hijk.pw@protonmail.sh
+        ACME_INSTALLER="$(mktemp /tmp/acme-installer.XXXXXX)" || {
+            colorEcho ${RED} " 无法创建 acme.sh 安装临时文件"
+            exit 1
+        }
+        if ! curl --fail --location --silent --show-error --proto '=https' --tlsv1.2 -o "${ACME_INSTALLER}" https://get.acme.sh || [[ ! -s "${ACME_INSTALLER}" ]]; then
+            rm -f "${ACME_INSTALLER}"
+            colorEcho ${RED} " 下载 acme.sh 安装脚本失败，请检查服务器网络设置"
+            exit 1
+        fi
+        if ! sh "${ACME_INSTALLER}" email=hijk.pw@protonmail.sh; then
+            rm -f "${ACME_INSTALLER}"
+            colorEcho ${RED} " acme.sh 安装失败"
+            exit 1
+        fi
+        rm -f "${ACME_INSTALLER}"
         source ~/.bashrc
         ~/.acme.sh/acme.sh  --upgrade  --auto-upgrade
         ~/.acme.sh/acme.sh --set-default-ca --server letsencrypt
