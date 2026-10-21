@@ -1644,22 +1644,34 @@ outputVmessKCP() {
     echo -e "   ${BLUE}mkcp seed：${PLAIN} ${RED}${seed}${PLAIN}" 
 }
 
+urlEncode() {
+    local value="$1" encoded="" byte char
+    while IFS= read -r byte; do
+        printf -v char '%b' "\\x$byte"
+        if [[ "$char" =~ ^[a-zA-Z0-9._~-]$ ]]; then
+            encoded+="$char"
+        else
+            encoded+="%${byte^^}"
+        fi
+    done < <(printf '%s' "$value" | od -An -v -tx1 | tr ' ' '\\n' | sed '/^$/d')
+    printf '%s' "$encoded"
+}
+
 outputTrojan() {
+    echo -e "   ${BLUE}IP/域名(address): ${PLAIN} ${RED}${domain}${PLAIN}"
+    echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
+    echo -e "   ${BLUE}密码(password)：${PLAIN}${RED}${password}${PLAIN}"
+    echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}"
     if [[ "$xtls" = "true" ]]; then
-        echo -e "   ${BLUE}IP/域名(address): ${PLAIN} ${RED}${domain}${PLAIN}"
-        echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
-        echo -e "   ${BLUE}密码(password)：${PLAIN}${RED}${password}${PLAIN}"
-        echo -e "   ${BLUE}流控(flow)：${PLAIN}$RED$flow${PLAIN}"
-        echo -e "   ${BLUE}加密(encryption)：${PLAIN} ${RED}none${PLAIN}"
-        echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}" 
-        echo -e "   ${BLUE}底层安全传输(tls)：${PLAIN}${RED}XTLS${PLAIN}"
-    else
-        echo -e "   ${BLUE}IP/域名(address): ${PLAIN} ${RED}${domain}${PLAIN}"
-        echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
-        echo -e "   ${BLUE}密码(password)：${PLAIN}${RED}${password}${PLAIN}"
-        echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}" 
-        echo -e "   ${BLUE}底层安全传输(tls)：${PLAIN}${RED}TLS${PLAIN}"
+        echo -e "   ${BLUE}底层安全传输(tls)：${PLAIN}${RED}旧版XTLS配置（不生成可导入链接）${PLAIN}"
+        return 0
     fi
+    echo -e "   ${BLUE}底层安全传输(tls)：${PLAIN}${RED}TLS${PLAIN}"
+    local enc_password enc_domain link
+    enc_password="$(urlEncode "$password")"
+    enc_domain="$(urlEncode "$domain")"
+    link="trojan://${enc_password}@${domain}:${port}?security=tls&sni=${enc_domain}&type=tcp"
+    echo -e "   ${BLUE}trojan链接：${PLAIN} ${RED}${link}#trojan${PLAIN}"
 }
 
 outputVmessTLS() {
@@ -1743,25 +1755,18 @@ showInfo() {
     fi
     if [[ "$vless" = "false" ]]; then
         if [[ "$kcp" = "true" ]]; then
-            outputVmessKCP
-            return 0
-        fi
-        if [[ "$tls" = "false" ]]; then
-            outputVmess
-        elif [[ "$ws" = "false" ]]; then
-            outputVmessTLS
-        else
-            outputVmessWS
-        fi
-    else
-        if [[ "$kcp" = "true" ]]; then
             echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
             echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
             echo -e "   ${BLUE}id(uuid)：${PLAIN}${RED}${uid}${PLAIN}"
             echo -e "   ${BLUE}加密(encryption)：${PLAIN} ${RED}none${PLAIN}"
             echo -e "   ${BLUE}传输协议(network)：${PLAIN} ${RED}${network}${PLAIN}"
             echo -e "   ${BLUE}伪装类型(type)：${PLAIN} ${RED}${type}${PLAIN}"
-            echo -e "   ${BLUE}mkcp seed：${PLAIN} ${RED}${seed}${PLAIN}" 
+            echo -e "   ${BLUE}mkcp seed：${PLAIN} ${RED}${seed}${PLAIN}"
+            local enc_seed link
+            enc_seed="$(urlEncode "$seed")"
+            link="vless://${uid}@${IP}:${port}?encryption=none&type=kcp&headerType=${type}"
+            [[ -n "$seed" ]] && link+="&seed=${enc_seed}"
+            echo -e "   ${BLUE}vless链接：${PLAIN} ${RED}${link}#vless-kcp${PLAIN}"
             return 0
         fi
         if [[ "$xtls" = "true" ]]; then
@@ -1795,6 +1800,17 @@ showInfo() {
             echo -e " ${BLUE}伪装域名/主机名(host)/SNI/peer名称：${PLAIN}${RED}${domain}${PLAIN}"
             echo -e " ${BLUE}路径(path)：${PLAIN}${RED}${wspath}${PLAIN}"
             echo -e " ${BLUE}底层安全传输(tls)：${PLAIN}${RED}TLS${PLAIN}"
+        fi
+        if [[ "$xtls" != "true" ]]; then
+            local link enc_domain query
+            enc_domain="$(urlEncode "$domain")"
+            query="encryption=none&type=${network}&security=tls&sni=${enc_domain}"
+            [[ -n "$flow" && "$flow" != "无" ]] && query+="&flow=$(urlEncode "$flow")"
+            if [[ "$ws" = "true" ]]; then
+                query+="&host=${enc_domain}&path=$(urlEncode "$wspath")"
+            fi
+            link="vless://${uid}@${domain}:${port}?${query}#vless-${network}"
+            echo -e "   ${BLUE}vless链接：${PLAIN} ${RED}${link}${PLAIN}"
         fi
     fi
 }
