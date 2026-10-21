@@ -1,0 +1,23 @@
+name: Temporary xray.sh validation
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'xray.sh'
+      - '.github/workflows/xray-validation.yml'
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check Bash syntax
+        run: bash -n xray.sh
+      - name: Check BBR removal and TLS settings
+        shell: bash
+        run: |
+          if grep -Eiq 'BBR|tcp_congestion_control|default_qdisc|INSTALL_BBR|NEED_BBR' xray.sh; then
+            echo "Unexpected BBR reference remains"
+            exit 1
+          fi
+          grep -Fq 'ssl_protocols TLSv1.2 TLSv1.3;' xray.sh
+          grep -Fq 'reload_cmd="nginx -t && systemctl reload nginx"' xray.sh
