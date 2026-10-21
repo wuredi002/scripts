@@ -320,6 +320,11 @@ getData() {
         XPORT=`shuf -i10000-65000 -n1`
     fi
 
+    if [[ ! "$PORT" =~ ^[0-9]+$ ]] || (( PORT < 1 || PORT > 65535 )); then
+        colorEcho ${RED} " 端口必须是1到65535之间的数字"
+        exit 1
+    fi
+
     if [[ "$KCP" = "true" ]]; then
         echo ""
         colorEcho $BLUE " 请选择伪装类型："
@@ -1310,8 +1315,7 @@ vlessKCPConfig() {
       "decryption": "none"
     },
     "streamSettings": {
-        "streamSettings": {
-            "network": "mkcp",
+        "network": "mkcp",
             "kcpSettings": {
                 "uplinkCapacity": 100,
                 "downlinkCapacity": 100,
@@ -1321,7 +1325,6 @@ vlessKCPConfig() {
                 },
                 "seed": "$SEED"
             }
-        }
     }
   }],
   "outbounds": [{
@@ -1617,7 +1620,7 @@ outputVmess() {
   \"path\":\"\",
   \"tls\":\"\"
 }"
-    link=`echo -n ${raw} | base64 -w 0`
+    link="$(printf '%s' "$raw" | base64 -w 0)"
     link="vmess://${link}"
 
     echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
@@ -1673,7 +1676,7 @@ outputVmessTLS() {
   \"path\":\"\",
   \"tls\":\"tls\"
 }"
-    link=`echo -n ${raw} | base64 -w 0`
+    link="$(printf '%s' "$raw" | base64 -w 0)"
     link="vmess://${link}"
     echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
     echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
@@ -1701,7 +1704,7 @@ outputVmessWS() {
   \"path\":\"${wspath}\",
   \"tls\":\"tls\"
 }"
-    link=`echo -n ${raw} | base64 -w 0`
+    link="$(printf '%s' "$raw" | base64 -w 0)"
     link="vmess://${link}"
 
     echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
