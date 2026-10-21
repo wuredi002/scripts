@@ -176,16 +176,11 @@ normalizeVersion() {
 
 # 1: new Xray. 0: no. 1: yes. 2: not installed. 3: check failed.
 getVersion() {
-    if [[ -x /usr/local/bin/xray ]]; then
-        VER="$(/usr/local/bin/xray version 2>/dev/null)"
-        RETVAL=$?
-    else
-        VER=""
-        RETVAL=127
-    fi
-    CUR_VER="$(normalizeVersion "$(printf '%s\n' "$VER" | head -n 1 | awk '{print $2}')")"
+    VER=`/usr/local/bin/xray version|head -n1 | awk '{print $2}'`
+    RETVAL=$?
+    CUR_VER="$(normalizeVersion "$(echo "$VER" | head -n 1 | cut -d " " -f2)")"
     TAG_URL="${V6_PROXY}https://api.github.com/repos/XTLS/Xray-core/releases/latest"
-    NEW_VER="$(normalizeVersion "$(curl -fsS "${TAG_URL}" --connect-timeout 10 | grep 'tag_name' | cut -d\" -f4)")"
+    NEW_VER="$(normalizeVersion "$(curl -s "${TAG_URL}" --connect-timeout 10| grep 'tag_name' | cut -d\" -f4)")"
 
     if [[ $? -ne 0 ]] || [[ $NEW_VER == "" ]]; then
         colorEcho $RED " 检查Xray版本信息失败，请检查网络"
@@ -236,6 +231,9 @@ archAffix(){
         ppc64)
             echo 'ppc64'
         ;;
+        ppc64le)
+            echo 'ppc64le'
+        ;;
         riscv64)
             echo 'riscv64'
         ;;
@@ -268,15 +266,13 @@ getData() {
         while true
         do
             read -p " 请输入伪装域名：" DOMAIN
-            DOMAIN=${DOMAIN,,}
             if [[ -z "${DOMAIN}" ]]; then
-                colorEcho ${RED} " 域名不能为空，请重新输入！"
-            elif [[ ${#DOMAIN} -gt 253 || ! "${DOMAIN}" =~ ^([a-z0-9]([a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z0-9]([a-z0-9-]{0,61}[a-z0-9])?$ ]]; then
-                colorEcho ${RED} " 域名格式无效，请输入有效的完整域名（例如 example.com）！"
+                colorEcho ${RED} " 域名输入错误，请重新输入！"
             else
                 break
             fi
         done
+        DOMAIN=${DOMAIN,,}
         colorEcho ${BLUE}  " 伪装域名(host)：$DOMAIN"
 
         echo ""
@@ -318,11 +314,6 @@ getData() {
         fi
         colorEcho ${BLUE}  " Nginx端口：$PORT"
         XPORT=`shuf -i10000-65000 -n1`
-    fi
-
-    if [[ ! "$PORT" =~ ^[0-9]+$ ]] || (( PORT < 1 || PORT > 65535 )); then
-        colorEcho ${RED} " 端口必须是1到65535之间的数字"
-        exit 1
     fi
 
     if [[ "$KCP" = "true" ]]; then
@@ -560,21 +551,7 @@ getCert() {
             systemctl start cron
             systemctl enable cron
         fi
-        ACME_INSTALLER="$(mktemp /tmp/acme-installer.XXXXXX)" || {
-            colorEcho ${RED} " 无法创建 acme.sh 安装临时文件"
-            exit 1
-        }
-        if ! curl --fail --location --silent --show-error --proto '=https' --tlsv1.2 -o "${ACME_INSTALLER}" https://get.acme.sh || [[ ! -s "${ACME_INSTALLER}" ]]; then
-            rm -f "${ACME_INSTALLER}"
-            colorEcho ${RED} " 下载 acme.sh 安装脚本失败，请检查服务器网络设置"
-            exit 1
-        fi
-        if ! sh "${ACME_INSTALLER}" email=hijk.pw@protonmail.sh; then
-            rm -f "${ACME_INSTALLER}"
-            colorEcho ${RED} " acme.sh 安装失败"
-            exit 1
-        fi
-        rm -f "${ACME_INSTALLER}"
+        curl -sL https://get.acme.sh | sh -s email=hijk.pw@protonmail.sh
         source ~/.bashrc
         ~/.acme.sh/acme.sh  --upgrade  --auto-upgrade
         ~/.acme.sh/acme.sh --set-default-ca --server letsencrypt
@@ -852,13 +829,9 @@ installXray() {
     mkdir -p /tmp/xray
     DOWNLOAD_LINK="${V6_PROXY}https://github.com/XTLS/Xray-core/releases/download/${NEW_VER}/Xray-linux-$(archAffix).zip"
     colorEcho $BLUE " 下载Xray: ${DOWNLOAD_LINK}"
-    curl -fL -H "Cache-Control: no-cache" -o /tmp/xray/xray.zip "${DOWNLOAD_LINK}"
+    curl -L -H "Cache-Control: no-cache" -o /tmp/xray/xray.zip ${DOWNLOAD_LINK}
     if [ $? != 0 ];then
         colorEcho $RED " 下载Xray文件失败，请检查服务器网络设置"
-        exit 1
-    fi
-    if ! unzip -tq /tmp/xray/xray.zip >/dev/null 2>&1; then
-        colorEcho $RED " Xray下载文件校验失败，请检查服务器网络设置"
         exit 1
     fi
     systemctl stop xray
@@ -1315,7 +1288,8 @@ vlessKCPConfig() {
       "decryption": "none"
     },
     "streamSettings": {
-        "network": "mkcp",
+        "streamSettings": {
+            "network": "mkcp",
             "kcpSettings": {
                 "uplinkCapacity": 100,
                 "downlinkCapacity": 100,
@@ -1325,6 +1299,7 @@ vlessKCPConfig() {
                 },
                 "seed": "$SEED"
             }
+        }
     }
   }],
   "outbounds": [{
@@ -1620,7 +1595,7 @@ outputVmess() {
   \"path\":\"\",
   \"tls\":\"\"
 }"
-    link="$(printf '%s' "$raw" | base64 -w 0)"
+    link=`echo -n ${raw} | base64 -w 0`
     link="vmess://${link}"
 
     echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
@@ -1676,7 +1651,7 @@ outputVmessTLS() {
   \"path\":\"\",
   \"tls\":\"tls\"
 }"
-    link="$(printf '%s' "$raw" | base64 -w 0)"
+    link=`echo -n ${raw} | base64 -w 0`
     link="vmess://${link}"
     echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
     echo -e "   ${BLUE}端口(port)：${PLAIN}${RED}${port}${PLAIN}"
@@ -1704,7 +1679,7 @@ outputVmessWS() {
   \"path\":\"${wspath}\",
   \"tls\":\"tls\"
 }"
-    link="$(printf '%s' "$raw" | base64 -w 0)"
+    link=`echo -n ${raw} | base64 -w 0`
     link="vmess://${link}"
 
     echo -e "   ${BLUE}IP(address): ${PLAIN} ${RED}${IP}${PLAIN}"
